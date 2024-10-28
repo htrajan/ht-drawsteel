@@ -22,6 +22,7 @@
 
 - ✦ ≤11: 3 damage; push 1; M1 [[Slowed|slowed]] (save ends)
 - ★ 12-16: 5 damage; push 3; M2 [[Slowed|slowed]] (save ends)
+- ✸ 17+: 7 damage; push 5; M3 [[Slowed|slowed]] (save ends)
 
 **Effect:** A target [[Restrained|restrained]] by a [[Dwarf|dwarf]] can be pushed by this ability.
 
@@ -36,6 +37,7 @@
 
 - ✦ ≤11: 3 poison damage; I1 [[Dazed|dazed]] (save ends)
 - ★ 12-16: 5 poison damage; I2 [[Dazed|dazed]] (save ends)
+- ✸ 17+: 7 poison damage; I3 [[Dazed|dazed]] (save ends)
 
 **Effect:** A creature [[Dazed|dazed]] by this ability has -1 to all characteristics while resisting potent effects until the condition ends.
 

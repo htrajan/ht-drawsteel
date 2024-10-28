@@ -22,6 +22,7 @@
 
 - ✦ ≤11: 3 damage; M1 [[Slowed|slowed]] (EoT)
 - ★ 12-16: 4 damage; M2 [[Slowed|slowed]] (EoT)
+- ✸ 17+: 5 cold damage; M3 [[Prone|prone]]
 
 #### Aetherweb (2d10 + 2)
 

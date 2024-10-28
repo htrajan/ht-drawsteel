@@ -22,6 +22,7 @@
 
 - ✦ ≤11: 4 damage; A2 [[Bleeding|bleeding]] (save ends)
 - ★ 12-16: 7 damage; A3 [[Bleeding|bleeding]] (save ends)
+- ✸ 17+: 10 damage; A4 [[Bleeding|bleeding]] and [[Dazed|dazed]] (save ends)
 
 **Effect:** An ally targeted by this ability makes a [[Free Strike|free strike]] instead of taking damage.
 

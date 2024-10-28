@@ -22,6 +22,7 @@
 
 - ✦ ≤11: 5 lightning damage; R2 [[Dazed|dazed]] (save ends)
 - ★ 12-16: 8 lightning damage; R3 [[Dazed|dazed]] (save ends)
+- ✸ 17+: 12 lightning damage; R4 [[Dazed|dazed]] (save ends)
 
 **Effect:** High elves have edge on attacks and abilities against the target until the start of the ordinator's next turn.
 

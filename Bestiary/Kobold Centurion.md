@@ -22,6 +22,7 @@
 
 - ✦ ≤11: 2 damage; 2 [[Weakened|weakened]] (save ends)
 - ★ 12-16: 5 damage; 3 [[Weakened|weakened]] (save ends)
+- ✸ 17+: 6 damage; 4 [[Weakened|weakened]] (save ends)
 
 **Effect:** Any allies adjacent to a target of this attack can make a [[Free Strike|free strike]].
 

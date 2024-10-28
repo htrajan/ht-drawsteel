@@ -22,6 +22,7 @@
 
 - ✦ ≤11: 3 damage; M1 [[Prone|prone]]
 - ★ 12-16: 5 fire damage; M2 [[Prone|prone]]
+- ✸ 17+: 7 lightning damage; M3 [[Prone|prone]]
 
 #### Stomp (2d10 + 2)
 
