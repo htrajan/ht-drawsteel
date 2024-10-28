@@ -1,4 +1,4 @@
-#### DWARF STONEWHISPERER
+### DWARF STONEWHISPERER
 
 | [[Dwarf\|DWARF]] STONEWHISPERER |     **Level 3 Controller** |
 | :------------------------------ | -------------------------: |
@@ -11,7 +11,7 @@
 | ------------ | ------------- | ------------- | ---------------- | -------------- |
 |              |               |               |                  |                |
 
-**Tile Slide (Signature)**
+#### Tile Slide (Signature)
 
 |                           |                                   |
 | :------------------------ | :-------------------------------- |
@@ -21,11 +21,11 @@
 **2d10 + 2**
 
 - ✦ ≤11: 3 damage; slide 1; M1 [[Slowed|slowed]] (save ends)
-- ★ 12–16: 6 damage; slide 3; M2 [[Slowed|slowed]] (save ends)
+- ★ 12-16: 6 damage; slide 3; M2 [[Slowed|slowed]] (save ends)
 
-Effect: A target [[Restrained|restrained]] by a [[Dwarf|dwarf]] can be slid by this attack.
+**Effect:** A target [[Restrained|restrained]] by a [[Dwarf|dwarf]] can be slid by this attack.
 
-**Stone Wave (3 Malice)**
+#### Stone Wave (3 Malice)
 
 |                            |                                 |
 | :------------------------- | :------------------------------ |
@@ -35,9 +35,9 @@ Effect: A target [[Restrained|restrained]] by a [[Dwarf|dwarf]] can be slid by t
 **2d10 + 2**
 
 - ✦ ≤11: 2 damage; push 2; R1 [[Slowed|slowed]] (save ends)
-- ★ 12–16: 3 damage; push 3; R2 [[Slowed|slowed]] (save ends)
+- ★ 12-16: 3 damage; push 3; R2 [[Slowed|slowed]] (save ends)
 
-Effect: A target [[Restrained|restrained]] by a [[Dwarf|dwarf]] can be pushed by this attack. The affected area is [[Difficult Terrain|difficult terrain]] for enemies.
+**Effect:** A target [[Restrained|restrained]] by a [[Dwarf|dwarf]] can be pushed by this attack. The affected area is [[Difficult Terrain|difficult terrain]] for enemies.
 
 **Stonewalker**
 
