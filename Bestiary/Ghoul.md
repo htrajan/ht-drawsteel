@@ -28,7 +28,7 @@
 
 |                |                |
 | :------------- | :------------- |
-| Keywords: -    | Type: Maneuver |
+| Keywords: --   | Type: Maneuver |
 | Distance: Self | Target: Self   |
 
 **Effect:** The ghoul leaps 3 squares. If they land on a size 1 enemy, that enemy is knocked [[Prone|prone]] and the ghoul makes a [[Free Strike|free strike]] against them.
