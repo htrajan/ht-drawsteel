@@ -5,7 +5,7 @@
 | *Bugbear, Goblin, Humanoid* |                  **EV 34** |
 | **Stamina**: 70             |              **Weakness**: |
 | **Speed**: 7                | **Size**: 1M / Stability 0 |
-|                             |         **Free Strike**: 5 |
+|                             |     **[[Free Strike]]**: 5 |
 
 | **Might** +2 | **Agility** +2 | **Reason** 0 | **Intuition** 0 | **Presence** 0 |
 | ------------ | -------------- | ------------ | --------------- | -------------- |
@@ -39,7 +39,7 @@
 - ★ 12-16: 3 damage; I2 sneak is concealed from the target (save ends)
 - ✸ 17+: 4 damage; I3 sneak is concealed from the target (save ends)
 
-**Effect:** The sneak shifts up to their speed and hides after using this ability.
+**Effect:** The sneak shifts up to their speed and [[Hide|hides]] after using this ability.
 
 #### Carving Dagger
 
@@ -54,7 +54,7 @@
 - ★ 12-16: 9 damage; M2 bleeding (save ends)
 - ✸ 17+: 12 damage; M3 bleeding (save ends)
 
-**Effect:** Targets can't hide from the sneak or their allies while bleeding from this ability.
+**Effect:** Targets can't [[Hide|hide]] from the sneak or their allies while bleeding from this ability.
 
 #### Throw
 

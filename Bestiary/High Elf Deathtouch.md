@@ -5,7 +5,7 @@
 | *Fey, High Elf, Humanoid* |                  **EV 14** |
 | **Stamina**: 25           |              **Weakness**: |
 | **Speed**: 5              | **Size**: 1M / Stability 0 |
-|                           |         **Free Strike**: 5 |
+|                           |     **[[Free Strike]]**: 5 |
 
 | **Might** +2 | **Agility** 0 | **Reason** +1 | **Intuition** 0 | **Presence** +1 |
 | ------------ | ------------- | ------------- | --------------- | --------------- |

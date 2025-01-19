@@ -5,7 +5,7 @@
 | *Fey, Hag*                   |                  **EV 88** |
 | **Stamina**: 240             |              **Weakness**: |
 | **Speed**: 5 (flying, hover) | **Size**: 1L / Stability 1 |
-|                              |         **Free Strike**: 6 |
+|                              |     **[[Free Strike]]**: 6 |
 
 | **Might** +2 | **Agility** +1 | **Reason** +1 | **Intuition** 0 | **Presence** +3 |
 | ------------ | -------------- | ------------- | --------------- | --------------- |

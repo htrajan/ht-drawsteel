@@ -1,11 +1,11 @@
 ### DWARF GRENADIER
 
-| DWARF GRENADIER   |          **Level 2 Hexer** |
-| :---------------- | -------------------------: |
-| *Dwarf, Humanoid* |                  **EV 13** |
-| **Stamina**: 33   |              **Weakness**: |
-| **Speed**: 5      | **Size**: 1M / Stability 3 |
-|                   |         **Free Strike**: 4 |
+| [[Dwarf\|DWARF]] GRENADIER |          **Level 2 Hexer** |
+| :------------------------- | -------------------------: |
+| *[[Dwarf]], Humanoid*      |                  **EV 13** |
+| **Stamina**: 33            |              **Weakness**: |
+| **Speed**: 5               | **Size**: 1M / Stability 3 |
+|                            |     **[[Free Strike]]**: 4 |
 
 | **Might** +1 | **Agility** 0 | **Reason** 0 | **Intuition** +2 | **Presence** 0 |
 | ------------ | ------------- | ------------ | ---------------- | -------------- |
@@ -24,7 +24,7 @@
 - ★ 12-16: 5 damage; push 3; M2 slowed (save ends)
 - ✸ 17+: 7 damage; push 5; M3 slowed (save ends)
 
-**Effect:** A target restrained by a dwarf can be pushed by this ability.
+**Effect:** A target restrained by a [[Dwarf|dwarf]] can be pushed by this ability.
 
 #### Sleep Grenade (3 Malice)
 

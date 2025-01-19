@@ -5,7 +5,7 @@
 | *Fiend, Gnoll*  |                  **EV 12** |
 | **Stamina**: 25 |              **Weakness**: |
 | **Speed**: 7    | **Size**: 1M / Stability 1 |
-|                 |         **Free Strike**: 3 |
+|                 |     **[[Free Strike]]**: 3 |
 
 | **Might** +1 | **Agility** +2 | **Reason** 0 | **Intuition** 0 | **Presence** +1 |
 | ------------ | -------------- | ------------ | --------------- | --------------- |
@@ -37,4 +37,4 @@
 
 **Death Frenzy**
 
-Whenever an ally within 7 is reduced to 0 Stamina, the marauder moves up to their speed and makes a free strike.
+Whenever an ally within 7 is reduced to 0 Stamina, the marauder moves up to their speed and makes a [[Free Strike|free strike]].

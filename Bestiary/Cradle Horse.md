@@ -5,7 +5,7 @@
 | *Construct, High Elf* |                 **EV 13** |
 | **Stamina**: 30       |             **Weakness**: |
 | **Speed**: 10         | **Size**: 2 / Stability 2 |
-|                       |        **Free Strike**: 3 |
+|                       |    **[[Free Strike]]**: 3 |
 
 | **Might** +2 | **Agility** +2 | **Reason** 0 | **Intuition** 0 | **Presence** +1 |
 | ------------ | -------------- | ------------ | --------------- | --------------- |
@@ -13,10 +13,10 @@
 
 #### Radiant Charge (Signature)
 
-|                                         |                              |
-| :-------------------------------------- | :--------------------------- |
-| Keywords: Attack, Charge, Melee, Weapon | Type: Action                 |
-| Distance: Melee 1                       | Target: 1 creature or object |
+|                                             |                              |
+| :------------------------------------------ | :--------------------------- |
+| Keywords: Attack, [[Charge]], Melee, Weapon | Type: Action                 |
+| Distance: Melee 1                           | Target: 1 creature or object |
 
 **2d10 + 2**
 

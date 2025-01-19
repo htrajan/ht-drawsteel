@@ -5,7 +5,7 @@
 | *Bugbear, Goblin, Humanoid* |                  **EV 36** |
 | **Stamina**: 80             |              **Weakness**: |
 | **Speed**: 6                | **Size**: 1M / Stability 0 |
-|                             |         **Free Strike**: 5 |
+|                             |     **[[Free Strike]]**: 5 |
 
 | **Might** +2 | **Agility** +2 | **Reason** 0 | **Intuition** 0 | **Presence** 0 |
 | ------------ | -------------- | ------------ | --------------- | -------------- |
@@ -48,7 +48,7 @@
 | Keywords: Melee   | Type: Maneuver                                        |
 | Distance: Melee 1 | Target: 1 creature or object grabbed by the roughneck |
 
-**Effect:** The roughneck moves up to their speed, dragging the target across the ground. The target takes 1 damage for each square they were dragged through before being released prone. Each square the target was dragged through becomes difficult terrain.
+**Effect:** The roughneck moves up to their speed, dragging the target across the ground. The target takes 1 damage for each square they were dragged through before being released prone. Each square the target was dragged through becomes [[Difficult Terrain|difficult terrain]].
 
 #### Throw
 

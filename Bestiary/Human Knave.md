@@ -1,11 +1,11 @@
 ### HUMAN KNAVE
 
-| HUMAN KNAVE       |       **Level 2 Defender** |
-| :---------------- | -------------------------: |
-| *Human, Humanoid* |                  **EV 18** |
-| **Stamina**: 50   |              **Weakness**: |
-| **Speed**: 5      | **Size**: 1M / Stability 0 |
-|                   |         **Free Strike**: 4 |
+| [[Human\|HUMAN]] KNAVE |       **Level 2 Defender** |
+| :--------------------- | -------------------------: |
+| *[[Human]], Humanoid*  |                  **EV 18** |
+| **Stamina**: 50        |              **Weakness**: |
+| **Speed**: 5           | **Size**: 1M / Stability 0 |
+|                        |     **[[Free Strike]]**: 4 |
 
 | **Might** +2 | **Agility** 0 | **Reason** +1 | **Intuition** 0 | **Presence** 0 |
 | ------------ | ------------- | ------------- | --------------- | -------------- |
@@ -28,7 +28,7 @@
 
 **I'm Your Enemy**
 
-The knave can make a free strike against an adjacent creature they have taunted whenever the creature deals damage to a creature other than the knave.
+The knave can make a [[Free Strike|free strike]] against an adjacent creature they have taunted whenever the creature deals damage to a creature other than the knave.
 
 **Overwhelm**
 

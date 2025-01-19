@@ -5,7 +5,7 @@
 | *Demon, Planar*  |                  **EV 36** |
 | **Stamina**: 90  |       **Weakness**: Holy 3 |
 | **Speed**: 5     | **Size**: 1L / Stability 2 |
-|                  |         **Free Strike**: 4 |
+|                  |     **[[Free Strike]]**: 4 |
 
 | **Might** +2 | **Agility** +2 | **Reason** +2 | **Intuition** +2 | **Presence** +2 |
 | ------------ | -------------- | ------------- | ---------------- | --------------- |

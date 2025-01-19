@@ -5,7 +5,7 @@
 | *Fey, High Elf, Humanoid* |                  **EV 13** |
 | **Stamina**: 30           |              **Weakness**: |
 | **Speed**: 7              | **Size**: 1M / Stability 0 |
-|                           |         **Free Strike**: 3 |
+|                           |     **[[Free Strike]]**: 3 |
 
 | **Might** 0 | **Agility** +2 | **Reason** 0 | **Intuition** 0 | **Presence** +1 |
 | ----------- | -------------- | ------------ | --------------- | --------------- |
@@ -22,7 +22,7 @@
 
 - ✦ ≤11: 3 damage; A1 prone
 - ★ 12-16: 5 damage; A2 prone
-- ✸ 17+: 7 damage; the zephyr takes a free strike on a creature adjacent to the target; A3 prone
+- ✸ 17+: 7 damage; the zephyr takes a [[Free Strike|free strike]] on a creature adjacent to the target; A3 prone
 
 **Effect:** Shift 2.
 
@@ -37,7 +37,7 @@
 
 **Like the Wind**
 
-All of the zephyr's movement is considered shifting.
+All of the zephyr's movement is considered [[Shifting|shifting]].
 
 **Otherworldly Grace**
 

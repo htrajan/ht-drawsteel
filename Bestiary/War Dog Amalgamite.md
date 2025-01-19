@@ -5,7 +5,7 @@
 | *Humanoid, War Dog* |                 **EV 15** |
 | **Stamina**: 35     |             **Weakness**: |
 | **Speed**: 5        | **Size**: 2 / Stability 2 |
-|                     |        **Free Strike**: 4 |
+|                     |    **[[Free Strike]]**: 4 |
 
 | **Might** +2 | **Agility** 0 | **Reason** 0 | **Intuition** 0 | **Presence** 0 |
 | ------------ | ------------- | ------------ | --------------- | -------------- |
@@ -24,7 +24,7 @@
 - ★ 12-16: 4 damage; A2 grabbed
 - ✸ 17+: 5 damage; A3 grabbed
 
-**Special:** The amalgamite can grab up to four creatures.
+**Special:** The amalgamite can [[Grab|grab]] up to four creatures.
 
 **5 Malice:** The amalgamite deals an additional 4 damage to each creature they have grabbed and regains Stamina equal to the damage dealt.
 

@@ -5,7 +5,7 @@
 | *Corporeal, Undead* |                  **EV 10** |
 | **Stamina**: 20     |              **Weakness**: |
 | **Speed**: 6        | **Size**: 1M / Stability 1 |
-|                     |         **Free Strike**: 4 |
+|                     |     **[[Free Strike]]**: 4 |
 
 | **Might** +2 | **Agility** +1 | **Reason** -5 | **Intuition** -2 | **Presence** +1 |
 | ------------ | -------------- | ------------- | ---------------- | --------------- |

@@ -5,7 +5,7 @@
 | *Animal, Kobold*        |                 **EV 16** |
 | **Stamina**: 20         |             **Weakness**: |
 | **Speed**: 5            | **Size**: 2 / Stability 2 |
-|                         |        **Free Strike**: 4 |
+|                         |    **[[Free Strike]]**: 4 |
 
 | **Might** +2 | **Agility** -1 | **Reason** -3 | **Intuition** 0 | **Presence** -2 |
 | ------------ | -------------- | ------------- | --------------- | --------------- |

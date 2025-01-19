@@ -5,7 +5,7 @@
 | *[[Lightbender]], Monster*           |                 **EV 36** |
 | **Stamina**: 70                      |             **Weakness**: |
 | **Speed**: 10                        | **Size**: 2 / Stability 1 |
-|                                      |        **Free Strike**: 5 |
+|                                      |    **[[Free Strike]]**: 5 |
 
 | **Might** +2 | **Agility** +2 | **Reason** -3 | **Intuition** 0 | **Presence** -1 |
 | ------------ | -------------- | ------------- | --------------- | --------------- |
@@ -13,10 +13,10 @@
 
 #### Pounce (Signature)
 
-|                                         |                                |
-| :-------------------------------------- | :----------------------------- |
-| Keywords: Attack, Charge, Melee, Weapon | Type: Action                   |
-| Distance: Melee 2                       | Target: 2 creatures or objects |
+|                                             |                                |
+| :------------------------------------------ | :----------------------------- |
+| Keywords: Attack, [[Charge]], Melee, Weapon | Type: Action                   |
+| Distance: Melee 2                           | Target: 2 creatures or objects |
 
 **2d10 + 2**
 
@@ -24,7 +24,7 @@
 - ★ 12-16: 9 damage; 2 prone
 - ✸ 17+: 12 damage; 3 prone
 
-**Effect:** The pouncer makes a free strike against each target they have knocked prone.
+**Effect:** The pouncer makes a [[Free Strike|free strike]] against each target they have knocked prone.
 
 #### Sparkling Tail Whip
 
@@ -65,7 +65,7 @@
 
 Trigger: The [[Lightbender|lightbender]] is damaged by an attack
 
-**Effect:** The [[Lightbender|lightbender]] halves the damage, doesn't suffer any associated effect, and teleports 5 squares. The pouncer makes a free strike if they teleport into a space adjacent to an enemy.
+**Effect:** The [[Lightbender|lightbender]] halves the damage, doesn't suffer any associated effect, and [[Teleport|teleports]] 5 squares. The pouncer makes a [[Free Strike|free strike]] if they [[Teleport|teleport]] into a space adjacent to an enemy.
 
 **Avoidance**
 

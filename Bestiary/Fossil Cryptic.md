@@ -1,11 +1,11 @@
 ### FOSSIL CRYPTIC
 
-| FOSSIL CRYPTIC        |           **Level 2 Solo** |
-| :-------------------- | -------------------------: |
-| *Elemental*           |                  **EV 76** |
-| **Stamina**: 180      |              **Weakness**: |
-| **Speed**: 8 (burrow) | **Size**: 1L / Stability 3 |
-|                       |         **Free Strike**: 5 |
+| FOSSIL CRYPTIC                    |           **Level 2 Solo** |
+| :-------------------------------- | -------------------------: |
+| *Elemental*                       |                  **EV 76** |
+| **Stamina**: 180                  |              **Weakness**: |
+| **Speed**: 8 ([[Burrow\|burrow]]) | **Size**: 1L / Stability 3 |
+|                                   |     **[[Free Strike]]**: 5 |
 
 | **Might** +3 | **Agility** +2 | **Reason** +1 | **Intuition** +1 | **Presence** 0 |
 | ------------ | -------------- | ------------- | ---------------- | -------------- |
@@ -54,7 +54,7 @@
 - ★ 12-16: 3 damage; push 3; prone
 - ✸ 17+: 4 damage; push 4; prone
 
-**Effect:** The cryptic burrows up to half their speed, then creates the burst when they breach the surface.
+**Effect:** The cryptic [[Burrow|burrows]] up to half their speed, then creates the burst when they breach the surface.
 
 #### Stoneshift
 
@@ -95,7 +95,7 @@ Trigger: The cryptic takes damage
 - ★ 12-16: Prone
 - ✸ 17+: No effect
 
-**Effect:** The area becomes difficult terrain.
+**Effect:** The area becomes [[Difficult Terrain|difficult terrain]].
 
 #### Final Warning Fissure
 
@@ -110,7 +110,7 @@ Trigger: The cryptic takes damage
 - ★ 12-16: 2 damage
 - ✸ 17+: The target moves to the nearest unoccupied space outside the area.
 
-**Effect:** The area drops 2 squares. Each enemy in the area falls, while all allies of the fossil cryptic drop safely. The affected area then becomes difficult terrain.
+**Effect:** The area drops 2 squares. Each enemy in the area falls, while all allies of the fossil cryptic drop safely. The affected area then becomes [[Difficult Terrain|difficult terrain]].
 
 #### No Escape
 
@@ -139,4 +139,4 @@ The cryptic emits a 1-square aura of swirling debris that obscures their form. A
 
 **Seismic Step**
 
-The cryptic ignores difficult terrain. Additionally, they have line of effect to concealed creatures touching the ground.
+The cryptic ignores [[Difficult Terrain|difficult terrain]]. Additionally, they have line of effect to concealed creatures touching the ground.

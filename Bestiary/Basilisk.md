@@ -5,7 +5,7 @@
 | *Basilisk, Monster* |                 **EV 32** |
 | **Stamina**: 70     |             **Weakness**: |
 | **Speed**: 8        | **Size**: 2 / Stability 2 |
-|                     |        **Free Strike**: 5 |
+|                     |    **[[Free Strike]]**: 5 |
 
 | **Might** +2 | **Agility** 0 | **Reason** -3 | **Intuition** -1 | **Presence** -1 |
 | ------------ | ------------- | ------------- | ---------------- | --------------- |
@@ -65,4 +65,4 @@ Trigger: The basilisk takes Weapon damage.
 
 **Calcifying Presence**
 
-The area within 3 squares of the basilisk is considered difficult terrain for enemies.
+The area within 3 squares of the basilisk is considered [[Difficult Terrain|difficult terrain]] for enemies.

@@ -5,7 +5,7 @@
 | *Bugbear, Goblin, Humanoid* |                  **EV 30** |
 | **Stamina**: 60             |              **Weakness**: |
 | **Speed**: 5                | **Size**: 1M / Stability 0 |
-|                             |         **Free Strike**: 5 |
+|                             |     **[[Free Strike]]**: 5 |
 
 | **Might** +1 | **Agility** +1 | **Reason** +2 | **Intuition** 0 | **Presence** +2 |
 | ------------ | -------------- | ------------- | --------------- | --------------- |
@@ -24,7 +24,7 @@
 - ★ 12-16: 8 damage; pull 3
 - ✸ 17+: 11 damage; pull 4
 
-**Effect:** Each square that a target is pulled through becomes difficult terrain.
+**Effect:** Each square that a target is pulled through becomes [[Difficult Terrain|difficult terrain]].
 
 #### Blistering Element
 

@@ -1,11 +1,11 @@
 ### CHIMERA
 
-| CHIMERA             |          **Level 3 SOLO** |
-| :------------------ | ------------------------: |
-| *Monster*           |                 **EV 88** |
-| **Stamina**: 240    |             **Weakness**: |
-| **Speed**: 10 (fly) | **Size**: 2 / Stability 1 |
-|                     |        **Free Strike**: 6 |
+| CHIMERA                      |          **Level 3 SOLO** |
+| :--------------------------- | ------------------------: |
+| *Monster*                    |                 **EV 88** |
+| **Stamina**: 240             |             **Weakness**: |
+| **Speed**: 10 ([[Fly\|fly]]) | **Size**: 2 / Stability 1 |
+|                              |    **[[Free Strike]]**: 6 |
 
 | **Might** +3 | **Agility** +2 | **Reason** -2 | **Intuition** +1 | **Presence** 0 |
 | ------------ | -------------- | ------------- | ---------------- | -------------- |
@@ -107,7 +107,7 @@ Trigger: The target attacks the chimera and gets a tier-1 result.
 | Keywords: --   | Type: Villain Action 3 |
 | Distance: Self | Target: Self           |
 
-**Effect:** The chimera uses Roar. The chimera then shifts their speed and can make a free strike against each enemy who comes within 1 of them during the move. When the chimera ends this movement, they use Dragon's Eruption.
+**Effect:** The chimera uses Roar. The chimera then shifts their speed and can make a [[Free Strike|free strike]] against each enemy who comes within 1 of them during the move. When the chimera ends this movement, they use Dragon's Eruption.
 
 **Solo Monster**
 

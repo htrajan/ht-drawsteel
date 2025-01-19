@@ -5,7 +5,7 @@
 | *Humanoid, Kobold* |                   **EV 9** |
 | **Stamina**: 15    |              **Weakness**: |
 | **Speed**: 5       | **Size**: 1S / Stability 0 |
-|                    |         **Free Strike**: 1 |
+|                    |     **[[Free Strike]]**: 1 |
 
 | **Might** 0 | **Agility** +2 | **Reason** 0 | **Intuition** 0 | **Presence** +1 |
 | ----------- | -------------- | ------------ | --------------- | --------------- |
@@ -28,7 +28,7 @@
 
 **Lost in the Crowd**
 
-If the venator is adjacent to an ally, they can use the hide maneuver, even if observed.
+If the venator is adjacent to an ally, they can use the [[Hide|hide]] maneuver, even if observed.
 
 **Not What I Seem**
 

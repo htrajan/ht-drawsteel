@@ -5,7 +5,7 @@
 | *Giant*          |                 **EV 88** |
 | **Stamina**: 240 |             **Weakness**: |
 | **Speed**: 5     | **Size**: 2 / Stability 4 |
-|                  |        **Free Strike**: 6 |
+|                  |    **[[Free Strike]]**: 6 |
 
 | **Might** +3 | **Agility** 0 | **Reason** -3 | **Intuition** 0 | **Presence** +2 |
 | ------------ | ------------- | ------------- | --------------- | --------------- |
@@ -48,7 +48,7 @@
 | Keywords: --   | Type: Maneuver |
 | Distance: Self | Target: Self   |
 
-**Effect:** The bredbeddle must be headless to use this ability. The bredbeddle shifts up to their speed, and can push each creature who comes within their reach during the shift 1 square. Each square the bredbeddle leaves during the shift becomes difficult terrain.
+**Effect:** The bredbeddle must be headless to use this ability. The bredbeddle shifts up to their speed, and can push each creature who comes within their reach during the shift 1 square. Each square the bredbeddle leaves during the shift becomes [[Difficult Terrain|difficult terrain]].
 
 #### Headway (5 Malice)
 
@@ -89,7 +89,7 @@ Trigger: A creature targets the bredbeddle with a ranged magic attack.
 - ★ 12-16: The target turns green (save ends)
 - ✸ 17+: No effect
 
-**Effect:** Green shadows crawl out from under the bredbeddle's feet and attempt to turn each target green. The bredbeddle has a double edge on attacks made against targets turned green in this way.
+**Effect:** Green shadows [[Crawl|crawl]] out from under the bredbeddle's feet and attempt to turn each target green. The bredbeddle has a double edge on attacks made against targets turned green in this way.
 
 #### Challenge
 

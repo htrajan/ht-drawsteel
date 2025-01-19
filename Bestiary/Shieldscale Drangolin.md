@@ -1,11 +1,11 @@
 ### SHIELDSCALE DRANGOLIN
 
-| SHIELDSCALE DRANGOLIN |         **Level 1 Brute** |
-| :-------------------- | ------------------------: |
-| *Animal, Kobold*      |                 **EV 16** |
-| **Stamina**: 40       |             **Weakness**: |
-| **Speed**: 7 (burrow) | **Size**: 3 / Stability 0 |
-|                       |        **Free Strike**: 4 |
+| SHIELDSCALE DRANGOLIN             |         **Level 1 Brute** |
+| :-------------------------------- | ------------------------: |
+| *Animal, Kobold*                  |                 **EV 16** |
+| **Stamina**: 40                   |             **Weakness**: |
+| **Speed**: 7 ([[Burrow\|burrow]]) | **Size**: 3 / Stability 0 |
+|                                   |    **[[Free Strike]]**: 4 |
 
 | **Might** +2 | **Agility** +1 | **Reason** -3 | **Intuition** 0 | **Presence** -2 |
 | ------------ | -------------- | ------------- | --------------- | --------------- |

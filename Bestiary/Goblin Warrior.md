@@ -5,7 +5,7 @@
 | *Goblin, Humanoid*   |                  **EV 10** |
 | **Stamina**: 20      |              **Weakness**: |
 | **Speed**: 6 (climb) | **Size**: 1S / Stability 0 |
-|                      |         **Free Strike**: 2 |
+|                      |     **[[Free Strike]]**: 2 |
 
 | **Might** -2 | **Agility** +2 | **Reason** 0 | **Intuition** 0 | **Presence** -1 |
 | ------------ | -------------- | ------------ | --------------- | --------------- |
@@ -13,10 +13,10 @@
 
 #### Spear (Signature)
 
-|                                         |                                |
-| :-------------------------------------- | :----------------------------- |
-| Keywords: Attack, Charge, Melee, Weapon | Type: Action                   |
-| Distance: Melee 1                       | Target: One creature or object |
+|                                             |                                |
+| :------------------------------------------ | :----------------------------- |
+| Keywords: Attack, [[Charge]], Melee, Weapon | Type: Action                   |
+| Distance: Melee 1                           | Target: One creature or object |
 
 **2d10 + 2**
 

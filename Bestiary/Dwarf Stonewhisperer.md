@@ -1,11 +1,11 @@
 ### DWARF STONEWHISPERER
 
-| DWARF STONEWHISPERER |     **Level 3 Controller** |
-| :------------------- | -------------------------: |
-| *Dwarf, Humanoid*    |                  **EV 16** |
-| **Stamina**: 45      |              **Weakness**: |
-| **Speed**: 5         | **Size**: 1M / Stability 2 |
-|                      |         **Free Strike**: 5 |
+| [[Dwarf\|DWARF]] STONEWHISPERER |     **Level 3 Controller** |
+| :------------------------------ | -------------------------: |
+| *[[Dwarf]], Humanoid*           |                  **EV 16** |
+| **Stamina**: 45                 |              **Weakness**: |
+| **Speed**: 5                    | **Size**: 1M / Stability 2 |
+|                                 |     **[[Free Strike]]**: 5 |
 
 | **Might** +1 | **Agility** 0 | **Reason** +2 | **Intuition** +2 | **Presence** 0 |
 | ------------ | ------------- | ------------- | ---------------- | -------------- |
@@ -24,7 +24,7 @@
 - ★ 12-16: 6 damage; slide 3; M2 slowed (save ends)
 - ✸ 17+: 9 damage; slide 5; M3 restrained (save ends)
 
-**Effect:** A target restrained by a dwarf can be slid by this attack.
+**Effect:** A target restrained by a [[Dwarf|dwarf]] can be slid by this attack.
 
 #### Stone Wave (3 Malice)
 
@@ -39,7 +39,7 @@
 - ★ 12-16: 3 damage; push 3; R2 slowed (save ends)
 - ✸ 17+: 4 damage; push 3; R3 slowed (save ends)
 
-**Effect:** A target restrained by a dwarf can be pushed by this attack. The affected area is difficult terrain for enemies.
+**Effect:** A target restrained by a [[Dwarf|dwarf]] can be pushed by this attack. The affected area is [[Difficult Terrain|difficult terrain]] for enemies.
 
 **Stonewalker**
 

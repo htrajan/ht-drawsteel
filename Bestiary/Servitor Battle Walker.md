@@ -2,10 +2,10 @@
 
 | SERVITOR BATTLE WALKER |         **Level 1 Mount** |
 | :--------------------- | ------------------------: |
-| *Construct, Dwarf*     |                 **EV 28** |
+| *Construct, [[Dwarf]]* |                 **EV 28** |
 | **Stamina**: 60        |             **Weakness**: |
 | **Speed**: 8 (climb)   | **Size**: 3 / Stability 2 |
-|                        |        **Free Strike**: 3 |
+|                        |    **[[Free Strike]]**: 3 |
 
 | **Might** +2 | **Agility** 0 | **Reason** -2 | **Intuition** 0 | **Presence** -2 |
 | ------------ | ------------- | ------------- | --------------- | --------------- |
@@ -13,10 +13,10 @@
 
 #### Grasping Claws (Signature)
 
-|                                         |                                |
-| :-------------------------------------- | :----------------------------- |
-| Keywords: Attack, Charge, Melee, Weapon | Type: Action                   |
-| Distance: Melee 2                       | Target: 2 creatures or objects |
+|                                             |                                |
+| :------------------------------------------ | :----------------------------- |
+| Keywords: Attack, [[Charge]], Melee, Weapon | Type: Action                   |
+| Distance: Melee 2                           | Target: 2 creatures or objects |
 
 **2d10 + 2**
 
@@ -24,7 +24,7 @@
 - ★ 12-16: 7 damage; M2 slowed (save ends)
 - ✸ 17+: 10 damage; M3 restrained (save ends)
 
-**Effect:** Restrained targets and targets restrained by this ability are pulled 3. A target restrained by a dwarf can be pulled by this attack.
+**Effect:** Restrained targets and targets restrained by this ability are pulled 3. A target restrained by a [[Dwarf|dwarf]] can be pulled by this attack.
 
 #### Stunning Blast (3 Malice)
 

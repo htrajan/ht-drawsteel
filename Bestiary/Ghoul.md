@@ -5,7 +5,7 @@
 | *Corporeal, Undead* |                   **EV 8** |
 | **Stamina**: 15     |              **Weakness**: |
 | **Speed**: 7        | **Size**: 1M / Stability 0 |
-|                     |         **Free Strike**: 3 |
+|                     |     **[[Free Strike]]**: 3 |
 
 | **Might** 0 | **Agility** +2 | **Reason** -2 | **Intuition** 0 | **Presence** -1 |
 | ----------- | -------------- | ------------- | --------------- | --------------- |
@@ -13,10 +13,10 @@
 
 #### Razor Claws (Signature)
 
-|                                         |                                |
-| :-------------------------------------- | :----------------------------- |
-| Keywords: Attack, Charge, Melee, Weapon | Type: Action                   |
-| Distance: Melee 1                       | Target: One creature or object |
+|                                             |                                |
+| :------------------------------------------ | :----------------------------- |
+| Keywords: Attack, [[Charge]], Melee, Weapon | Type: Action                   |
+| Distance: Melee 1                           | Target: One creature or object |
 
 **2d10 + 2**
 
@@ -31,11 +31,11 @@
 | Keywords: --   | Type: Maneuver |
 | Distance: Self | Target: Self   |
 
-**Effect:** The ghoul leaps 3 squares. If they land on a size 1 enemy, that enemy is knocked prone and the ghoul makes a free strike against them.
+**Effect:** The ghoul leaps 3 squares. If they land on a size 1 enemy, that enemy is knocked prone and the ghoul makes a [[Free Strike|free strike]] against them.
 
 **Hunger**
 
-If the ghoul charges, their speed increases by 2 until the end of their turn.
+If the ghoul [[Charge|charges]], their speed increases by 2 until the end of their turn.
 
 **Arise**
 

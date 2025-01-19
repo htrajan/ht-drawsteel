@@ -5,7 +5,7 @@
 | *Giant, Ogre*   |                 **EV 32** |
 | **Stamina**: 70 |             **Weakness**: |
 | **Speed**: 6    | **Size**: 2 / Stability 2 |
-|                 |        **Free Strike**: 5 |
+|                 |    **[[Free Strike]]**: 5 |
 
 | **Might** +2 | **Agility** +1 | **Reason** -1 | **Intuition** 0 | **Presence** -1 |
 | ------------ | -------------- | ------------- | --------------- | --------------- |
@@ -13,10 +13,10 @@
 
 #### Pitchfork Catapult (Signature)
 
-|                                         |                                |
-| :-------------------------------------- | :----------------------------- |
-| Keywords: Attack, Charge, Melee, Weapon | Type: Action                   |
-| Distance: Melee 2                       | Target: 2 creatures or objects |
+|                                             |                                |
+| :------------------------------------------ | :----------------------------- |
+| Keywords: Attack, [[Charge]], Melee, Weapon | Type: Action                   |
+| Distance: Melee 2                           | Target: 2 creatures or objects |
 
 **2d10 + 2**
 
@@ -65,7 +65,7 @@
 
 Trigger: The juggernaut takes damage.
 
-**Effect:** The juggernaut moves up to their speed and makes a free strike.
+**Effect:** The juggernaut moves up to their speed and makes a [[Free Strike|free strike]].
 
 **Destructive Path**
 

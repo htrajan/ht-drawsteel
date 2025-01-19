@@ -1,11 +1,11 @@
 ### CRADLE CROW
 
-| CRADLE CROW           | **Level 1 Harrier Minion** |
-| :-------------------- | -------------------------: |
-| *Construct, High Elf* |                   **EV 6** |
-| **Stamina**: 10       |              **Weakness**: |
-| **Speed**: 7 (fly)    | **Size**: 1T / Stability 0 |
-|                       |         **Free Strike**: 2 |
+| CRADLE CROW                 | **Level 1 Harrier Minion** |
+| :-------------------------- | -------------------------: |
+| *Construct, High Elf*       |                   **EV 6** |
+| **Stamina**: 10             |              **Weakness**: |
+| **Speed**: 7 ([[Fly\|fly]]) | **Size**: 1T / Stability 0 |
+|                             |     **[[Free Strike]]**: 2 |
 
 | **Might** 0 | **Agility** +2 | **Reason** 0 | **Intuition** 0 | **Presence** +1 |
 | ----------- | -------------- | ------------ | --------------- | --------------- |

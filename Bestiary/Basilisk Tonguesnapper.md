@@ -5,7 +5,7 @@
 | *[[Basilisk]], Monster*              |                 **EV 26** |
 | **Stamina**: 50                      |             **Weakness**: |
 | **Speed**: 8                         | **Size**: 2 / Stability 2 |
-|                                      |        **Free Strike**: 4 |
+|                                      |    **[[Free Strike]]**: 4 |
 
 | **Might** +1 | **Agility** +2 | **Reason** -3 | **Intuition** -1 | **Presence** -1 |
 | ------------ | -------------- | ------------- | ---------------- | --------------- |

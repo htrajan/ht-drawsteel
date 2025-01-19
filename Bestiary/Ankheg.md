@@ -1,11 +1,11 @@
 ### ANKHEG
 
-| ANKHEG                |          **Level 1 SOLO** |
-| :-------------------- | ------------------------: |
-| *Monster*             |                 **EV 60** |
-| **Stamina**: 120      |             **Weakness**: |
-| **Speed**: 5 (burrow) | **Size**: 2 / Stability 2 |
-|                       |        **Free Strike**: 5 |
+| ANKHEG                            |          **Level 1 SOLO** |
+| :-------------------------------- | ------------------------: |
+| *Monster*                         |                 **EV 60** |
+| **Stamina**: 120                  |             **Weakness**: |
+| **Speed**: 5 ([[Burrow\|burrow]]) | **Size**: 2 / Stability 2 |
+|                                   |    **[[Free Strike]]**: 5 |
 
 | **Might** +3 | **Agility** +1 | **Reason** -3 | **Intuition** +1 | **Presence** -4 |
 | ------------ | -------------- | ------------- | ---------------- | --------------- |
@@ -54,7 +54,7 @@
 - ★ 12-16: 6 damage
 - ✸ 17+: 7 damage; push 2
 
-**Effect:** The ankheg burrows up to their speed, then creates the burst when they breach the surface.
+**Effect:** The ankheg [[Burrow|burrows]] up to their speed, then creates the burst when they breach the surface.
 
 #### Dust Cloud
 
@@ -63,7 +63,7 @@
 | Keywords: Area    | Type: Maneuver  |
 | Distance: 1 burst | Target: Special |
 
-**Effect:** The ground around the ankheg becomes difficult terrain. While the ankheg remains in their current space, they have concealment until the start of their next turn.
+**Effect:** The ground around the ankheg becomes [[Difficult Terrain|difficult terrain]]. While the ankheg remains in their current space, they have concealment until the start of their next turn.
 
 #### Skitter
 
@@ -123,8 +123,8 @@ A prone creature gains an edge on melee attacks against the ankheg instead of ta
 
 **Earthwalk**
 
-Difficult terrain composed of earth or loose rock doesn't cost the ankheg extra movement.
+[[Difficult Terrain|Difficult terrain]] composed of earth or loose rock doesn't cost the ankheg extra movement.
 
 **Tunneler**
 
-When the ankheg burrows, they create a size 2 tunnel. The tunnel remains stable for one day, then collapses.
+When the ankheg [[Burrow|burrows]], they create a size 2 tunnel. The tunnel remains stable for one day, then collapses.

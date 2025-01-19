@@ -5,7 +5,7 @@
 | *Humanoid, Lizardfolk*     |                 **EV 36** |
 | **Stamina**: 60            |             **Weakness**: |
 | **Speed**: 5 (climb, swim) | **Size**: 2 / Stability 2 |
-|                            |        **Free Strike**: 5 |
+|                            |    **[[Free Strike]]**: 5 |
 
 | **Might** +3 | **Agility** +2 | **Reason** 0 | **Intuition** +1 | **Presence** +2 |
 | ------------ | -------------- | ------------ | ---------------- | --------------- |
@@ -39,7 +39,7 @@
 - ★ 12-16: 10 damage; M3 dazed (save ends)
 - ✸ 17+: 15 damage; M4 dazed (save ends)
 
-**Effect:** The target is released from the grab and slides 5.
+**Effect:** The target is released from the [[Grab|grab]] and slides 5.
 
 #### Trundle
 
@@ -48,7 +48,7 @@
 | Keywords: --   | Type: Maneuver |
 | Distance: Self | Target: Self   |
 
-**Effect:** The deathrex moves up to their speed. The deathrex can make a free strike on each creature that makes an opportunity attack against them during this movement.
+**Effect:** The deathrex moves up to their speed. The deathrex can make a [[Free Strike|free strike]] on each creature that makes an opportunity attack against them during this movement.
 
 #### Swat The Fly
 
@@ -68,7 +68,7 @@ Trigger: The target moves or shifts away from the deathrex.
 | Keywords: Area              | Type: Villain Action 1                   |
 | Distance: Self and 10 burst | Target: Self and all allies in the burst |
 
-**Effect:** Each target moves up to their speed and makes a free strike. A target receives temporary Stamina equal to the amount of damage they dealt during this action.
+**Effect:** Each target moves up to their speed and makes a [[Free Strike|free strike]]. A target receives temporary Stamina equal to the amount of damage they dealt during this action.
 
 #### Shed Some Skin
 
@@ -86,7 +86,7 @@ Trigger: The target moves or shifts away from the deathrex.
 | Keywords: Area              | Type: Villain Action 3                   |
 | Distance: Self and 10 burst | Target: Self and all allies in the burst |
 
-**Effect:** Each target moves up to their speed. Until the end of the encounter, when a creature enters or starts their turn adjacent to a target, the target can make a free strike against them.
+**Effect:** Each target moves up to their speed. Until the end of the encounter, when a creature enters or starts their turn adjacent to a target, the target can make a [[Free Strike|free strike]] against them.
 
 **Rex Reptilian Escape**
 

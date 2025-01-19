@@ -5,7 +5,7 @@
 | *Beast, Humanoid* |                  **EV 60** |
 | **Stamina**: 120  |              **Weakness**: |
 | **Speed**: 8      | **Size**: 1M / Stability 0 |
-|                   |         **Free Strike**: 5 |
+|                   |     **[[Free Strike]]**: 5 |
 
 | **Might** +3 | **Agility** +2 | **Reason** -1 | **Intuition** 0 | **Presence** +1 |
 | ------------ | -------------- | ------------- | --------------- | --------------- |
@@ -13,10 +13,10 @@
 
 #### Accursed Bite (Signature)
 
-|                                         |                              |
-| :-------------------------------------- | :--------------------------- |
-| Keywords: Attack, Charge, Melee, Weapon | Type: Action                 |
-| Distance: Melee 1                       | Target: 1 creature or object |
+|                                             |                              |
+| :------------------------------------------ | :--------------------------- |
+| Keywords: Attack, [[Charge]], Melee, Weapon | Type: Action                 |
+| Distance: Melee 1                           | Target: 1 creature or object |
 
 **2d10 + 3**
 
@@ -57,7 +57,7 @@
 | Keywords: --   | Type: Maneuver |
 | Distance: Self | Target: Self   |
 
-**Effect:** The werewolf leaps 4 squares. If they end this movement at a wall, the werewolf leaps off the wall 4 squares and makes a melee free strike.
+**Effect:** The werewolf leaps 4 squares. If they end this movement at a wall, the werewolf leaps off the wall 4 squares and makes a melee [[Free Strike|free strike]].
 
 #### Facepalm and Head Slam (2 Malice)
 
@@ -119,8 +119,8 @@ The werewolf enters combat in their hybrid humanoid form. Their shape can't chan
 
 **Ferocity**
 
-The werewolf's abilities are capable of inflicting ferocity points on non-stormwight enemies. If a creature has 10 or more ferocity at the start of their turn, they spend all their ferocity and either make a free strike at the nearest creature or shift up to their speed towards the nearest creature and take a free strike. Non-stormwight creatures that take damage in this way gain 1 ferocity. All accumulated ferocity disappears after completing a respite.
+The werewolf's abilities are capable of inflicting ferocity points on non-stormwight enemies. If a creature has 10 or more ferocity at the start of their turn, they spend all their ferocity and either make a [[Free Strike|free strike]] at the nearest creature or shift up to their speed towards the nearest creature and take a [[Free Strike|free strike]]. Non-stormwight creatures that take damage in this way gain 1 ferocity. All accumulated ferocity disappears after completing a respite.
 
 **Vukenstep**
 
-The werewolf ignores difficult terrain.
+The werewolf ignores [[Difficult Terrain|difficult terrain]].

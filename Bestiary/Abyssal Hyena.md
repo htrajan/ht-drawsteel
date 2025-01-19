@@ -5,7 +5,7 @@
 | *Animal, Gnoll* |                   **EV 7** |
 | **Stamina**: 15 |              **Weakness**: |
 | **Speed**: 8    | **Size**: 1M / Stability 1 |
-|                 |         **Free Strike**: 2 |
+|                 |     **[[Free Strike]]**: 2 |
 
 | **Might** +2 | **Agility** +1 | **Reason** -3 | **Intuition** 0 | **Presence** -2 |
 | ------------ | -------------- | ------------- | --------------- | --------------- |
@@ -26,4 +26,4 @@
 
 **Death Snap**
 
-When the abyssal hyena is reduced to 0 Stamina, they make a free strike before dying.
+When the abyssal hyena is reduced to 0 Stamina, they make a [[Free Strike|free strike]] before dying.

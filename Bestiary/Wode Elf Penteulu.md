@@ -1,11 +1,11 @@
 ### WODE ELF PENTEULU
 
-| WODE ELF PENTEULU         |         **Level 3 Leader** |
-| :------------------------ | -------------------------: |
-| *Fey, Humanoid, Wode Elf* |                  **EV 60** |
-| **Stamina**: 120          |              **Weakness**: |
-| **Speed**: 7 (teleport)   | **Size**: 1M / Stability 2 |
-|                           |         **Free Strike**: 5 |
+| WODE ELF PENTEULU                     |         **Level 3 Leader** |
+| :------------------------------------ | -------------------------: |
+| *Fey, Humanoid, Wode Elf*             |                  **EV 60** |
+| **Stamina**: 120                      |              **Weakness**: |
+| **Speed**: 7 ([[Teleport\|teleport]]) | **Size**: 1M / Stability 2 |
+|                                       |     **[[Free Strike]]**: 5 |
 
 | **Might** +2 | **Agility** +3 | **Reason** +2 | **Intuition** +2 | **Presence** +2 |
 | ------------ | -------------- | ------------- | ---------------- | --------------- |
@@ -24,7 +24,7 @@
 - ★ 12-16: 9 damage; M3 restrained (save ends)
 - ✸ 17+: 12 damage; M4 restrained (save ends)
 
-**Effect:** The penteulu deals damage to each target one at a time and can teleport 3 squares after damaging a target.
+**Effect:** The penteulu deals damage to each target one at a time and can [[Teleport|teleport]] 3 squares after damaging a target.
 
 **3 Malice:** Targets restrained by this ability take an additional **+1**.
 
@@ -35,7 +35,7 @@
 | Keywords: Area     | Type: Maneuver                  |
 | Distance: 10 burst | Target: All allies in the burst |
 
-**Effect:** Each target can make a free strike and then shifts 3. A target immediately hides at the end of the penteulu's turn while in cover or concealment.
+**Effect:** Each target can make a [[Free Strike|free strike]] and then shifts 3. A target immediately [[Hide|hides]] at the end of the penteulu's turn while in cover or concealment.
 
 #### Wode Sickness
 
@@ -64,7 +64,7 @@ Trigger: An ally ends their turn.
 | Keywords: Area    | Type: Villain Action 2          |
 | Distance: 5 burst | Target: All allies in the burst |
 
-**Effect:** The penteulu makes a Wodeblade attack against a single creature or object. Each target then makes a free strike.
+**Effect:** The penteulu makes a Wodeblade attack against a single creature or object. Each target then makes a [[Free Strike|free strike]].
 
 #### Is it Now or is it Then? Where are We?
 
@@ -81,4 +81,4 @@ At the end of their turn, the penteulu can take 5 damage to end one save ends ef
 
 **Hunter's Glamor**
 
-The penteulu immediately hides at the end of their turn, even if they are observed.
+The penteulu immediately [[Hide|hides]] at the end of their turn, even if they are observed.

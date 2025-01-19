@@ -1,11 +1,11 @@
 ### WAR DOG COGNIVITE
 
-| WAR DOG COGNIVITE   |       **Level 1 Defender** |
-| :------------------ | -------------------------: |
-| *Humanoid, War Dog* |                  **EV 11** |
-| **Stamina**: 25     |              **Weakness**: |
-| **Speed**: 5 (fly)  | **Size**: 1M / Stability 0 |
-|                     |         **Free Strike**: 2 |
+| WAR DOG COGNIVITE           |       **Level 1 Defender** |
+| :-------------------------- | -------------------------: |
+| *Humanoid, War Dog*         |                  **EV 11** |
+| **Stamina**: 25             |              **Weakness**: |
+| **Speed**: 5 ([[Fly\|fly]]) | **Size**: 1M / Stability 0 |
+|                             |     **[[Free Strike]]**: 2 |
 
 | **Might** 0 | **Agility** +1 | **Reason** 0 | **Intuition** 0 | **Presence** +2 |
 | ----------- | -------------- | ------------ | --------------- | --------------- |

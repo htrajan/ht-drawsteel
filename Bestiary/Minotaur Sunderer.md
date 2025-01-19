@@ -5,7 +5,7 @@
 | *[[Minotaur]], Monster*         |                 **EV 40** |
 | **Stamina**: 90                 |             **Weakness**: |
 | **Speed**: 6                    | **Size**: 2 / Stability 2 |
-|                                 |        **Free Strike**: 6 |
+|                                 |    **[[Free Strike]]**: 6 |
 
 | **Might** +2 | **Agility** +1 | **Reason** 0 | **Intuition** +2 | **Presence** -1 |
 | ------------ | -------------- | ------------ | ---------------- | --------------- |
@@ -13,10 +13,10 @@
 
 #### Spiked Maul (Signature)
 
-|                                         |                                |
-| :-------------------------------------- | :----------------------------- |
-| Keywords: Attack, Charge, Melee, Weapon | Type: Action                   |
-| Distance: Melee 2                       | Target: 2 creatures or objects |
+|                                             |                                |
+| :------------------------------------------ | :----------------------------- |
+| Keywords: Attack, [[Charge]], Melee, Weapon | Type: Action                   |
+| Distance: Melee 2                           | Target: 2 creatures or objects |
 
 **2d10 + 2**
 
@@ -43,10 +43,10 @@
 
 #### Disemboweling Horns (3 Malice)
 
-|                                         |                            |
-| :-------------------------------------- | :------------------------- |
-| Keywords: Attack, Charge, Melee, Weapon | Type: Maneuver             |
-| Distance: Melee 2                       | Target: 1 grabbed creature |
+|                                             |                            |
+| :------------------------------------------ | :------------------------- |
+| Keywords: Attack, [[Charge]], Melee, Weapon | Type: Maneuver             |
+| Distance: Melee 2                           | Target: 1 grabbed creature |
 
 **2d10 + 2**
 
@@ -65,7 +65,7 @@
 
 Trigger: The sunderer takes damage from a creature within 6.
 
-**Effect:** The sunderer charges the target using Spiked Maul.
+**Effect:** The sunderer [[Charge|charges]] the target using Spiked Maul.
 
 **[[Minotaur]] Sense**
 

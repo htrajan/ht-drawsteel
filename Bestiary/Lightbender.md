@@ -5,7 +5,7 @@
 | *Lightbender, Monster* |                 **EV 38** |
 | **Stamina**: 80        |             **Weakness**: |
 | **Speed**: 10          | **Size**: 2 / Stability 1 |
-|                        |        **Free Strike**: 5 |
+|                        |    **[[Free Strike]]**: 5 |
 
 | **Might** +2 | **Agility** +1 | **Reason** -3 | **Intuition** 0 | **Presence** -1 |
 | ------------ | -------------- | ------------- | --------------- | --------------- |
@@ -65,7 +65,7 @@
 
 Trigger: The lightbender is damaged by an attack
 
-**Effect:** The lightbender halves the damage, doesn't suffer any associated effect, and teleports 5 squares. The lightbender immediately hides if they teleport into cover or concealment.
+**Effect:** The lightbender halves the damage, doesn't suffer any associated effect, and [[Teleport|teleports]] 5 squares. The lightbender immediately [[Hide|hides]] if they [[Teleport|teleport]] into cover or concealment.
 
 **Avoidance**
 

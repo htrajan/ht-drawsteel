@@ -1,11 +1,11 @@
 ### SPECTER
 
-| SPECTER               |          **Level 1 Hexer** |
-| :-------------------- | -------------------------: |
-| *Incorporeal, Undead* |                   **EV 7** |
-| **Stamina**: 12       |              **Weakness**: |
-| **Speed**: 5 (fly)    | **Size**: 1M / Stability 1 |
-|                       |         **Free Strike**: 2 |
+| SPECTER                     |          **Level 1 Hexer** |
+| :-------------------------- | -------------------------: |
+| *Incorporeal, Undead*       |                   **EV 7** |
+| **Stamina**: 12             |              **Weakness**: |
+| **Speed**: 5 ([[Fly\|fly]]) | **Size**: 1M / Stability 1 |
+|                             |     **[[Free Strike]]**: 2 |
 
 | **Might** -5 | **Agility** +1 | **Reason** 0 | **Intuition** 0 | **Presence** +2 |
 | ------------ | -------------- | ------------ | --------------- | --------------- |

@@ -1,11 +1,11 @@
 ### DWARF TRAPPER
 
-| DWARF TRAPPER     |        **Level 1 Harrier** |
-| :---------------- | -------------------------: |
-| *Dwarf, Humanoid* |                  **EV 13** |
-| **Stamina**: 36   |              **Weakness**: |
-| **Speed**: 7      | **Size**: 1M / Stability 2 |
-|                   |         **Free Strike**: 3 |
+| [[Dwarf\|DWARF]] TRAPPER |        **Level 1 Harrier** |
+| :----------------------- | -------------------------: |
+| *[[Dwarf]], Humanoid*    |                  **EV 13** |
+| **Stamina**: 36          |              **Weakness**: |
+| **Speed**: 7             | **Size**: 1M / Stability 2 |
+|                          |     **[[Free Strike]]**: 3 |
 
 | **Might** 0 | **Agility** +2 | **Reason** 0 | **Intuition** +1 | **Presence** 0 |
 | ----------- | -------------- | ------------ | ---------------- | -------------- |
@@ -13,10 +13,10 @@
 
 #### Concussive Bolts (Signature)
 
-|                                                 |                              |
-| :---------------------------------------------- | :--------------------------- |
-| Keywords: Attack, Charge, Melee, Ranged, Weapon | Type: Action                 |
-| Distance: Melee 1 or Ranged 10                  | Target: 1 creature or object |
+|                                                     |                              |
+| :-------------------------------------------------- | :--------------------------- |
+| Keywords: Attack, [[Charge]], Melee, Ranged, Weapon | Type: Action                 |
+| Distance: Melee 1 or Ranged 10                      | Target: 1 creature or object |
 
 **2d10 + 2**
 
@@ -24,7 +24,7 @@
 - ★ 12-16: 5 damage; push 4
 - ✸ 17+: 7 damage; push 6
 
-**Effect:** A target restrained by a dwarf can be pushed by this attack.
+**Effect:** A target restrained by a [[Dwarf|dwarf]] can be pushed by this attack.
 
 #### Steam Powered Snare (3 Malice)
 

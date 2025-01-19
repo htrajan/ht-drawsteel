@@ -5,7 +5,7 @@
 | *Humanoid, Lizardfolk* |                    **EV 7** |
 | **Stamina**: 12        |               **Weakness**: |
 | **Speed**: 5 (swim)    |  **Size**: 1L / Stability 1 |
-|                        |          **Free Strike**: 2 |
+|                        |      **[[Free Strike]]**: 2 |
 
 | **Might** +2 | **Agility** +1 | **Reason** 0 | **Intuition** 0 | **Presence** 0 |
 | ------------ | -------------- | ------------ | --------------- | -------------- |

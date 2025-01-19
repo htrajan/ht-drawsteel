@@ -5,7 +5,7 @@
 | *Humanoid, Radenwight* |                  **EV 16** |
 | **Stamina**: 40        |              **Weakness**: |
 | **Speed**: 5 (climb)   | **Size**: 1M / Stability 2 |
-|                        |         **Free Strike**: 5 |
+|                        |     **[[Free Strike]]**: 5 |
 
 | **Might** +2 | **Agility** +1 | **Reason** -1 | **Intuition** 0 | **Presence** 0 |
 | ------------ | -------------- | ------------- | --------------- | -------------- |
@@ -48,7 +48,7 @@
 
 Trigger: An ally deals damage to the target.
 
-**Effect:** The bruxer makes a free strike against the target.
+**Effect:** The bruxer makes a [[Free Strike|free strike]] against the target.
 
 **Lockdown**
 

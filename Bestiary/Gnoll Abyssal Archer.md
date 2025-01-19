@@ -5,7 +5,7 @@
 | *Fiend, Gnoll*       |                  **EV 12** |
 | **Stamina**: 20      |              **Weakness**: |
 | **Speed**: 5         | **Size**: 1M / Stability 1 |
-|                      |         **Free Strike**: 4 |
+|                      |     **[[Free Strike]]**: 4 |
 
 | **Might** 0 | **Agility** +2 | **Reason** +1 | **Intuition** 0 | **Presence** -1 |
 | ----------- | -------------- | ------------- | --------------- | --------------- |
@@ -37,7 +37,7 @@
 
 **Death Frenzy**
 
-Whenever an ally within 5 is reduced to 0 Stamina, the abyssal archer moves up to their speed and makes a free strike.
+Whenever an ally within 5 is reduced to 0 Stamina, the abyssal archer moves up to their speed and makes a [[Free Strike|free strike]].
 
 **Bloodscent**
 

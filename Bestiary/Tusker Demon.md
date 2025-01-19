@@ -5,7 +5,7 @@
 | *Demon, Gnoll, Planar* |                 **EV 15** |
 | **Stamina**: 35        |             **Weakness**: |
 | **Speed**: 7           | **Size**: 3 / Stability 3 |
-|                        |        **Free Strike**: 4 |
+|                        |    **[[Free Strike]]**: 4 |
 
 | **Might** +2 | **Agility** -1 | **Reason** -3 | **Intuition** 0 | **Presence** -1 |
 | ------------ | -------------- | ------------- | --------------- | --------------- |
@@ -13,10 +13,10 @@
 
 #### Gore (Signature)
 
-|                                         |                              |
-| :-------------------------------------- | :--------------------------- |
-| Keywords: Attack, Charge, Melee, Weapon | Type: Action                 |
-| Distance: Melee 2                       | Target: 1 creature or object |
+|                                             |                              |
+| :------------------------------------------ | :--------------------------- |
+| Keywords: Attack, [[Charge]], Melee, Weapon | Type: Action                 |
+| Distance: Melee 2                           | Target: 1 creature or object |
 
 **2d10 + 2**
 
@@ -35,7 +35,7 @@
 
 Trigger: An enemy within 7 deals damage to the tusker.
 
-**Effect:** The tusker demon charges the target using Gore.
+**Effect:** The tusker demon [[Charge|charges]] the target using Gore.
 
 **Trample**
 

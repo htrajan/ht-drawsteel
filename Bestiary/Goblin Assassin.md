@@ -5,7 +5,7 @@
 | *Goblin, Humanoid*   |                  **EV 11** |
 | **Stamina**: 20      |              **Weakness**: |
 | **Speed**: 6 (climb) | **Size**: 1S / Stability 0 |
-|                      |         **Free Strike**: 3 |
+|                      |     **[[Free Strike]]**: 3 |
 
 | **Might** -2 | **Agility** +2 | **Reason** 0 | **Intuition** 0 | **Presence** -2 |
 | ------------ | -------------- | ------------ | --------------- | --------------- |
@@ -43,6 +43,6 @@
 
 The assassin doesn't provoke opportunity attacks by moving.
 
-**Hide While Observed**
+**[[Hide]] While Observed**
 
-The assassin can take the Hide maneuver even while observed, though they still must have cover or concealment.
+The assassin can take the [[Hide]] maneuver even while observed, though they still must have cover or concealment.

@@ -5,7 +5,7 @@
 | *Animal*              |                 **EV 13** |
 | **Stamina**: 20       |             **Weakness**: |
 | **Speed**: 7 (flying) | **Size**: 2 / Stability 0 |
-|                       |        **Free Strike**: 3 |
+|                       |    **[[Free Strike]]**: 3 |
 
 | **Might** +2 | **Agility** +2 | **Reason** -3 | **Intuition** +1 | **Presence** -2 |
 | ------------ | -------------- | ------------- | ---------------- | --------------- |
@@ -34,4 +34,4 @@
 
 **Mounted Platform**
 
-Any creature riding the hawk can make a free strike during or after the hawk's movement.
+Any creature riding the hawk can make a [[Free Strike|free strike]] during or after the hawk's movement.

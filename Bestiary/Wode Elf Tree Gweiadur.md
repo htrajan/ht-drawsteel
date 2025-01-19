@@ -5,7 +5,7 @@
 | *Fey, Humanoid, Wode Elf* |                  **EV 17** |
 | **Stamina**: 35           |              **Weakness**: |
 | **Speed**: 7              | **Size**: 1M / Stability 0 |
-|                           |         **Free Strike**: 5 |
+|                           |     **[[Free Strike]]**: 5 |
 
 | **Might** 0 | **Agility** +2 | **Reason** 0 | **Intuition** +1 | **Presence** 0 |
 | ----------- | -------------- | ------------ | ---------------- | -------------- |
@@ -45,4 +45,4 @@
 
 **Masking Glamor**
 
-The tree gweiadur immediately hides at the end of their turn while in cover or concealment, even if they are observed.
+The tree gweiadur immediately [[Hide|hides]] at the end of their turn while in cover or concealment, even if they are observed.
