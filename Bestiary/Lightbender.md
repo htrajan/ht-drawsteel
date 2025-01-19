@@ -35,11 +35,11 @@
 
 **2d10 + 2**
 
-- ✦ ≤11: 6 damage; 1 bleeding (save ends)
-- ★ 12-16: 10 damage; 2 bleeding (save ends)
-- ✸ 17+: 13 damage; 3 bleeding (save ends)
+- ✦ ≤11: 6 damage; 1 [[Bleeding|bleeding]] (save ends)
+- ★ 12-16: 10 damage; 2 [[Bleeding|bleeding]] (save ends)
+- ✸ 17+: 13 damage; 3 [[Bleeding|bleeding]] (save ends)
 
-**Effect:** A creature who is bleeding from this ability has a bane on tests to search for the lightbender until the condition ends.
+**Effect:** A creature who is [[Bleeding|bleeding]] from this ability has a bane on tests to search for the lightbender until the condition ends.
 
 #### Hypnotic Mane (5 Malice)
 
@@ -50,11 +50,11 @@
 
 **INU RR**
 
-- ✦ ≤11: Dazed (save ends)
-- ★ 12-16: Dazed (EoT)
+- ✦ ≤11: [[Dazed]] (save ends)
+- ★ 12-16: [[Dazed]] (EoT)
 - ✸ 17+: No effect
 
-**Effect:** Targets dazed by this ability have a speed of 0 while dazed. If a dazed target takes damage or if someone else spends an action to shake the creature out of their stupor, the condition is removed.
+**Effect:** Targets [[Dazed|dazed]] by this ability have a speed of 0 while [[Dazed|dazed]]. If a [[Dazed|dazed]] target takes damage or if someone else spends an action to shake the creature out of their stupor, the condition is removed.
 
 #### Stalker's Afterimage
 

@@ -20,11 +20,11 @@
 
 **2d10 + 2**
 
-- ✦ ≤11: 5 damage; 1 prone
-- ★ 12-16: 9 damage; 2 prone
-- ✸ 17+: 12 damage; 3 prone
+- ✦ ≤11: 5 damage; 1 [[Prone|prone]]
+- ★ 12-16: 9 damage; 2 [[Prone|prone]]
+- ✸ 17+: 12 damage; 3 [[Prone|prone]]
 
-**Effect:** The pouncer makes a [[Free Strike|free strike]] against each target they have knocked prone.
+**Effect:** The pouncer makes a [[Free Strike|free strike]] against each target they have knocked [[Prone|prone]].
 
 #### Sparkling Tail Whip
 
@@ -50,11 +50,11 @@
 
 **REA RR**
 
-- ✦ ≤11: Dazed (save ends)
-- ★ 12-16: Dazed (EoT)
+- ✦ ≤11: [[Dazed]] (save ends)
+- ★ 12-16: [[Dazed]] (EoT)
 - ✸ 17+: No effect
 
-**Effect:** Targets dazed by this ability have a speed of 0 while dazed. If a dazed target takes damage or if someone else spends an action to shake the creature out of their stupor, the condition is removed.
+**Effect:** Targets [[Dazed|dazed]] by this ability have a speed of 0 while [[Dazed|dazed]]. If a [[Dazed|dazed]] target takes damage or if someone else spends an action to shake the creature out of their stupor, the condition is removed.
 
 #### Striking Afterimage
 

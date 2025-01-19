@@ -20,9 +20,9 @@
 
 **2d10 + 3**
 
-- ✦ ≤11: 5 damage; A2 prone
-- ★ 12-16: 9 damage; A3 prone and can't stand (EoT)
-- ✸ 17+: 12 damage; A4 prone and can't stand (save ends)
+- ✦ ≤11: 5 damage; A2 [[Prone|prone]]
+- ★ 12-16: 9 damage; A3 [[Prone|prone]] and can't stand (EoT)
+- ✸ 17+: 12 damage; A4 [[Prone|prone]] and can't stand (save ends)
 
 **Effect:** Each enemy within 1 square of the target takes 2 damage.
 
@@ -36,8 +36,8 @@
 **2d10 + 3**
 
 - ✦ ≤11: 2 damage; M2 push 2
-- ★ 12-16: 3 damage; M3 prone
-- ✸ 17+: 4 damage; M4 prone
+- ★ 12-16: 3 damage; M3 [[Prone|prone]]
+- ✸ 17+: 4 damage; M4 [[Prone|prone]]
 
 **Effect:** The cryptic reforms their body and appears in an unoccupied space within the line.
 
@@ -51,8 +51,8 @@
 **2d10 + 3**
 
 - ✦ ≤11: 2 damage; push 2
-- ★ 12-16: 3 damage; push 3; prone
-- ✸ 17+: 4 damage; push 4; prone
+- ★ 12-16: 3 damage; push 3; [[Prone|prone]]
+- ✸ 17+: 4 damage; push 4; [[Prone|prone]]
 
 **Effect:** The cryptic [[Burrow|burrows]] up to half their speed, then creates the burst when they breach the surface.
 
@@ -91,8 +91,8 @@ Trigger: The cryptic takes damage
 
 **MGT RR**
 
-- ✦ ≤11: The target is prone and can't stand (EoT)
-- ★ 12-16: Prone
+- ✦ ≤11: The target is [[Prone|prone]] and can't stand (EoT)
+- ★ 12-16: [[Prone]]
 - ✸ 17+: No effect
 
 **Effect:** The area becomes [[Difficult Terrain|difficult terrain]].
@@ -106,7 +106,7 @@ Trigger: The cryptic takes damage
 
 **AGL RR**
 
-- ✦ ≤11: 4 damage; prone
+- ✦ ≤11: 4 damage; [[Prone|prone]]
 - ★ 12-16: 2 damage
 - ✸ 17+: The target moves to the nearest unoccupied space outside the area.
 
@@ -123,7 +123,7 @@ Trigger: The cryptic takes damage
 
 - ✦ ≤11: 2 damage; vertical slide 2
 - ★ 12-16: 3 damage; vertical slide 4
-- ✸ 17+: 4 damage; the target is restrained against the ceiling (save ends)
+- ✸ 17+: 4 damage; the target is [[Restrained|restrained]] against the ceiling (save ends)
 
 **Effect:** The cryptic makes an initial attack that calls down stone pillars from the ceiling.
 
@@ -131,7 +131,7 @@ Trigger: The cryptic takes damage
 
 **Solo Monster**
 
-- **Solo Turns**: The cryptic takes two turns each round. They can use two actions on each of their turns and can take each turn after any enemy's turn. While dazed, the cryptic can take one action and one maneuver per turn. - **End Effect**: At the end of their turn, the cryptic can take 5 damage to end one save ends effect affecting them. This damage can't be reduced in any way.
+- **Solo Turns**: The cryptic takes two turns each round. They can use two actions on each of their turns and can take each turn after any enemy's turn. While [[Dazed|dazed]], the cryptic can take one action and one maneuver per turn. - **End Effect**: At the end of their turn, the cryptic can take 5 damage to end one save ends effect affecting them. This damage can't be reduced in any way.
 
 **Churning Trunk**
 

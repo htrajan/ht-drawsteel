@@ -22,7 +22,7 @@
 
 - ✦ ≤11: 4 damage; push 1
 - ★ 12-16: 7 damage; push 2
-- ✸ 17+: 10 damage; push 3; prone
+- ✸ 17+: 10 damage; push 3; [[Prone|prone]]
 
 **Effect:** This attack has edge while charging.
 
@@ -39,7 +39,7 @@ Trigger: An enemy within 7 deals damage to the tusker.
 
 **Trample**
 
-The tusker demon can move through enemies and objects at normal speed. When the tusker enters a creature's space for the first time on their turn, the creature takes 2d6 damage. The tusker demon can end their turn in a prone size 1 creature's space, preventing the creature from getting up.
+The tusker demon can move through enemies and objects at normal speed. When the tusker enters a creature's space for the first time on their turn, the creature takes 2d6 damage. The tusker demon can end their turn in a [[Prone|prone]] size 1 creature's space, preventing the creature from getting up.
 
 **Lethe**
 

@@ -24,7 +24,7 @@
 - ★ 12-16: 8 damage; R2 deathtouched (save ends)
 - ✸ 17+: 11 damage; R3 deathtouched (save ends)
 
-**Effect:** A creature gains a new condition at the end of each turn while deathtouched, receiving bleeding at the end of their first turn, slowed at the end of their second turn, and restrained at the end of their third turn. When no longer deathtouched, all the conditions imposed by it end.
+**Effect:** A creature gains a new condition at the end of each turn while deathtouched, receiving [[Bleeding|bleeding]] at the end of their first turn, [[Slowed|slowed]] at the end of their second turn, and [[Restrained|restrained]] at the end of their third turn. When no longer deathtouched, all the conditions imposed by it end.
 
 **5 Malice:** The ability gains the Area keyword, the distance becomes 3 cube within 10, and it targets all creatures in the cube.
 

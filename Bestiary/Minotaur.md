@@ -44,9 +44,9 @@
 
 **2d10 + 2**
 
-- ✦ ≤11: 5 damage; I1 dazed (save ends)
-- ★ 12-16: 9 damage; I2 dazed (save ends)
-- ✸ 17+: 12 damage; I3 dazed (save ends)
+- ✦ ≤11: 5 damage; I1 [[Dazed|dazed]] (save ends)
+- ★ 12-16: 9 damage; I2 [[Dazed|dazed]] (save ends)
+- ✸ 17+: 12 damage; I3 [[Dazed|dazed]] (save ends)
 
 **Effect:** The potency of this ability increases by 1 if it's used while charging.
 

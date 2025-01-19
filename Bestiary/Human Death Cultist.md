@@ -20,9 +20,9 @@
 
 **2d10 + 2**
 
-- ✦ ≤11: 4 corruption damage; I1 weakened (save ends)
-- ★ 12-16: 7 corruption damage; I2 weakened (save ends)
-- ✸ 17+: 10 corruption damage; I3 weakened (save ends)
+- ✦ ≤11: 4 corruption damage; I1 [[Weakened|weakened]] (save ends)
+- ★ 12-16: 7 corruption damage; I2 [[Weakened|weakened]] (save ends)
+- ✸ 17+: 10 corruption damage; I3 [[Weakened|weakened]] (save ends)
 
 **2 Malice:** The death cultist regains Stamina equal to half the damage dealt by this ability.
 

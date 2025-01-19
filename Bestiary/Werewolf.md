@@ -68,7 +68,7 @@
 
 Trigger: The target declares a melee attack against the werewolf after charging or moving 3 or more squares in a straight line towards them.
 
-**Effect:** Target is knocked prone and takes 5 damage before the attack begins.
+**Effect:** Target is knocked [[Prone|prone]] and takes 5 damage before the attack begins.
 
 #### Howl
 
@@ -79,8 +79,8 @@ Trigger: The target declares a melee attack against the werewolf after charging 
 
 **INU RR**
 
-- ✦ ≤11: Target moves up to their speed away from the werewolf; frightened (save ends)
-- ★ 12-16: Frightened (EoT)
+- ✦ ≤11: Target moves up to their speed away from the werewolf; [[Frightened|frightened]] (save ends)
+- ★ 12-16: [[Frightened]] (EoT)
 - ✸ 17+: no effect
 
 **Effect:** Enemies that have 1 or more ferocity gain 4 ferocity and howl along with the werewolf.
@@ -105,13 +105,13 @@ Trigger: The target declares a melee attack against the werewolf after charging 
 
 - ✦ ≤11: 3 damage; 2 ferocity
 - ★ 12-16: 4 damage; 4 ferocity
-- ✸ 17+: 5 damage; 8 ferocity; prone
+- ✸ 17+: 5 damage; 8 ferocity; [[Prone|prone]]
 
 **Effect:** The werewolf shifts up to twice their speed either before or after the attack.
 
 **Solo Monster**
 
-- **Solo Turns**: The werewolf takes 2 turns each round. They can use two actions on each of their turns and can take each turn after an enemy turn they choose. While dazed, the werewolf can take one action and one maneuver per turn. - **End Effect**: The werewolf takes 5 damage and ends one EoE effect affecting them at the end of their turn.
+- **Solo Turns**: The werewolf takes 2 turns each round. They can use two actions on each of their turns and can take each turn after an enemy turn they choose. While [[Dazed|dazed]], the werewolf can take one action and one maneuver per turn. - **End Effect**: The werewolf takes 5 damage and ends one EoE effect affecting them at the end of their turn.
 
 **Shapeshifter**
 

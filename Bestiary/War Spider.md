@@ -20,9 +20,9 @@
 
 **2d10 + 2**
 
-- ✦ ≤11: 4 poison damage; M1 weakened (save ends)
-- ★ 12-16: 7 poison damage; M2 weakened (save ends)
-- ✸ 17+: 10 poison damage; M3 weakened (save ends)
+- ✦ ≤11: 4 poison damage; M1 [[Weakened|weakened]] (save ends)
+- ★ 12-16: 7 poison damage; M2 [[Weakened|weakened]] (save ends)
+- ✸ 17+: 10 poison damage; M3 [[Weakened|weakened]] (save ends)
 
 #### Leg Blade
 
@@ -55,8 +55,8 @@
 
 **AGL RR**
 
-- ✦ ≤11: Restrained (AGL ends)
-- ★ 12-16: Restrained (EoT)
+- ✦ ≤11: [[Restrained]] (AGL ends)
+- ★ 12-16: [[Restrained]] (EoT)
 - ✸ 17+: No effect
 
 **[[Ride]] Launcher**

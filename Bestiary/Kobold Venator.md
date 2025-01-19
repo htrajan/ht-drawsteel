@@ -20,11 +20,11 @@
 
 **2d10 + 2**
 
-- ✦ ≤11: 2 damage; 1 restrained (save ends)
-- ★ 12-16: 5 damage; 2 restrained (save ends)
-- ✸ 17+: 6 damage; 3 restrained (save ends)
+- ✦ ≤11: 2 damage; 1 [[Restrained|restrained]] (save ends)
+- ★ 12-16: 5 damage; 2 [[Restrained|restrained]] (save ends)
+- ✸ 17+: 6 damage; 3 [[Restrained|restrained]] (save ends)
 
-**3 Malice:** Creatures and objects restrained by this ability take 2 fire damage at the start of each of their turns.
+**3 Malice:** Creatures and objects [[Restrained|restrained]] by this ability take 2 fire damage at the start of each of their turns.
 
 **Lost in the Crowd**
 

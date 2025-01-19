@@ -24,11 +24,11 @@
 - ★ 12-16: 7 damage; M2 the target has a bane on their next attack
 - ✸ 17+: 10 damage; M3 the target has a double bane on their next attack
 
-**Effect:** Taunted (EoT).
+**Effect:** [[Taunted]] (EoT).
 
 **I'm Your Enemy**
 
-The knave can make a [[Free Strike|free strike]] against an adjacent creature they have taunted whenever the creature deals damage to a creature other than the knave.
+The knave can make a [[Free Strike|free strike]] against an adjacent creature they have [[Taunted|taunted]] whenever the creature deals damage to a creature other than the knave.
 
 **Overwhelm**
 

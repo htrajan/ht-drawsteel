@@ -21,10 +21,10 @@
 **2d10 + 3**
 
 - ✦ ≤11: 5 damage
-- ★ 12-16: 8 damage; grabbed
-- ✸ 17+: 11 damage; grabbed
+- ★ 12-16: 8 damage; [[Grabbed|grabbed]]
+- ✸ 17+: 11 damage; [[Grabbed|grabbed]]
 
-**Effect:** A size 1 target grabbed this way takes 8 acid damage at the start of each of their turns.
+**Effect:** A size 1 target [[Grabbed|grabbed]] this way takes 8 acid damage at the start of each of their turns.
 
 #### Claws
 
@@ -35,9 +35,9 @@
 
 **2d10 + 3**
 
-- ✦ ≤11: 2 damage; A2 grabbed
-- ★ 12-16: 4 damage; A3 grabbed
-- ✸ 17+: 5 damage; A4 grabbed
+- ✦ ≤11: 2 damage; A2 [[Grabbed|grabbed]]
+- ★ 12-16: 4 damage; A3 [[Grabbed|grabbed]]
+- ✸ 17+: 5 damage; A4 [[Grabbed|grabbed]]
 
 **2 Malice:** The ankheg can vertical slide one or both targets up to 5 squares.
 
@@ -109,17 +109,17 @@ Trigger: A creature damages the ankheg
 
 **2d10 + 3**
 
-- ✦ ≤11: 5 acid damage; M2 bleeding (save ends)
-- ★ 12-16: 7 acid damage; M3 bleeding (save ends)
-- ✸ 17+: 10 acid damage; M4 bleeding (save ends)
+- ✦ ≤11: 5 acid damage; M2 [[Bleeding|bleeding]] (save ends)
+- ★ 12-16: 7 acid damage; M3 [[Bleeding|bleeding]] (save ends)
+- ✸ 17+: 10 acid damage; M4 [[Bleeding|bleeding]] (save ends)
 
 **Solo Monster**
 
-- **Solo Turns**: The ankheg takes two turns each round. They can use two actions on each of their turns, and can take each turn after any enemy's turn. While dazed, the ankheg can take one action and one maneuver per turn. - **End Effect**: At the end of their turn, the ankheg can take 5 damage to end one save ends effect affecting them. This damage can't be reduced in any way.
+- **Solo Turns**: The ankheg takes two turns each round. They can use two actions on each of their turns, and can take each turn after any enemy's turn. While [[Dazed|dazed]], the ankheg can take one action and one maneuver per turn. - **End Effect**: At the end of their turn, the ankheg can take 5 damage to end one save ends effect affecting them. This damage can't be reduced in any way.
 
 **Soft Underbelly**
 
-A prone creature gains an edge on melee attacks against the ankheg instead of taking a bane.
+A [[Prone|prone]] creature gains an edge on melee attacks against the ankheg instead of taking a bane.
 
 **Earthwalk**
 

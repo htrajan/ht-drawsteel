@@ -65,4 +65,4 @@ Creatures have a double bane on escaping the griffon's [[Grab|grab]].
 
 **Steady**
 
-Creatures have a bane on power rolls that could knock the griffon or their rider prone.
+Creatures have a bane on power rolls that could knock the griffon or their rider [[Prone|prone]].

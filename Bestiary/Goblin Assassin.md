@@ -35,9 +35,9 @@
 
 **2d10 + 2**
 
-- ✦ ≤11: 3 corruption damage; A1 restrained (save ends)
-- ★ 12-16: 5 corruption damage; A2 restrained (save ends)
-- ✸ 17+: 7 corruption damage; A3 restrained (save ends)
+- ✦ ≤11: 3 corruption damage; A1 [[Restrained|restrained]] (save ends)
+- ★ 12-16: 5 corruption damage; A2 [[Restrained|restrained]] (save ends)
+- ✸ 17+: 7 corruption damage; A3 [[Restrained|restrained]] (save ends)
 
 **Crafty**
 

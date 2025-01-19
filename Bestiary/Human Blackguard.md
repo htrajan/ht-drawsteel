@@ -20,9 +20,9 @@
 
 **2d10 + 3**
 
-- ✦ ≤11: 4 damage; M2 slowed (save ends)
-- ★ 12-16: 7 damage; M3 slowed (save ends)
-- ✸ 17+: 10 damage; M4 slowed (save ends)
+- ✦ ≤11: 4 damage; M2 [[Slowed|slowed]] (save ends)
+- ★ 12-16: 7 damage; M3 [[Slowed|slowed]] (save ends)
+- ✸ 17+: 10 damage; M4 [[Slowed|slowed]] (save ends)
 
 **Effect:** An ally within 10 squares of the blackguard can make a [[Free Strike|free strike]].
 

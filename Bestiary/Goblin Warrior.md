@@ -33,9 +33,9 @@
 
 **2d10 + 2**
 
-- ✦ ≤11: 3 damage; M1 bleeding (save ends)
-- ★ 12-16: 7 damage; M2 bleeding (save ends)
-- ✸ 17+: 8 damage; M3 bleeding (save ends)
+- ✦ ≤11: 3 damage; M1 [[Bleeding|bleeding]] (save ends)
+- ★ 12-16: 7 damage; M2 [[Bleeding|bleeding]] (save ends)
+- ✸ 17+: 8 damage; M3 [[Bleeding|bleeding]] (save ends)
 
 **Crafty**
 

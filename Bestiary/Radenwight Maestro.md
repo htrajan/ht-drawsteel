@@ -35,8 +35,8 @@
 
 **PRS RR**
 
-- ✦ ≤11: Slowed (save ends)
-- ★ 12-16: Slowed (EoT)
+- ✦ ≤11: [[Slowed]] (save ends)
+- ★ 12-16: [[Slowed]] (EoT)
 - ✸ 17+: No effect
 
 **3 Malice:** Each ally within 3 of a target has their speed increased by 2 until the end of their next turn.

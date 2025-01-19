@@ -37,9 +37,9 @@
 
 **2d10 + 3**
 
-- ✦ ≤11: Push 1; M2 prone
-- ★ 12-16: Push 2; M3 prone
-- ✸ 17+: Push 4; M4 prone
+- ✦ ≤11: Push 1; M2 [[Prone|prone]]
+- ★ 12-16: Push 2; M3 [[Prone|prone]]
+- ✸ 17+: Push 4; M4 [[Prone|prone]]
 
 **2 Malice:** This ability targets each enemy adjacent to the bandit chief.
 

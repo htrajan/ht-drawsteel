@@ -26,7 +26,7 @@
 
 **Effect:** One ally within 10 squares of the commander can make a [[Free Strike|free strike]].
 
-**1 Malice:** A target who is adjacent to the ground commander after this ability is resolved is I3 grabbed (save ends). This [[Grab|grab]] can't be escaped using the [[Escape Grab]] maneuver. The ground commander can [[Grab|grab]] up to two creatures at a time.
+**1 Malice:** A target who is adjacent to the ground commander after this ability is resolved is I3 [[Grabbed|grabbed]] (save ends). This [[Grab|grab]] can't be escaped using the [[Escape Grab]] maneuver. The ground commander can [[Grab|grab]] up to two creatures at a time.
 
 #### Highest Posthumous Promotion
 
@@ -64,7 +64,7 @@ Trigger: The target has a condition imposed on them, is force moved, or is kille
 | Keywords: Magic, Ranged | Type: Villain Action 2 |
 | Distance: Ranged 10     | Target: One enemy      |
 
-**Effect:** Each ally within 5 squares of the target can move up to their speed and make a [[Free Strike|free strike]] against the target. The target is then I3 frightened of the ground commander (save ends).
+**Effect:** Each ally within 5 squares of the target can move up to their speed and make a [[Free Strike|free strike]] against the target. The target is then I3 [[Frightened|frightened]] of the ground commander (save ends).
 
 #### Claim Them for the Body Banks
 

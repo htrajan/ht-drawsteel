@@ -62,8 +62,8 @@
 **2d10 + 3**
 
 - ✦ ≤11: 4 psychic damage
-- ★ 12-16: 8 psychic damage; I2 frightened (save ends)
-- ✸ 17+: 10 psychic damage; I3 frightened (save ends)
+- ★ 12-16: 8 psychic damage; I2 [[Frightened|frightened]] (save ends)
+- ✸ 17+: 10 psychic damage; I3 [[Frightened|frightened]] (save ends)
 
 #### Ram's Defiance
 
@@ -76,9 +76,9 @@ Trigger: The target attacks the chimera and gets a tier-1 result.
 
 **2d10 + 3**
 
-- ✦ ≤11: 3 damage; M2 slowed (save ends)
-- ★ 12-16: 5 damage; prone; M3 slowed (save ends)
-- ✸ 17+: 7 damage; prone; M4 slowed (save ends)
+- ✦ ≤11: 3 damage; M2 [[Slowed|slowed]] (save ends)
+- ★ 12-16: 5 damage; [[Prone|prone]]; M3 [[Slowed|slowed]] (save ends)
+- ✸ 17+: 7 damage; [[Prone|prone]]; M4 [[Slowed|slowed]] (save ends)
 
 **Effect:** The chimera shifts 5. If they end this movement adjacent to the target, roll power.
 
@@ -111,7 +111,7 @@ Trigger: The target attacks the chimera and gets a tier-1 result.
 
 **Solo Monster**
 
-- **Solo Turns:** The chimera takes 2 turns each round. They can use two actions on each of their turns and can take each turn after an enemy turn they choose. While dazed, the chimera can take one action and one maneuver per turn.  **End Effect:** At the end of their turn, the chimera can take 5 damage to end one save ends effect affecting them. This damage can't be reduced in any way.
+- **Solo Turns:** The chimera takes 2 turns each round. They can use two actions on each of their turns and can take each turn after an enemy turn they choose. While [[Dazed|dazed]], the chimera can take one action and one maneuver per turn.  **End Effect:** At the end of their turn, the chimera can take 5 damage to end one save ends effect affecting them. This damage can't be reduced in any way.
 
 **Volant**
 

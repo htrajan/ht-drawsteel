@@ -35,12 +35,12 @@
 
 **2d10 + 2**
 
-- ✦ ≤11: 1 damage; M1 bleeding (save ends)
-- ★ 12-16: 2 damage; M2 bleeding (save ends)
-- ✸ 17+: 3 damage; M3 bleeding (save ends)
+- ✦ ≤11: 1 damage; M1 [[Bleeding|bleeding]] (save ends)
+- ★ 12-16: 2 damage; M2 [[Bleeding|bleeding]] (save ends)
+- ✸ 17+: 3 damage; M3 [[Bleeding|bleeding]] (save ends)
 
 **Effect:** Each target has a bane on their next attack until the start of the skeleton's next turn.
 
 **Arise**
 
-The first time the skeleton is reduced to Stamina 0 by damage that isn't fire damage or holy damage and their body isn't destroyed, they regain half their Stamina and fall prone.
+The first time the skeleton is reduced to Stamina 0 by damage that isn't fire damage or holy damage and their body isn't destroyed, they regain half their Stamina and fall [[Prone|prone]].

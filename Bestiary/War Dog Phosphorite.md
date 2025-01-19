@@ -20,9 +20,9 @@
 
 **2d10 + 2**
 
-- ✦ ≤11: 3 acid damage; M1 bleeding (save ends)
-- ★ 12-16: 5 acid damage; M2 bleeding (save ends)
-- ✸ 17+: 7 acid damage; M3 bleeding (save ends)
+- ✦ ≤11: 3 acid damage; M1 [[Bleeding|bleeding]] (save ends)
+- ★ 12-16: 5 acid damage; M2 [[Bleeding|bleeding]] (save ends)
+- ✸ 17+: 7 acid damage; M3 [[Bleeding|bleeding]] (save ends)
 
 **Effect:** A detonator attaches to the target. At the end of each round, roll a die. On an odd result, the detonator explodes, triggering the power roll.
 

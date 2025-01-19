@@ -35,8 +35,8 @@
 
 **MGT RR**
 
-- ✦ ≤11: Slide 5; slowed (save ends)
-- ★ 12-16: Slide 3; slowed (EoT)
+- ✦ ≤11: Slide 5; [[Slowed|slowed]] (save ends)
+- ★ 12-16: Slide 3; [[Slowed|slowed]] (EoT)
 - ✸ 17+: Slide 1
 
 **Effect:** The gust of wind disperses gas or vapor and extinguishes any flames, including [[Persistent|persistent]] effects.

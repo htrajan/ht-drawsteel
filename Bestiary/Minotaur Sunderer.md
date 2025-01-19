@@ -24,7 +24,7 @@
 - ★ 12-16: 10 damage; pull 2
 - ✸ 17+: 13 damage; pull 3
 
-**Effect:** A target is grabbed if they are pulled adjacent to the sunderer.
+**Effect:** A target is [[Grabbed|grabbed]] if they are pulled adjacent to the sunderer.
 
 #### Fearsome Bay (5 Malice)
 
@@ -35,26 +35,26 @@
 
 **INU RR**
 
-- ✦ ≤11: Frightened of the [[Minotaur|minotaur]] (save ends)
-- ★ 12-16: Frightened of the [[Minotaur|minotaur]] (EoT)
+- ✦ ≤11: [[Frightened]] of the [[Minotaur|minotaur]] (save ends)
+- ★ 12-16: [[Frightened]] of the [[Minotaur|minotaur]] (EoT)
 - ✸ 17+: No effect
 
 **Effect:** The [[Minotaur|minotaur]] has **resistance** and **advantage** until the end of their next turn.
 
 #### Disemboweling Horns (3 Malice)
 
-|                                             |                            |
-| :------------------------------------------ | :------------------------- |
-| Keywords: Attack, [[Charge]], Melee, Weapon | Type: Maneuver             |
-| Distance: Melee 2                           | Target: 1 grabbed creature |
+|                                             |                                         |
+| :------------------------------------------ | :-------------------------------------- |
+| Keywords: Attack, [[Charge]], Melee, Weapon | Type: Maneuver                          |
+| Distance: Melee 2                           | Target: 1 [[Grabbed\|grabbed]] creature |
 
 **2d10 + 2**
 
-- ✦ ≤11: 6 damage; push 1; M1 bleeding (save ends)
-- ★ 12-16: 10 damage; push 3; M2 bleeding (save ends)
-- ✸ 17+: 13 damage; push 5; M3 bleeding (save ends)
+- ✦ ≤11: 6 damage; push 1; M1 [[Bleeding|bleeding]] (save ends)
+- ★ 12-16: 10 damage; push 3; M2 [[Bleeding|bleeding]] (save ends)
+- ✸ 17+: 13 damage; push 5; M3 [[Bleeding|bleeding]] (save ends)
 
-**Effect:** The target takes 6 damage at the start of each of their turns while bleeding from this ability.
+**Effect:** The target takes 6 damage at the start of each of their turns while [[Bleeding|bleeding]] from this ability.
 
 #### Retaliatory Gore
 

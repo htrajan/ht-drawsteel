@@ -20,9 +20,9 @@
 
 **2d10 + 2**
 
-- ✦ ≤11: 3 damage; A1 prone
-- ★ 12-16: 5 damage; A2 prone
-- ✸ 17+: 7 damage; the zephyr takes a [[Free Strike|free strike]] on a creature adjacent to the target; A3 prone
+- ✦ ≤11: 3 damage; A1 [[Prone|prone]]
+- ★ 12-16: 5 damage; A2 [[Prone|prone]]
+- ✸ 17+: 7 damage; the zephyr takes a [[Free Strike|free strike]] on a creature adjacent to the target; A3 [[Prone|prone]]
 
 **Effect:** Shift 2.
 
@@ -33,7 +33,7 @@
 | Keywords: --   | Type: Maneuver |
 | Distance: Self | Target: Self   |
 
-**Effect:** The zephyr moves up to their speed through the air. They must end this movement on solid ground or immediately fall prone.
+**Effect:** The zephyr moves up to their speed through the air. They must end this movement on solid ground or immediately fall [[Prone|prone]].
 
 **Like the Wind**
 

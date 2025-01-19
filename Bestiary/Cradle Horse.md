@@ -20,9 +20,9 @@
 
 **2d10 + 2**
 
-- ✦ ≤11: 3 damage; M1 prone
-- ★ 12-16: 5 fire damage; M2 prone
-- ✸ 17+: 7 lightning damage; M3 prone
+- ✦ ≤11: 3 damage; M1 [[Prone|prone]]
+- ★ 12-16: 5 fire damage; M2 [[Prone|prone]]
+- ✸ 17+: 7 lightning damage; M3 [[Prone|prone]]
 
 #### Stomp
 
@@ -37,7 +37,7 @@
 - ★ 12-16: 4 damage
 - ✸ 17+: 5 damage
 
-**Effect:** This attack has edge against prone targets.
+**Effect:** This attack has edge against [[Prone|prone]] targets.
 
 #### Buck (2 Malice)
 

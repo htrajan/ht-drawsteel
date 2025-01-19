@@ -20,13 +20,13 @@
 
 **2d10 + 3**
 
-- ✦ ≤11: 5 damage; M2 restrained (save ends)
-- ★ 12-16: 9 damage; M3 restrained (save ends)
-- ✸ 17+: 12 damage; M4 restrained (save ends)
+- ✦ ≤11: 5 damage; M2 [[Restrained|restrained]] (save ends)
+- ★ 12-16: 9 damage; M3 [[Restrained|restrained]] (save ends)
+- ✸ 17+: 12 damage; M4 [[Restrained|restrained]] (save ends)
 
 **Effect:** The penteulu deals damage to each target one at a time and can [[Teleport|teleport]] 3 squares after damaging a target.
 
-**3 Malice:** Targets restrained by this ability take an additional **+1**.
+**3 Malice:** Targets [[Restrained|restrained]] by this ability take an additional **+1**.
 
 #### Fairness is a Human Concept (5 Malice)
 
@@ -46,7 +46,7 @@
 
 Trigger: An ally ends their turn.
 
-**Effect:** The target must take their turn now, if they have not already taken it. **P3** The target is bleeding and has a bane on their attacks until the end of their turn.
+**Effect:** The target must take their turn now, if they have not already taken it. **P3** The target is [[Bleeding|bleeding]] and has a bane on their attacks until the end of their turn.
 
 #### You Will ALL Witness my Blade
 
@@ -79,6 +79,6 @@ Trigger: An ally ends their turn.
 
 At the end of their turn, the penteulu can take 5 damage to end one save ends effect affecting them. This damage can't be reduced in any way.
 
-**Hunter's Glamor**
+**[[Hunter]]'s Glamor**
 
 The penteulu immediately [[Hide|hides]] at the end of their turn, even if they are observed.

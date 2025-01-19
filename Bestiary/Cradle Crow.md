@@ -21,7 +21,7 @@
 **2d10 + 2**
 
 - ✦ ≤11: 2 damage
-- ★ 12-16: 4 damage; taunted (EoT)
-- ✸ 17+: 5 damage; taunted (EoT)
+- ★ 12-16: 4 damage; [[Taunted|taunted]] (EoT)
+- ✸ 17+: 5 damage; [[Taunted|taunted]] (EoT)
 
 **Effect:** The cradle crow ignores opportunity attacks from the target until the end of its turn.

@@ -24,8 +24,8 @@
 - ★ 12-16: 5 damage; pull 2 or shift 2 towards target
 - ✸ 17+: 6 damage; pull 3 or shift 3 towards target
 
-**Effect:** If the target ends up in a space adjacent to the tonguer, they are also grabbed.
+**Effect:** If the target ends up in a space adjacent to the tonguer, they are also [[Grabbed|grabbed]].
 
 **Reptilian Escape**
 
-While the tonguer still has a tail, whenever the tonguer is grabbed, slowed, weakened, or knocked prone, the tonguer can lose their tail to immediately end the effect and shift 2.
+While the tonguer still has a tail, whenever the tonguer is [[Grabbed|grabbed]], [[Slowed|slowed]], [[Weakened|weakened]], or knocked [[Prone|prone]], the tonguer can lose their tail to immediately end the effect and shift 2.

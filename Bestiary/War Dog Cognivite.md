@@ -40,7 +40,7 @@
 | Keywords: Area, Psionic | Type: Maneuver                  |
 | Distance: 5 burst       | Target: Each enemy in the burst |
 
-**Effect:** The cognivite chooses an ally within 10 squares, then chooses whether each target is taunted by the ally or the ally has **cover** whenever they're attacked by a target until the start of the cognivite's next turn.
+**Effect:** The cognivite chooses an ally within 10 squares, then chooses whether each target is [[Taunted|taunted]] by the ally or the ally has **cover** whenever they're attacked by a target until the start of the cognivite's next turn.
 
 **Loyalty Collar**
 

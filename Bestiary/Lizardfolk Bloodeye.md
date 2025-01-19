@@ -21,8 +21,8 @@
 **2d10 + 2**
 
 - ✦ ≤11: 3 damage
-- ★ 12-16: 5 damage; A1 restrained (save ends)
-- ✸ 17+: 7 damage; A2 restrained (save ends)
+- ★ 12-16: 5 damage; A1 [[Restrained|restrained]] (save ends)
+- ✸ 17+: 7 damage; A2 [[Restrained|restrained]] (save ends)
 
 #### Bloodshot (2 Malice)
 
@@ -39,4 +39,4 @@
 
 **Reptilian Escape**
 
-While the bloodeye still has a tail, whenever the bloodeye is grabbed, slowed, weakened, or knocked prone, the bloodeye can lose their tail to immediately end the effect and shift 2.
+While the bloodeye still has a tail, whenever the bloodeye is [[Grabbed|grabbed]], [[Slowed|slowed]], [[Weakened|weakened]], or knocked [[Prone|prone]], the bloodeye can lose their tail to immediately end the effect and shift 2.

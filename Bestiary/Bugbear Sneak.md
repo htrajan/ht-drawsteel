@@ -20,9 +20,9 @@
 
 **2d10 + 2**
 
-- ✦ ≤11: 5 damage; A2 grabbed
-- ★ 12-16: 9 damage; A3 grabbed
-- ✸ 17+: 12 damage; grabbed
+- ✦ ≤11: 5 damage; A2 [[Grabbed|grabbed]]
+- ★ 12-16: 9 damage; A3 [[Grabbed|grabbed]]
+- ✸ 17+: 12 damage; [[Grabbed|grabbed]]
 
 **Effect:** The target can't use triggered actions until the start of the next round. This attack has double edge if the sneak started their turn hidden from the target.
 
@@ -50,18 +50,18 @@
 
 **2d10 + 2**
 
-- ✦ ≤11: 5 damage; M1 bleeding (save ends)
-- ★ 12-16: 9 damage; M2 bleeding (save ends)
-- ✸ 17+: 12 damage; M3 bleeding (save ends)
+- ✦ ≤11: 5 damage; M1 [[Bleeding|bleeding]] (save ends)
+- ★ 12-16: 9 damage; M2 [[Bleeding|bleeding]] (save ends)
+- ✸ 17+: 12 damage; M3 [[Bleeding|bleeding]] (save ends)
 
-**Effect:** Targets can't [[Hide|hide]] from the sneak or their allies while bleeding from this ability.
+**Effect:** Targets can't [[Hide|hide]] from the sneak or their allies while [[Bleeding|bleeding]] from this ability.
 
 #### Throw
 
-|                         |                                                   |
-| :---------------------- | :------------------------------------------------ |
-| Keywords: Attack, Melee | Type: Maneuver                                    |
-| Distance: Melee 1       | Target: 1 creature or object grabbed by the sneak |
+|                         |                                                                |
+| :---------------------- | :------------------------------------------------------------- |
+| Keywords: Attack, Melee | Type: Maneuver                                                 |
+| Distance: Melee 1       | Target: 1 creature or object [[Grabbed\|grabbed]] by the sneak |
 
 **Effect:** Vertical push 4. Ally targets don't take damage from being force moved.
 
@@ -74,7 +74,7 @@
 
 Trigger: The target is force moved into a square adjacent to the sneak.
 
-**Effect:** The target is grabbed by the sneak.
+**Effect:** The target is [[Grabbed|grabbed]] by the sneak.
 
 #### Misdirection (1 Malice)
 

@@ -20,9 +20,9 @@
 
 **2d10 + 2**
 
-- ✦ ≤11: 5 damage; M1 bleeding (save ends)
-- ★ 12-16: 9 damage; M2 bleeding (save ends)
-- ✸ 17+: 12 damage; M3 bleeding (save ends)
+- ✦ ≤11: 5 damage; M1 [[Bleeding|bleeding]] (save ends)
+- ★ 12-16: 9 damage; M2 [[Bleeding|bleeding]] (save ends)
+- ✸ 17+: 12 damage; M3 [[Bleeding|bleeding]] (save ends)
 
 **Effect:** The tree guerilla can [[Teleport|teleport]] 3 after making the attack.
 
@@ -39,6 +39,6 @@ Trigger: An ally ends their turn while the tree guerilla hasn't acted this round
 
 **Effect:** The targets take their turn immediately. Each target has **+1** until the end of their turn.
 
-**Hunter's Glamor**
+**[[Hunter]]'s Glamor**
 
 The tree guerilla immediately [[Hide|hides]] at the end of their turn, even if they are observed.

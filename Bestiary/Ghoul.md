@@ -20,9 +20,9 @@
 
 **2d10 + 2**
 
-- ✦ ≤11: 2 damage; M1 bleeding (save ends)
-- ★ 12-16: 4 damage; M2 bleeding (save ends)
-- ✸ 17+: 5 damage; M3 bleeding (save ends)
+- ✦ ≤11: 2 damage; M1 [[Bleeding|bleeding]] (save ends)
+- ★ 12-16: 4 damage; M2 [[Bleeding|bleeding]] (save ends)
+- ✸ 17+: 5 damage; M3 [[Bleeding|bleeding]] (save ends)
 
 #### Leap
 
@@ -31,7 +31,7 @@
 | Keywords: --   | Type: Maneuver |
 | Distance: Self | Target: Self   |
 
-**Effect:** The ghoul leaps 3 squares. If they land on a size 1 enemy, that enemy is knocked prone and the ghoul makes a [[Free Strike|free strike]] against them.
+**Effect:** The ghoul leaps 3 squares. If they land on a size 1 enemy, that enemy is knocked [[Prone|prone]] and the ghoul makes a [[Free Strike|free strike]] against them.
 
 **Hunger**
 
@@ -39,4 +39,4 @@ If the ghoul [[Charge|charges]], their speed increases by 2 until the end of the
 
 **Arise**
 
-The first time the ghoul is reduced to Stamina 0 by damage that isn't fire damage or holy damage and their body isn't destroyed, they regain half their Stamina and fall prone.
+The first time the ghoul is reduced to Stamina 0 by damage that isn't fire damage or holy damage and their body isn't destroyed, they regain half their Stamina and fall [[Prone|prone]].

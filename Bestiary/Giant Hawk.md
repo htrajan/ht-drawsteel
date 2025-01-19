@@ -20,9 +20,9 @@
 
 **2d10 + 2**
 
-- ✦ ≤11: 3 damage; M2 grabbed
-- ★ 12-16: 5 damage; M3 grabbed
-- ✸ 17+: 7 damage; grabbed
+- ✦ ≤11: 3 damage; M2 [[Grabbed|grabbed]]
+- ★ 12-16: 5 damage; M3 [[Grabbed|grabbed]]
+- ✸ 17+: 7 damage; [[Grabbed|grabbed]]
 
 #### Dive
 

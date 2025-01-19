@@ -45,4 +45,4 @@ The wodenelg's rider has **+3** to Stability.
 
 **Shared Glamor**
 
-If the wodenelg's rider has the Masking Glamor or Hunter's Glamor trait, they also gain the trait's benefits.
+If the wodenelg's rider has the Masking Glamor or [[Hunter]]'s Glamor trait, they also gain the trait's benefits.
