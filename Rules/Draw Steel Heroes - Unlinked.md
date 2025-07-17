@@ -1,6 +1,6 @@
-# introduction
+# Introduction
 
-# What is this Game?
+## What is this Game?
 
 This is a game about fighting monsters. About larger-than-life, extraordinary heroes plunging into battle against terrifying, monstrous enemies.
 
@@ -26,7 +26,23 @@ But "heroic fantasy" is still a little too broad for our purposes, so we added t
 
 These terms are just guidelines. A vibe. But we find them useful when trying to choose between different features. "Both of these ideas are cool, but which is the most cinematic? The most heroic?"
 
+**Scalar Assault (11 Discipline)**
+
 So let's talk about what we mean when we use these terms.
+
+######## Scalar Assault (11 Discipline)
+
+*You warp reality to grow a limb for just a moment and make a single devastating attack.*
+
+| Area, Psionic                              | Main action                                             |
+| ------------------------------------------ | ------------------------------------------------------- |
+| Image: triangle ruler icon 3 cube within 1 | Image: target/psionic swirl icon Each enemy in the area |
+
+**Power Roll + Agility:**
+
+- **\<11:** 12 psychic damage; push 3
+- **12-16:** 17 psychic damage; push 5
+- **17+:** 23 psychic damage; push 7
 
 | foo | bar      |
 | --- | -------- |
