@@ -9,7 +9,7 @@ file_dpath: Monsters/Demons/Statblocks
 free_strike: 5
 intuition: 2
 item_id: chorogaunt
-item_index: '258'
+item_index: '05'
 item_name: Chorogaunt
 level: 3
 might: 2
@@ -18,24 +18,24 @@ reason: 2
 roles:
   - Leader
 scc:
-  - mcdm.monsters.v1:monster:chorogaunt
+  - mcdm.monsters.v1:monster.demons.statblock:chorogaunt
 scdc:
-  - 1.1.1:2:258
+  - 1.1.1:2.35.1:05
 size: 1L
 source: mcdm.monsters.v1
 speed: 5
 stability: 2
 stamina: '120'
-type: monster
+type: monster/demons/statblock
 ---
 
 ###### Chorogaunt
 
-|   Abyssal, Demon    |          -          |       Level 3        |         Leader          |           EV 20            |
-| :-----------------: | :-----------------: | :------------------: | :---------------------: | :------------------------: |
-|  **1L**<br/> Size   |  **5**<br/> Speed   | **120**<br/> Stamina |  **2**<br/> Stability   |   **5**<br/> Free Strike   |
-| **-**<br/> Immunity | **-**<br/> Movement |          -           | **-**<br/> With Captain | **Holy 5**<br/> Weaknesses |
-|  **+2**<br/> Might  | **+2**<br/> Agility |  **+2**<br/> Reason  |  **+2**<br/> Intuition  |    **+3**<br/> Presence    |
+|   Abyssal, Demon    |          -          |       Level 3        |         Leader          |          EV 20           |
+| :-----------------: | :-----------------: | :------------------: | :---------------------: | :----------------------: |
+|  **1L**<br/> Size   |  **5**<br/> Speed   | **120**<br/> Stamina |  **2**<br/> Stability   |  **5**<br/> Free Strike  |
+| **-**<br/> Immunity | **-**<br/> Movement |          -           | **-**<br/> With Captain | **Holy 5**<br/> Weakness |
+|  **+2**<br/> Might  | **+2**<br/> Agility |  **+2**<br/> Reason  |  **+2**<br/> Intuition  |   **+3**<br/> Presence   |
 
 <!-- -->
 > ❇️ **Agonizing Harmony (Signature Ability)**

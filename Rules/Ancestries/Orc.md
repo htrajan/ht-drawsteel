@@ -14,7 +14,7 @@ type: ancestry
 
 ## Orc
 
-An anger that cannot be hidden. A fury that drives them in battle. Orcs are famed throughout the world as consummate warriors-a reputation that the peace-loving orcs find
+An anger that cannot be hidden. A fury that drives them in battle. Orcs are famed throughout the world as consummate warriors—a reputation that the peace—loving orcs find distasteful.
 
 The fifth of the speaking peoples, orcs arrived on Orden after humans and elves. They made their homes in the borderlands between those two cultures, preferring the natural forests and avoiding the elf-haunted wodes. For generations, this put them directly in the path of humans who cut down the trees and built roads and farms.
 
@@ -84,9 +84,7 @@ John smiled. "My sister liked fishing too."
 
 "Why not talk to my brother?"
 
-"Because we are not fools," Embers said, and Khorva locked eyes with her, standing a little straighter. The orc's brown eyes burned and it
-
-seemed the group rose somewhat in her estimation. She nodded once. "The folk of farm and field go to war," Dazar said, using the orcish term for humans. "A war against Lord Saxton and his priest."
+"Because we are not fools," Embers said, and Khorva locked eyes with her, standing a little straighter. The orc's brown eyes burned and it seemed the group rose somewhat in her estimation. She nodded once. "The folk of farm and field go to war," Dazar said, using the orcish term for humans. "A war against Lord Saxton and his priest."
 
 Khorva turned to John. "How is this your matter?"
 
@@ -130,9 +128,7 @@ Khorva shook her head. "Orcs have no great love for battle. We love trees and gr
 
 "It's about living with yourself. Sleeping at night."
 
-"Battles do not bring restful sleep," Khorva said. "The opposite, I find." "Battles bring glory! Battles make heroes!" Dazar insisted, and John
-
-felt like he learned something about the dwarf in that moment. He could hear that Dazar believed this to be true, and knew it was a lie. It was a test.
+"Battles do not bring restful sleep," Khorva said. "The opposite, I find." "Battles bring glory! Battles make heroes!" Dazar insisted, and John felt like he learned something about the dwarf in that moment. He could hear that Dazar believed this to be true, and knew it was a lie. It was a test.
 
 "War makes only one thing. Corpses." Khorva looked down at the high theochron, who nodded. Test passed.
 

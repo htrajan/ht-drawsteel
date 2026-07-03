@@ -6,10 +6,10 @@ ancestry:
 ev: '48'
 file_basename: Logostician Vesper
 file_dpath: Monsters/War Dogs/Statblocks
-free_strike: 0
+free_strike: 10
 intuition: 4
 item_id: logostician-vesper
-item_index: '394'
+item_index: '44'
 item_name: Logostician Vesper
 level: 10
 might: 2
@@ -18,24 +18,24 @@ reason: 5
 roles:
   - Elite Controller
 scc:
-  - mcdm.monsters.v1:monster:logostician-vesper
+  - mcdm.monsters.v1:monster.war-dogs.statblock:logostician-vesper
 scdc:
-  - 1.1.1:2:394
+  - 1.1.1:2.51.1:44
 size: '2'
 source: mcdm.monsters.v1
-speed: 1
-stability: 1
-stamina: '02533'
-type: monster
+speed: 10
+stability: 3
+stamina: '253'
+type: monster/war-dogs/statblock
 ---
 
 ###### Logostician Vesper
 
-|  Soulless, War Dog  |          -          |        Level 10        |    Elite Controller     |         EV 48          |
-| :-----------------: | :-----------------: | :--------------------: | :---------------------: | :--------------------: |
-|   **2**<br/> Size   |  **1**<br/> Speed   | **02533**<br/> Stamina |  **1**<br/> Stability   | **0**<br/> Free Strike |
-| **-**<br/> Immunity | **-**<br/> Movement |           -            | **-**<br/> With Captain | **-**<br/> Weaknesses  |
-|  **+2**<br/> Might  | **+1**<br/> Agility |   **+5**<br/> Reason   |  **+4**<br/> Intuition  |  **+1**<br/> Presence  |
+|  Soulless, War Dog  |          -          |       Level 10       |    Elite Controller     |          EV 48          |
+| :-----------------: | :-----------------: | :------------------: | :---------------------: | :---------------------: |
+|   **2**<br/> Size   |  **10**<br/> Speed  | **253**<br/> Stamina |  **3**<br/> Stability   | **10**<br/> Free Strike |
+| **-**<br/> Immunity | **-**<br/> Movement |          -           | **-**<br/> With Captain |   **-**<br/> Weakness   |
+|  **+2**<br/> Might  | **+1**<br/> Agility |  **+5**<br/> Reason  |  **+4**<br/> Intuition  |  **+1**<br/> Presence   |
 
 <!-- -->
 > 🔳 **Portal to the Firing Line (Signature Ability)**
@@ -78,11 +78,13 @@ type: monster
 > | ----------------------- | ------------------------------------------: |
 > | **📏 5 cube within 15** | **🎯 Each creature and object in the area** |
 >
+> **Power Roll + 5:**
+>
 > - **≤11:** A < 4 pull 3 toward the center of the area
 > - **12-16:** A < 5 pull 3 toward the center of the area
 > - **17+:** Pull 3 toward the center of the area
 >
-> **Effect:** A portal appears at the center of the area. Any creature at the center of the area when this ability is used or who is pulled into the center for the first time in a round takes 10 sonic damage
+> **Effect:** A portal appears at the center of the area. Any creature at the center of the area when this ability is used or who is pulled into the center for the first time in a round takes 10 sonic damage.
 >
 > **2 Malice:** The area remains active and deals its damage until Vesper is reduced to 0 Stamina or until the end of the encounter. Any creature who enters the area and has A < 4 is pulled 3 squares toward the center of the area. Any creature who starts their turn in the area and has M < 4 is slowed until the end of their turn.
 

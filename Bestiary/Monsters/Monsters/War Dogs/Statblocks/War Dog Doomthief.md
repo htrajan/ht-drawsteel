@@ -10,7 +10,7 @@ file_dpath: Monsters/War Dogs/Statblocks
 free_strike: 3
 intuition: 3
 item_id: war-dog-doomthief
-item_index: '390'
+item_index: '40'
 item_name: War Dog Doomthief
 level: 5
 might: 3
@@ -19,15 +19,15 @@ reason: 0
 roles:
   - Horde Defender
 scc:
-  - mcdm.monsters.v1:monster:war-dog-doomthief
+  - mcdm.monsters.v1:monster.war-dogs.statblock:war-dog-doomthief
 scdc:
-  - 1.1.1:2:390
+  - 1.1.1:2.51.1:40
 size: 1L
 source: mcdm.monsters.v1
 speed: 5
 stability: 2
 stamina: '40'
-type: monster
+type: monster/war-dogs/statblock
 ---
 
 ###### War Dog Doomthief
@@ -35,7 +35,7 @@ type: monster
 | Humanoid, Soulless, War Dog |          -          |       Level 5       |     Horde Defender      |          EV 7          |
 | :-------------------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |      **1L**<br/> Size       |  **5**<br/> Speed   | **40**<br/> Stamina |  **2**<br/> Stability   | **3**<br/> Free Strike |
-|     **-**<br/> Immunity     | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+|     **-**<br/> Immunity     | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |      **+3**<br/> Might      | **-1**<br/> Agility |  **0**<br/> Reason  |  **+3**<br/> Intuition  |  **+1**<br/> Presence  |
 
 <!-- -->
@@ -56,7 +56,7 @@ type: monster
 <!-- -->
 > ⭐️ **Doom Magnet**
 >
-> The doomthief emits a 3 aura of warped fate that blocks line of effect for any enemy ability that doesn't include them as a target
+> The doomthief emits a 3 aura of warped fate that blocks line of effect for any enemy ability that doesn't include them as a target.
 
 <!-- -->
 > 👤 **Expanding Doom (4 Malice)**

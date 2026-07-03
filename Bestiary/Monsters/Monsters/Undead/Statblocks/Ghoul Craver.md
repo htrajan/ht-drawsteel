@@ -8,7 +8,7 @@ file_dpath: Monsters/Undead/Statblocks
 free_strike: 2
 intuition: 0
 item_id: ghoul-craver
-item_index: '70'
+item_index: '18'
 item_name: Ghoul Craver
 level: 4
 might: 3
@@ -17,15 +17,15 @@ reason: 0
 roles:
   - Minion Harrier
 scc:
-  - mcdm.monsters.v1:monster:ghoul-craver
+  - mcdm.monsters.v1:monster.undead.statblock:ghoul-craver
 scdc:
-  - 1.1.1:2:70
+  - 1.1.1:2.8.1:18
 size: 1M
 source: mcdm.monsters.v1
 speed: 7
 stability: 0
 stamina: '8'
-type: monster
+type: monster/undead/statblock
 ---
 
 ###### Ghoul Craver
@@ -33,7 +33,7 @@ type: monster
 |                  Undead                  |            -            |      Level 4       |                  Minion Harrier                  | EV 6 for four minions  |
 | :--------------------------------------: | :---------------------: | :----------------: | :----------------------------------------------: | :--------------------: |
 |             **1M**<br/> Size             |    **7**<br/> Speed     | **8**<br/> Stamina |               **0**<br/> Stability               | **2**<br/> Free Strike |
-| **Corruption 4, poison 4**<br/> Immunity | **Climb**<br/> Movement |         -          | **+2 damage bonus to strikes**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Corruption 4, poison 4**<br/> Immunity | **Climb**<br/> Movement |         -          | **+2 damage bonus to strikes**<br/> With Captain |  **-**<br/> Weakness   |
 |            **+3**<br/> Might             |   **+2**<br/> Agility   | **0**<br/> Reason  |               **0**<br/> Intuition               |  **0**<br/> Presence   |
 
 <!-- -->
@@ -54,7 +54,7 @@ type: monster
 <!-- -->
 > ⭐️ **Ever So Hungry**
 >
-> Any enemy adjacent to three or more ghoul cravers can't shift
+> Any enemy adjacent to three or more ghoul cravers can't shift.
 
 <!-- -->
 > ⭐️ **Hunger**

@@ -8,7 +8,7 @@ file_dpath: Monsters/Undead/Statblocks
 free_strike: 2
 intuition: 0
 item_id: umbral-stalker
-item_index: '58'
+item_index: '06'
 item_name: Umbral Stalker
 level: 1
 might: 0
@@ -17,15 +17,15 @@ reason: 0
 roles:
   - Horde Ambusher
 scc:
-  - mcdm.monsters.v1:monster:umbral-stalker
+  - mcdm.monsters.v1:monster.undead.statblock:umbral-stalker
 scdc:
-  - 1.1.1:2:58
+  - 1.1.1:2.8.1:06
 size: 1M
 source: mcdm.monsters.v1
 speed: 7
 stability: 1
 stamina: '15'
-type: monster
+type: monster/undead/statblock
 ---
 
 ###### Umbral Stalker
@@ -33,7 +33,7 @@ type: monster
 |                  Undead                  |            -            |       Level 1       |     Horde Ambusher      |          EV 3          |
 | :--------------------------------------: | :---------------------: | :-----------------: | :---------------------: | :--------------------: |
 |             **1M**<br/> Size             |    **7**<br/> Speed     | **15**<br/> Stamina |  **1**<br/> Stability   | **2**<br/> Free Strike |
-| **Corruption 1, poison 1**<br/> Immunity | **Climb**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Corruption 1, poison 1**<br/> Immunity | **Climb**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |             **0**<br/> Might             |   **+2**<br/> Agility   |  **0**<br/> Reason  |  **0**<br/> Intuition   |  **+1**<br/> Presence  |
 
 <!-- -->
@@ -62,7 +62,7 @@ type: monster
 > - **12-16:** 3 cold damage
 > - **17+:** 4 cold damage
 >
-> **Effect:** Until the end of the stalker's next turn, the area provides concealment, and blocks line of effect for enemies
+> **Effect:** Until the end of the stalker's next turn, the area provides concealment, and blocks line of effect for enemies.
 
 <!-- -->
 > 👤 **Shadow Jump (1 Malice)**

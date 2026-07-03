@@ -10,7 +10,7 @@ file_dpath: Monsters/Draconians/Statblocks
 free_strike: 7
 intuition: 0
 item_id: phrrygalax-the-subduer
-item_index: '103'
+item_index: '03'
 item_name: Phrrygalax the Subduer
 level: 6
 might: 3
@@ -19,15 +19,15 @@ reason: 0
 roles:
   - Elite Brute
 scc:
-  - mcdm.monsters.v1:monster:phrrygalax-the-subduer
+  - mcdm.monsters.v1:monster.draconians.statblock:phrrygalax-the-subduer
 scdc:
-  - 1.1.1:2:103
+  - 1.1.1:2.11.1:03
 size: 1L
 source: mcdm.monsters.v1
 speed: 5
 stability: 3
 stamina: '180'
-type: monster
+type: monster/draconians/statblock
 ---
 
 ###### Phrrygalax the Subduer
@@ -35,7 +35,7 @@ type: monster
 | Draconian, Dragon, Humanoid |           -           |       Level 6        |       Elite Brute       |         EV 32          |
 | :-------------------------: | :-------------------: | :------------------: | :---------------------: | :--------------------: |
 |      **1L**<br/> Size       |   **5**<br/> Speed    | **180**<br/> Stamina |  **3**<br/> Stability   | **7**<br/> Free Strike |
-|  **Fire 6**<br/> Immunity   | **Fly**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+|  **Fire 6**<br/> Immunity   | **Fly**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |      **+3**<br/> Might      |  **+2**<br/> Agility  |  **+0**<br/> Reason  |  **+0**<br/> Intuition  |  **+3**<br/> Presence  |
 
 <!-- -->

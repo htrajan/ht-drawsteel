@@ -8,7 +8,7 @@ file_dpath: Monsters/Elementals/Statblocks
 free_strike: 6
 intuition: 1
 item_id: crux-of-fire
-item_index: '327'
+item_index: '05'
 item_name: Crux of Fire
 level: 3
 might: -1
@@ -17,15 +17,15 @@ reason: 0
 roles:
   - Elite Artillery
 scc:
-  - mcdm.monsters.v1:monster:crux-of-fire
+  - mcdm.monsters.v1:monster.elementals.statblock:crux-of-fire
 scdc:
-  - 1.1.1:2:327
+  - 1.1.1:2.42.1:05
 size: 1T
 source: mcdm.monsters.v1
 speed: 6
 stability: 0
 stamina: '80'
-type: monster
+type: monster/elementals/statblock
 ---
 
 ###### Crux of Fire
@@ -33,7 +33,7 @@ type: monster
 |        Elemental         |          -          |       Level 3       |     Elite Artillery     |         EV 20          |
 | :----------------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |     **1T**<br/> Size     |  **6**<br/> Speed   | **80**<br/> Stamina |  **0**<br/> Stability   | **6**<br/> Free Strike |
-| **Fire 5**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Fire 5**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |    **-1**<br/> Might     | **+2**<br/> Agility | **+0**<br/> Reason  |  **+1**<br/> Intuition  |  **+2**<br/> Presence  |
 
 <!-- -->

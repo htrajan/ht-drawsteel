@@ -9,7 +9,7 @@ file_dpath: Monsters/Angulotls/Statblocks
 free_strike: 4
 intuition: 2
 item_id: angulotl-daybringer
-item_index: '243'
+item_index: '06'
 item_name: Angulotl Daybringer
 level: 1
 might: 3
@@ -18,15 +18,15 @@ reason: 0
 roles:
   - Leader
 scc:
-  - mcdm.monsters.v1:monster:angulotl-daybringer
+  - mcdm.monsters.v1:monster.angulotls.statblock:angulotl-daybringer
 scdc:
-  - 1.1.1:2:243
+  - 1.1.1:2.31.1:06
 size: 1M
 source: mcdm.monsters.v1
 speed: 5
 stability: 1
 stamina: '80'
-type: monster
+type: monster/angulotls/statblock
 ---
 
 ###### Angulotl Daybringer
@@ -34,7 +34,7 @@ type: monster
 |     Angulotl, Humanoid     |               -               |       Level 1       |         Leader          |         EV 12          |
 | :------------------------: | :---------------------------: | :-----------------: | :---------------------: | :--------------------: |
 |      **1M**<br/> Size      |       **5**<br/> Speed        | **80**<br/> Stamina |  **1**<br/> Stability   | **4**<br/> Free Strike |
-| **Poison 3**<br/> Immunity | **Climb, swim**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Poison 3**<br/> Immunity | **Climb, swim**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |     **+3**<br/> Might      |      **+2**<br/> Agility      | **+0**<br/> Reason  |  **+2**<br/> Intuition  |  **+0**<br/> Presence  |
 
 <!-- -->
@@ -111,4 +111,4 @@ type: monster
 <!-- -->
 > ⭐️ **Toxiferous**
 >
-> Whenever an adjacent enemy grabs the daybringer or uses a me lee ability against them, that enemy takes 3 poison damage.
+> Whenever an adjacent enemy grabs the daybringer or uses a melee ability against them, that enemy takes 3 poison damage.

@@ -10,7 +10,7 @@ file_dpath: Monsters/Demons/Statblocks
 free_strike: 3
 intuition: 2
 item_id: soulraker-praetorian
-item_index: '263'
+item_index: '10'
 item_name: Soulraker Praetorian
 level: 7
 might: 2
@@ -19,24 +19,24 @@ reason: 0
 roles:
   - Horde Harrier
 scc:
-  - mcdm.monsters.v1:monster:soulraker-praetorian
+  - mcdm.monsters.v1:monster.demons.statblock:soulraker-praetorian
 scdc:
-  - 1.1.1:2:263
+  - 1.1.1:2.35.1:10
 size: 1L
 source: mcdm.monsters.v1
 speed: 8
 stability: 0
 stamina: '45'
-type: monster
+type: monster/demons/statblock
 ---
 
 ###### Soulraker Praetorian
 
-| Abyssal, Demon, Soulraker |          -          |       Level 7       |      Horde Harrier      |            EV 9            |
-| :-----------------------: | :-----------------: | :-----------------: | :---------------------: | :------------------------: |
-|     **1L**<br/> Size      |  **8**<br/> Speed   | **45**<br/> Stamina |  **0**<br/> Stability   |   **3**<br/> Free Strike   |
-|    **-**<br/> Immunity    | **-**<br/> Movement |          -          | **-**<br/> With Captain | **Holy 5**<br/> Weaknesses |
-|     **+2**<br/> Might     | **+4**<br/> Agility | **+0**<br/> Reason  |  **+2**<br/> Intuition  |    **+0**<br/> Presence    |
+| Abyssal, Demon, Soulraker |          -          |       Level 7       |      Horde Harrier      |           EV 9           |
+| :-----------------------: | :-----------------: | :-----------------: | :---------------------: | :----------------------: |
+|     **1L**<br/> Size      |  **8**<br/> Speed   | **45**<br/> Stamina |  **0**<br/> Stability   |  **3**<br/> Free Strike  |
+|    **-**<br/> Immunity    | **-**<br/> Movement |          -          | **-**<br/> With Captain | **Holy 5**<br/> Weakness |
+|     **+2**<br/> Might     | **+4**<br/> Agility | **+0**<br/> Reason  |  **+2**<br/> Intuition  |   **+0**<br/> Presence   |
 
 <!-- -->
 > 🗡 **Barbed Stinger (Signature Ability)**

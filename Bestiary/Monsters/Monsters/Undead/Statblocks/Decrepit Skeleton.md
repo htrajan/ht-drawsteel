@@ -9,7 +9,7 @@ file_dpath: Monsters/Undead/Statblocks
 free_strike: 2
 intuition: 0
 item_id: decrepit-skeleton
-item_index: '82'
+item_index: '30'
 item_name: Decrepit Skeleton
 level: 1
 might: 0
@@ -18,15 +18,15 @@ reason: -2
 roles:
   - Minion Artillery
 scc:
-  - mcdm.monsters.v1:monster:decrepit-skeleton
+  - mcdm.monsters.v1:monster.undead.statblock:decrepit-skeleton
 scdc:
-  - 1.1.1:2:82
+  - 1.1.1:2.8.1:30
 size: 1M
 source: mcdm.monsters.v1
 speed: 5
 stability: 0
 stamina: '3'
-type: monster
+type: monster/undead/statblock
 ---
 
 ###### Decrepit Skeleton
@@ -34,7 +34,7 @@ type: monster
 |             Undead, Soulless             |          -          |      Level 1       |               Minion Artillery                | EV 3 for four minions  |
 | :--------------------------------------: | :-----------------: | :----------------: | :-------------------------------------------: | :--------------------: |
 |             **1M**<br/> Size             |  **5**<br/> Speed   | **3**<br/> Stamina |             **0**<br/> Stability              | **2**<br/> Free Strike |
-| **Corruption 1, poison 1**<br/> Immunity | **-**<br/> Movement |         -          | **Gain an edge on strikes**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Corruption 1, poison 1**<br/> Immunity | **-**<br/> Movement |         -          | **Gain an edge on strikes**<br/> With Captain |  **-**<br/> Weakness   |
 |             **0**<br/> Might             | **+2**<br/> Agility | **-2**<br/> Reason |             **0**<br/> Intuition              |  **-2**<br/> Presence  |
 
 <!-- -->

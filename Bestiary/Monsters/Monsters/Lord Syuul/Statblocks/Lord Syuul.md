@@ -9,7 +9,7 @@ file_dpath: Monsters/Lord Syuul/Statblocks
 free_strike: 7
 intuition: 4
 item_id: lord-syuul
-item_index: '236'
+item_index: '01'
 item_name: Lord Syuul
 level: 6
 might: 1
@@ -18,15 +18,15 @@ reason: 4
 roles:
   - Solo
 scc:
-  - mcdm.monsters.v1:monster:lord-syuul
+  - mcdm.monsters.v1:monster.lord-syuul.statblock:lord-syuul
 scdc:
-  - 1.1.1:2:236
+  - 1.1.1:2.29.1:01
 size: 1M
 source: mcdm.monsters.v1
 speed: 7
 stability: 3
 stamina: '450'
-type: monster
+type: monster/lord-syuul/statblock
 ---
 
 ###### Lord Syuul
@@ -34,7 +34,7 @@ type: monster
 |   Horror, Voiceless Talker   |                 -                 |       Level 6        |          Solo           |         EV 96          |
 | :--------------------------: | :-------------------------------: | :------------------: | :---------------------: | :--------------------: |
 |       **1M**<br/> Size       |         **7**<br/> Speed          | **450**<br/> Stamina |  **3**<br/> Stability   | **7**<br/> Free Strike |
-| **Psychic 10**<br/> Immunity | **Hover, teleport**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Psychic 10**<br/> Immunity | **Hover, teleport**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |      **+1**<br/> Might       |        **+3**<br/> Agility        |  **+4**<br/> Reason  |  **+4**<br/> Intuition  |  **+3**<br/> Presence  |
 
 <!-- -->
@@ -96,7 +96,7 @@ type: monster
 > | ----------- | -----------: |
 > | **📏 Self** |  **🎯 Self** |
 >
-> Lord Syuul can teleport up to 5 squares along with each creature and object he has grabbed. He can release grabbed creatures and objects before or after teleporting
+> Lord Syuul can teleport up to 5 squares along with each creature and object he has grabbed. He can release grabbed creatures and objects before or after teleporting.
 
 <!-- -->
 > ❗️ **Adaptability**
@@ -123,7 +123,7 @@ type: monster
 >
 > **Effect:** Each target makes an **Intuition test**.
 >
-> - **≤11:** 16 psychic damage; the target has no line of effect to any creture except Lord Syuul, and takes a bane on strikes targeting Lord Syuul (save ends)
+> - **≤11:** 16 psychic damage; the target has no line of effect to any creature except Lord Syuul, and takes a bane on strikes targeting Lord Syuul (save ends)
 > - **12-16:** 13 psychic damage; the target has no line of effect to any creature except Lord Syuul (save ends)
 > - **17+:** 7 psychic damage
 

@@ -9,7 +9,7 @@ file_dpath: Monsters/Orcs/Statblocks
 free_strike: 1
 intuition: 0
 item_id: orc-blitzer
-item_index: '133'
+item_index: '11'
 item_name: Orc Blitzer
 level: 1
 might: 1
@@ -18,15 +18,15 @@ reason: 0
 roles:
   - Minion Harrier
 scc:
-  - mcdm.monsters.v1:monster:orc-blitzer
+  - mcdm.monsters.v1:monster.orcs.statblock:orc-blitzer
 scdc:
-  - 1.1.1:2:133
+  - 1.1.1:2.16.1:11
 size: 1M
 source: mcdm.monsters.v1
 speed: 7
 stability: 0
 stamina: '4'
-type: monster
+type: monster/orcs/statblock
 ---
 
 ###### Orc Blitzer
@@ -34,7 +34,7 @@ type: monster
 |    Humanoid, Orc    |          -          |      Level 1       |             Minion Harrier              | EV 3 for four minions  |
 | :-----------------: | :-----------------: | :----------------: | :-------------------------------------: | :--------------------: |
 |  **1M**<br/> Size   |  **7**<br/> Speed   | **4**<br/> Stamina |          **0**<br/> Stability           | **1**<br/> Free Strike |
-| **-**<br/> Immunity | **-**<br/> Movement |         -          | **+2 bonus to speed**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **-**<br/> Movement |         -          | **+2 bonus to speed**<br/> With Captain |  **-**<br/> Weakness   |
 |  **+1**<br/> Might  | **+2**<br/> Agility | **0**<br/> Reason  |          **0**<br/> Intuition           |  **0**<br/> Presence   |
 
 <!-- -->

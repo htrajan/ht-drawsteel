@@ -9,7 +9,7 @@ file_dpath: Monsters/Angulotls/Statblocks
 free_strike: 2
 intuition: 0
 item_id: angulotl-needler
-item_index: '244'
+item_index: '07'
 item_name: Angulotl Needler
 level: 1
 might: 0
@@ -18,15 +18,15 @@ reason: 1
 roles:
   - Horde Artillery
 scc:
-  - mcdm.monsters.v1:monster:angulotl-needler
+  - mcdm.monsters.v1:monster.angulotls.statblock:angulotl-needler
 scdc:
-  - 1.1.1:2:244
+  - 1.1.1:2.31.1:07
 size: 1S
 source: mcdm.monsters.v1
 speed: 5
 stability: 0
 stamina: '10'
-type: monster
+type: monster/angulotls/statblock
 ---
 
 ###### Angulotl Needler
@@ -34,7 +34,7 @@ type: monster
 |     Angulotl, Humanoid     |               -               |       Level 1       |     Horde Artillery     |          EV 3          |
 | :------------------------: | :---------------------------: | :-----------------: | :---------------------: | :--------------------: |
 |      **1S**<br/> Size      |       **5**<br/> Speed        | **10**<br/> Stamina |  **0**<br/> Stability   | **2**<br/> Free Strike |
-| **Poison 2**<br/> Immunity | **Climb, swim**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Poison 2**<br/> Immunity | **Climb, swim**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |     **+0**<br/> Might      |      **+2**<br/> Agility      | **+1**<br/> Reason  |  **0**<br/> Intuition   |  **-1**<br/> Presence  |
 
 <!-- -->

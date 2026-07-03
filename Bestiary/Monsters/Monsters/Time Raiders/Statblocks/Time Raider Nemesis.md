@@ -9,7 +9,7 @@ file_dpath: Monsters/Time Raiders/Statblocks
 free_strike: 5
 intuition: 1
 item_id: time-raider-nemesis
-item_index: '142'
+item_index: '04'
 item_name: Time Raider Nemesis
 level: 3
 might: 1
@@ -18,15 +18,15 @@ reason: 2
 roles:
   - Platoon Harrier
 scc:
-  - mcdm.monsters.v1:monster:time-raider-nemesis
+  - mcdm.monsters.v1:monster.time-raiders.statblock:time-raider-nemesis
 scdc:
-  - 1.1.1:2:142
+  - 1.1.1:2.18.1:04
 size: 1M
 source: mcdm.monsters.v1
 speed: 7
 stability: 0
 stamina: '50'
-type: monster
+type: monster/time-raiders/statblock
 ---
 
 ###### Time Raider Nemesis
@@ -34,7 +34,7 @@ type: monster
 |    Humanoid, Time Raider    |           -           |       Level 3       |     Platoon Harrier     |         EV 10          |
 | :-------------------------: | :-------------------: | :-----------------: | :---------------------: | :--------------------: |
 |      **1M**<br/> Size       |   **7**<br/> Speed    | **50**<br/> Stamina |  **0**<br/> Stability   | **5**<br/> Free Strike |
-| **Psychic 3**<br/> Immunity | **Fly**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Psychic 3**<br/> Immunity | **Fly**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |      **+1**<br/> Might      |  **+2**<br/> Agility  | **+2**<br/> Reason  |  **+1**<br/> Intuition  |  **0**<br/> Presence   |
 
 <!-- -->
@@ -42,7 +42,7 @@ type: monster
 >
 > | **Melee, Psionic, Strike, Weapon** |               **Main action** |
 > | ---------------------------------- | ----------------------------: |
-> | **📏 Ranged 10**                   | **🎯 One creature or object** |
+> | **📏 Melee 2**                     | **🎯 One creature or object** |
 >
 > **Power Roll + 2:**
 >

@@ -9,7 +9,7 @@ file_dpath: Monsters/Voiceless Talkers/Statblocks
 free_strike: 7
 intuition: 1
 item_id: voiceless-talker-evolutionist
-item_index: '339'
+item_index: '04'
 item_name: Voiceless Talker Evolutionist
 level: 6
 might: 0
@@ -18,15 +18,15 @@ reason: 4
 roles:
   - Leader
 scc:
-  - mcdm.monsters.v1:monster:voiceless-talker-evolutionist
+  - mcdm.monsters.v1:monster.voiceless-talkers.statblock:voiceless-talker-evolutionist
 scdc:
-  - 1.1.1:2:339
+  - 1.1.1:2.46.1:04
 size: 1M
 source: mcdm.monsters.v1
 speed: 5
 stability: 2
 stamina: '180'
-type: monster
+type: monster/voiceless-talkers/statblock
 ---
 
 ###### Voiceless Talker Evolutionist
@@ -34,7 +34,7 @@ type: monster
 |  Horror, Voiceless Talker   |                 -                 |       Level 6        |         Leader          |         EV 32          |
 | :-------------------------: | :-------------------------------: | :------------------: | :---------------------: | :--------------------: |
 |      **1M**<br/> Size       |         **5**<br/> Speed          | **180**<br/> Stamina |  **2**<br/> Stability   | **7**<br/> Free Strike |
-| **Psychic 8**<br/> Immunity | **Hover, teleport**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Psychic 8**<br/> Immunity | **Hover, teleport**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |      **0**<br/> Might       |        **+3**<br/> Agility        |  **+4**<br/> Reason  |  **+1**<br/> Intuition  |  **+2**<br/> Presence  |
 
 <!-- -->

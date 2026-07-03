@@ -10,7 +10,7 @@ file_dpath: Monsters/Elves High/Statblocks
 free_strike: 5
 intuition: 2
 item_id: high-elf-orbweaver
-item_index: '109'
+item_index: '02'
 item_name: High Elf Orbweaver
 level: 3
 might: 0
@@ -19,15 +19,15 @@ reason: 2
 roles:
   - Platoon Hexer
 scc:
-  - mcdm.monsters.v1:monster:high-elf-orbweaver
+  - mcdm.monsters.v1:monster.elves-high.statblock:high-elf-orbweaver
 scdc:
-  - 1.1.1:2:109
+  - 1.1.1:2.14.1:02
 size: 1M
 source: mcdm.monsters.v1
 speed: 5
 stability: 0
 stamina: '40'
-type: monster
+type: monster/elves-high/statblock
 ---
 
 ###### High Elf Orbweaver
@@ -35,7 +35,7 @@ type: monster
 | Fey, High Elf, Humanoid |          -          |       Level 3       |      Platoon Hexer      |         EV 10          |
 | :---------------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |    **1M**<br/> Size     |  **5**<br/> Speed   | **40**<br/> Stamina |  **0**<br/> Stability   | **5**<br/> Free Strike |
-|   **-**<br/> Immunity   | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+|   **-**<br/> Immunity   | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |    **0**<br/> Might     | **0**<br/> Agility  | **+2**<br/> Reason  |  **+2**<br/> Intuition  |  **+2**<br/> Presence  |
 
 <!-- -->

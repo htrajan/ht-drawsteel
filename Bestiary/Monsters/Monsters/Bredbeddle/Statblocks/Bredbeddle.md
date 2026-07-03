@@ -9,7 +9,7 @@ file_dpath: Monsters/Bredbeddle/Statblocks
 free_strike: 6
 intuition: 2
 item_id: bredbeddle
-item_index: '205'
+item_index: '01'
 item_name: Bredbeddle
 level: 3
 might: 3
@@ -18,15 +18,15 @@ reason: -3
 roles:
   - Solo
 scc:
-  - mcdm.monsters.v1:monster:bredbeddle
+  - mcdm.monsters.v1:monster.bredbeddle.statblock:bredbeddle
 scdc:
-  - 1.1.1:2:205
+  - 1.1.1:2.24.1:01
 size: '2'
 source: mcdm.monsters.v1
 speed: 5
 stability: 4
 stamina: '300'
-type: monster
+type: monster/bredbeddle/statblock
 ---
 
 ###### Bredbeddle
@@ -34,7 +34,7 @@ type: monster
 |  Bredbeddle, Giant  |          -          |       Level 3        |          Solo           |         EV 60          |
 | :-----------------: | :-----------------: | :------------------: | :---------------------: | :--------------------: |
 |   **2**<br/> Size   |  **5**<br/> Speed   | **300**<br/> Stamina |  **4**<br/> Stability   | **6**<br/> Free Strike |
-| **-**<br/> Immunity | **-**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **-**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |  **+3**<br/> Might  | **+0**<br/> Agility |  **-3**<br/> Reason  |  **+2**<br/> Intuition  |  **+2**<br/> Presence  |
 
 <!-- -->
@@ -69,7 +69,7 @@ type: monster
 > - **12-16:** 4 damage; A < 2 bleeding (save ends)
 > - **17+:** 5 damage; A < 3 bleeding (save ends); M < 2 dazed (save ends)
 >
-> **Malice:** The bredbeddle shifts up to 2 squares, and can target additional enemies who come within distance of this ability during the shift.
+> **3 Malice:** The bredbeddle shifts up to 2 squares, and can target additional enemies who come within distance of this ability during the shift.
 
 <!-- -->
 > 🗡 **Lop (3 Malice)**
@@ -155,6 +155,8 @@ type: monster
 > | **Melee, Strike, Weapon** |                 **-** |
 > | ------------------------- | --------------------: |
 > | **📏 Melee 2**            | **🎯 Four creatures** |
+>
+> **Power Roll + 3:**
 >
 > - **≤11:** 6 damage; bleeding (save ends); or if the target has A < 1 they are beheaded (see Lop).
 > - **12-16:** 7 damage; bleeding (save ends); or if the target has A < 2 they are beheaded

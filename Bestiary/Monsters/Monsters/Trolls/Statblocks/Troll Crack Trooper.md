@@ -9,7 +9,7 @@ file_dpath: Monsters/Trolls/Statblocks
 free_strike: 5
 intuition: 0
 item_id: troll-crack-trooper
-item_index: '412'
+item_index: '04'
 item_name: Troll Crack Trooper
 level: 9
 might: 4
@@ -18,24 +18,24 @@ reason: -1
 roles:
   - Minion Brute
 scc:
-  - mcdm.monsters.v1:monster:troll-crack-trooper
+  - mcdm.monsters.v1:monster.trolls.statblock:troll-crack-trooper
 scdc:
-  - 1.1.1:2:412
+  - 1.1.1:2.53.1:04
 size: '2'
 source: mcdm.monsters.v1
 speed: 6
 stability: 4
 stamina: '15'
-type: monster
+type: monster/trolls/statblock
 ---
 
 ###### Troll Crack Trooper
 
-|    Giant, Troll     |          -          |       Level 9       |               Minion Brute                |      EV 11 for four minions      |
-| :-----------------: | :-----------------: | :-----------------: | :---------------------------------------: | :------------------------------: |
-|   **2**<br/> Size   |  **6**<br/> Speed   | **15**<br/> Stamina |           **4**<br/> Stability            |      **5**<br/> Free Strike      |
-| **-**<br/> Immunity | **-**<br/> Movement |          -          | **+3 bonus to Stamina**<br/> With Captain | **Acid 5, fire**<br/> Weaknesses |
-|  **+4**<br/> Might  | **+1**<br/> Agility | **-1**<br/> Reason  |           **0**<br/> Intuition            |       **+2**<br/> Presence       |
+|    Giant, Troll     |          -          |       Level 9       |               Minion Brute                |     EV 11 for four minions     |
+| :-----------------: | :-----------------: | :-----------------: | :---------------------------------------: | :----------------------------: |
+|   **2**<br/> Size   |  **6**<br/> Speed   | **15**<br/> Stamina |           **4**<br/> Stability            |     **5**<br/> Free Strike     |
+| **-**<br/> Immunity | **-**<br/> Movement |          -          | **+3 bonus to Stamina**<br/> With Captain | **Acid 5, fire**<br/> Weakness |
+|  **+4**<br/> Might  | **+1**<br/> Agility | **-1**<br/> Reason  |           **0**<br/> Intuition            |      **+2**<br/> Presence      |
 
 <!-- -->
 > 🗡 **Charging Chomp (Signature Ability)**

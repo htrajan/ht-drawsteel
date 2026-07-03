@@ -9,7 +9,7 @@ file_dpath: Monsters/Angulotls/Statblocks
 free_strike: 2
 intuition: -2
 item_id: clawfish
-item_index: '245'
+item_index: 08
 item_name: Clawfish
 level: 1
 might: 0
@@ -18,15 +18,15 @@ reason: -3
 roles:
   - Minion Brute
 scc:
-  - mcdm.monsters.v1:monster:clawfish
+  - mcdm.monsters.v1:monster.angulotls.statblock:clawfish
 scdc:
-  - 1.1.1:2:245
+  - 1.1.1:2.31.1:08
 size: 1S
 source: mcdm.monsters.v1
 speed: 5
 stability: 0
 stamina: '5'
-type: monster
+type: monster/angulotls/statblock
 ---
 
 ###### Clawfish
@@ -34,7 +34,7 @@ type: monster
 |            Angulotl, Animal             |               -               |      Level 1       |                 Minion Brute                  |   EV 3 for 4 minions   |
 | :-------------------------------------: | :---------------------------: | :----------------: | :-------------------------------------------: | :--------------------: |
 |            **1S**<br/> Size             |       **5**<br/> Speed        | **5**<br/> Stamina |             **0**<br/> Stability              | **2**<br/> Free Strike |
-| **Lightning 3, Poison 2**<br/> Immunity | **Climb, swim**<br/> Movement |         -          | **Gain an edge on strikes**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Lightning 3, Poison 2**<br/> Immunity | **Climb, swim**<br/> Movement |         -          | **Gain an edge on strikes**<br/> With Captain |  **-**<br/> Weakness   |
 |            **+0**<br/> Might            |      **+2**<br/> Agility      | **-3**<br/> Reason |             **-2**<br/> Intuition             |  **+1**<br/> Presence  |
 
 <!-- -->

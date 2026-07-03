@@ -10,7 +10,7 @@ file_dpath: Monsters/War Dogs/Statblocks
 free_strike: 2
 intuition: 0
 item_id: war-dog-subcommander
-item_index: '370'
+item_index: '20'
 item_name: War Dog Subcommander
 level: 2
 might: 2
@@ -19,15 +19,15 @@ reason: 0
 roles:
   - Horde Support
 scc:
-  - mcdm.monsters.v1:monster:war-dog-subcommander
+  - mcdm.monsters.v1:monster.war-dogs.statblock:war-dog-subcommander
 scdc:
-  - 1.1.1:2:370
+  - 1.1.1:2.51.1:20
 size: 1M
 source: mcdm.monsters.v1
 speed: 5
 stability: 0
 stamina: '20'
-type: monster
+type: monster/war-dogs/statblock
 ---
 
 ###### War Dog Subcommander
@@ -35,7 +35,7 @@ type: monster
 | Humanoid, Soulless, War Dog |          -          |       Level 2       |      Horde Support      |          EV 4          |
 | :-------------------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |      **1M**<br/> Size       |  **5**<br/> Speed   | **20**<br/> Stamina |  **0**<br/> Stability   | **2**<br/> Free Strike |
-|     **-**<br/> Immunity     | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+|     **-**<br/> Immunity     | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |      **+2**<br/> Might      | **0**<br/> Agility  |  **0**<br/> Reason  |  **0**<br/> Intuition   |  **+1**<br/> Presence  |
 
 <!-- -->

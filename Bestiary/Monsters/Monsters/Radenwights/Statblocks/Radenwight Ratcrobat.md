@@ -9,7 +9,7 @@ file_dpath: Monsters/Radenwights/Statblocks
 free_strike: 3
 intuition: 0
 item_id: radenwight-ratcrobat
-item_index: '152'
+item_index: '04'
 item_name: Radenwight Ratcrobat
 level: 1
 might: -1
@@ -18,15 +18,15 @@ reason: 0
 roles:
   - Platoon Harrier
 scc:
-  - mcdm.monsters.v1:monster:radenwight-ratcrobat
+  - mcdm.monsters.v1:monster.radenwights.statblock:radenwight-ratcrobat
 scdc:
-  - 1.1.1:2:152
+  - 1.1.1:2.19.1:04
 size: 1S
 source: mcdm.monsters.v1
 speed: 7
 stability: 0
 stamina: '30'
-type: monster
+type: monster/radenwights/statblock
 ---
 
 ###### Radenwight Ratcrobat
@@ -34,7 +34,7 @@ type: monster
 | Humanoid, Radenwight |            -            |       Level 1       |     Platoon Harrier     |          EV 6          |
 | :------------------: | :---------------------: | :-----------------: | :---------------------: | :--------------------: |
 |   **1S**<br/> Size   |    **7**<br/> Speed     | **30**<br/> Stamina |  **0**<br/> Stability   | **3**<br/> Free Strike |
-| **-**<br/> Immunity  | **Climb**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity  | **Climb**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |  **-1**<br/> Might   |   **+2**<br/> Agility   |  **0**<br/> Reason  |  **0**<br/> Intuition   |  **+1**<br/> Presence  |
 
 <!-- -->
@@ -59,7 +59,7 @@ type: monster
 > | -------------- | ---------------: |
 > | **📏 Melee 1** | **🎯 One enemy** |
 >
-> **Effect:** The ratcrobat slides the target up to 3 squares, then can shift into any square the target left
+> **Effect:** The ratcrobat slides the target up to 3 squares, then can shift into any square the target left.
 
 <!-- -->
 > ❗️ **Ready Rodent**

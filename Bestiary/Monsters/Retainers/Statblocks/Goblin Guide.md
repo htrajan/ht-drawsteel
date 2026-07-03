@@ -28,7 +28,7 @@ stamina: '21'
 |  Goblin, Humanoid   |            -            |       Level 1       |    Harrier Retainer     |          EV -          |
 | :-----------------: | :---------------------: | :-----------------: | :---------------------: | :--------------------: |
 |  **1S**<br/> Size   |    **5**<br/> Speed     | **21**<br/> Stamina |  **0**<br/> Stability   | **2**<br/> Free Strike |
-| **-**<br/> Immunity | **Climb**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **Climb**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |  **-1**<br/> Might  |   **+1**<br/> Agility   |  **0**<br/> Reason  |  **0**<br/> Intuition   |  **+1**<br/> Presence  |
 
 <!-- -->
@@ -66,7 +66,7 @@ stamina: '21'
 > - **12-16:** 9 damage
 > - **17+:** 12 damage
 >
-> **Effect:** The guide shifts up to their speed before and after the strike
+> **Effect:** The guide shifts up to their speed before and after the strike.
 
 ###### Level 7 Retainer Advancement Ability
 
@@ -93,7 +93,5 @@ stamina: '21'
 > | **-**          | **Main action** |
 > | -------------- | --------------: |
 > | **📏 Special** |  **🎯 Special** |
->
-> **Power Roll + highest characteristic:**
 >
 > **Effect:** The guide applies poison to their weapon. The next time the guide obtains a tier 2 or tier 3 outcome on a weapon strike, the strike deals an extra 10 poison damage, and if the target has M

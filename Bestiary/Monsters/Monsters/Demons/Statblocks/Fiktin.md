@@ -9,7 +9,7 @@ file_dpath: Monsters/Demons/Statblocks
 free_strike: 3
 intuition: 1
 item_id: fiktin
-item_index: '265'
+item_index: '12'
 item_name: Fiktin
 level: 5
 might: 2
@@ -18,24 +18,24 @@ reason: 2
 roles:
   - Horde Ambusher
 scc:
-  - mcdm.monsters.v1:monster:fiktin
+  - mcdm.monsters.v1:monster.demons.statblock:fiktin
 scdc:
-  - 1.1.1:2:265
+  - 1.1.1:2.35.1:12
 size: 1M
 source: mcdm.monsters.v1
 speed: 6
 stability: 0
 stamina: '35'
-type: monster
+type: monster/demons/statblock
 ---
 
 ###### Fiktin
 
-|   Abyssal, Demon    |          -          |       Level 5       |     Horde Ambusher      |            EV 7            |
-| :-----------------: | :-----------------: | :-----------------: | :---------------------: | :------------------------: |
-|  **1M**<br/> Size   |  **6**<br/> Speed   | **35**<br/> Stamina |  **0**<br/> Stability   |   **3**<br/> Free Strike   |
-| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **Holy 5**<br/> Weaknesses |
-|  **+2**<br/> Might  | **+2**<br/> Agility | **+2**<br/> Reason  |  **+1**<br/> Intuition  |    **+3**<br/> Presence    |
+|   Abyssal, Demon    |          -          |       Level 5       |     Horde Ambusher      |           EV 7           |
+| :-----------------: | :-----------------: | :-----------------: | :---------------------: | :----------------------: |
+|  **1M**<br/> Size   |  **6**<br/> Speed   | **35**<br/> Stamina |  **0**<br/> Stability   |  **3**<br/> Free Strike  |
+| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **Holy 5**<br/> Weakness |
+|  **+2**<br/> Might  | **+2**<br/> Agility | **+2**<br/> Reason  |  **+1**<br/> Intuition  |   **+3**<br/> Presence   |
 
 <!-- -->
 > ❇️ **Violent Transformation (Signature Ability)**

@@ -9,7 +9,7 @@ file_dpath: Monsters/Devils/Statblocks
 free_strike: 6
 intuition: 1
 item_id: devil-legate
-item_index: '303'
+item_index: 08
 item_name: Devil Legate
 level: 5
 might: 3
@@ -18,15 +18,15 @@ reason: 0
 roles:
   - Elite Defender
 scc:
-  - mcdm.monsters.v1:monster:devil-legate
+  - mcdm.monsters.v1:monster.devils.statblock:devil-legate
 scdc:
-  - 1.1.1:2:303
+  - 1.1.1:2.39.1:08
 size: 1M
 source: mcdm.monsters.v1
 speed: 6
 stability: 2
 stamina: '160'
-type: monster
+type: monster/devils/statblock
 ---
 
 ###### Devil Legate
@@ -34,7 +34,7 @@ type: monster
 |     Devil, Infernal      |          -          |       Level 5        |     Elite Defender      |         EV 28          |
 | :----------------------: | :-----------------: | :------------------: | :---------------------: | :--------------------: |
 |     **1M**<br/> Size     |  **6**<br/> Speed   | **160**<br/> Stamina |  **2**<br/> Stability   | **6**<br/> Free Strike |
-| **Fire 5**<br/> Immunity | **-**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Fire 5**<br/> Immunity | **-**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |    **+3**<br/> Might     | **+1**<br/> Agility |  **+0**<br/> Reason  |  **+1**<br/> Intuition  |  **+2**<br/> Presence  |
 
 <!-- -->
@@ -48,7 +48,7 @@ type: monster
 >
 > - **≤11:** 9 damage
 > - **12-16:** 14 damage; A < 2 slowed (save ends)
-> - \*\*17+:\*\*17 damage; A < 3 slowed (save ends)
+> - **17+:** 17 damage; A < 3 slowed (save ends)
 >
 > **Effect:** If the targets are adjacent to each other, this ability deals an extra 3 damage.
 
@@ -59,11 +59,11 @@ type: monster
 > | --------------------------------- | ------------------------------: |
 > | **📏 Melee 2**                    | **🎯 Two creatures or objects** |
 >
-> **Power Roll + 3**
+> **Power Roll + 3:**
 >
 > - **≤11:** 6 damage; M < 1 prone
 > - **12-16:** 11 damage; M < 2 prone and can't stand (save ends)
-> - \*\*17+:\*\*14 damage; M < 3 prone and can't stand (save ends)
+> - **17+:** 14 damage; M < 3 prone and can't stand (save ends)
 >
 > **Effect:** If this ability is used as part of the Charge main action, the legate ignores difficult terrain during the charge. Each creature and object whose space the legate moves through takes the damage from this ability, but not its additional effects.
 
@@ -85,7 +85,7 @@ type: monster
 >
 > **Trigger:** A creature targets the legate with a strike.
 >
-> **Effect:** The target makes a Presence test
+> **Effect:** The target makes a Presence test.
 >
 > - **≤11:** The legate chooses a new target for the strike.
 > - **12-16:** The legate halves the triggering damage.

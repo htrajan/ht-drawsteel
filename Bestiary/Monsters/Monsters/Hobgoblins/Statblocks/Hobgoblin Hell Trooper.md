@@ -11,7 +11,7 @@ file_dpath: Monsters/Hobgoblins/Statblocks
 free_strike: 6
 intuition: 0
 item_id: hobgoblin-hell-trooper
-item_index: '179'
+item_index: '03'
 item_name: Hobgoblin Hell Trooper
 level: 4
 might: 3
@@ -20,15 +20,15 @@ reason: 0
 roles:
   - Platoon Brute
 scc:
-  - mcdm.monsters.v1:monster:hobgoblin-hell-trooper
+  - mcdm.monsters.v1:monster.hobgoblins.statblock:hobgoblin-hell-trooper
 scdc:
-  - 1.1.1:2:179
+  - 1.1.1:2.22.1:03
 size: 1M
 source: mcdm.monsters.v1
 speed: 5
 stability: 2
 stamina: '70'
-type: monster
+type: monster/hobgoblins/statblock
 ---
 
 ###### Hobgoblin Hell Trooper
@@ -36,7 +36,7 @@ type: monster
 | Goblin, Hobgoblin, Humanoid, Infernal |          -          |       Level 4       |      Platoon Brute      |         EV 12          |
 | :-----------------------------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |           **1M**<br/> Size            |  **5**<br/> Speed   | **70**<br/> Stamina |  **2**<br/> Stability   | **6**<br/> Free Strike |
-|       **Fire 4**<br/> Immunity        | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+|       **Fire 4**<br/> Immunity        | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |           **+3**<br/> Might           | **+2**<br/> Agility |  **0**<br/> Reason  |  **0**<br/> Intuition   |  **+1**<br/> Presence  |
 
 <!-- -->

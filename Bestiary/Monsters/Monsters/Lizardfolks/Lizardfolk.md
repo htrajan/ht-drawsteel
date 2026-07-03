@@ -14,11 +14,11 @@ type: monster/section
 
 ## Lizardfolk
 
-Lizardfolk prefer warm, tropical climates, but they're willing to settle in any humid region-the more moisture in the air, the better. Even in colder environs, lizardfolk can be found in any sufficiently marshy environment. Bogs and wetlands are particularly common nesting grounds.
+Lizardfolk prefer warm, tropical climates, but they're willing to settle in any humid region—the more moisture in the air, the better. Even in colder environs, lizardfolk can be found in any sufficiently marshy environment. Bogs and wetlands are particularly common nesting grounds.
 
 #### Homeland Protectors
 
-Lizardfolk aren't especially hostile unless they feel their territory is threatened-which it often is. Respectful travelers entering lizardfolk territory, however, find no great hardship. Lizardfolk cultures often focus on a specific trade, such as boat building, fletching, navigating, or weaving, and sell their services to travelers in need, including lizardfolk from other places.
+Lizardfolk aren't especially hostile unless they feel their territory is threatened—which it often is. Respectful travelers entering lizardfolk territory, however, find no great hardship. Lizardfolk cultures often focus on a specific trade, such as boat building, fletching, navigating, or weaving, and sell their services to travelers in need, including lizardfolk from other places.
 
 Adventurers often cross paths with lizardfolk while trekking through their homelands. The reptilian humanoids watch travelers who skirt too close to sources of food and shelter, attacking those who take more than they need. Many lizardfolk dwell in abandoned ruins and caverns for protection. Treasure seekers who delve into these places are typically given one warning before the attack begins.
 
@@ -53,7 +53,7 @@ Most lizardfolk speak Caelian and their own dialect of Khamish.
 At the start of any lizardfolk's turn, you can spend Malice to activate one of the following features.
 
 <!-- -->
-> **Net Trap (3 Malice)**
+> 🔳 **Net Trap (3 Malice)**
 >
 > | **Area, Ranged, Weapon** |   **Maneuver** |
 > | ------------------------ | -------------: |
@@ -86,7 +86,7 @@ At the start of any lizardfolk's turn, you can spend Malice to activate one of t
 | Humanoid, Lizardfolk |           -            |      Level 1       |             Minion Harrier              | EV 3 for four minions  |
 | :------------------: | :--------------------: | :----------------: | :-------------------------------------: | :--------------------: |
 |   **1M**<br/> Size   |    **6**<br/> Speed    | **4**<br/> Stamina |          **0**<br/> Stability           | **1**<br/> Free Strike |
-| **-**<br/> Immunity  | **Swim**<br/> Movement |         -          | **+2 bonus to speed**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity  | **Swim**<br/> Movement |         -          | **+2 bonus to speed**<br/> With Captain |  **-**<br/> Weakness   |
 |  **+1**<br/> Might   |  **+2**<br/> Agility   | **0**<br/> Reason  |          **0**<br/> Intuition           |  **0**<br/> Presence   |
 
 <!-- -->
@@ -112,7 +112,7 @@ At the start of any lizardfolk's turn, you can spend Malice to activate one of t
 | Humanoid, Lizardfolk |           -            |      Level 1       |              Minion Defender              | EV 3 for four minions  |
 | :------------------: | :--------------------: | :----------------: | :---------------------------------------: | :--------------------: |
 |   **1L**<br/> Size   |    **5**<br/> Speed    | **6**<br/> Stamina |           **1**<br/> Stability            | **1**<br/> Free Strike |
-| **-**<br/> Immunity  | **Swim**<br/> Movement |         -          | **+2 bonus to Stamina**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity  | **Swim**<br/> Movement |         -          | **+2 bonus to Stamina**<br/> With Captain |  **-**<br/> Weakness   |
 |  **+2**<br/> Might   |  **+1**<br/> Agility   | **0**<br/> Reason  |           **0**<br/> Intuition            |  **0**<br/> Presence   |
 
 <!-- -->
@@ -140,7 +140,7 @@ At the start of any lizardfolk's turn, you can spend Malice to activate one of t
 | Humanoid, Lizardfolk |           -            |      Level 1       |             Minion Artillery              | EV 3 for four minions  |
 | :------------------: | :--------------------: | :----------------: | :---------------------------------------: | :--------------------: |
 |   **1S**<br/> Size   |    **5**<br/> Speed    | **3**<br/> Stamina |           **0**<br/> Stability            | **2**<br/> Free Strike |
-| **-**<br/> Immunity  | **Swim**<br/> Movement |         -          | **+1 bonus to strikes**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity  | **Swim**<br/> Movement |         -          | **+1 bonus to strikes**<br/> With Captain |  **-**<br/> Weakness   |
 |   **0**<br/> Might   |  **+2**<br/> Agility   | **0**<br/> Reason  |           **+1**<br/> Intuition           |  **0**<br/> Presence   |
 
 <!-- -->
@@ -168,7 +168,7 @@ At the start of any lizardfolk's turn, you can spend Malice to activate one of t
 | Humanoid, Lizardfolk |           -            |       Level 1       |      Platoon Hexer      |          EV 6          |
 | :------------------: | :--------------------: | :-----------------: | :---------------------: | :--------------------: |
 |   **1M**<br/> Size   |    **5**<br/> Speed    | **20**<br/> Stamina |  **0**<br/> Stability   | **3**<br/> Free Strike |
-| **-**<br/> Immunity  | **Swim**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity  | **Swim**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |  **+1**<br/> Might   |   **1**<br/> Agility   | **+0**<br/> Reason  |  **+2**<br/> Intuition  |  **+0**<br/> Presence  |
 
 <!-- -->
@@ -207,7 +207,7 @@ At the start of any lizardfolk's turn, you can spend Malice to activate one of t
 | Humanoid, Lizardfolk |           -            |       Level 1       |      Platoon Brute      |          EV 6          |
 | :------------------: | :--------------------: | :-----------------: | :---------------------: | :--------------------: |
 |   **1M**<br/> Size   |    **5**<br/> Speed    | **46**<br/> Stamina |  **0**<br/> Stability   | **4**<br/> Free Strike |
-| **-**<br/> Immunity  | **Swim**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity  | **Swim**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |  **+2**<br/> Might   |  **+1**<br/> Agility   |  **0**<br/> Reason  |  **0**<br/> Intuition   |  **0**<br/> Presence   |
 
 <!-- -->
@@ -248,7 +248,7 @@ At the start of any lizardfolk's turn, you can spend Malice to activate one of t
 | Humanoid, Lizardfolk |           -            |       Level 1       |     Platoon Harrier     |          EV 6          |
 | :------------------: | :--------------------: | :-----------------: | :---------------------: | :--------------------: |
 |   **1S**<br/> Size   |    **7**<br/> Speed    | **30**<br/> Stamina |  **0**<br/> Stability   | **3**<br/> Free Strike |
-| **-**<br/> Immunity  | **Swim**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity  | **Swim**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |  **+1**<br/> Might   |  **+2**<br/> Agility   |  **0**<br/> Reason  |  **0**<br/> Intuition   |  **+1**<br/> Presence  |
 
 <!-- -->
@@ -296,7 +296,7 @@ At the start of any lizardfolk's turn, you can spend Malice to activate one of t
 | Humanoid, Lizardfolk |               -               |       Level 1       |         Leader          |         EV 12          |
 | :------------------: | :---------------------------: | :-----------------: | :---------------------: | :--------------------: |
 |   **2**<br/> Size    |       **5**<br/> Speed        | **80**<br/> Stamina |  **2**<br/> Stability   | **4**<br/> Free Strike |
-| **-**<br/> Immunity  | **Climb, swim**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity  | **Climb, swim**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |  **+3**<br/> Might   |      **+2**<br/> Agility      |  **0**<br/> Reason  |  **+1**<br/> Intuition  |  **+2**<br/> Presence  |
 
 <!-- -->
@@ -321,7 +321,7 @@ At the start of any lizardfolk's turn, you can spend Malice to activate one of t
 > | ------------------------- | ------------------------------------: |
 > | **📏 Melee 1**            | **🎯 One grabbed creature or object** |
 >
-> **Power Roll + 2:**
+> **Power Roll + 3:**
 >
 > - **≤11:** 8 damage; M < 1 dazed (save ends)
 > - **12-16:** 12 damage; M < 2 dazed (save ends)
@@ -372,10 +372,11 @@ At the start of any lizardfolk's turn, you can spend Malice to activate one of t
 >
 > **Effect:** The deathrex shifts up to their speed, leaving behind a shed skin duplicate in the space they started in. The duplicate acts on the deathrex's turn and has the deathrex's characteristics, but has 10 Stamina and no villain actions.
 
-☠️ **Thresher Thrasher (Villain Action 3)**
-
-| **Area**        |                                 **-** |
-| --------------- | ------------------------------------: |
-| **📏 10 burst** | **🎯 Self and each ally in the area** |
-
-**Effect:** Each target moves up to their speed. Until the end of the encounter, whenever a creature comes adjacent to a target or starts their turn there, the target can make a free strike against them.
+<!-- -->
+> ☠️ **Thresher Thrasher (Villain Action 3)**
+>
+> | **Area**        |                                 **-** |
+> | --------------- | ------------------------------------: |
+> | **📏 10 burst** | **🎯 Self and each ally in the area** |
+>
+> **Effect:** Each target moves up to their speed. Until the end of the encounter, whenever a creature comes adjacent to a target or starts their turn there, the target can make a free strike against them.

@@ -9,7 +9,7 @@ file_dpath: Monsters/Time Raiders/Statblocks
 free_strike: 5
 intuition: 2
 item_id: time-raider-cannonfall
-item_index: '147'
+item_index: 09
 item_name: Time Raider Cannonfall
 level: 3
 might: 0
@@ -18,15 +18,15 @@ reason: 2
 roles:
   - Platoon Artillery
 scc:
-  - mcdm.monsters.v1:monster:time-raider-cannonfall
+  - mcdm.monsters.v1:monster.time-raiders.statblock:time-raider-cannonfall
 scdc:
-  - 1.1.1:2:147
+  - 1.1.1:2.18.1:09
 size: 1L
 source: mcdm.monsters.v1
 speed: 5
 stability: 3
 stamina: '40'
-type: monster
+type: monster/time-raiders/statblock
 ---
 
 ###### Time Raider Cannonfall
@@ -34,7 +34,7 @@ type: monster
 |    Humanoid, Time Raider    |          -          |       Level 3       |    Platoon Artillery    |         EV 10          |
 | :-------------------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |      **1L**<br/> Size       |  **5**<br/> Speed   | **40**<br/> Stamina |  **3**<br/> Stability   | **5**<br/> Free Strike |
-| **Psychic 3**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Psychic 3**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |      **0**<br/> Might       | **+2**<br/> Agility | **+2**<br/> Reason  |  **+2**<br/> Intuition  |  **0**<br/> Presence   |
 
 <!-- -->
@@ -61,7 +61,7 @@ type: monster
 >
 > **Trigger:** A creature damages the cannonfall with a ranged or area ability.
 >
-> **Effect:** The damage is halved for the cannonfall and each target also affected by the triggering ability
+> **Effect:** The damage is halved for the cannonfall and each target also affected by the triggering ability.
 
 <!-- -->
 > ⭐️ **Foresight Squared**

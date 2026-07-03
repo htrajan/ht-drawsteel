@@ -9,7 +9,7 @@ file_dpath: Monsters/Demons/Statblocks
 free_strike: 3
 intuition: 3
 item_id: bale-eye
-item_index: '284'
+item_index: '31'
 item_name: Bale Eye
 level: 5
 might: 0
@@ -18,24 +18,24 @@ reason: 3
 roles:
   - Horde Hexer
 scc:
-  - mcdm.monsters.v1:monster:bale-eye
+  - mcdm.monsters.v1:monster.demons.statblock:bale-eye
 scdc:
-  - 1.1.1:2:284
+  - 1.1.1:2.35.1:31
 size: '4'
 source: mcdm.monsters.v1
 speed: 6
 stability: 2
 stamina: '30'
-type: monster
+type: monster/demons/statblock
 ---
 
 ###### Bale Eye
 
-|   Abyssal, Demon    |           -           |       Level 5       |       Horde Hexer       |            EV 7            |
-| :-----------------: | :-------------------: | :-----------------: | :---------------------: | :------------------------: |
-|   **4**<br/> Size   |   **6**<br/> Speed    | **30**<br/> Stamina |  **2**<br/> Stability   |   **3**<br/> Free Strike   |
-| **-**<br/> Immunity | **Fly**<br/> Movement |          -          | **-**<br/> With Captain | **Holy 5**<br/> Weaknesses |
-|  **+0**<br/> Might  |  **+0**<br/> Agility  | **+3**<br/> Reason  |  **+3**<br/> Intuition  |    **+3**<br/> Presence    |
+|   Abyssal, Demon    |           -           |       Level 5       |       Horde Hexer       |           EV 7           |
+| :-----------------: | :-------------------: | :-----------------: | :---------------------: | :----------------------: |
+|   **4**<br/> Size   |   **6**<br/> Speed    | **30**<br/> Stamina |  **2**<br/> Stability   |  **3**<br/> Free Strike  |
+| **-**<br/> Immunity | **Fly**<br/> Movement |          -          | **-**<br/> With Captain | **Holy 5**<br/> Weakness |
+|  **+0**<br/> Might  |  **+0**<br/> Agility  | **+3**<br/> Reason  |  **+3**<br/> Intuition  |   **+3**<br/> Presence   |
 
 <!-- -->
 > 🏹 **Wilting Visions (Signature Ability)**

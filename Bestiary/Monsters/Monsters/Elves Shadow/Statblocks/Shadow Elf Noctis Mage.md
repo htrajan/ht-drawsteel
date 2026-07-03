@@ -10,7 +10,7 @@ file_dpath: Monsters/Elves Shadow/Statblocks
 free_strike: 6
 intuition: 1
 item_id: shadow-elf-noctis-mage
-item_index: '221'
+item_index: '13'
 item_name: Shadow Elf Noctis Mage
 level: 6
 might: 0
@@ -19,15 +19,15 @@ reason: 3
 roles:
   - Platoon Hexer
 scc:
-  - mcdm.monsters.v1:monster:shadow-elf-noctis-mage
+  - mcdm.monsters.v1:monster.elves-shadow.statblock:shadow-elf-noctis-mage
 scdc:
-  - 1.1.1:2:221
+  - 1.1.1:2.27.1:13
 size: 1M
 source: mcdm.monsters.v1
 speed: 5
 stability: 0
 stamina: '70'
-type: monster
+type: monster/elves-shadow/statblock
 ---
 
 ###### Shadow Elf Noctis Mage
@@ -35,7 +35,7 @@ type: monster
 | Fey, Humanoid, Shadow Elf |            -            |       Level 6       |      Platoon Hexer      |         EV 16          |
 | :-----------------------: | :---------------------: | :-----------------: | :---------------------: | :--------------------: |
 |     **1M**<br/> Size      |    **5**<br/> Speed     | **70**<br/> Stamina |  **0**<br/> Stability   | **6**<br/> Free Strike |
-|    **-**<br/> Immunity    | **Climb**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+|    **-**<br/> Immunity    | **Climb**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |     **0**<br/> Might      |   **+2**<br/> Agility   | **+3**<br/> Reason  |  **+1**<br/> Intuition  |  **+1**<br/> Presence  |
 
 <!-- -->

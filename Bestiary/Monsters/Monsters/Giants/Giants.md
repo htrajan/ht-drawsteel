@@ -18,7 +18,7 @@ Supremely well adapted to harsh environments, giants thrive in extreme condition
 
 #### Adaptable and Elemental
 
-Giants physically resemble the territory they inhabit. A band of frost giants doesn't simply live on a glacial mountain-they're part of that mountain, and it's part of them. Fire giants exude heat like a roaring volcano. Sages have long debated the question, "Does the environment shape a giant, or does the giant shape their environment?"
+Giants physically resemble the territory they inhabit. A band of frost giants doesn't simply live on a glacial mountain—they're part of that mountain, and it's part of them. Fire giants exude heat like a roaring volcano. Sages have long debated the question, "Does the environment shape a giant, or does the giant shape their environment?"
 
 #### Distant Cousins
 
@@ -46,7 +46,7 @@ Most hill giants spend so much time in quiet peace that sudden flashy sights and
 
 Fascinated by the act of creation, stone giants carve cities out of ancient caverns, mine precious metals and gems, and craft relics worthy of glory. To many a stone giant, artisanship is the highest calling, and all their creations are crafted with an eye to beauty and longevity.
 
-Stone giants are made of the same kinds of rocks that form their homes-sandstone, marble, granite, and even basalt. Their stone bodies not only protect them from attack, but also provide them with an additional outlet for self-expression. They often carve runes into their skin, which serve a wide variety of artistic and cultural purposes.
+Stone giants are made of the same kinds of rocks that form their homes—sandstone, marble, granite, and even basalt. Their stone bodies not only protect them from attack, but also provide them with an additional outlet for self-expression. They often carve runes into their skin, which serve a wide variety of artistic and cultural purposes.
 
 #### Giant Languages
 
@@ -88,7 +88,7 @@ At the start of any giant's turn, you can spend Malice to activate one of the fo
 |    Fire Giant, Giant     |          -          |       Level 9       |             Minion Harrier              | EV 11 for four minions |
 | :----------------------: | :-----------------: | :-----------------: | :-------------------------------------: | :--------------------: |
 |     **4**<br/> Size      |  **7**<br/> Speed   | **13**<br/> Stamina |          **5**<br/> Stability           | **3**<br/> Free Strike |
-| **Fire 9**<br/> Immunity | **-**<br/> Movement |          -          | **+3 bonus to speed**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Fire 9**<br/> Immunity | **-**<br/> Movement |          -          | **+3 bonus to speed**<br/> With Captain |  **-**<br/> Weakness   |
 |    **+4**<br/> Might     | **+2**<br/> Agility |  **0**<br/> Reason  |          **+2**<br/> Intuition          |  **+1**<br/> Presence  |
 
 <!-- -->
@@ -116,7 +116,7 @@ At the start of any giant's turn, you can spend Malice to activate one of the fo
 |    Frost Giant, Giant    |          -          |       Level 8       |                 Minion Artillery                 | EV 10 for four minions |
 | :----------------------: | :-----------------: | :-----------------: | :----------------------------------------------: | :--------------------: |
 |     **4**<br/> Size      |  **7**<br/> Speed   | **12**<br/> Stamina |               **5**<br/> Stability               | **4**<br/> Free Strike |
-| **Cold 8**<br/> Immunity | **-**<br/> Movement |          -          | **+3 damage bonus to strikes**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Cold 8**<br/> Immunity | **-**<br/> Movement |          -          | **+3 damage bonus to strikes**<br/> With Captain |  **-**<br/> Weakness   |
 |    **+3**<br/> Might     | **-1**<br/> Agility | **-1**<br/> Reason  |              **+4**<br/> Intuition               |  **+2**<br/> Presence  |
 
 <!-- -->
@@ -142,7 +142,7 @@ At the start of any giant's turn, you can spend Malice to activate one of the fo
 |     Giant, Hill Giant      |            -            |       Level 7       |                   Minion Brute                   | EV 9 for four minions  |
 | :------------------------: | :---------------------: | :-----------------: | :----------------------------------------------: | :--------------------: |
 |      **4**<br/> Size       |    **6**<br/> Speed     | **13**<br/> Stamina |               **5**<br/> Stability               | **4**<br/> Free Strike |
-| **Damage 3**<br/> Immunity | **Climb**<br/> Movement |          -          | **+3 damage bonus to strikes**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Damage 3**<br/> Immunity | **Climb**<br/> Movement |          -          | **+3 damage bonus to strikes**<br/> With Captain |  **-**<br/> Weakness   |
 |     **+4**<br/> Might      |   **-1**<br/> Agility   | **-1**<br/> Reason  |              **-1**<br/> Intuition               |  **-1**<br/> Presence  |
 
 <!-- -->
@@ -170,7 +170,7 @@ At the start of any giant's turn, you can spend Malice to activate one of the fo
 | Giant, Stone Giant  |            -             |       Level 8       |             Minion Controller             | EV 10 for four minions |
 | :-----------------: | :----------------------: | :-----------------: | :---------------------------------------: | :--------------------: |
 |   **4**<br/> Size   |     **7**<br/> Speed     | **14**<br/> Stamina |           **10**<br/> Stability           | **3**<br/> Free Strike |
-| **-**<br/> Immunity | **Burrow**<br/> Movement |          -          | **+6 bonus to Stamina**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **Burrow**<br/> Movement |          -          | **+6 bonus to Stamina**<br/> With Captain |  **-**<br/> Weakness   |
 |  **+4**<br/> Might  |   **+2**<br/> Agility    |  **0**<br/> Reason  |           **+3**<br/> Intuition           |  **0**<br/> Presence   |
 
 <!-- -->
@@ -194,7 +194,7 @@ At the start of any giant's turn, you can spend Malice to activate one of the fo
 <!-- -->
 > ⭐️ **Stone Steps**
 >
-> The sand stone giant ignores difficult terrain
+> The sand stone giant ignores difficult terrain.
 
 <!-- -->
 > ⭐️ **Stone Swim**
@@ -206,7 +206,7 @@ At the start of any giant's turn, you can spend Malice to activate one of the fo
 | Giant, Stone Giant  |            -             |       Level 8        |    Elite Controller     |         EV 40          |
 | :-----------------: | :----------------------: | :------------------: | :---------------------: | :--------------------: |
 |   **4**<br/> Size   |     **7**<br/> Speed     | **207**<br/> Stamina |  **10**<br/> Stability  | **8**<br/> Free Strike |
-| **-**<br/> Immunity | **Burrow**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **Burrow**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |  **+4**<br/> Might  |   **+2**<br/> Agility    |  **+1**<br/> Reason  |  **+2**<br/> Intuition  |  **+1**<br/> Presence  |
 
 <!-- -->
@@ -246,7 +246,7 @@ At the start of any giant's turn, you can spend Malice to activate one of the fo
 > | ----------- | -----------: |
 > | **📏 Self** |  **🎯 Self** |
 >
-> **Effect:** The basalt stone giant moves up to their speed. Each square that they leave during this move is difficult terrain for enemies Giants ignore this difficult terrain.
+> **Effect:** The basalt stone giant moves up to their speed. Each square that they leave during this move is difficult terrain for enemies. Giants ignore this difficult terrain.
 
 <!-- -->
 > ❗️ **Resonate Rune**
@@ -267,7 +267,7 @@ At the start of any giant's turn, you can spend Malice to activate one of the fo
 <!-- -->
 > ⭐️ **Stone Steps**
 >
-> The basalt stone giant ignores difficult terrain
+> The basalt stone giant ignores difficult terrain.
 
 <!-- -->
 > ⭐️ **Stone Swim**
@@ -279,7 +279,7 @@ At the start of any giant's turn, you can spend Malice to activate one of the fo
 |    Fire Giant, Giant     |          -          |       Level 9        |      Elite Support      |         EV 44          |
 | :----------------------: | :-----------------: | :------------------: | :---------------------: | :--------------------: |
 |     **4**<br/> Size      |  **8**<br/> Speed   | **200**<br/> Stamina |  **5**<br/> Stability   | **9**<br/> Free Strike |
-| **Fire 9**<br/> Immunity | **-**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Fire 9**<br/> Immunity | **-**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |    **+4**<br/> Might     | **+2**<br/> Agility |  **0**<br/> Reason   |  **+4**<br/> Intuition  |  **+1**<br/> Presence  |
 
 <!-- -->
@@ -345,7 +345,7 @@ At the start of any giant's turn, you can spend Malice to activate one of the fo
 |    Fire Giant, Giant     |          -          |       Level 9        |       Elite Brute       |          EV 44          |
 | :----------------------: | :-----------------: | :------------------: | :---------------------: | :---------------------: |
 |     **4**<br/> Size      |  **8**<br/> Speed   | **240**<br/> Stamina |  **5**<br/> Stability   | **10**<br/> Free Strike |
-| **Fire 9**<br/> Immunity | **-**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weaknesses  |
+| **Fire 9**<br/> Immunity | **-**<br/> Movement |          -           | **-**<br/> With Captain |   **-**<br/> Weakness   |
 |    **+4**<br/> Might     | **+2**<br/> Agility |  **0**<br/> Reason   |  **+2**<br/> Intuition  |  **+1**<br/> Presence   |
 
 <!-- -->
@@ -357,7 +357,7 @@ At the start of any giant's turn, you can spend Malice to activate one of the fo
 >
 > **Power Roll + 4:**
 >
-> - **≤11:** 14 fire damage; push
+> - **≤11:** 14 fire damage; push 2
 > - **12-16:** 19 fire damage; push 4; A < 3 burning (save ends)
 > - **17+:** 23 fire damage; push 6; A < 4 burning (save ends)
 >
@@ -423,7 +423,7 @@ At the start of any giant's turn, you can spend Malice to activate one of the fo
 |    Frost Giant, Giant    |          -          |       Level 8        |     Elite Artillery     |         EV 40          |
 | :----------------------: | :-----------------: | :------------------: | :---------------------: | :--------------------: |
 |     **4**<br/> Size      |  **7**<br/> Speed   | **180**<br/> Stamina |  **5**<br/> Stability   | **9**<br/> Free Strike |
-| **Cold 8**<br/> Immunity | **-**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Cold 8**<br/> Immunity | **-**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |    **+4**<br/> Might     | **-1**<br/> Agility |  **0**<br/> Reason   |  **0**<br/> Intuition   |  **0**<br/> Presence   |
 
 <!-- -->
@@ -484,7 +484,7 @@ At the start of any giant's turn, you can spend Malice to activate one of the fo
 |    Frost Giant, Giant    |          -          |       Level 8        |      Elite Harrier      |         EV 40          |
 | :----------------------: | :-----------------: | :------------------: | :---------------------: | :--------------------: |
 |     **4**<br/> Size      |  **10**<br/> Speed  | **200**<br/> Stamina |  **5**<br/> Stability   | **8**<br/> Free Strike |
-| **Cold 8**<br/> Immunity | **-**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Cold 8**<br/> Immunity | **-**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |    **+4**<br/> Might     | **+4**<br/> Agility |  **-1**<br/> Reason  |  **0**<br/> Intuition   |  **0**<br/> Presence   |
 
 <!-- -->
@@ -546,7 +546,7 @@ At the start of any giant's turn, you can spend Malice to activate one of the fo
 | Giant, Stone Giant  |            -             |       Level 8        |     Elite Defender      |         EV 40          |
 | :-----------------: | :----------------------: | :------------------: | :---------------------: | :--------------------: |
 |   **4**<br/> Size   |     **7**<br/> Speed     | **247**<br/> Stamina |  **10**<br/> Stability  | **8**<br/> Free Strike |
-| **-**<br/> Immunity | **Burrow**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **Burrow**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |  **+4**<br/> Might  |   **+1**<br/> Agility    |  **+1**<br/> Reason  |  **+2**<br/> Intuition  |  **+1**<br/> Presence  |
 
 <!-- -->
@@ -619,7 +619,7 @@ At the start of any giant's turn, you can spend Malice to activate one of the fo
 |     Giant, Hill Giant      |            -            |       Level 7        |       Elite Brute       |         EV 36          |
 | :------------------------: | :---------------------: | :------------------: | :---------------------: | :--------------------: |
 |      **4**<br/> Size       |    **6**<br/> Speed     | **200**<br/> Stamina |  **5**<br/> Stability   | **8**<br/> Free Strike |
-| **Damage 3**<br/> Immunity | **Climb**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Damage 3**<br/> Immunity | **Climb**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |     **+4**<br/> Might      |   **-1**<br/> Agility   |  **-1**<br/> Reason  |  **-1**<br/> Intuition  |  **-1**<br/> Presence  |
 
 <!-- -->
@@ -692,14 +692,14 @@ At the start of any giant's turn, you can spend Malice to activate one of the fo
 <!-- -->
 > ⭐️ **Distracted**
 >
-> Whenever the clobberer targets a creature or object with an ability, any enemy within distance of the ability can use a free triggered action to distract the clobberer. The clobberer targets that enemy instead
+> Whenever the clobberer targets a creature or object with an ability, any enemy within distance of the ability can use a free triggered action to distract the clobberer. The clobberer targets that enemy instead.
 
 ###### Marble Stone Giant
 
 | Giant, Stone Giant  |            -             |       Level 8        |       Elite Hexer       |         EV 40          |
 | :-----------------: | :----------------------: | :------------------: | :---------------------: | :--------------------: |
 |   **4**<br/> Size   |     **6**<br/> Speed     | **207**<br/> Stamina |  **10**<br/> Stability  | **8**<br/> Free Strike |
-| **-**<br/> Immunity | **Burrow**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **Burrow**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |  **+4**<br/> Might  |   **+3**<br/> Agility    |  **0**<br/> Reason   |  **+3**<br/> Intuition  |  **0**<br/> Presence   |
 
 <!-- -->
@@ -772,7 +772,7 @@ At the start of any giant's turn, you can spend Malice to activate one of the fo
 |     Fire Giant, Giant     |          -          |       Level 9        |         Leader          |         EV 44          |
 | :-----------------------: | :-----------------: | :------------------: | :---------------------: | :--------------------: |
 |      **5**<br/> Size      |  **10**<br/> Speed  | **240**<br/> Stamina |  **10**<br/> Stability  | **9**<br/> Free Strike |
-| **Fire 10**<br/> Immunity | **-**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Fire 10**<br/> Immunity | **-**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |     **+5**<br/> Might     | **+3**<br/> Agility |  **0**<br/> Reason   |  **+2**<br/> Intuition  |  **+3**<br/> Presence  |
 
 <!-- -->
@@ -797,9 +797,9 @@ At the start of any giant's turn, you can spend Malice to activate one of the fo
 >
 > **Power Roll + 5:**
 >
-> - **≤11:** 14 damage; push 5; A < 3, 9 fire damage
-> - **12-16:** 19 damage; push 10; A < 4, 9 fire damage
-> - **17+:** 23 damage; push 15; A < 5, 9 fire damage
+> - **≤11:** 14 damage; push 5; A < 3 9 fire damage
+> - **12-16:** 19 damage; push 10; A < 4 9 fire damage
+> - **17+:** 23 damage; push 15; A < 5 9 fire damage
 
 <!-- -->
 > 🔳 **Lava Pillar (3 Malice)**
@@ -810,9 +810,9 @@ At the start of any giant's turn, you can spend Malice to activate one of the fo
 >
 > **Power Roll + 5:**
 >
-> - **≤11:** 5 fire damage; M < 3, vertical push 3
-> - **12-16:** 7 fire damage; M < 4, vertical push 4
-> - **17+:** 9 fire damage; M < 5, vertical push 5
+> - **≤11:** 5 fire damage; M < 3 vertical push 3
+> - **12-16:** 7 fire damage; M < 4 vertical push 4
+> - **17+:** 9 fire damage; M < 5 vertical push 5
 
 <!-- -->
 > ❗️ **Fuel the Fire (1 Malice)**
@@ -846,9 +846,9 @@ At the start of any giant's turn, you can spend Malice to activate one of the fo
 <!-- -->
 > ☠️ **All to Cinders (Villain Action 3)**
 >
-> | **Area**        |                                           **-** |
-> | --------------- | ----------------------------------------------: |
-> | **📏 10 burst** | **🎯 Self and each fire giant ally in the are** |
+> | **Area**        |                                            **-** |
+> | --------------- | -----------------------------------------------: |
+> | **📏 10 burst** | **🎯 Self and each fire giant ally in the area** |
 >
 > **Effect:** Each target unleashes a wave of fire, and each enemy within 2 squares of any target makes an Agility test. An enemy affected by two targets takes a bane on the test, while an enemy affected by three or more targets has a double bane.
 >

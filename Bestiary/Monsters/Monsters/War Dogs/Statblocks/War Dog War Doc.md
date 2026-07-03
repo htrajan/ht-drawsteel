@@ -10,7 +10,7 @@ file_dpath: Monsters/War Dogs/Statblocks
 free_strike: 3
 intuition: 2
 item_id: war-dog-war-doc
-item_index: '388'
+item_index: '38'
 item_name: War Dog War Doc
 level: 5
 might: 0
@@ -19,15 +19,15 @@ reason: 3
 roles:
   - Horde Support
 scc:
-  - mcdm.monsters.v1:monster:war-dog-war-doc
+  - mcdm.monsters.v1:monster.war-dogs.statblock:war-dog-war-doc
 scdc:
-  - 1.1.1:2:388
+  - 1.1.1:2.51.1:38
 size: 1L
 source: mcdm.monsters.v1
 speed: 5
 stability: 1
 stamina: '35'
-type: monster
+type: monster/war-dogs/statblock
 ---
 
 ###### War Dog War Doc
@@ -35,7 +35,7 @@ type: monster
 | Humanoid, Soulless, War Dog |          -          |       Level 5       |      Horde Support      |          EV 7          |
 | :-------------------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |      **1L**<br/> Size       |  **5**<br/> Speed   | **35**<br/> Stamina |  **1**<br/> Stability   | **3**<br/> Free Strike |
-|     **-**<br/> Immunity     | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+|     **-**<br/> Immunity     | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |      **0**<br/> Might       | **+1**<br/> Agility | **+3**<br/> Reason  |  **+2**<br/> Intuition  |  **0**<br/> Presence   |
 
 <!-- -->
@@ -76,4 +76,4 @@ type: monster
 <!-- -->
 > ⭐️ **Body Bank Branch Manager**
 >
-> If the war doc uses the Reconstitute war dog Malice feature, it costs 1 Malice less. Additionally, allies can treat the living war doc as a corpse when using the Reconstitute feature (see Reconstitute)
+> If the war doc uses the Reconstitute war dog Malice feature, it costs 1 Malice less. Additionally, allies can treat the living war doc as a corpse when using the Reconstitute feature (see Reconstitute).

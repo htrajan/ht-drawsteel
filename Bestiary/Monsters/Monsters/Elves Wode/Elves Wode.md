@@ -44,7 +44,7 @@ When wode elves in combat control the terrain, their primary strategy is divide 
 
 #### Warleader
 
-The warleader of a wode elf court is usually their finest tactician. One warleader alone can command dozens of squadrons across miles of forest with such precision that they can appear to predict an enemy's movements without ever laying an eye on them. In times of peace, a warleader's role is primarily that of teacher-a mentor who scouts and soldiers regard almost as an additional parent.
+The warleader of a wode elf court is usually their finest tactician. One warleader alone can command dozens of squadrons across miles of forest with such precision that they can appear to predict an enemy's movements without ever laying an eye on them. In times of peace, a warleader's role is primarily that of teacher—a mentor who scouts and soldiers regard almost as an additional parent.
 
 The wode elves send their warleaders into battle only if the situation is dire. Characters who encounter one should be flattered, for the presence of a warleader means the wode elves consider the heroes a formidable threat.
 
@@ -56,7 +56,7 @@ one of the following features.
 
 ###### Wode Elf Malice (Malice Features)
 
-At the start of any wode elf's turn, you can spend Malice to activate
+At the start of any wode elf's turn, you can spend Malice to activate one of the following features.
 
 <!-- -->
 > ⭐️ **Forest Network (3 Malice)**
@@ -72,17 +72,17 @@ At the start of any wode elf's turn, you can spend Malice to activate
 > 🌀 **Vines Everywhere (7 Malice)**
 >
 > Vines rapidly grow across the entire encounter map. Each enemy in the encounter makes an **Agility test**.
-
-- **≤11:** 8 damage; restrained (save ends)
-- **12-16:** Restrained (EoT)
-- **17+:** No effect.
+>
+> - **≤11:** 8 damage; restrained (save ends)
+> - **12-16:** Restrained (EoT)
+> - **17+:** No effect.
 
 ###### Wode Elf Lookout
 
 | Fey, Humanoid, Wode Elf |            -            |      Level 1       |             Minion Support              | EV 3 for four minions  |
 | :---------------------: | :---------------------: | :----------------: | :-------------------------------------: | :--------------------: |
 |    **1M**<br/> Size     |    **7**<br/> Speed     | **4**<br/> Stamina |          **0**<br/> Stability           | **1**<br/> Free Strike |
-|   **-**<br/> Immunity   | **Climb**<br/> Movement |         -          | **+2 bonus to speed**<br/> With Captain | **-**<br/> Weaknesses  |
+|   **-**<br/> Immunity   | **Climb**<br/> Movement |         -          | **+2 bonus to speed**<br/> With Captain |  **-**<br/> Weakness   |
 |    **0**<br/> Might     |   **+2**<br/> Agility   | **0**<br/> Reason  |          **0**<br/> Intuition           |  **+1**<br/> Presence  |
 
 <!-- -->
@@ -113,7 +113,7 @@ At the start of any wode elf's turn, you can spend Malice to activate
 | Fey, Humanoid, Wode Elf |          -          |      Level 1       |                Minion Harrier                 | EV 3 for four minions  |
 | :---------------------: | :-----------------: | :----------------: | :-------------------------------------------: | :--------------------: |
 |    **1M**<br/> Size     |  **7**<br/> Speed   | **4**<br/> Stamina |             **0**<br/> Stability              | **1**<br/> Free Strike |
-|   **-**<br/> Immunity   | **-**<br/> Movement |         -          | **Gain an edge on strikes**<br/> With Captain | **-**<br/> Weaknesses  |
+|   **-**<br/> Immunity   | **-**<br/> Movement |         -          | **Gain an edge on strikes**<br/> With Captain |  **-**<br/> Weakness   |
 |    **0**<br/> Might     | **+2**<br/> Agility | **0**<br/> Reason  |             **0**<br/> Intuition              |  **+1**<br/> Presence  |
 
 <!-- -->
@@ -129,7 +129,7 @@ At the start of any wode elf's turn, you can spend Malice to activate
 > - **12-16:** 2 damage
 > - **17+:** 3 damage
 >
-> **Effect:** If this ability is used as part of the Charge main action, the runner shifts up to 2 squares first
+> **Effect:** If this ability is used as part of the Charge main action, the runner shifts up to 2 squares first.
 
 <!-- -->
 > ⭐️ **Masking Glamor**
@@ -141,7 +141,7 @@ At the start of any wode elf's turn, you can spend Malice to activate
 | Fey, Humanoid, Wode Elf |          -          |      Level 1       |                Minion Ambusher                | EV 3 for four minions  |
 | :---------------------: | :-----------------: | :----------------: | :-------------------------------------------: | :--------------------: |
 |    **1M**<br/> Size     |  **10**<br/> Speed  | **4**<br/> Stamina |             **0**<br/> Stability              | **2**<br/> Free Strike |
-|   **-**<br/> Immunity   | **-**<br/> Movement |         -          | **Gain an edge on strikes**<br/> With Captain | **-**<br/> Weaknesses  |
+|   **-**<br/> Immunity   | **-**<br/> Movement |         -          | **Gain an edge on strikes**<br/> With Captain |  **-**<br/> Weakness   |
 |    **0**<br/> Might     | **+2**<br/> Agility | **0**<br/> Reason  |             **0**<br/> Intuition              |  **+1**<br/> Presence  |
 
 <!-- -->
@@ -172,7 +172,7 @@ At the start of any wode elf's turn, you can spend Malice to activate
 | Fey, Humanoid, Wode Elf |          -          |      Level 1       |                 Minion Artillery                 | EV 3 for four minions  |
 | :---------------------: | :-----------------: | :----------------: | :----------------------------------------------: | :--------------------: |
 |    **1M**<br/> Size     |  **7**<br/> Speed   | **3**<br/> Stamina |               **0**<br/> Stability               | **2**<br/> Free Strike |
-|   **-**<br/> Immunity   | **-**<br/> Movement |         -          | **+1 damage bonus to strikes**<br/> With Captain | **-**<br/> Weaknesses  |
+|   **-**<br/> Immunity   | **-**<br/> Movement |         -          | **+1 damage bonus to strikes**<br/> With Captain |  **-**<br/> Weakness   |
 |    **0**<br/> Might     | **+2**<br/> Agility | **0**<br/> Reason  |               **0**<br/> Intuition               |  **+1**<br/> Presence  |
 
 <!-- -->
@@ -198,7 +198,7 @@ At the start of any wode elf's turn, you can spend Malice to activate
 | Fey, Humanoid, Wode Elf |            -            |       Level 2       |     Platoon Harrier     |          EV 8          |
 | :---------------------: | :---------------------: | :-----------------: | :---------------------: | :--------------------: |
 |    **1M**<br/> Size     |    **7**<br/> Speed     | **40**<br/> Stamina |  **0**<br/> Stability   | **4**<br/> Free Strike |
-|   **-**<br/> Immunity   | **Climb**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+|   **-**<br/> Immunity   | **Climb**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |    **+1**<br/> Might    |   **+2**<br/> Agility   |  **0**<br/> Reason  |  **0**<br/> Intuition   |  **+1**<br/> Presence  |
 
 <!-- -->
@@ -237,7 +237,7 @@ At the start of any wode elf's turn, you can spend Malice to activate
 | Fey, Humanoid, Wode Elf |            -            |       Level 2       |   Platoon Controller    |          EV 8          |
 | :---------------------: | :---------------------: | :-----------------: | :---------------------: | :--------------------: |
 |    **1M**<br/> Size     |    **7**<br/> Speed     | **30**<br/> Stamina |  **0**<br/> Stability   | **3**<br/> Free Strike |
-|   **-**<br/> Immunity   | **Climb**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+|   **-**<br/> Immunity   | **Climb**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |    **0**<br/> Might     |   **+1**<br/> Agility   |  **0**<br/> Reason  |  **0**<br/> Intuition   |  **+2**<br/> Presence  |
 
 <!-- -->
@@ -288,7 +288,7 @@ Wode elves are highly mobile and adept at hindering their enemies. A common tact
 | Fey, Humanoid, Wode Elf |          -          |       Level 1       |      Platoon Hexer      |          EV 6          |
 | :---------------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |    **1M**<br/> Size     |  **7**<br/> Speed   | **20**<br/> Stamina |  **0**<br/> Stability   | **3**<br/> Free Strike |
-|   **-**<br/> Immunity   | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+|   **-**<br/> Immunity   | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |    **0**<br/> Might     | **+1**<br/> Agility |  **0**<br/> Reason  |  **+2**<br/> Intuition  |  **+1**<br/> Presence  |
 
 <!-- -->
@@ -339,10 +339,10 @@ Wode elves are highly mobile and adept at hindering their enemies. A common tact
 
 ###### Wode Elf Greenskeeper
 
-| Fey, Humanoid, Wide Elf |          -          |       Level 1       |    Platoon Defender     |          EV 6          |
+| Fey, Humanoid, Wode Elf |          -          |       Level 1       |    Platoon Defender     |          EV 6          |
 | :---------------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |    **1M**<br/> Size     |  **7**<br/> Speed   | **40**<br/> Stamina |  **0**<br/> Stability   | **3**<br/> Free Strike |
-|   **-**<br/> Immunity   | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+|   **-**<br/> Immunity   | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |    **0**<br/> Might     | **+2**<br/> Agility |  **0**<br/> Reason  |  **0**<br/> Intuition   |  **+1**<br/> Presence  |
 
 <!-- -->
@@ -358,7 +358,7 @@ Wode elves are highly mobile and adept at hindering their enemies. A common tact
 > - **12-16:** 7 damage
 > - **17+:** 9 damage
 >
-> **Effect:** The target is taunted until the end of their next turn, and the greenskeeper shifts up to 3 squares
+> **Effect:** The target is taunted until the end of their next turn, and the greenskeeper shifts up to 3 squares.
 >
 > **2 Malice:** The distance increases to Melee 5.
 
@@ -381,7 +381,7 @@ Wode elves are highly mobile and adept at hindering their enemies. A common tact
 | Fey, Humanoid, Wode Elf |             -              |       Level 3       |    Platoon Ambusher     |         EV 10          |
 | :---------------------: | :------------------------: | :-----------------: | :---------------------: | :--------------------: |
 |    **1M**<br/> Size     |      **7**<br/> Speed      | **50**<br/> Stamina |  **0**<br/> Stability   | **5**<br/> Free Strike |
-|   **-**<br/> Immunity   | **Teleport**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+|   **-**<br/> Immunity   | **Teleport**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |    **0**<br/> Might     |    **+2**<br/> Agility     |  **0**<br/> Reason  |  **0**<br/> Intuition   |  **+1**<br/> Presence  |
 
 <!-- -->
@@ -429,7 +429,7 @@ Wode elves are highly mobile and adept at hindering their enemies. A common tact
 | Fey, Humanoid, Wode Elf |            -            |       Level 3       |    Platoon Artillery    |         EV 10          |
 | :---------------------: | :---------------------: | :-----------------: | :---------------------: | :--------------------: |
 |    **1M**<br/> Size     |    **7**<br/> Speed     | **40**<br/> Stamina |  **0**<br/> Stability   | **5**<br/> Free Strike |
-|   **-**<br/> Immunity   | **Climb**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+|   **-**<br/> Immunity   | **Climb**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |    **0**<br/> Might     |   **+2**<br/> Agility   |  **0**<br/> Reason  |  **+1**<br/> Intuition  |  **0**<br/> Presence   |
 
 <!-- -->
@@ -445,7 +445,7 @@ Wode elves are highly mobile and adept at hindering their enemies. A common tact
 > - **12-16:** 11 damage
 > - **17+:** 14 damage; A < 2 restrained (save ends)
 >
-> **Effect:** The gweiadur shifts up to 3 squares
+> **Effect:** The gweiadur shifts up to 3 squares.
 >
 > **3 Malice:** If this ability restrains the target, one enemy adjacent to the target is also restrained (save ends).
 
@@ -474,7 +474,7 @@ Wode elves are highly mobile and adept at hindering their enemies. A common tact
 | Fey, Humanoid, Wode Elf |          -          |       Level 1       |     Platoon Support     |          EV 6          |
 | :---------------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |    **1M**<br/> Size     |  **7**<br/> Speed   | **30**<br/> Stamina |  **0**<br/> Stability   | **3**<br/> Free Strike |
-|   **-**<br/> Immunity   | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+|   **-**<br/> Immunity   | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |    **0**<br/> Might     | **+2**<br/> Agility |  **0**<br/> Reason  |  **0**<br/> Intuition   |  **+1**<br/> Presence  |
 
 <!-- -->
@@ -510,10 +510,10 @@ Wode elves are highly mobile and adept at hindering their enemies. A common tact
 
 ###### Wode Elf Warleader
 
-| Fey, Humanoid. Wode Elf |             -              |       Level 3        |         Leader          |         EV 20          |
+| Fey, Humanoid, Wode Elf |             -              |       Level 3        |         Leader          |         EV 20          |
 | :---------------------: | :------------------------: | :------------------: | :---------------------: | :--------------------: |
 |    **1M**<br/> Size     |      **7**<br/> Speed      | **120**<br/> Stamina |  **2**<br/> Stability   | **5**<br/> Free Strike |
-|   **-**<br/> Immunity   | **Teleport**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+|   **-**<br/> Immunity   | **Teleport**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |    **+2**<br/> Might    |    **+3**<br/> Agility     |  **+2**<br/> Reason  |  **+2**<br/> Intuition  |  **+2**<br/> Presence  |
 
 <!-- -->
@@ -600,7 +600,7 @@ Wode elves are highly mobile and adept at hindering their enemies. A common tact
 |   Plant, Wode Elf   |          -          |       Level 1       |      Platoon Mount      |          EV 6          |
 | :-----------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |   **2**<br/> Size   |  **10**<br/> Speed  | **30**<br/> Stamina |  **1**<br/> Stability   | **3**<br/> Free Strike |
-| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |  **+2**<br/> Might  | **+1**<br/> Agility | **-1**<br/> Reason  |  **0**<br/> Intuition   |  **-1**<br/> Presence  |
 
 <!-- -->

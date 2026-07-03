@@ -15,8 +15,9 @@ level: 1
 scc:
   - mcdm.heroes.v1:feature.ability.conduit.1st-level-feature:hands-of-the-maker
 scdc:
-  - 1.1.1:13.2.8.1:15
+  - 1.1.1:11.2.8.1:15
 source: mcdm.heroes.v1
+subclass: Creation
 target: Self
 type: feature/ability/conduit/1st-level-feature
 ---

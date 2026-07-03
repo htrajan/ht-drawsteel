@@ -10,7 +10,7 @@ file_dpath: Monsters/Xorannox the Tyract/Statblocks
 free_strike: 3
 intuition: 1
 item_id: zapper-eye
-item_index: '316'
+item_index: '01'
 item_name: Zapper Eye
 level: 6
 might: -1
@@ -19,15 +19,15 @@ reason: 4
 roles:
   - Artillery
 scc:
-  - mcdm.monsters.v1:monster:zapper-eye
+  - mcdm.monsters.v1:monster.xorannox the tyract.statblock:zapper-eye
 scdc:
-  - 1.1.1:2:316
+  - 1.1.1:2.41.1:01
 size: 1M
 source: mcdm.monsters.v1
 speed: 5
 stability: 0
 stamina: '30'
-type: monster
+type: monster/xorannox the tyract/statblock
 ---
 
 ###### Zapper Eye
@@ -35,7 +35,7 @@ type: monster
 | Eyestalk, Horror, Overmind |              -               |       Level 6       |        Artillery        |          EV -          |
 | :------------------------: | :--------------------------: | :-----------------: | :---------------------: | :--------------------: |
 |      **1M**<br/> Size      |       **5**<br/> Speed       | **30**<br/> Stamina |  **0**<br/> Stability   | **3**<br/> Free Strike |
-|    **-**<br/> Immunity     | **Fly, hover**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+|    **-**<br/> Immunity     | **Fly, hover**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |     **-1**<br/> Might      |     **+1**<br/> Agility      | **+4**<br/> Reason  |  **+1**<br/> Intuition  |  **-1**<br/> Presence  |
 
 <!-- -->

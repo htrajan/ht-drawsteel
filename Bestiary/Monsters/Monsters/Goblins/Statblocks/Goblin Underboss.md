@@ -9,7 +9,7 @@ file_dpath: Monsters/Goblins/Statblocks
 free_strike: 1
 intuition: 0
 item_id: goblin-underboss
-item_index: '313'
+item_index: '10'
 item_name: Goblin Underboss
 level: 1
 might: -1
@@ -18,15 +18,15 @@ reason: 0
 roles:
   - Horde Support
 scc:
-  - mcdm.monsters.v1:monster:goblin-underboss
+  - mcdm.monsters.v1:monster.goblins.statblock:goblin-underboss
 scdc:
-  - 1.1.1:2:313
+  - 1.1.1:2.40.1:10
 size: 1S
 source: mcdm.monsters.v1
 speed: 5
 stability: 0
 stamina: '15'
-type: monster
+type: monster/goblins/statblock
 ---
 
 ###### Goblin Underboss
@@ -34,7 +34,7 @@ type: monster
 |  Goblin, Humanoid   |            -            |       Level 1       |      Horde Support      |          EV 3          |
 | :-----------------: | :---------------------: | :-----------------: | :---------------------: | :--------------------: |
 |  **1S**<br/> Size   |    **5**<br/> Speed     | **15**<br/> Stamina |  **0**<br/> Stability   | **1**<br/> Free Strike |
-| **-**<br/> Immunity | **Climb**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **Climb**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |  **-1**<br/> Might  |   **+2**<br/> Agility   |  **0**<br/> Reason  |  **0**<br/> Intuition   |  **+1**<br/> Presence  |
 
 <!-- -->

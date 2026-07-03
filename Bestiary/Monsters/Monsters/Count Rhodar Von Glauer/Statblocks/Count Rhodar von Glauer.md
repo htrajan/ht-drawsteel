@@ -9,7 +9,7 @@ file_dpath: Monsters/Count Rhodar Von Glauer/Statblocks
 free_strike: 10
 intuition: 2
 item_id: count-rhodar-von-glauer
-item_index: '287'
+item_index: '01'
 item_name: Count Rhodar von Glauer
 level: 10
 might: 3
@@ -18,15 +18,15 @@ reason: 2
 roles:
   - Solo
 scc:
-  - mcdm.monsters.v1:monster:count-rhodar-von-glauer
+  - mcdm.monsters.v1:monster.count rhodar von glauer.statblock:count-rhodar-von-glauer
 scdc:
-  - 1.1.1:2:287
+  - 1.1.1:2.36.1:01
 size: 1M
 source: mcdm.monsters.v1
 speed: 12
 stability: 3
 stamina: '650'
-type: monster
+type: monster/count rhodar von glauer/statblock
 ---
 
 ###### Count Rhodar von Glauer
@@ -34,13 +34,13 @@ type: monster
 |              Undead, Vampire               |                   -                    |       Level 10       |          Solo           |         EV 144          |
 | :----------------------------------------: | :------------------------------------: | :------------------: | :---------------------: | :---------------------: |
 |              **1M**<br/> Size              |           **12**<br/> Speed            | **650**<br/> Stamina |  **3**<br/> Stability   | **10**<br/> Free Strike |
-| **Corruption 10, poison 10**<br/> Immunity | **Fly, hover, teleport**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weaknesses  |
+| **Corruption 10, poison 10**<br/> Immunity | **Fly, hover, teleport**<br/> Movement |          -           | **-**<br/> With Captain |   **-**<br/> Weakness   |
 |             **+3**<br/> Might              |          **+5**<br/> Agility           |  **+2**<br/> Reason  |  **+2**<br/> Intuition  |  **+3**<br/> Presence   |
 
 <!-- -->
 > ☠️ **Solo Monster**
 >
-> **End Effect:** At the end of each of his turns, Rhodar can take 20 dam- age to end one effect on him that can be ended by a saving throw. This damage can't be reduced in any way.
+> **End Effect:** At the end of each of his turns, Rhodar can take 20 damage to end one effect on him that can be ended by a saving throw. This damage can't be reduced in any way.
 >
 > **Solo Turns:** Rhodar can take two turns each round. He can't take turns consecutively.
 
@@ -112,7 +112,7 @@ type: monster
 > - **12-16:** 6 damage, 7 corruption damage; push 5; M < 5 bleeding (save ends)
 > - **17+:** 6 damage, 10 corruption damage; push 7; M < 6 bleeding (save ends)
 >
-> **Effect:** Rhodar shifts up to his speed before or after using this ability He regains Stamina equal to half the total corruption damage dealt.
+> **Effect:** Rhodar shifts up to his speed before or after using this ability. He regains Stamina equal to half the total corruption damage dealt.
 
 <!-- -->
 > 🔳 **Vengeance of Rhöl (2 Malice)**

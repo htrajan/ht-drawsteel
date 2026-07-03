@@ -22,13 +22,13 @@ Minotaurs burn with fury. Some constantly desire to unleash this destructive ene
 
 ### Labyrinthine Origins
 
-The first minotaur was once the human warrior Thesia "The Bull" Danaria, who dared challenge the Beast Lords of Kham. When her revolution was crushed, the Lords of Kham used their beastmagics to twist Thesia's mortal body into a human-bull hybrid prone to fits of violent rage. The Beast Lords placed this minotaur at the center of a vast labyrinth and sent captured rebels to attack the monster. Many fell to Thesia's anger-until a prisoner named Velathri took a chance, speaking to the minotaur instead of brandishing steel. He befriended Thesia, and in retribution, the Beast Lords made him a minotaur as well. This act was their undoing, for Thesia and Velathri fell in love.
+The first minotaur was once the human warrior Thesia "The Bull" Danaria, who dared challenge the Beast Lords of Kham. When her revolution was crushed, the Lords of Kham used their beastmagics to twist Thesia's mortal body into a human-bull hybrid prone to fits of violent rage. The Beast Lords placed this minotaur at the center of a vast labyrinth and sent captured rebels to attack the monster. Many fell to Thesia's anger—until a prisoner named Velathri took a chance, speaking to the minotaur instead of brandishing steel. He befriended Thesia, and in retribution, the Beast Lords made him a minotaur as well. This act was their undoing, for Thesia and Velathri fell in love.
 
 New minotaurs were born, and decades later, hundreds charged out of the maze together. These minotaurs reduced Kham to ruins, then they spread far and wide, fearing reprisal from neighboring lands. Even today, many minotaurs shun civilization, preferring to live in winding canyons, twisting ruins, bewildering dungeons, or other labyrinthine terrain where they can continue to hunt. However, small numbers of minotaurs can be found in nearly any terrain or settlement.
 
 ### Deep Bonds
 
-Even evil minotaurs can be fiercely loyal friends, gladly charging into certain death for those they trust. These chosen friends never suffer the creature's ire-but gods help them if they betray the minotaur.
+Even evil minotaurs can be fiercely loyal friends, gladly charging into certain death for those they trust. These chosen friends never suffer the creature's ire—but gods help them if they betray the minotaur.
 
 ### Minotaur Languages
 
@@ -62,7 +62,7 @@ At the start of any minotaur's turn, you can spend Malice to activate one of the
 | Accursed, Humanoid, Minotaur |          -          |       Level 3        |      Elite Harrier      |         EV 20          |
 | :--------------------------: | :-----------------: | :------------------: | :---------------------: | :--------------------: |
 |       **2**<br/> Size        |  **8**<br/> Speed   | **100**<br/> Stamina |  **2**<br/> Stability   | **5**<br/> Free Strike |
-|     **-**<br/> Immunity      | **-**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+|     **-**<br/> Immunity      | **-**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |      **+2**<br/> Might       | **+2**<br/> Agility |  **0**<br/> Reason   |  **+1**<br/> Intuition  |  **-1**<br/> Presence  |
 
 <!-- -->
@@ -78,7 +78,7 @@ At the start of any minotaur's turn, you can spend Malice to activate one of the
 > - **12-16:** 11 damage; push 2
 > - **17+:** 14 damage; push 3
 >
-> **Effect:** The minotaur shifts up to 3 squares
+> **Effect:** The minotaur shifts up to 3 squares.
 
 <!-- -->
 > 👤 **Primal Bay (3 Malice)**
@@ -113,7 +113,7 @@ At the start of any minotaur's turn, you can spend Malice to activate one of the
 >
 > **Trigger:** A creature within distance deals damage to the minotaur.
 >
-> **Effect:** The minotaur uses theCharge main action and either Flail and Blade or Goring Horns against the target.
+> **Effect:** The minotaur uses the Charge main action and either Flail and Blade or Goring Horns against the target.
 
 <!-- -->
 > ⭐️ **Minotaur Sense**
@@ -125,7 +125,7 @@ At the start of any minotaur's turn, you can spend Malice to activate one of the
 | Accursed, Humanoid, Minotaur |          -          |       Level 3        |       Elite Brute       |         EV 20          |
 | :--------------------------: | :-----------------: | :------------------: | :---------------------: | :--------------------: |
 |       **2**<br/> Size        |  **6**<br/> Speed   | **120**<br/> Stamina |  **2**<br/> Stability   | **6**<br/> Free Strike |
-|     **-**<br/> Immunity      | **-**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+|     **-**<br/> Immunity      | **-**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |      **+2**<br/> Might       | **+1**<br/> Agility |  **0**<br/> Reason   |  **+2**<br/> Intuition  |  **-1**<br/> Presence  |
 
 <!-- -->
@@ -196,7 +196,7 @@ At the start of any minotaur's turn, you can spend Malice to activate one of the
 | Accursed, Humanoid, Minotaur |          -          |       Level 8       |                   Minion Brute                   | EV 10 for four minions |
 | :--------------------------: | :-----------------: | :-----------------: | :----------------------------------------------: | :--------------------: |
 |       **2**<br/> Size        |  **6**<br/> Speed   | **14**<br/> Stamina |               **2**<br/> Stability               | **4**<br/> Free Strike |
-|     **-**<br/> Immunity      | **-**<br/> Movement |          -          | **+3 damage bonus to strikes**<br/> With Captain | **-**<br/> Weaknesses  |
+|     **-**<br/> Immunity      | **-**<br/> Movement |          -          | **+3 damage bonus to strikes**<br/> With Captain |  **-**<br/> Weakness   |
 |      **+4**<br/> Might       | **+2**<br/> Agility |  **0**<br/> Reason  |              **+3**<br/> Intuition               |  **-1**<br/> Presence  |
 
 <!-- -->
@@ -222,7 +222,7 @@ At the start of any minotaur's turn, you can spend Malice to activate one of the
 | Accursed, Humanoid, Minotaur |          -          |       Level 8       |             Minion Harrier              | EV 10 for four minions |
 | :--------------------------: | :-----------------: | :-----------------: | :-------------------------------------: | :--------------------: |
 |       **2**<br/> Size        |  **8**<br/> Speed   | **13**<br/> Stamina |          **2**<br/> Stability           | **3**<br/> Free Strike |
-|     **-**<br/> Immunity      | **-**<br/> Movement |          -          | **+2 bonus to speed**<br/> With Captain | **-**<br/> Weaknesses  |
+|     **-**<br/> Immunity      | **-**<br/> Movement |          -          | **+2 bonus to speed**<br/> With Captain |  **-**<br/> Weakness   |
 |      **+3**<br/> Might       | **+4**<br/> Agility |  **0**<br/> Reason  |          **+1**<br/> Intuition          |  **-1**<br/> Presence  |
 
 <!-- -->
@@ -250,7 +250,7 @@ At the start of any minotaur's turn, you can spend Malice to activate one of the
 | Accursed, Humanoid, Minotaur, Swarm |          -          |      Level 10       |                Minion Defender                | EV 12 for four minions |
 | :---------------------------------: | :-----------------: | :-----------------: | :-------------------------------------------: | :--------------------: |
 |           **4**<br/> Size           |  **8**<br/> Speed   | **17**<br/> Stamina |             **2**<br/> Stability              | **4**<br/> Free Strike |
-|         **-**<br/> Immunity         | **-**<br/> Movement |          -          | **Gain an edge on strikes**<br/> With Captain | **-**<br/> Weaknesses  |
+|         **-**<br/> Immunity         | **-**<br/> Movement |          -          | **Gain an edge on strikes**<br/> With Captain |  **-**<br/> Weakness   |
 |          **+5**<br/> Might          | **+5**<br/> Agility |  **0**<br/> Reason  |             **+2**<br/> Intuition             |  **-1**<br/> Presence  |
 
 <!-- -->

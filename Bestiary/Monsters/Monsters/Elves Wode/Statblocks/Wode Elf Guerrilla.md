@@ -10,7 +10,7 @@ file_dpath: Monsters/Elves Wode/Statblocks
 free_strike: 5
 intuition: 0
 item_id: wode-elf-guerrilla
-item_index: '232'
+item_index: '10'
 item_name: Wode Elf Guerrilla
 level: 3
 might: 0
@@ -19,15 +19,15 @@ reason: 0
 roles:
   - Platoon Ambusher
 scc:
-  - mcdm.monsters.v1:monster:wode-elf-guerrilla
+  - mcdm.monsters.v1:monster.elves-wode.statblock:wode-elf-guerrilla
 scdc:
-  - 1.1.1:2:232
+  - 1.1.1:2.28.1:10
 size: 1M
 source: mcdm.monsters.v1
 speed: 7
 stability: 0
 stamina: '50'
-type: monster
+type: monster/elves-wode/statblock
 ---
 
 ###### Wode Elf Guerrilla
@@ -35,7 +35,7 @@ type: monster
 | Fey, Humanoid, Wode Elf |             -              |       Level 3       |    Platoon Ambusher     |         EV 10          |
 | :---------------------: | :------------------------: | :-----------------: | :---------------------: | :--------------------: |
 |    **1M**<br/> Size     |      **7**<br/> Speed      | **50**<br/> Stamina |  **0**<br/> Stability   | **5**<br/> Free Strike |
-|   **-**<br/> Immunity   | **Teleport**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+|   **-**<br/> Immunity   | **Teleport**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |    **0**<br/> Might     |    **+2**<br/> Agility     |  **0**<br/> Reason  |  **0**<br/> Intuition   |  **+1**<br/> Presence  |
 
 <!-- -->

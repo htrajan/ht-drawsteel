@@ -10,7 +10,7 @@ file_dpath: Monsters/Demons/Statblocks
 free_strike: 9
 intuition: 3
 item_id: soulraker-hivequeen
-item_index: '277'
+item_index: '24'
 item_name: Soulraker Hivequeen
 level: 9
 might: 5
@@ -19,24 +19,24 @@ reason: 3
 roles:
   - Leader
 scc:
-  - mcdm.monsters.v1:monster:soulraker-hivequeen
+  - mcdm.monsters.v1:monster.demons.statblock:soulraker-hivequeen
 scdc:
-  - 1.1.1:2:277
+  - 1.1.1:2.35.1:24
 size: '5'
 source: mcdm.monsters.v1
 speed: 6
 stability: 2
 stamina: '240'
-type: monster
+type: monster/demons/statblock
 ---
 
 ###### Soulraker Hivequeen
 
-| Abyssal, Demon, Soulraker |           -           |       Level 9        |         Leader          |           EV 44            |
-| :-----------------------: | :-------------------: | :------------------: | :---------------------: | :------------------------: |
-|      **5**<br/> Size      |   **6**<br/> Speed    | **240**<br/> Stamina |  **2**<br/> Stability   |   **9**<br/> Free Strike   |
-|    **-**<br/> Immunity    | **Fly**<br/> Movement |          -           | **-**<br/> With Captain | **Holy 5**<br/> Weaknesses |
-|     **+5**<br/> Might     |  **-1**<br/> Agility  |  **+3**<br/> Reason  |  **+3**<br/> Intuition  |    **+2**<br/> Presence    |
+| Abyssal, Demon, Soulraker |           -           |       Level 9        |         Leader          |          EV 44           |
+| :-----------------------: | :-------------------: | :------------------: | :---------------------: | :----------------------: |
+|      **5**<br/> Size      |   **6**<br/> Speed    | **240**<br/> Stamina |  **2**<br/> Stability   |  **9**<br/> Free Strike  |
+|    **-**<br/> Immunity    | **Fly**<br/> Movement |          -           | **-**<br/> With Captain | **Holy 5**<br/> Weakness |
+|     **+5**<br/> Might     |  **-1**<br/> Agility  |  **+3**<br/> Reason  |  **+3**<br/> Intuition  |   **+2**<br/> Presence   |
 
 <!-- -->
 > ⚔️ **Stinging Ovipositor (Signature Ability)**

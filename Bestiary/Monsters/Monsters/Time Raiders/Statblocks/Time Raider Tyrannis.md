@@ -9,7 +9,7 @@ file_dpath: Monsters/Time Raiders/Statblocks
 free_strike: 5
 intuition: 1
 item_id: time-raider-tyrannis
-item_index: '139'
+item_index: '01'
 item_name: Time Raider Tyrannis
 level: 3
 might: 0
@@ -18,24 +18,24 @@ reason: 3
 roles:
   - Leader
 scc:
-  - mcdm.monsters.v1:monster:time-raider-tyrannis
+  - mcdm.monsters.v1:monster.time-raiders.statblock:time-raider-tyrannis
 scdc:
-  - 1.1.1:2:139
+  - 1.1.1:2.18.1:01
 size: '2'
 source: mcdm.monsters.v1
-speed: 1
+speed: 10
 stability: 2
-stamina: '0120'
-type: monster
+stamina: '120'
+type: monster/time-raiders/statblock
 ---
 
 ###### Time Raider Tyrannis
 
-|    Humanoid, Time Raider    |                 -                 |        Level 3        |         Leader          |         EV 20          |
-| :-------------------------: | :-------------------------------: | :-------------------: | :---------------------: | :--------------------: |
-|       **2**<br/> Size       |         **1**<br/> Speed          | **0120**<br/> Stamina |  **2**<br/> Stability   | **5**<br/> Free Strike |
-| **Psychic 5**<br/> Immunity | **Hover, teleport**<br/> Movement |           -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
-|      **0**<br/> Might       |        **+3**<br/> Agility        |  **+3**<br/> Reason   |  **+1**<br/> Intuition  |  **0**<br/> Presence   |
+|    Humanoid, Time Raider    |                 -                 |       Level 3        |         Leader          |         EV 20          |
+| :-------------------------: | :-------------------------------: | :------------------: | :---------------------: | :--------------------: |
+|       **2**<br/> Size       |         **10**<br/> Speed         | **120**<br/> Stamina |  **2**<br/> Stability   | **5**<br/> Free Strike |
+| **Psychic 5**<br/> Immunity | **Hover, teleport**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
+|      **0**<br/> Might       |        **+3**<br/> Agility        |  **+3**<br/> Reason  |  **+1**<br/> Intuition  |  **0**<br/> Presence   |
 
 <!-- -->
 > ⚔️ **Gatling Blaster (Signature Ability)**

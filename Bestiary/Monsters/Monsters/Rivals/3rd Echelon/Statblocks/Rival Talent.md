@@ -9,7 +9,7 @@ file_dpath: Monsters/Rivals/3rd Echelon/Statblocks
 free_strike: 8
 intuition: 0
 item_id: rival-talent
-item_index: '25'
+item_index: '05'
 item_name: Rival Talent
 level: 8
 might: 0
@@ -18,15 +18,15 @@ reason: 4
 roles:
   - Elite Hexer
 scc:
-  - mcdm.monsters.v1:monster:rival-talent
+  - mcdm.monsters.v1:monster.rivals.3rd echelon.statblock:rival-talent
 scdc:
-  - 1.1.1:2:25
+  - 1.1.1:2.5.3.1:05
 size: 1M
 source: mcdm.monsters.v1
 speed: 5
 stability: 2
 stamina: '180'
-type: monster
+type: monster/rivals/3rd echelon/statblock
 ---
 
 ###### Rival Talent
@@ -34,7 +34,7 @@ type: monster
 |   Humanoid, Rival   |          -          |       Level 8        |       Elite Hexer       |         EV 40          |
 | :-----------------: | :-----------------: | :------------------: | :---------------------: | :--------------------: |
 |  **1M**<br/> Size   |  **5**<br/> Speed   | **180**<br/> Stamina |  **2**<br/> Stability   | **8**<br/> Free Strike |
-| **-**<br/> Immunity | **-**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **-**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |  **0**<br/> Might   | **0**<br/> Agility  |  **+4**<br/> Reason  |  **0**<br/> Intuition   |  **+1**<br/> Presence  |
 
 <!-- -->

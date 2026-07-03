@@ -9,7 +9,7 @@ file_dpath: Monsters/Griffons/Statblocks
 free_strike: 5
 intuition: 1
 item_id: griffon
-item_index: '87'
+item_index: '01'
 item_name: Griffon
 level: 2
 might: 2
@@ -18,15 +18,15 @@ reason: -1
 roles:
   - Elite Mount
 scc:
-  - mcdm.monsters.v1:monster:griffon
+  - mcdm.monsters.v1:monster.griffons.statblock:griffon
 scdc:
-  - 1.1.1:2:87
+  - 1.1.1:2.9.1:01
 size: '2'
 source: mcdm.monsters.v1
 speed: 9
 stability: 2
 stamina: '80'
-type: monster
+type: monster/griffons/statblock
 ---
 
 ###### Griffon
@@ -34,7 +34,7 @@ type: monster
 |   Beast, Griffon    |           -           |       Level 2       |       Elite Mount       |         EV 16          |
 | :-----------------: | :-------------------: | :-----------------: | :---------------------: | :--------------------: |
 |   **2**<br/> Size   |   **9**<br/> Speed    | **80**<br/> Stamina |  **2**<br/> Stability   | **5**<br/> Free Strike |
-| **-**<br/> Immunity | **Fly**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **Fly**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |  **+2**<br/> Might  |  **+2**<br/> Agility  | **-1**<br/> Reason  |  **+1**<br/> Intuition  |  **+2**<br/> Presence  |
 
 <!-- -->
@@ -50,7 +50,7 @@ type: monster
 > - **12-16:** 10 damage; the griffon shifts up to 2 squares
 > - **17+:** 13 damage; the griffon shifts up to 3 squares
 >
-> **Effect:** If this ability is used as part of the Charge main action, the griffon can grab one of the targets
+> **Effect:** If this ability is used as part of the Charge main action, the griffon can grab one of the targets.
 
 <!-- -->
 > 🔳 **Crack the Earth**
@@ -91,9 +91,9 @@ type: monster
 > | ----------- | -------------------: |
 > | **📏 Self** |          **🎯 Self** |
 >
-> **Trigger:** The griffon takes damage
+> **Trigger:** The griffon takes damage.
 >
-> **Effect:** The griffon halves the damage, ignores any nondamaging effects associated with it, and shifts up to 2 squares
+> **Effect:** The griffon halves the damage, ignores any nondamaging effects associated with it, and shifts up to 2 squares.
 
 <!-- -->
 > ⭐️ **Beast of Prey**

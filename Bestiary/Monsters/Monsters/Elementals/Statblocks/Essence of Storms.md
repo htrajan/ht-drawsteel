@@ -8,7 +8,7 @@ file_dpath: Monsters/Elementals/Statblocks
 free_strike: 5
 intuition: 0
 item_id: essence-of-storms
-item_index: '325'
+item_index: '03'
 item_name: Essence of Storms
 level: 3
 might: 1
@@ -17,15 +17,15 @@ reason: -1
 roles:
   - Elite Harrier
 scc:
-  - mcdm.monsters.v1:monster:essence-of-storms
+  - mcdm.monsters.v1:monster.elementals.statblock:essence-of-storms
 scdc:
-  - 1.1.1:2:325
+  - 1.1.1:2.42.1:03
 size: 1S
 source: mcdm.monsters.v1
 speed: 8
 stability: 0
 stamina: '100'
-type: monster
+type: monster/elementals/statblock
 ---
 
 ###### Essence of Storms
@@ -33,7 +33,7 @@ type: monster
 |           Elemental           |           -           |       Level 3        |      Elite Harrier      |         EV 20          |
 | :---------------------------: | :-------------------: | :------------------: | :---------------------: | :--------------------: |
 |       **1S**<br/> Size        |   **8**<br/> Speed    | **100**<br/> Stamina |  **0**<br/> Stability   | **5**<br/> Free Strike |
-| **Lightning 5**<br/> Immunity | **Fly**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Lightning 5**<br/> Immunity | **Fly**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |       **+1**<br/> Might       |  **+2**<br/> Agility  |  **-1**<br/> Reason  |  **+0**<br/> Intuition  |  **+2**<br/> Presence  |
 
 <!-- -->

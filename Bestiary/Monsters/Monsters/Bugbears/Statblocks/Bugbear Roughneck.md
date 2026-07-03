@@ -11,7 +11,7 @@ file_dpath: Monsters/Bugbears/Statblocks
 free_strike: 5
 intuition: 0
 item_id: bugbear-roughneck
-item_index: '291'
+item_index: '04'
 item_name: Bugbear Roughneck
 level: 2
 might: 2
@@ -20,15 +20,15 @@ reason: 0
 roles:
   - Elite Brute
 scc:
-  - mcdm.monsters.v1:monster:bugbear-roughneck
+  - mcdm.monsters.v1:monster.bugbears.statblock:bugbear-roughneck
 scdc:
-  - 1.1.1:2:291
+  - 1.1.1:2.37.1:04
 size: 1L
 source: mcdm.monsters.v1
 speed: 6
 stability: 0
 stamina: '109'
-type: monster
+type: monster/bugbears/statblock
 ---
 
 ###### Bugbear Roughneck
@@ -36,7 +36,7 @@ type: monster
 | Bugbear, Fey, Goblin, Humanoid |          -          |       Level 2        |       Elite Brute       |         EV 16          |
 | :----------------------------: | :-----------------: | :------------------: | :---------------------: | :--------------------: |
 |        **1L**<br/> Size        |  **6**<br/> Speed   | **109**<br/> Stamina |  **0**<br/> Stability   | **5**<br/> Free Strike |
-|      **-**<br/> Immunity       | **-**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+|      **-**<br/> Immunity       | **-**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |       **+2**<br/> Might        | **+2**<br/> Agility |  **+0**<br/> Reason  |  **+0**<br/> Intuition  |  **+0**<br/> Presence  |
 
 <!-- -->

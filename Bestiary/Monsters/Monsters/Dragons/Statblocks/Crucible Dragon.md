@@ -9,7 +9,7 @@ file_dpath: Monsters/Dragons/Statblocks
 free_strike: 7
 intuition: 3
 item_id: crucible-dragon
-item_index: '345'
+item_index: '03'
 item_name: Crucible Dragon
 level: 6
 might: 4
@@ -18,15 +18,15 @@ reason: 3
 roles:
   - Solo
 scc:
-  - mcdm.monsters.v1:monster:crucible-dragon
+  - mcdm.monsters.v1:monster.dragons.statblock:crucible-dragon
 scdc:
-  - 1.1.1:2:345
+  - 1.1.1:2.47.1:03
 size: '4'
 source: mcdm.monsters.v1
 speed: 8
 stability: 6
 stamina: '450'
-type: monster
+type: monster/dragons/statblock
 ---
 
 ###### Crucible Dragon
@@ -34,7 +34,7 @@ type: monster
 |    Dragon, Elemental     |          -          |       Level 6        |          Solo           |         EV 96          |
 | :----------------------: | :-----------------: | :------------------: | :---------------------: | :--------------------: |
 |     **4**<br/> Size      |  **8**<br/> Speed   | **450**<br/> Stamina |  **6**<br/> Stability   | **7**<br/> Free Strike |
-| **Fire 6**<br/> Immunity | **-**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Fire 6**<br/> Immunity | **-**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |    **+4**<br/> Might     | **-1**<br/> Agility |  **+3**<br/> Reason  |  **+3**<br/> Intuition  |  **+2**<br/> Presence  |
 
 <!-- -->

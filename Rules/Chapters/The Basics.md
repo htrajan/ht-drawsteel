@@ -30,7 +30,7 @@ After the Director sets the scene, each player describes how their character int
 
 **Director:** *With the glass cleared away and brighter light glowing in the room, you can see that the floor is covered in faded sigils.*
 
-At some point, a player will have their hero attempt a task that has a risk of failing in a way that is narratively interesting. In such cases, the Director calls for some dice to be rolled! Don't worry-the rules outline when and how to do this.
+At some point, a player will have their hero attempt a task that has a risk of failing in a way that is narratively interesting. In such cases, the Director calls for some dice to be rolled! Don't worry—the rules outline when and how to do this.
 
 **Grace (playing Val, a conduit):** *Before anyone steps on them, I want to examine the symbols and figure out what they mean.*
 
@@ -86,7 +86,7 @@ Presence (P) represents force of personality. A creature's capacity to lie to a 
 
 #### Characteristic Scores
 
-Each characteristic has a score that runs from −5 to +5. The higher a score, the more impact a creature has with that characteristic. A baby bunny rabbit would have a Might score of −5, while an ancient dragon would have a Might score of 5. The average human has a score of 0 in all their characteristics. Characteristic scores are added to power rolls-the dice rolls you make whenever your character attempts a task with an uncertain outcome (see [Power Rolls](#page-18-0) below).
+Each characteristic has a score that runs from −5 to +5. The higher a score, the more impact a creature has with that characteristic. A baby bunny rabbit would have a Might score of −5, while an ancient dragon would have a Might score of 5. The average human has a score of 0 in all their characteristics. Characteristic scores are added to power rolls—the dice rolls you make whenever your character attempts a task with an uncertain outcome (see [Power Rolls](#page-18-0) below).
 
 ### Dice
 
@@ -114,7 +114,7 @@ Whenever a hero or other creature in the game attempts a task with an uncertain 
 
 The game uses two types of power rolls. An **ability roll** is used when you use certain abilities to determine their impact. For instance, if a fury uses their Brutal Slam ability to strike an enemy, their ability roll determines how much damage the enemy takes and how far back the enemy is pushed. See [Abilities](#page-83-0) for more information.
 
-A **test** is a power roll you make outside of using your abilities to affect or interact with the world around you. A tactician might not have an ability that lets them climb up the face of a cliff, so climbing is an activity they can attempt with a test. An elementalist doesn't have an ability that lets them automatically intimidate a cultist into backing down from a fight, but they can make a test if they want to try. See [Tests](#page-263-0) for more information.
+A **test** is a power roll you make outside of using your abilities to affect or interact with the world around you. A tactician might not have an ability that lets them climb up the face of a cliff, so climbing is an activity they can attempt with a test. An elementalist doesn't have an ability that lets them automatically intimidate a cultist into backing down from a fight, but they can make a test if they want to try. See Tests for more information.
 
 <!-- -->
 > **Sapient Creatures**
@@ -123,29 +123,29 @@ A **test** is a power roll you make outside of using your abilities to affect or
 
 #### Making a Power Roll
 
-When you make a power roll, you roll two ten-sided dice (usually noted as 2d10 in the rules) and add one of your characteristics. The characteristic you add depends on the kind of roll you're making, as outlined in [Abilities](#page-83-0) and [Tests](#page-263-0).
+When you make a power roll, you roll two ten-sided dice (usually noted as 2d10 in the rules) and add one of your characteristics. The characteristic you add depends on the kind of roll you're making, as outlined in [Abilities](#page-83-0) and Tests.
 
 ##### Power Roll Outcomes
 
-The total of a power roll determines your outcome tier-three levels that determine how successful your power roll is.
+The total of a power roll determines your outcome tier—three levels that determine how successful your power roll is.
 
 - **Tier 1:** If your power roll total is **11 or lower**, it is a tier 1 outcome. This is the worst outcome a power roll can have. If you're using an ability, a tier 1 outcome means you still do something, but the impact of what you do is minimal. With this outcome, a strike ability might deal a little bit of damage and not do much else. For a test, a tier 1 outcome might mean you fail at what you set out to do, and you might also incur a negative consequence.
-- **Tier 2:** If your power roll total is **12 to 16**, it is a tier 2 outcome. This is the average outcome of many power rolls, especially for heroes who are 1st level. When using an ability, a tier 2 outcome means that what you do has a moderate impact. With this outcome, a strike ability deals a decent amount of damage and has an effect that briefly helps allies or hinders enemies. For a test, a tier 2 outcome means you might succeed at what you set out to do-though depending on the difficulty, success might have a cost.
+- **Tier 2:** If your power roll total is **12 to 16**, it is a tier 2 outcome. This is the average outcome of many power rolls, especially for heroes who are 1st level. When using an ability, a tier 2 outcome means that what you do has a moderate impact. With this outcome, a strike ability deals a decent amount of damage and has an effect that briefly helps allies or hinders enemies. For a test, a tier 2 outcome means you might succeed at what you set out to do—though depending on the difficulty, success might have a cost.
 - **Tier 3:** If your power roll total is **17 or higher**, it is a tier 3 outcome. This is the best outcome a power roll can have. When using an ability, a tier 3 outcome means you deliver the maximum impact possible. With this outcome, a strike ability deals a lot of damage and has a powerful or lasting effect on enemies or allies. For a test, a tier 3 outcome means you succeed at what you set out to do. If the test has an easy difficulty, you also get a little something extra in addition to your success.
 
-The specific outcome of any power roll is determined by the effect or ability that requires the roll (see [Abilities](#page-83-0)) or the rules for tests (see [Tests](#page-263-0)).
+The specific outcome of any power roll is determined by the effect or ability that requires the roll (see [Abilities](#page-83-0)) or the rules for tests (see Tests).
 
 ##### Downgrade a Power Roll
 
 Whenever you make a power roll, you can downgrade it to select the outcome of a lower tier. For instance, if an ability has a tier 3 outcome that lets you impose the restrained condition on a creature, but the tier 2 outcome for that ability lets you impose the slowed condition, you can use the tier 2 outcome if you would rather have the creature slowed than restrained.
 
-If you downgrade a critical hit, you still get the extra action benefit of the critical hit (see [Critical Hit](#page-89-0) in [Classes](#page-83-2)).
+If you downgrade a critical hit, you still get the extra action benefit of the critical hit (see [Critical Hit](#page-89-0) in Classes).
 
 ##### Natural Roll
 
 The total of your power roll before your characteristic or any other modifiers are added is called the natural roll. The rules often refer to this as "rolling a natural X," where X is the total of the roll. For example, if you get a 20 on a power roll before adding your characteristic, this is called rolling a natural 20.
 
-When you roll a natural 19 or 20 on a power roll, it is always a tier 3 result regardless of any modifiers, and on certain types of power rolls, this is a critical hit (see [Critical Hit](#page-89-0) in [Classes](#page-83-2)).
+When you roll a natural 19 or 20 on a power roll, it is always a tier 3 result regardless of any modifiers, and on certain types of power rolls, this is a critical hit (see [Critical Hit](#page-89-0) in Classes).
 
 #### Edges and Banes
 
@@ -173,14 +173,12 @@ Under certain circumstances, you might have one or more edges and banes on the s
 
 ##### When to Use Edges and Banes
 
-The rules tell you when to modify a roll with an edge or a bane. The Director can also modify rolls with edges and banes as a response to narrative or environmental circumstances. For instance, no rule
-
-specifically says that rain imposes a bane on power rolls made to climb a stone wall. But it makes sense that rainy conditions should make climbing that wall harder, so a Director should absolutely do so!
+The rules tell you when to modify a roll with an edge or a bane. The Director can also modify rolls with edges and banes as a response to narrative or environmental circumstances. For instance, no rule specifically says that rain imposes a bane on power rolls made to climb a stone wall. But it makes sense that rainy conditions should make climbing that wall harder, so a Director should absolutely do so!
 
 <!-- -->
 > **Why Cap?**
 >
-> We capped edges and banes at a maximum of two each for several reasons, including thinking about the narrative of those penalties. Every little advantage or disadvantage in a heroic story has diminishing returns, acknowledging that a creature can benefit or be hindered by short-term circumstances only so much. For example, a character who is prone and weakened by poison already finds it difficult to attack-so that becoming restrained by a net can't really make it harder.
+> We capped edges and banes at a maximum of two each for several reasons, including thinking about the narrative of those penalties. Every little advantage or disadvantage in a heroic story has diminishing returns, acknowledging that a creature can benefit or be hindered by short-term circumstances only so much. For example, a character who is prone and weakened by poison already finds it difficult to attack—so that becoming restrained by a net can't really make it harder.
 
 We also liked capping edges and banes at two because it keeps play quick. It's nice to not need to count beyond two positive or negative circumstances in a battle with a lot of effects flying around.
 
@@ -208,16 +206,16 @@ At the start of a new game session, the heroes have a number of hero tokens equa
 
 Heroes can earn more tokens through play by taking big risks to save others. A hero who leaps off a cliff to reach the bottom and aid a friend, who crosses a burning bridge to save a stray cat, or who wagers their most prized treasure as part of a negotiation to get shelter for a group of refugees might earn a hero token for the group. The Director has the final say regarding which heroic acts earn hero tokens.
 
-Players can also be awarded hero tokens as part of a test's outcome when they succeed on the test with a reward (see [Tests](#page-263-0)).
+Players can also be awarded hero tokens as part of a test's outcome when they succeed on the test with a reward (see Tests).
 
 #### Spending Hero Tokens
 
 Whenever hero tokens are available, you can spend them in the following ways:
 
-- You can spend a hero token to gain 2 surges, allowing you to increase the damage or potency of an ability. (See [Surges](#page-89-2) in [Classes](#page-83-2).)
+- You can spend a hero token to gain 2 surges, allowing you to increase the damage or potency of an ability. (See [Surges](#page-89-2) in Classes.)
 - You can spend a hero token when you fail a saving throw, letting you succeed on the save instead.
 - You can spend a hero token to reroll a test. You must use the new roll.
-- You can spend 2 hero tokens on your turn or when you take damage (no action required) to regain Stamina equal to your Recovery value before taking the damage.
+- You can spend 2 hero tokens on your turn or when you take damage (no action required) to regain Stamina equal to your recovery value before taking the damage.
 
 You can use only one hero token benefit per turn or per test. Unless the Director decides otherwise, unused hero tokens disappear at the end of a session.
 
@@ -234,7 +232,7 @@ If you're not sure what to do when two rules come into conflict with each other,
 
 ### Always Round Down
 
-Sometimes the rules tell you to divide a number in half. Whenever you divide an odd number in half and it results in a decimal, round the result down to the nearest whole number. For instance, if a tactician takes 7 damage and uses the Parry ability in response-a triggered action that halves the damage-then the damage is reduced to 3.
+Sometimes the rules tell you to divide a number in half. Whenever you divide an odd number in half and it results in a decimal, round the result down to the nearest whole number. For instance, if a tactician takes 7 damage and uses the Parry ability in response—a triggered action that halves the damage—then the damage is reduced to 3.
 
 ### Creatures and Objects
 
@@ -252,7 +250,7 @@ The word supernatural is used to describe abilities, creatures, objects, and eff
 
 ### PCs and NPCs
 
-Two types of characters inhabit the world of the game-the player characters (also called PCs or heroes) who are created and controlled by the players, and nonplayer characters (NPCs) created and controlled by the Director. NPCs can include any of the game's monsters, but when the rules refer to NPCs, they generally do so in the context of interacting with them outside of combat.
+Two types of characters inhabit the world of the game—the player characters (also called PCs or heroes) who are created and controlled by the players, and nonplayer characters (NPCs) created and controlled by the Director. NPCs can include any of the game's monsters, but when the rules refer to NPCs, they generally do so in the context of interacting with them outside of combat.
 
 <!-- -->
 > **Bags of Rats Ain't Heroic**
@@ -263,7 +261,7 @@ Two types of characters inhabit the world of the game-the player characters (als
 
 The game takes place in a series of scenes with the heroes as the main characters. An adventure is a collection of scenes that make up a story, with a beginning, middle, and end, and a campaign is a collection of adventures that tell the entire epic tale of a group of heroes. You can think of each adventure as a movie in a saga of films, a book in a series of novels, or a season of a television show. While many heroes have their stories told over the course of a campaign, some wrap up their careers in a single adventure that takes place in one game session, called a one-shot. You can think of a one-shot as a great stand-alone novella or movie.
 
-This game is built so that each adventure you play and each battle you fight gets more exciting as it goes on. In fantastic tales, the heroes and their foes both grow in power over the course of an adventure. But it isn't time alone that grows a hero's capabilities. Rather, it's the adrenaline that comes from battle, the danger of the hero's profession, and the pressure to save the world-or at least some small part of it that pushes a character to do the impossible. Each small act of heroism gives a hero the confidence and bravery to perform legendary feats against all odds.
+This game is built so that each adventure you play and each battle you fight gets more exciting as it goes on. In fantastic tales, the heroes and their foes both grow in power over the course of an adventure. But it isn't time alone that grows a hero's capabilities. Rather, it's the adrenaline that comes from battle, the danger of the hero's profession, and the pressure to save the world—or at least some small part of it that pushes a character to do the impossible. Each small act of heroism gives a hero the confidence and bravery to perform legendary feats against all odds.
 
 The things a hero can achieve at the end of the story are far more daring and impactful than what they do at the start, and the final showdown against a villain's forces is more deadly and desperate than the first. The rules of the game help build a heroic narrative in this same fashion, making use of the four most important mechanics for building heroic narratives: Victories, Experience, Heroic Resources, and Recoveries.
 
@@ -297,7 +295,7 @@ Your hero's class description has more information about how to use your Heroic 
 
 #### Recoveries
 
-Recoveries represent the number of times your hero can take a breather and keep fighting. Spending Recoveries lets you regain Stamina-the measure of any creature's physical vitality and capacity to shrug off or avoid damage (see [Stamina](#page-291-0) in [Combat](#page-279-4)). Running out of Recoveries means your hero has reached their uttermost limit.
+Recoveries represent the number of times your hero can take a breather and keep fighting. Spending Recoveries lets you regain Stamina—the measure of any creature's physical vitality and capacity to shrug off or avoid damage (see [Stamina](#page-291-0) in [Combat](#page-279-4)). Running out of Recoveries means your hero has reached their uttermost limit.
 
 When you spend a Recovery, you regain Stamina equal to your **recovery value**, which is one-third your Stamina maximum. You can spend your Recoveries with a special maneuver (see below), or you might do so with a little supernatural help from a conduit, a boost of adrenaline from an allied tactician, or inspiration from your party's troubadour.
 
@@ -323,13 +321,13 @@ The standard 8-or-so hours of sleep one gets at night doesn't count as a respite
 
 ### Echelons of Play
 
-The core gameplay experience of *Draw Steel* takes place over ten levels of play. At 1st level, player characters are already known as heroes and have the power to save their local village. By the time the characters are 10th level, people all over the world-maybe even across all worlds know the names of their saviors!
+The core gameplay experience of *Draw Steel* takes place over ten levels of play. At 1st level, player characters are already known as heroes and have the power to save their local village. By the time the characters are 10th level, people all over the world—maybe even across all worlds know the names of their saviors!
 
 Since this game encompasses power levels from hometown heroes to demigods, the core experience has been divided into four different echelons. Each echelon determines the types of threats the heroes can take on, the stakes of their stories, and the rewards they receive at the various levels of play.
 
 #### 1st Echelon (1st to 3rd Level)
 
-The 1st echelon of play details the stories of characters of 1st to 3rd level. At this echelon, the characters are local heroes. They save lost caravans, besieged villages, and overlooked neighborhoods within cities. Characters battle bands of mortal humanoids-dwarves, elves, goblins, humans, kobolds, orcs, and more. They can also face off against the occasional larger monstrous threat, such as a bredbeddle, ogre, or chimera. Such creatures can threaten a small community but rarely have plans for world domination or the destruction of the timescape. However, any of these adversaries might work for or be manipulated by stronger threats as a foreshadowing of what awaits the heroes at higher echelons.
+The 1st echelon of play details the stories of characters of 1st to 3rd level. At this echelon, the characters are local heroes. They save lost caravans, besieged villages, and overlooked neighborhoods within cities. Characters battle bands of mortal humanoids—dwarves, elves, goblins, humans, kobolds, orcs, and more. They can also face off against the occasional larger monstrous threat, such as a bredbeddle, ogre, or chimera. Such creatures can threaten a small community but rarely have plans for world domination or the destruction of the timescape. However, any of these adversaries might work for or be manipulated by stronger threats as a foreshadowing of what awaits the heroes at higher echelons.
 
 #### 2nd Echelon (4th to 6th Level)
 
@@ -347,7 +345,7 @@ The 4th echelon of play explores the stories of characters of 10th level (and mi
 
 ### Orden and the Timescape
 
-A new game demands new worlds! Welcome to the timescape-a collection of worlds spanning high fantasy, dark fantasy, even space fantasy!
+A new game demands new worlds! Welcome to the timescape—a collection of worlds spanning high fantasy, dark fantasy, even space fantasy!
 
 Our tour begins on the world of Orden, the prime manifold, where humans, elves, dwarves, and orcs share a world with dragons, goblins, kobolds, and dozens of other speaking peoples. But human civilization and politics dominate here.
 
@@ -377,7 +375,7 @@ Omund died 15 years ago and so died the rule of law. Now the forest claims the t
 
 Omund was betrayed and his castle fell to Ajax the Invincible, now called the Iron Saint. His wizard Mortum unlocked the secret of the ancient sky elf flying cities, and raised the Chrysopolis, Ajax's city-fortress in the sky.
 
-It was Mortum who used the secrets of the synliroi body banks, granting immortality to those nobles who voluntarily submit to Ajax. Those same body banks produce Ajax's war dogs, his brutal, patchwork-soldiers who owe their new lives to the Iron Saint and fight for him fanatically.
+It was Mortum who used the secrets of the synliroi body banks, granting immortality to those nobles who voluntarily submit to Ajax. Those same body banks produce Ajax's war dogs, his brutal, patchwork—soldiers who owe their new lives to the Iron Saint and fight for him fanatically.
 
 Ajax abolished all faiths and temples. He executed the dukes who organized and united the barons, leaving the far-flung baronies to try and hold human civilization together. Once, these people were loose allies. There was trade between humans, elves, dwarves and orcs.
 
@@ -385,7 +383,7 @@ Now there is only suspicion.
 
 **The high elves of the fallen city** pay tribute with ancient artifacts they plunder from the fallen celestial city of Irranys. **The wode elves of the Orchid Court**, lacking any centralized government or cities, refuse to bow to Ajax.
 
-**The dwarves of Kal Kalavar** pay tribute in prisoners they abduct from those foolish enough to travel the roads unescorted. These prisoners serve Ajax as forced labor or are fed into the body banks. Brooding under the mountains in their fabled Hanging City, the stone dwarves do not like this deal with the Overlord but lack the power-or the will-to rebel.
+**The dwarves of Kal Kalavar** pay tribute in prisoners they abduct from those foolish enough to travel the roads unescorted. These prisoners serve Ajax as forced labor or are fed into the body banks. Brooding under the mountains in their fabled Hanging City, the stone dwarves do not like this deal with the Overlord but lack the power—or the will—to rebel.
 
 **The Hawklords of the High Aeries**, once remote and proud, almost mythical to the people below, made their own pact with Ajax to avoid extermination. They now serve as his elite counterinsurgent force. Mounted on their giant hawks, they project Ajax's power, enforce his law and extend his influence into every corner of the wilderness. Their mastery of the air means any revolt or rebellion is quickly seen and crushed.
 
@@ -395,7 +393,7 @@ Isolated and outnumbered, the human baronies desperately fight a losing battle a
 
 #### Capital
 
-The Greatest City in This or Any Age! City of the Great Game! Located west across the Bale Sea from Vasloria, on the eastern coast of Rioja, Capital is not only the largest city in Orden-it's the largest city there has ever been. Larger than the fabled steel dwarf capital of Kalas Valiar, larger even than Alloy, the City at the Center of the Timescape. Capital is the exception to many rules.
+The Greatest City in This or Any Age! City of the Great Game! Located west across the Bale Sea from Vasloria, on the eastern coast of Rioja, Capital is not only the largest city in Orden—it's the largest city there has ever been. Larger than the fabled steel dwarf capital of Kalas Valiar, larger even than Alloy, the City at the Center of the Timescape. Capital is the exception to many rules.
 
 It is a city of playwrights and opera, of spies and sorcery. Famed throughout the world as a city of high magic where flying tapestries act as taxis, the reality of living in Capital is somewhat more mundane. Only the very wealthy can afford such luxuries.
 
@@ -409,7 +407,7 @@ The "great game" is espionage, and **House Alvaro** are the best players in the 
 
 Duke Marco Vorona sponsors the Imperial War College, also known as the Academy. A prestigious institution rivaling any college of the Imperial University, the Academy boasts graduates among all the noble families in Orden. This widespread allegiance creates a vast informal network in the city referred to cynically as the Old Class Ring that gives Vorona access to intelligence other factions can only dream of.
 
-**House Navarr**, oldest of the great houses, enforces the church's law, which they call justice. Led by His Grace Orsino, Duke Navarr, archbishop of the most powerful church in the city-the Church of Saint Ysabella the Pitiless-House Navarr consolidates a vast network of different churches and orders of knights across the region under one elaborate system of patronage.
+**House Navarr**, oldest of the great houses, enforces the church's law, which they call justice. Led by His Grace Orsino, Duke Navarr, archbishop of the most powerful church in the city—the Church of Saint Ysabella the Pitiless—House Navarr consolidates a vast network of different churches and orders of knights across the region under one elaborate system of patronage.
 
 Arguably the most powerful great house, **House Valetta** controls the Arbitros Fiat, the tax collectors. Valetta is led by the Duchess Lenore who, in mourning for her assassinated husband Maximo, opened the *Codex Mortis* and spoke the ritual which should have returned her love to life. Instead, she brought about the Lilac Night, which transformed every mortal in her district, including herself, into deathless revenants. Now, the Duchess Lenore is an immortal vampire queen. A dead lady, ruling over a dead city.
 
@@ -449,7 +447,7 @@ The power of the World Below wanes, while the power of Equinox waxes. A smaller,
 
 The last plane of law, the Seven Cities of Hell is among the lowest of the lower planes. A land of devils proud of their civilization, each of the seven cities is ruled by an archduke who schemes to ascend to the Throne of Hell. A world of bureaucratic law, the devil denizens of Hell have little interest in the other planes. Life is so much more *interesting* down here.
 
-The seven archdevils conspired together once; agreeing to create the Order of Desolation-also known as the Illriggers-to extend their power into the timescape, and defend Hell from the horde of demons below.
+The seven archdevils conspired together once; agreeing to create the Order of Desolation—also known as the Illriggers—to extend their power into the timescape, and defend Hell from the horde of demons below.
 
 The demons of the Abyssal Waste, the lowest plane, claw and scramble over each other, competing for souls in this heat-blasted desert under a baleful, giant orange sun. Mindless collections of organs, claws, and teeth, demons collect souls until they reach sentience and gain identity and the blessing of memory. These demons will do anything to escape upwards, out of the wasteland, lest they lose their collected souls, lose their identity, and fall into that mindless state called lethe.
 

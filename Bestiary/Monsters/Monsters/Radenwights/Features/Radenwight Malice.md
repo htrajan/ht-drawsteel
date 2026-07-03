@@ -2,12 +2,12 @@
 file_basename: Radenwight Malice
 file_dpath: Monsters/Radenwights/Features
 item_id: radenwight-malice-malice-features
-item_index: '17'
+item_index: '20'
 item_name: Radenwight Malice (Malice Features)
 scc:
   - mcdm.monsters.v1:monster.feature:radenwight-malice-malice-features
 scdc:
-  - 1.1.1:2.2:17
+  - 1.1.1:2.2:20
 source: mcdm.monsters.v1
 type: monster/feature
 ---
@@ -19,9 +19,9 @@ At the start of any radenwight's turn, you can spend Malice to activate one of t
 <!-- -->
 > 🗡 **Trouser Cut (3 Malice)**
 >
-> | **Magic, Melee** |     **Main action** |
-> | ---------------- | ------------------: |
-> | **📏 Melee 1**   | **🎯 One creature** |
+> | **Melee, Strike, Weapon** |     **Main action** |
+> | ------------------------- | ------------------: |
+> | **📏 Melee 1**            | **🎯 One creature** |
 >
 > **Power Roll + 2:**
 >

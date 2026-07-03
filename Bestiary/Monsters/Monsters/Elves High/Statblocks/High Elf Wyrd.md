@@ -10,7 +10,7 @@ file_dpath: Monsters/Elves High/Statblocks
 free_strike: 5
 intuition: -1
 item_id: high-elf-wyrd
-item_index: '113'
+item_index: '06'
 item_name: High Elf Wyrd
 level: 3
 might: 0
@@ -19,15 +19,15 @@ reason: 2
 roles:
   - Platoon Controller
 scc:
-  - mcdm.monsters.v1:monster:high-elf-wyrd
+  - mcdm.monsters.v1:monster.elves-high.statblock:high-elf-wyrd
 scdc:
-  - 1.1.1:2:113
+  - 1.1.1:2.14.1:06
 size: 1M
 source: mcdm.monsters.v1
 speed: 5
 stability: 0
 stamina: '40'
-type: monster
+type: monster/elves-high/statblock
 ---
 
 ###### High Elf Wyrd
@@ -35,7 +35,7 @@ type: monster
 |   Fey, High Elf, Humanoid   |          -          |       Level 3       |   Platoon Controller    |         EV 10          |
 | :-------------------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |      **1M**<br/> Size       |  **5**<br/> Speed   | **40**<br/> Stamina |  **0**<br/> Stability   | **5**<br/> Free Strike |
-| **Psychic 5**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Psychic 5**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |      **0**<br/> Might       | **+1**<br/> Agility | **+2**<br/> Reason  |  **-1**<br/> Intuition  |  **+2**<br/> Presence  |
 
 <!-- -->

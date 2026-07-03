@@ -11,7 +11,7 @@ file_dpath: Monsters/Hobgoblins/Statblocks
 free_strike: 7
 intuition: 3
 item_id: hobgoblin-bloodlord
-item_index: '186'
+item_index: '10'
 item_name: Hobgoblin Bloodlord
 level: 6
 might: 4
@@ -20,15 +20,15 @@ reason: 2
 roles:
   - Leader
 scc:
-  - mcdm.monsters.v1:monster:hobgoblin-bloodlord
+  - mcdm.monsters.v1:monster.hobgoblins.statblock:hobgoblin-bloodlord
 scdc:
-  - 1.1.1:2:186
+  - 1.1.1:2.22.1:10
 size: 1M
 source: mcdm.monsters.v1
 speed: 6
 stability: 2
 stamina: '180'
-type: monster
+type: monster/hobgoblins/statblock
 ---
 
 ###### Hobgoblin Bloodlord
@@ -36,7 +36,7 @@ type: monster
 | Goblin, Hobgoblin, Humanoid, Infernal |             -              |       Level 6        |         Leader          |         EV 32          |
 | :-----------------------------------: | :------------------------: | :------------------: | :---------------------: | :--------------------: |
 |           **1M**<br/> Size            |      **6**<br/> Speed      | **180**<br/> Stamina |  **2**<br/> Stability   | **7**<br/> Free Strike |
-|       **Fire 6**<br/> Immunity        | **Teleport**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+|       **Fire 6**<br/> Immunity        | **Teleport**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |           **+4**<br/> Might           |    **+2**<br/> Agility     |  **+2**<br/> Reason  |  **+3**<br/> Intuition  |  **+3**<br/> Presence  |
 
 <!-- -->
@@ -82,7 +82,7 @@ type: monster
 <!-- -->
 > ⭐️ **End Effect**
 >
-> At the end of each of their turns, the bloodlord can take 10 damage to end one effect on them that can be ended by a saving throw. This damage can't be reduced in any way
+> At the end of each of their turns, the bloodlord can take 10 damage to end one effect on them that can be ended by a saving throw. This damage can't be reduced in any way.
 
 <!-- -->
 > ☠️ **Advance! (Villain Action 1)**

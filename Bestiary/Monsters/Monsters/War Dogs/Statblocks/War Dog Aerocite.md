@@ -10,7 +10,7 @@ file_dpath: Monsters/War Dogs/Statblocks
 free_strike: 3
 intuition: 3
 item_id: war-dog-aerocite
-item_index: '368'
+item_index: '18'
 item_name: War Dog Aerocite
 level: 8
 might: 0
@@ -19,15 +19,15 @@ reason: 1
 roles:
   - Horde Harrier
 scc:
-  - mcdm.monsters.v1:monster:war-dog-aerocite
+  - mcdm.monsters.v1:monster.war-dogs.statblock:war-dog-aerocite
 scdc:
-  - 1.1.1:2:368
+  - 1.1.1:2.51.1:18
 size: 1M
 source: mcdm.monsters.v1
 speed: 8
 stability: 0
 stamina: '50'
-type: monster
+type: monster/war-dogs/statblock
 ---
 
 ###### War Dog Aerocite
@@ -35,7 +35,7 @@ type: monster
 | Humanoid, Soulless, War Dog |           -           |       Level 8       |      Horde Harrier      |         EV 10          |
 | :-------------------------: | :-------------------: | :-----------------: | :---------------------: | :--------------------: |
 |      **1M**<br/> Size       |   **8**<br/> Speed    | **50**<br/> Stamina |  **0**<br/> Stability   | **3**<br/> Free Strike |
-|     **-**<br/> Immunity     | **Fly**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+|     **-**<br/> Immunity     | **Fly**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |      **0**<br/> Might       |  **+4**<br/> Agility  | **+1**<br/> Reason  |  **+3**<br/> Intuition  |  **+1**<br/> Presence  |
 
 <!-- -->
@@ -66,7 +66,7 @@ type: monster
 > - **12-16:** 4 acid damage; M < 3 slowed (save ends)
 > - **17+:** 6 acid damage; M < 4 slowed (save ends)
 >
-> **Effect:** The area is difficult terrain
+> **Effect:** The area is difficult terrain.
 
 <!-- -->
 > ⭐️ **Jetwing Agility**

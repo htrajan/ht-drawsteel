@@ -28,7 +28,7 @@ The shadow elves have mastered the art of combining deep, ancient magic with cut
 
 #### Brush Stalkers
 
-When the shadow elves invade Orden, they often ride domesticated dwimmerbeasts known as brush stalkers-quadrupeds who carry entire ecosystems on their rack of antlers. Newly born brush stalkers do not survive translation into Orden, so the ones the shadow elves ride are old: overgrown with bioluminescent moss, cracks on their ancient cloven hooves.
+When the shadow elves invade Orden, they often ride domesticated dwimmerbeasts known as brush stalkers—quadrupeds who carry entire ecosystems on their rack of antlers. Newly born brush stalkers do not survive translation into Orden, so the ones the shadow elves ride are old: overgrown with bioluminescent moss, cracks on their ancient cloven hooves.
 
 A brush stalker's glamor allows them to look like a mundane deer. But when the glamour falls, the creature devours the light around them and plunges their surroundings into darkness.
 
@@ -76,7 +76,7 @@ At the start of any shadow elf's turn, you can spend Malice to activate one of t
 | Fey, Humanoid, Shadow Elf |            -            |      Level 4       |             Minion Harrier              | EV 6 for four minions  |
 | :-----------------------: | :---------------------: | :----------------: | :-------------------------------------: | :--------------------: |
 |     **1M**<br/> Size      |    **8**<br/> Speed     | **8**<br/> Stamina |          **0**<br/> Stability           | **2**<br/> Free Strike |
-|    **-**<br/> Immunity    | **Climb**<br/> Movement |         -          | **+2 bonus to speed**<br/> With Captain | **-**<br/> Weaknesses  |
+|    **-**<br/> Immunity    | **Climb**<br/> Movement |         -          | **+2 bonus to speed**<br/> With Captain |  **-**<br/> Weakness   |
 |     **+3**<br/> Might     |   **+1**<br/> Agility   | **0**<br/> Reason  |          **0**<br/> Intuition           |  **0**<br/> Presence   |
 
 <!-- -->
@@ -92,7 +92,7 @@ At the start of any shadow elf's turn, you can spend Malice to activate one of t
 > - **12-16:** 4 damage
 > - **17+:** 6 damage
 >
-> **Effect:** The cloak shifts up to 2 squares
+> **Effect:** The cloak shifts up to 2 squares.
 
 <!-- -->
 > ⭐️ **Of the Umbra**
@@ -104,7 +104,7 @@ At the start of any shadow elf's turn, you can spend Malice to activate one of t
 | Fey, Humanoid, Shadow Elf |            -            |      Level 4       |                 Minion Hexer                  | EV 6 for four minions  |
 | :-----------------------: | :---------------------: | :----------------: | :-------------------------------------------: | :--------------------: |
 |     **1M**<br/> Size      |    **5**<br/> Speed     | **7**<br/> Stamina |             **0**<br/> Stability              | **2**<br/> Free Strike |
-|    **-**<br/> Immunity    | **Climb**<br/> Movement |         -          | **Gain an edge on strikes**<br/> With Captain | **-**<br/> Weaknesses  |
+|    **-**<br/> Immunity    | **Climb**<br/> Movement |         -          | **Gain an edge on strikes**<br/> With Captain |  **-**<br/> Weakness   |
 |     **0**<br/> Might      |   **+3**<br/> Agility   | **+2**<br/> Reason |             **0**<br/> Intuition              |  **0**<br/> Presence   |
 
 <!-- -->
@@ -130,7 +130,7 @@ At the start of any shadow elf's turn, you can spend Malice to activate one of t
 | Fey, Humanoid, Shadow Elf |            -            |      Level 4       |                 Minion Artillery                 | EV 6 for four minions  |
 | :-----------------------: | :---------------------: | :----------------: | :----------------------------------------------: | :--------------------: |
 |     **1M**<br/> Size      |    **5**<br/> Speed     | **7**<br/> Stamina |               **0**<br/> Stability               | **3**<br/> Free Strike |
-|    **-**<br/> Immunity    | **Climb**<br/> Movement |         -          | **+2 damage bonus to strikes**<br/> With Captain | **-**<br/> Weaknesses  |
+|    **-**<br/> Immunity    | **Climb**<br/> Movement |         -          | **+2 damage bonus to strikes**<br/> With Captain |  **-**<br/> Weakness   |
 |     **+1**<br/> Might     |   **+3**<br/> Agility   | **0**<br/> Reason  |               **0**<br/> Intuition               |  **0**<br/> Presence   |
 
 <!-- -->
@@ -158,7 +158,7 @@ At the start of any shadow elf's turn, you can spend Malice to activate one of t
 | Fey, Humanoid, Shadow Elf |            -            |      Level 4       |                Minion Ambusher                | EV 6 for four minions  |
 | :-----------------------: | :---------------------: | :----------------: | :-------------------------------------------: | :--------------------: |
 |     **1M**<br/> Size      |    **5**<br/> Speed     | **8**<br/> Stamina |             **0**<br/> Stability              | **3**<br/> Free Strike |
-|    **-**<br/> Immunity    | **Climb**<br/> Movement |         -          | **Gain an edge on strikes**<br/> With Captain | **-**<br/> Weaknesses  |
+|    **-**<br/> Immunity    | **Climb**<br/> Movement |         -          | **Gain an edge on strikes**<br/> With Captain |  **-**<br/> Weakness   |
 |     **+1**<br/> Might     |   **+3**<br/> Agility   | **0**<br/> Reason  |             **+1**<br/> Intuition             |  **0**<br/> Presence   |
 
 <!-- -->
@@ -186,7 +186,7 @@ At the start of any shadow elf's turn, you can spend Malice to activate one of t
 | Fey, Humanoid, Shadow Elf |            -            |       Level 6       |    Platoon Artillery    |         EV 16          |
 | :-----------------------: | :---------------------: | :-----------------: | :---------------------: | :--------------------: |
 |     **1M**<br/> Size      |    **5**<br/> Speed     | **70**<br/> Stamina |  **0**<br/> Stability   | **7**<br/> Free Strike |
-|    **-**<br/> Immunity    | **Climb**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+|    **-**<br/> Immunity    | **Climb**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |     **0**<br/> Might      |   **+3**<br/> Agility   | **+2**<br/> Reason  |  **+1**<br/> Intuition  |  **+1**<br/> Presence  |
 
 <!-- -->
@@ -231,7 +231,7 @@ At the start of any shadow elf's turn, you can spend Malice to activate one of t
 | Fey, Humanoid, Shadow Elf |            -            |       Level 5       |   Platoon Controller    |         EV 14          |
 | :-----------------------: | :---------------------: | :-----------------: | :---------------------: | :--------------------: |
 |     **1M**<br/> Size      |    **5**<br/> Speed     | **60**<br/> Stamina |  **0**<br/> Stability   | **6**<br/> Free Strike |
-|    **-**<br/> Immunity    | **Climb**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+|    **-**<br/> Immunity    | **Climb**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |     **0**<br/> Might      |   **+3**<br/> Agility   | **+3**<br/> Reason  |  **+2**<br/> Intuition  |  **+1**<br/> Presence  |
 
 <!-- -->
@@ -270,7 +270,7 @@ At the start of any shadow elf's turn, you can spend Malice to activate one of t
 | Fey, Humanoid, Shadow Elf |            -            |       Level 4       |    Platoon Defender     |         EV 12          |
 | :-----------------------: | :---------------------: | :-----------------: | :---------------------: | :--------------------: |
 |     **1M**<br/> Size      |    **5**<br/> Speed     | **70**<br/> Stamina |  **0**<br/> Stability   | **5**<br/> Free Strike |
-|    **-**<br/> Immunity    | **Climb**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+|    **-**<br/> Immunity    | **Climb**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |     **0**<br/> Might      |   **+2**<br/> Agility   |  **0**<br/> Reason  |  **+3**<br/> Intuition  |  **+2**<br/> Presence  |
 
 <!-- -->
@@ -307,7 +307,7 @@ At the start of any shadow elf's turn, you can spend Malice to activate one of t
 | Fey, Humanoid, Shadow Elf |            -            |       Level 4       |     Platoon Support     |         EV 12          |
 | :-----------------------: | :---------------------: | :-----------------: | :---------------------: | :--------------------: |
 |     **1M**<br/> Size      |    **5**<br/> Speed     | **60**<br/> Stamina |  **0**<br/> Stability   | **5**<br/> Free Strike |
-|    **-**<br/> Immunity    | **Climb**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+|    **-**<br/> Immunity    | **Climb**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |     **0**<br/> Might      |   **+1**<br/> Agility   | **+1**<br/> Reason  |  **+3**<br/> Intuition  |  **+2**<br/> Presence  |
 
 <!-- -->
@@ -350,7 +350,7 @@ At the start of any shadow elf's turn, you can spend Malice to activate one of t
 | Fey, Humanoid, Shadow Elf |            -            |       Level 5       |     Platoon Harrier     |         EV 14          |
 | :-----------------------: | :---------------------: | :-----------------: | :---------------------: | :--------------------: |
 |     **1M**<br/> Size      |    **7**<br/> Speed     | **70**<br/> Stamina |  **0**<br/> Stability   | **6**<br/> Free Strike |
-|    **-**<br/> Immunity    | **Climb**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+|    **-**<br/> Immunity    | **Climb**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |     **+1**<br/> Might     |   **+3**<br/> Agility   | **+1**<br/> Reason  |  **+2**<br/> Intuition  |  **0**<br/> Presence   |
 
 <!-- -->
@@ -389,7 +389,7 @@ At the start of any shadow elf's turn, you can spend Malice to activate one of t
 | Fey, Humanoid, Shadow Elf |            -            |       Level 6       |    Platoon Ambusher     |         EV 16          |
 | :-----------------------: | :---------------------: | :-----------------: | :---------------------: | :--------------------: |
 |     **1M**<br/> Size      |    **5**<br/> Speed     | **80**<br/> Stamina |  **0**<br/> Stability   | **7**<br/> Free Strike |
-|    **-**<br/> Immunity    | **Climb**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+|    **-**<br/> Immunity    | **Climb**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |     **+2**<br/> Might     |   **+3**<br/> Agility   | **+1**<br/> Reason  |  **+2**<br/> Intuition  |  **0**<br/> Presence   |
 
 <!-- -->
@@ -426,7 +426,7 @@ At the start of any shadow elf's turn, you can spend Malice to activate one of t
 | Fey, Humanoid, Shadow Elf |            -            |       Level 6       |      Platoon Hexer      |         EV 16          |
 | :-----------------------: | :---------------------: | :-----------------: | :---------------------: | :--------------------: |
 |     **1M**<br/> Size      |    **5**<br/> Speed     | **70**<br/> Stamina |  **0**<br/> Stability   | **6**<br/> Free Strike |
-|    **-**<br/> Immunity    | **Climb**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+|    **-**<br/> Immunity    | **Climb**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |     **0**<br/> Might      |   **+2**<br/> Agility   | **+3**<br/> Reason  |  **+1**<br/> Intuition  |  **+1**<br/> Presence  |
 
 <!-- -->
@@ -469,7 +469,7 @@ At the start of any shadow elf's turn, you can spend Malice to activate one of t
 | Fey, Humanoid, Shadow Elf |            -            |       Level 4       |      Platoon Brute      |         EV 12          |
 | :-----------------------: | :---------------------: | :-----------------: | :---------------------: | :--------------------: |
 |     **1M**<br/> Size      |    **5**<br/> Speed     | **70**<br/> Stamina |  **0**<br/> Stability   | **6**<br/> Free Strike |
-|    **-**<br/> Immunity    | **Climb**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+|    **-**<br/> Immunity    | **Climb**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |     **+3**<br/> Might     |   **+2**<br/> Agility   | **-1**<br/> Reason  |  **+1**<br/> Intuition  |  **+1**<br/> Presence  |
 
 <!-- -->
@@ -511,7 +511,7 @@ At the start of any shadow elf's turn, you can spend Malice to activate one of t
 
 **Shadow Elf Deployments**
 
-When under order of the Shadow Queen, shadow elf missions outside of Equinox are usually short, dangerous, and targeted. They rarely last more than a week or two, and the force often appears in Orden not far from their target. Mission goals trend towards the nefarious-kidnapping, assassination, theft, and general skullduggery are the order of the day.
+When under order of the Shadow Queen, shadow elf missions outside of Equinox are usually short, dangerous, and targeted. They rarely last more than a week or two, and the force often appears in Orden not far from their target. Mission goals trend towards the nefarious—kidnapping, assassination, theft, and general skullduggery are the order of the day.
 
 However, not every shadow elf force is affiliate d wit h th queen. Some are exiled rebels plotting their return, others independent groups searching for lost magic to restore their world, and yet others have left Equinox permanently to seek new lives in the caverns and deep woods of Orden. No matter their affiliation, these groups will brook no attempts to thwart their goals and are all deadly warriors.
 
@@ -527,7 +527,7 @@ However, not every shadow elf force is affiliate d wit h th queen. Some are exil
 | Fey, Humanoid, Shadow Elf |            -            |       Level 6        |         Leader          |         EV 32          |
 | :-----------------------: | :---------------------: | :------------------: | :---------------------: | :--------------------: |
 |     **1M**<br/> Size      |    **6**<br/> Speed     | **180**<br/> Stamina |  **1**<br/> Stability   | **7**<br/> Free Strike |
-|    **-**<br/> Immunity    | **Climb**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+|    **-**<br/> Immunity    | **Climb**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |     **+4**<br/> Might     |   **+3**<br/> Agility   |  **+2**<br/> Reason  |  **+1**<br/> Intuition  |  **+2**<br/> Presence  |
 
 <!-- -->
@@ -617,7 +617,7 @@ However, not every shadow elf force is affiliate d wit h th queen. Some are exil
 | Animal, Fey, Shadow Elf |          -          |       Level 4       |      Platoon Mount      |         EV 12          |
 | :---------------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |     **2**<br/> Size     |  **8**<br/> Speed   | **60**<br/> Stamina |  **3**<br/> Stability   | **5**<br/> Free Strike |
-|   **-**<br/> Immunity   | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+|   **-**<br/> Immunity   | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |    **+3**<br/> Might    | **+2**<br/> Agility | **-1**<br/> Reason  |  **+1**<br/> Intuition  |  **+1**<br/> Presence  |
 
 <!-- -->
@@ -654,4 +654,4 @@ However, not every shadow elf force is affiliate d wit h th queen. Some are exil
 <!-- -->
 > ⭐️ **Wyrd Dyr**
 >
-> While they have line of effect to the brush stalker, any animal except another brush stalker is frightened
+> While they have line of effect to the brush stalker, any animal except another brush stalker is frightened.

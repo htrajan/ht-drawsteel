@@ -8,7 +8,7 @@ item_name: Knife of Nine
 scc:
   - mcdm.heroes.v1:treasure.leveled.weapon:knife-of-nine
 scdc:
-  - 1.1.1:12.3.1:03
+  - 1.1.1:13.3.1:03
 source: mcdm.heroes.v1
 treasure_type: Leveled
 type: treasure/leveled/weapon
@@ -20,7 +20,7 @@ type: treasure/leveled/weapon
 
 **Keywords:** Light Weapon, Psionic
 
-**Item Prerequisite:** Eighteen daggers-nine taken from personal enemies and nine gifted by friends
+**Item Prerequisite:** Eighteen daggers—nine taken from personal enemies and nine gifted by friends
 
 **Project Source:** Texts or lore in Variac
 

@@ -9,7 +9,7 @@ file_dpath: Monsters/Demons/Statblocks
 free_strike: 3
 intuition: 2
 item_id: blight-phage
-item_index: '283'
+item_index: '30'
 item_name: Blight Phage
 level: 7
 might: 0
@@ -18,24 +18,24 @@ reason: 4
 roles:
   - Horde Controller
 scc:
-  - mcdm.monsters.v1:monster:blight-phage
+  - mcdm.monsters.v1:monster.demons.statblock:blight-phage
 scdc:
-  - 1.1.1:2:283
+  - 1.1.1:2.35.1:30
 size: '3'
 source: mcdm.monsters.v1
 speed: 6
 stability: 0
 stamina: '40'
-type: monster
+type: monster/demons/statblock
 ---
 
 ###### Blight Phage
 
-|   Abyssal, Demon    |          -          |       Level 7       |    Horde Controller     |            EV 9            |
-| :-----------------: | :-----------------: | :-----------------: | :---------------------: | :------------------------: |
-|   **3**<br/> Size   |  **6**<br/> Speed   | **40**<br/> Stamina |  **0**<br/> Stability   |   **3**<br/> Free Strike   |
-| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **Holy 5**<br/> Weaknesses |
-|  **+0**<br/> Might  | **+0**<br/> Agility | **+4**<br/> Reason  |  **+2**<br/> Intuition  |    **+4**<br/> Presence    |
+|   Abyssal, Demon    |          -          |       Level 7       |    Horde Controller     |           EV 9           |
+| :-----------------: | :-----------------: | :-----------------: | :---------------------: | :----------------------: |
+|   **3**<br/> Size   |  **6**<br/> Speed   | **40**<br/> Stamina |  **0**<br/> Stability   |  **3**<br/> Free Strike  |
+| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **Holy 5**<br/> Weakness |
+|  **+0**<br/> Might  | **+0**<br/> Agility | **+4**<br/> Reason  |  **+2**<br/> Intuition  |   **+4**<br/> Presence   |
 
 <!-- -->
 > 🏹 **Blight Pus (Signature Ability)**
@@ -50,7 +50,7 @@ type: monster
 > - **12-16:** 10 corruption damage
 > - **17+:** 11 corruption damage
 >
-> **Effect:** A puddle of blight-digested soul juice-covers the ground in the target's square, which is affected as if by Seeping Blight (see the Level 7+ Demon Malice feature).
+> **Effect:** A puddle of blight—digested soul juice—covers the ground in the target's square, which is affected as if by Seeping Blight (see the Level 7+ Demon Malice feature).
 
 <!-- -->
 > 🔳 **Blight Rain (3 Malice)**

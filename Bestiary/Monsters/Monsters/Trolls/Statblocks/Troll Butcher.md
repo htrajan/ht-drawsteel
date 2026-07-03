@@ -9,7 +9,7 @@ file_dpath: Monsters/Trolls/Statblocks
 free_strike: 6
 intuition: 0
 item_id: troll-butcher
-item_index: '409'
+item_index: '01'
 item_name: Troll Butcher
 level: 5
 might: 3
@@ -18,24 +18,24 @@ reason: 1
 roles:
   - Elite Hexer
 scc:
-  - mcdm.monsters.v1:monster:troll-butcher
+  - mcdm.monsters.v1:monster.trolls.statblock:troll-butcher
 scdc:
-  - 1.1.1:2:409
+  - 1.1.1:2.53.1:01
 size: '2'
 source: mcdm.monsters.v1
 speed: 8
 stability: 2
 stamina: '120'
-type: monster
+type: monster/trolls/statblock
 ---
 
 ###### Troll Butcher
 
-|    Giant, Troll     |          -          |       Level 5        |       Elite Hexer       |              EV 28               |
-| :-----------------: | :-----------------: | :------------------: | :---------------------: | :------------------------------: |
-|   **2**<br/> Size   |  **8**<br/> Speed   | **120**<br/> Stamina |  **2**<br/> Stability   |      **6**<br/> Free Strike      |
-| **-**<br/> Immunity | **-**<br/> Movement |          -           | **-**<br/> With Captain | **Acid 5, fire**<br/> Weaknesses |
-|  **+3**<br/> Might  | **+1**<br/> Agility |  **+1**<br/> Reason  |  **0**<br/> Intuition   |       **0**<br/> Presence        |
+|    Giant, Troll     |          -          |       Level 5        |       Elite Hexer       |             EV 28              |
+| :-----------------: | :-----------------: | :------------------: | :---------------------: | :----------------------------: |
+|   **2**<br/> Size   |  **8**<br/> Speed   | **120**<br/> Stamina |  **2**<br/> Stability   |     **6**<br/> Free Strike     |
+| **-**<br/> Immunity | **-**<br/> Movement |          -           | **-**<br/> With Captain | **Acid 5, fire**<br/> Weakness |
+|  **+3**<br/> Might  | **+1**<br/> Agility |  **+1**<br/> Reason  |  **0**<br/> Intuition   |      **0**<br/> Presence       |
 
 <!-- -->
 > 🗡 **Savoring Bite (Signature Ability)**
@@ -90,9 +90,9 @@ type: monster
 <!-- -->
 > ⭐️ **Bloody Feast**
 >
-> Each ally within 5 squares of the butcher gains an edge on power rolls against any enemy affected by a condition
+> Each ally within 5 squares of the butcher gains an edge on power rolls against any enemy affected by a condition.
 
 <!-- -->
 > ⭐️ **Relentless Hunger**
 >
-> The butcher dies only if they are reduced to 0 Stamina by acid or fire damage, if they end their turn with 0 Stamina, or if they take acid or fire damage while at 0 Stamina
+> The butcher dies only if they are reduced to 0 Stamina by acid or fire damage, if they end their turn with 0 Stamina, or if they take acid or fire damage while at 0 Stamina.

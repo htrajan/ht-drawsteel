@@ -8,7 +8,7 @@ item_name: 'Page From the Infinite Library: Solaris'
 scc:
   - mcdm.heroes.v1:treasure.consumable.4th-echelon:page-from-the-infinite-library-solaris
 scdc:
-  - 1.1.1:12.2.4:03
+  - 1.1.1:13.2.4:03
 source: mcdm.heroes.v1
 treasure_type: Consumable
 type: treasure/consumable/4th-echelon
@@ -16,7 +16,7 @@ type: treasure/consumable/4th-echelon
 
 ##### Page From the Infinite Library: Solaris
 
-*This page is covered with writing and diagrams detailing the release of limitless energy-and the dangers of that process.*
+*This page is covered with writing and diagrams detailing the release of limitless energy—and the dangers of that process.*
 
 **Keywords:** Magic
 

@@ -28,7 +28,7 @@ stamina: '21'
 |  Undead, Soulless   |          -          |       Level 1       |     Brute Retainer      |          EV -          |
 | :-----------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |  **1M**<br/> Size   |  **5**<br/> Speed   | **21**<br/> Stamina |  **0**<br/> Stability   | **3**<br/> Free Strike |
-| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |  **+2**<br/> Might  | **-1**<br/> Agility | **-3**<br/> Reason  |  **-1**<br/> Intuition  |  **0**<br/> Presence   |
 
 <!-- -->
@@ -47,7 +47,7 @@ stamina: '21'
 <!-- -->
 > ⭐️ **Arise**
 >
-> The first time in an encounter that the servitor is reduced to 0 Stamina by damage that isn't fire damage or holy damage and their body isn't destroyed, they regain half their Stamina maxi- mum and fall prone.
+> The first time in an encounter that the servitor is reduced to 0 Stamina by damage that isn't fire damage or holy damage and their body isn't destroyed, they regain half their Stamina maximum and fall prone.
 
 ###### Level 4 Retainer Advancement Ability
 

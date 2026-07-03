@@ -8,7 +8,7 @@ file_dpath: Monsters/Undead/Statblocks
 free_strike: 3
 intuition: 1
 item_id: dirt-mournling
-item_index: '74'
+item_index: '22'
 item_name: Dirt Mournling
 level: 7
 might: 4
@@ -17,15 +17,15 @@ reason: -2
 roles:
   - Horde Controller
 scc:
-  - mcdm.monsters.v1:monster:dirt-mournling
+  - mcdm.monsters.v1:monster.undead.statblock:dirt-mournling
 scdc:
-  - 1.1.1:2:74
+  - 1.1.1:2.8.1:22
 size: '3'
 source: mcdm.monsters.v1
 speed: 6
 stability: 3
 stamina: '64'
-type: monster
+type: monster/undead/statblock
 ---
 
 ###### Dirt Mournling
@@ -33,7 +33,7 @@ type: monster
 |                  Undead                  |                -                |       Level 7       |    Horde Controller     |          EV 9          |
 | :--------------------------------------: | :-----------------------------: | :-----------------: | :---------------------: | :--------------------: |
 |             **3**<br/> Size              |        **6**<br/> Speed         | **64**<br/> Stamina |  **3**<br/> Stability   | **3**<br/> Free Strike |
-| **Corruption 7, poison 7**<br/> Immunity | **Burrow, climb**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Corruption 7, poison 7**<br/> Immunity | **Burrow, climb**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |            **+4**<br/> Might             |       **+1**<br/> Agility       | **-2**<br/> Reason  |  **+1**<br/> Intuition  |  **-3**<br/> Presence  |
 
 <!-- -->
@@ -64,7 +64,7 @@ type: monster
 > - **12-16:** 6 corruption damage; I < 3 frightened (save ends)
 > - **17+:** 7 corruption damage; I < 4 frightened (save ends)
 >
-> **Effect:** A target frightened this way is frightened of all undead. This effect ends early if the mournling is destroyed
+> **Effect:** A target frightened this way is frightened of all undead. This effect ends early if the mournling is destroyed.
 
 <!-- -->
 > ⭐️ **Arise**
@@ -74,7 +74,7 @@ type: monster
 <!-- -->
 > ⭐️ **Immutable Form**
 >
-> The mournling's shape can't be changed by any external effect
+> The mournling's shape can't be changed by any external effect.
 
 <!-- -->
 > ⭐️ **Rupture**

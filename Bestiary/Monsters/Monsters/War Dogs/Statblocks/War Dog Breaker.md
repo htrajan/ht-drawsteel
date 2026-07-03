@@ -10,7 +10,7 @@ file_dpath: Monsters/War Dogs/Statblocks
 free_strike: 7
 intuition: 1
 item_id: war-dog-breaker
-item_index: '376'
+item_index: '26'
 item_name: War Dog Breaker
 level: 7
 might: 4
@@ -19,15 +19,15 @@ reason: 1
 roles:
   - Elite Brute
 scc:
-  - mcdm.monsters.v1:monster:war-dog-breaker
+  - mcdm.monsters.v1:monster.war-dogs.statblock:war-dog-breaker
 scdc:
-  - 1.1.1:2:376
+  - 1.1.1:2.51.1:26
 size: '2'
 source: mcdm.monsters.v1
 speed: 5
 stability: 4
 stamina: '200'
-type: monster
+type: monster/war-dogs/statblock
 ---
 
 ###### War Dog Breaker
@@ -35,7 +35,7 @@ type: monster
 | Humanoid, Soulless, War Dog |          -          |       Level 7        |       Elite Brute       |         EV 36          |
 | :-------------------------: | :-----------------: | :------------------: | :---------------------: | :--------------------: |
 |       **2**<br/> Size       |  **5**<br/> Speed   | **200**<br/> Stamina |  **4**<br/> Stability   | **7**<br/> Free Strike |
-|     **-**<br/> Immunity     | **-**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+|     **-**<br/> Immunity     | **-**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |      **+4**<br/> Might      | **+2**<br/> Agility |  **+1**<br/> Reason  |  **+1**<br/> Intuition  |  **+3**<br/> Presence  |
 
 <!-- -->
@@ -58,7 +58,7 @@ type: monster
 > | ----------- | -----------: |
 > | **📏 Self** |  **🎯 Self** |
 >
-> **Effect:** Until the start of their next turn, the breaker has a double edge on abilities and is automatically affected by all potency effect
+> **Effect:** Until the start of their next turn, the breaker has a double edge on abilities and is automatically affected by all potency effect.
 
 <!-- -->
 > ⭐️ **Breaking Point**

@@ -9,7 +9,7 @@ file_dpath: Monsters/Goblins/Statblocks
 free_strike: 1
 intuition: 0
 item_id: worg
-item_index: '306'
+item_index: '03'
 item_name: Worg
 level: 1
 might: 1
@@ -18,15 +18,15 @@ reason: -1
 roles:
   - Horde Mount
 scc:
-  - mcdm.monsters.v1:monster:worg
+  - mcdm.monsters.v1:monster.goblins.statblock:worg
 scdc:
-  - 1.1.1:2:306
+  - 1.1.1:2.40.1:03
 size: 1L
 source: mcdm.monsters.v1
 speed: 5
 stability: 1
 stamina: '15'
-type: monster
+type: monster/goblins/statblock
 ---
 
 ###### Worg
@@ -34,7 +34,7 @@ type: monster
 |   Animal, Goblin    |          -          |       Level 1       |       Horde Mount       |          EV 3          |
 | :-----------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |  **1L**<br/> Size   |  **5**<br/> Speed   | **15**<br/> Stamina |  **1**<br/> Stability   | **1**<br/> Free Strike |
-| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |  **+1**<br/> Might  | **+2**<br/> Agility | **-1**<br/> Reason  |  **0**<br/> Intuition   |  **-1**<br/> Presence  |
 
 <!-- -->

@@ -20,7 +20,7 @@ Hunted as monsters with no thought given to their nature or origin, medusas are 
 
 When a powerful mortal defies a god for good or for ill, agents of that deity might curse them to live as a medusa. The offender's skin and eyes become reptilian, and a nest of black venomous snakes replaces their hair. When the medusa wishes, beams from their eyes can slowly petrify others to stone.
 
-Followers of the gods who imposes this punishment spread terrifying myths about medusas, causing mortals to attack and shun them. This often drives medusas into solitude, or to places haunted by creatures who don't judge them based on mere appearance and horror stories. Many medusas plot ways to break their curse, searching for lost healing rituals or secrets to use against the gods who cursed them. Others embrace their new gifts, building stone gardens of the aggressors who foolishly hunted or harmed them.
+Followers of the gods who impose this punishment spread terrifying myths about medusas, causing mortals to attack and shun them. This often drives medusas into solitude, or to places haunted by creatures who don't judge them based on mere appearance and horror stories. Many medusas plot ways to break their curse, searching for lost healing rituals or secrets to use against the gods who cursed them. Others embrace their new gifts, building stone gardens of the aggressors who foolishly hunted or harmed them.
 
 #### Petrification
 
@@ -40,7 +40,7 @@ Medusas often reside in stone gardens filled with statues of those who previousl
 
 #### Lifting the Curse
 
-Agents of the deity who ordered a medusa's curse can sometimes be convinced to lift the punishment, usually in response to the medusa undertaking an impossible task in the god's name or making a threat that can't be ignored. Some sages claim that ancient rituals can undo the curse, but these lost secrets are often hidden by wrathful divine servants-and performing such a ritual might entail great sacrifice.
+Agents of the deity who ordered a medusa's curse can sometimes be convinced to lift the punishment, usually in response to the medusa undertaking an impossible task in the god's name or making a threat that can't be ignored. Some sages claim that ancient rituals can undo the curse, but these lost secrets are often hidden by wrathful divine servants—and performing such a ritual might entail great sacrifice.
 
 #### Medusa Languages
 
@@ -94,11 +94,11 @@ At the start of a medusa's turn, you can spend Malice to activate one of the fol
 
 ###### Medusa
 
-| Accursed, Humanoid, Medusa |          -          |        Level 5        |          Solo           |         EV 84          |
-| :------------------------: | :-----------------: | :-------------------: | :---------------------: | :--------------------: |
-|      **1M**<br/> Size      |  **1**<br/> Speed   | **0420**<br/> Stamina |  **5**<br/> Stability   | **8**<br/> Free Strike |
-|    **-**<br/> Immunity     | **-**<br/> Movement |           -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
-|     **+2**<br/> Might      | **+4**<br/> Agility |   **0**<br/> Reason   |  **0**<br/> Intuition   |  **0**<br/> Presence   |
+| Accursed, Humanoid, Medusa |          -          |       Level 5        |          Solo           |         EV 84          |
+| :------------------------: | :-----------------: | :------------------: | :---------------------: | :--------------------: |
+|      **1M**<br/> Size      |  **10**<br/> Speed  | **420**<br/> Stamina |  **5**<br/> Stability   | **8**<br/> Free Strike |
+|    **-**<br/> Immunity     | **-**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
+|     **+2**<br/> Might      | **+4**<br/> Agility |  **0**<br/> Reason   |  **0**<br/> Intuition   |  **0**<br/> Presence   |
 
 <!-- -->
 > ☠️ **Solo Monster**
@@ -148,7 +148,7 @@ At the start of a medusa's turn, you can spend Malice to activate one of the fol
 > - **12-16:** M < 3 restrained (save ends)
 > - **17+:** Slowed (save ends); or if M < 4 restrained (save ends)
 >
-> **Effect:** A target with cover reduces the potency by 1, while a slowed target increases the potency by 1. A target restrained this way magi- cally begins to turn to stone, and a target who ends two consecutive turns restrained this way is petrified
+> **Effect:** A target with cover reduces the potency by 1, while a slowed target increases the potency by 1. A target restrained this way magically begins to turn to stone, and a target who ends two consecutive turns restrained this way is petrified.
 
 <!-- -->
 > 👤 **Nimble Escape**
@@ -182,7 +182,7 @@ At the start of a medusa's turn, you can spend Malice to activate one of the fol
 <!-- -->
 > ⭐️ **Many Peering Eyes**
 >
-> The medusa can't be flanked
+> The medusa can't be flanked.
 
 <!-- -->
 > ☠️ **Mass Petrify (Villain Action 1)**
@@ -208,6 +208,8 @@ At the start of a medusa's turn, you can spend Malice to activate one of the fol
 > | **Area, Magic** |          **-** |
 > | --------------- | -------------: |
 > | **📏 10 burst** | **🎯 Special** |
+>
+> **Power Roll + 4:**
 >
 > - **≤11:** 8 acid damage; P < 3 weakened (save ends)
 > - **12-16:** 13 acid damage; P < 4 weakened (save ends)

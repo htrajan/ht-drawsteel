@@ -18,15 +18,15 @@ reason: -2
 roles:
   - Solo
 scc:
-  - mcdm.monsters.v1:monster:chimera
+  - mcdm.monsters.v1:monster.chimera.statblock:chimera
 scdc:
-  - 1.1.1:2:01
+  - 1.1.1:2.3.1:01
 size: '2'
 source: mcdm.monsters.v1
 speed: 10
 stability: 1
 stamina: '300'
-type: monster
+type: monster/chimera/statblock
 ---
 
 ###### Chimera
@@ -34,7 +34,7 @@ type: monster
 |      Beast, Chimera      |           -           |       Level 3        |          Solo           |         EV 60          |
 | :----------------------: | :-------------------: | :------------------: | :---------------------: | :--------------------: |
 |     **2**<br/> Size      |   **10**<br/> Speed   | **300**<br/> Stamina |  **1**<br/> Stability   | **6**<br/> Free Strike |
-| **Fire 6**<br/> Immunity | **Fly**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Fire 6**<br/> Immunity | **Fly**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |    **+3**<br/> Might     |  **+2**<br/> Agility  |  **-2**<br/> Reason  |  **+1**<br/> Intuition  |  **+0**<br/> Presence  |
 
 <!-- -->
@@ -114,7 +114,7 @@ type: monster
 >
 > **Effect:** The chimera shifts up to 5 squares. If they end this shift within distance of the target, make a power roll.
 >
-> **Power Roll + 3**
+> **Power Roll + 3:**
 >
 > - **≤11:** 6 damage; M < 1 slowed (save ends)
 > - **12-16:** 8 damage; prone; M < 2 slowed (save ends)

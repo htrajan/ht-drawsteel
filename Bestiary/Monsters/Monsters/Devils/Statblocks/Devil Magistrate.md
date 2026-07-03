@@ -9,7 +9,7 @@ file_dpath: Monsters/Devils/Statblocks
 free_strike: 7
 intuition: 1
 item_id: devil-magistrate
-item_index: '300'
+item_index: '05'
 item_name: Devil Magistrate
 level: 6
 might: 1
@@ -18,15 +18,15 @@ reason: 0
 roles:
   - Elite Harrier
 scc:
-  - mcdm.monsters.v1:monster:devil-magistrate
+  - mcdm.monsters.v1:monster.devils.statblock:devil-magistrate
 scdc:
-  - 1.1.1:2:300
+  - 1.1.1:2.39.1:05
 size: 1M
 source: mcdm.monsters.v1
 speed: 7
 stability: 0
 stamina: '160'
-type: monster
+type: monster/devils/statblock
 ---
 
 ###### Devil Magistrate
@@ -34,7 +34,7 @@ type: monster
 |     Devil, Infernal      |          -          |       Level 6        |      Elite Harrier      |         EV 32          |
 | :----------------------: | :-----------------: | :------------------: | :---------------------: | :--------------------: |
 |     **1M**<br/> Size     |  **7**<br/> Speed   | **160**<br/> Stamina |  **0**<br/> Stability   | **7**<br/> Free Strike |
-| **Fire 5**<br/> Immunity | **-**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Fire 5**<br/> Immunity | **-**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |    **+1**<br/> Might     | **+3**<br/> Agility |  **+0**<br/> Reason  |  **+1**<br/> Intuition  |  **+2**<br/> Presence  |
 
 <!-- -->
@@ -59,7 +59,7 @@ type: monster
 > | ------------------------- | ------------------: |
 > | **📏 Melee 1**            | **🎯 One creature** |
 >
-> **Power Roll + 3**
+> **Power Roll + 3:**
 >
 > - **≤11:** 11 damage
 > - **12-16:** 17 damage
@@ -85,7 +85,7 @@ type: monster
 >
 > **Trigger:** A creature targets the magistrate with a strike.
 >
-> **Effect:** The target makes a Presence test
+> **Effect:** The target makes a Presence test.
 >
 > - **≤11:** The magistrate chooses a new target for the strike.
 > - **12-16:** The magistrate halves the triggering damage.

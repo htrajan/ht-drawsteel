@@ -16,7 +16,7 @@ type: monster/section
 
 Also known as demogoblins, hobgoblins descend from ancient goblins who made a pact with an infernal power in exchange for increased size and strength. Each hobgoblin has fang-like tusks and one or more horns protruding from their head.
 
-Many hobgoblin settlements constantly and aggressively test each other's boundaries. This isn't normally a problem for other humanoids, but once or twice every generation, a wicked hobgoblin rallies their people and decides it's time to take over everyone else's lands-THEN it's a problem.
+Many hobgoblin settlements constantly and aggressively test each other's boundaries. This isn't normally a problem for other humanoids, but once or twice every generation, a wicked hobgoblin rallies their people and decides it's time to take over everyone else's lands—THEN it's a problem.
 
 #### Synergized Tactics
 
@@ -32,11 +32,11 @@ Infernal magic runs through the veins of every hobgoblin, though their gifts var
 
 #### Binding Bargains
 
-Many hobgoblins still hold to the infernal concept of being true to their word when entering into agreements. Even spoken contracts are considered unbreakable, and hobgoblin communities scorn any creature-hobgoblin or otherwise-who degrades themself by breaking their word.
+Many hobgoblins still hold to the infernal concept of being true to their word when entering into agreements. Even spoken contracts are considered unbreakable, and hobgoblin communities scorn any creature—hobgoblin or otherwise—who degrades themself by breaking their word.
 
 #### Grilp
 
-The grilp-a green-skinned devil about the size of a housecat-can change the color and texture of their skin to blend in with their surroundings. They often serve as scouts, spies, messengers, and errand-runners for high-ranking hobgoblins. Beyond the grilp's covert skills, however, hobgoblins value these creatures most highly for their magic-laced saliva, which weakens the defenses of other creatures.
+The grilp—a green-skinned devil about the size of a housecat—can change the color and texture of their skin to blend in with their surroundings. They often serve as scouts, spies, messengers, and errand-runners for high-ranking hobgoblins. Beyond the grilp's covert skills, however, hobgoblins value these creatures most highly for their magic-laced saliva, which weakens the defenses of other creatures.
 
 #### Slaughter Demon
 
@@ -77,7 +77,7 @@ At the start of any hobgoblin's turn, you can spend Malice to activate one of th
 | Goblin, Hobgoblin, Humanoid, Infernal |          -          |      Level 4       |                 Minion Hexer                  | EV 6 for four minions  |
 | :-----------------------------------: | :-----------------: | :----------------: | :-------------------------------------------: | :--------------------: |
 |           **1M**<br/> Size            |  **5**<br/> Speed   | **7**<br/> Stamina |             **0**<br/> Stability              | **2**<br/> Free Strike |
-|       **Fire 2**<br/> Immunity        | **-**<br/> Movement |         -          | **Gain an edge on strikes**<br/> With Captain | **-**<br/> Weaknesses  |
+|       **Fire 2**<br/> Immunity        | **-**<br/> Movement |         -          | **Gain an edge on strikes**<br/> With Captain |  **-**<br/> Weakness   |
 |           **0**<br/> Might            | **+1**<br/> Agility | **+2**<br/> Reason |             **0**<br/> Intuition              |  **+3**<br/> Presence  |
 
 <!-- -->
@@ -108,7 +108,7 @@ At the start of any hobgoblin's turn, you can spend Malice to activate one of th
 | Goblin, Hobgoblin, Humanoid, Infernal |          -          |      Level 4       |                  Minion Harrier                  | EV 6 for four minions  |
 | :-----------------------------------: | :-----------------: | :----------------: | :----------------------------------------------: | :--------------------: |
 |           **1M**<br/> Size            |  **7**<br/> Speed   | **8**<br/> Stamina |               **0**<br/> Stability               | **2**<br/> Free Strike |
-|       **Fire 2**<br/> Immunity        | **-**<br/> Movement |         -          | **+2 damage bonus to strikes**<br/> With Captain | **-**<br/> Weaknesses  |
+|       **Fire 2**<br/> Immunity        | **-**<br/> Movement |         -          | **+2 damage bonus to strikes**<br/> With Captain |  **-**<br/> Weakness   |
 |           **+1**<br/> Might           | **+3**<br/> Agility | **0**<br/> Reason  |              **+2**<br/> Intuition               |  **0**<br/> Presence   |
 
 <!-- -->
@@ -136,7 +136,7 @@ At the start of any hobgoblin's turn, you can spend Malice to activate one of th
 | Goblin, Hobgoblin, Humanoid, Infernal |          -          |      Level 4       |               Minion Brute                | EV 6 for four minions  |
 | :-----------------------------------: | :-----------------: | :----------------: | :---------------------------------------: | :--------------------: |
 |           **1M**<br/> Size            |  **5**<br/> Speed   | **9**<br/> Stamina |           **0**<br/> Stability            | **3**<br/> Free Strike |
-|       **Fire 2**<br/> Immunity        | **-**<br/> Movement |         -          | **+4 bonus to Stamina**<br/> With Captain | **-**<br/> Weaknesses  |
+|       **Fire 2**<br/> Immunity        | **-**<br/> Movement |         -          | **+4 bonus to Stamina**<br/> With Captain |  **-**<br/> Weakness   |
 |           **+3**<br/> Might           | **+2**<br/> Agility | **0**<br/> Reason  |           **0**<br/> Intuition            |  **+1**<br/> Presence  |
 
 <!-- -->
@@ -167,7 +167,7 @@ At the start of any hobgoblin's turn, you can spend Malice to activate one of th
 | Devil, Hobgoblin, Infernal |           -           |      Level 4       |             Minion Ambusher             | EV 6 for four minions  |
 | :------------------------: | :-------------------: | :----------------: | :-------------------------------------: | :--------------------: |
 |      **1T**<br/> Size      |   **7**<br/> Speed    | **8**<br/> Stamina |          **0**<br/> Stability           | **3**<br/> Free Strike |
-|  **Fire 2**<br/> Immunity  | **Fly**<br/> Movement |         -          | **+2 bonus to speed**<br/> With Captain | **-**<br/> Weaknesses  |
+|  **Fire 2**<br/> Immunity  | **Fly**<br/> Movement |         -          | **+2 bonus to speed**<br/> With Captain |  **-**<br/> Weakness   |
 |     **-1**<br/> Might      |  **+3**<br/> Agility  | **0**<br/> Reason  |          **+1**<br/> Intuition          |  **0**<br/> Presence   |
 
 <!-- -->
@@ -200,7 +200,7 @@ At the start of any hobgoblin's turn, you can spend Malice to activate one of th
 | Goblin, Hobgoblin, Humanoid, Infernal |             -              |       Level 4       |   Platoon Controller    |         EV 12          |
 | :-----------------------------------: | :------------------------: | :-----------------: | :---------------------: | :--------------------: |
 |           **1M**<br/> Size            |      **5**<br/> Speed      | **50**<br/> Stamina |  **0**<br/> Stability   | **5**<br/> Free Strike |
-|       **Fire 4**<br/> Immunity        | **Teleport**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+|       **Fire 4**<br/> Immunity        | **Teleport**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |           **0**<br/> Might            |    **+1**<br/> Agility     | **+2**<br/> Reason  |  **+2**<br/> Intuition  |  **+3**<br/> Presence  |
 
 <!-- -->
@@ -237,7 +237,7 @@ At the start of any hobgoblin's turn, you can spend Malice to activate one of th
 | Goblin, Hobgoblin, Humanoid, Infernal |          -          |       Level 4       |     Platoon Support     |         EV 12          |
 | :-----------------------------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |           **1M**<br/> Size            |  **5**<br/> Speed   | **60**<br/> Stamina |  **2**<br/> Stability   | **5**<br/> Free Strike |
-|       **Fire 4**<br/> Immunity        | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+|       **Fire 4**<br/> Immunity        | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |           **+3**<br/> Might           | **0**<br/> Agility  | **+1**<br/> Reason  |  **0**<br/> Intuition   |  **+2**<br/> Presence  |
 
 <!-- -->
@@ -281,7 +281,7 @@ At the start of any hobgoblin's turn, you can spend Malice to activate one of th
 | Goblin, Hobgoblin, Humanoid, Infernal |          -          |       Level 5       |     Platoon Harrier     |         EV 14          |
 | :-----------------------------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |           **1M**<br/> Size            |  **8**<br/> Speed   | **70**<br/> Stamina |  **0**<br/> Stability   | **6**<br/> Free Strike |
-|       **Fire 5**<br/> Immunity        | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+|       **Fire 5**<br/> Immunity        | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |           **+2**<br/> Might           | **+3**<br/> Agility | **+1**<br/> Reason  |  **+1**<br/> Intuition  |  **0**<br/> Presence   |
 
 <!-- -->
@@ -326,7 +326,7 @@ At the start of any hobgoblin's turn, you can spend Malice to activate one of th
 | Goblin, Hobgoblin, Humanoid, Infernal |          -          |       Level 6        |    Platoon Defender     |         EV 16          |
 | :-----------------------------------: | :-----------------: | :------------------: | :---------------------: | :--------------------: |
 |            **2**<br/> Size            |  **4**<br/> Speed   | **111**<br/> Stamina |  **4**<br/> Stability   | **6**<br/> Free Strike |
-|       **Fire 6**<br/> Immunity        | **-**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+|       **Fire 6**<br/> Immunity        | **-**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |           **+3**<br/> Might           | **+2**<br/> Agility |  **+3**<br/> Reason  |  **0**<br/> Intuition   |  **+2**<br/> Presence  |
 
 <!-- -->
@@ -367,14 +367,14 @@ At the start of any hobgoblin's turn, you can spend Malice to activate one of th
 <!-- -->
 > ⭐️ **Infernal Ichor**
 >
-> When the grandguard is reduced to 0 Stamina, they spray burning blood. Each creature adjacent to the grandguard takes 3 fire damage
+> When the grandguard is reduced to 0 Stamina, they spray burning blood. Each creature adjacent to the grandguard takes 3 fire damage.
 
 ###### Hobgoblin Hell Trooper
 
 | Goblin, Hobgoblin, Humanoid, Infernal |          -          |       Level 4       |      Platoon Brute      |         EV 12          |
 | :-----------------------------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |           **1M**<br/> Size            |  **5**<br/> Speed   | **70**<br/> Stamina |  **2**<br/> Stability   | **6**<br/> Free Strike |
-|       **Fire 4**<br/> Immunity        | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+|       **Fire 4**<br/> Immunity        | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |           **+3**<br/> Might           | **+2**<br/> Agility |  **0**<br/> Reason  |  **0**<br/> Intuition   |  **+1**<br/> Presence  |
 
 <!-- -->
@@ -411,7 +411,7 @@ At the start of any hobgoblin's turn, you can spend Malice to activate one of th
 | Goblin, Hobgoblin, Humanoid, Infernal |          -          |       Level 5       |    Platoon Artillery    |         EV 14          |
 | :-----------------------------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |           **1M**<br/> Size            |  **5**<br/> Speed   | **60**<br/> Stamina |  **0**<br/> Stability   | **6**<br/> Free Strike |
-|       **Fire 5**<br/> Immunity        | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+|       **Fire 5**<br/> Immunity        | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |           **+1**<br/> Might           | **+3**<br/> Agility |  **0**<br/> Reason  |  **+2**<br/> Intuition  |  **+1**<br/> Presence  |
 
 <!-- -->
@@ -459,7 +459,7 @@ At the start of any hobgoblin's turn, you can spend Malice to activate one of th
 | Goblin, Hobgoblin, Humanoid, Infernal |             -              |       Level 6       |      Platoon Hexer      |         EV 16          |
 | :-----------------------------------: | :------------------------: | :-----------------: | :---------------------: | :--------------------: |
 |           **1L**<br/> Size            |      **5**<br/> Speed      | **70**<br/> Stamina |  **4**<br/> Stability   | **6**<br/> Free Strike |
-|       **Fire 6**<br/> Immunity        | **Teleport**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+|       **Fire 6**<br/> Immunity        | **Teleport**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |           **0**<br/> Might            |    **+2**<br/> Agility     | **+2**<br/> Reason  |  **+3**<br/> Intuition  |  **+3**<br/> Presence  |
 
 <!-- -->
@@ -500,7 +500,7 @@ At the start of any hobgoblin's turn, you can spend Malice to activate one of th
 | Goblin, Hobgoblin, Humanoid, Infernal |              -               |       Level 5       |    Platoon Ambusher     |         EV 14          |
 | :-----------------------------------: | :--------------------------: | :-----------------: | :---------------------: | :--------------------: |
 |           **1M**<br/> Size            |       **7**<br/> Speed       | **70**<br/> Stamina |  **0**<br/> Stability   | **6**<br/> Free Strike |
-|       **Fire 5**<br/> Immunity        | **Fly, hover**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+|       **Fire 5**<br/> Immunity        | **Fly, hover**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |           **+1**<br/> Might           |     **+3**<br/> Agility      | **+2**<br/> Reason  |  **+1**<br/> Intuition  |  **0**<br/> Presence   |
 
 <!-- -->
@@ -546,7 +546,7 @@ At the start of any hobgoblin's turn, you can spend Malice to activate one of th
 | Goblin, Hobgoblin, Humanoid, Infernal |                 -                 |       Level 5        |    Elite Controller     |         EV 28          |
 | :-----------------------------------: | :-------------------------------: | :------------------: | :---------------------: | :--------------------: |
 |           **1M**<br/> Size            |         **5**<br/> Speed          | **120**<br/> Stamina |  **0**<br/> Stability   | **6**<br/> Free Strike |
-|       **Fire 5**<br/> Immunity        | **Hover, teleport**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+|       **Fire 5**<br/> Immunity        | **Hover, teleport**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |           **0**<br/> Might            |        **+2**<br/> Agility        |  **+3**<br/> Reason  |  **+2**<br/> Intuition  |  **+2**<br/> Presence  |
 
 <!-- -->
@@ -608,7 +608,7 @@ At the start of any hobgoblin's turn, you can spend Malice to activate one of th
 | Goblin, Hobgoblin, Humanoid, Infernal |             -              |       Level 6        |         Leader          |         EV 32          |
 | :-----------------------------------: | :------------------------: | :------------------: | :---------------------: | :--------------------: |
 |           **1M**<br/> Size            |      **6**<br/> Speed      | **180**<br/> Stamina |  **2**<br/> Stability   | **7**<br/> Free Strike |
-|       **Fire 6**<br/> Immunity        | **Teleport**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+|       **Fire 6**<br/> Immunity        | **Teleport**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |           **+4**<br/> Might           |    **+2**<br/> Agility     |  **+2**<br/> Reason  |  **+3**<br/> Intuition  |  **+3**<br/> Presence  |
 
 <!-- -->
@@ -654,7 +654,7 @@ At the start of any hobgoblin's turn, you can spend Malice to activate one of th
 <!-- -->
 > ⭐️ **End Effect**
 >
-> At the end of each of their turns, the bloodlord can take 10 damage to end one effect on them that can be ended by a saving throw. This damage can't be reduced in any way
+> At the end of each of their turns, the bloodlord can take 10 damage to end one effect on them that can be ended by a saving throw. This damage can't be reduced in any way.
 
 <!-- -->
 > ☠️ **Advance! (Villain Action 1)**
@@ -694,7 +694,7 @@ At the start of any hobgoblin's turn, you can spend Malice to activate one of th
 | Abyssal, Demon, Hobgoblin |            -             |       Level 4        |       Elite Brute       |         EV 24          |
 | :-----------------------: | :----------------------: | :------------------: | :---------------------: | :--------------------: |
 |      **3**<br/> Size      |     **7**<br/> Speed     | **140**<br/> Stamina |  **3**<br/> Stability   | **6**<br/> Free Strike |
-| **Fire 5**<br/> Immunity  | **Burrow**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Fire 5**<br/> Immunity  | **Burrow**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |     **+3**<br/> Might     |    **0**<br/> Agility    |  **-1**<br/> Reason  |  **+1**<br/> Intuition  |  **0**<br/> Presence   |
 
 <!-- -->

@@ -9,7 +9,7 @@ file_dpath: Monsters/Undead/Statblocks
 free_strike: 2
 intuition: 1
 item_id: vampire-spawn
-item_index: '54'
+item_index: '02'
 item_name: Vampire Spawn
 level: 4
 might: 2
@@ -18,15 +18,15 @@ reason: -1
 roles:
   - Horde Harrier
 scc:
-  - mcdm.monsters.v1:monster:vampire-spawn
+  - mcdm.monsters.v1:monster.undead.statblock:vampire-spawn
 scdc:
-  - 1.1.1:2:54
+  - 1.1.1:2.8.1:02
 size: 1M
 source: mcdm.monsters.v1
 speed: 5
 stability: 0
 stamina: '30'
-type: monster
+type: monster/undead/statblock
 ---
 
 ###### Vampire Spawn
@@ -34,7 +34,7 @@ type: monster
 |             Undead, Vampire              |            -            |       Level 4       |      Horde Harrier      |          EV 6          |
 | :--------------------------------------: | :---------------------: | :-----------------: | :---------------------: | :--------------------: |
 |             **1M**<br/> Size             |    **5**<br/> Speed     | **30**<br/> Stamina |  **0**<br/> Stability   | **2**<br/> Free Strike |
-| **Corruption 4, poison 4**<br/> Immunity | **Climb**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Corruption 4, poison 4**<br/> Immunity | **Climb**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |            **+2**<br/> Might             |   **+3**<br/> Agility   | **-1**<br/> Reason  |  **+1**<br/> Intuition  |  **+2**<br/> Presence  |
 
 <!-- -->

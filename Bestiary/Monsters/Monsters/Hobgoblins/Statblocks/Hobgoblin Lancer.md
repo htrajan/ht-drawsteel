@@ -11,7 +11,7 @@ file_dpath: Monsters/Hobgoblins/Statblocks
 free_strike: 2
 intuition: 2
 item_id: hobgoblin-lancer
-item_index: '182'
+item_index: '06'
 item_name: Hobgoblin Lancer
 level: 4
 might: 1
@@ -20,15 +20,15 @@ reason: 0
 roles:
   - Minion Harrier
 scc:
-  - mcdm.monsters.v1:monster:hobgoblin-lancer
+  - mcdm.monsters.v1:monster.hobgoblins.statblock:hobgoblin-lancer
 scdc:
-  - 1.1.1:2:182
+  - 1.1.1:2.22.1:06
 size: 1M
 source: mcdm.monsters.v1
 speed: 7
 stability: 0
 stamina: '8'
-type: monster
+type: monster/hobgoblins/statblock
 ---
 
 ###### Hobgoblin Lancer
@@ -36,7 +36,7 @@ type: monster
 | Goblin, Hobgoblin, Humanoid, Infernal |          -          |      Level 4       |                  Minion Harrier                  | EV 6 for four minions  |
 | :-----------------------------------: | :-----------------: | :----------------: | :----------------------------------------------: | :--------------------: |
 |           **1M**<br/> Size            |  **7**<br/> Speed   | **8**<br/> Stamina |               **0**<br/> Stability               | **2**<br/> Free Strike |
-|       **Fire 2**<br/> Immunity        | **-**<br/> Movement |         -          | **+2 damage bonus to strikes**<br/> With Captain | **-**<br/> Weaknesses  |
+|       **Fire 2**<br/> Immunity        | **-**<br/> Movement |         -          | **+2 damage bonus to strikes**<br/> With Captain |  **-**<br/> Weakness   |
 |           **+1**<br/> Might           | **+3**<br/> Agility | **0**<br/> Reason  |              **+2**<br/> Intuition               |  **0**<br/> Presence   |
 
 <!-- -->

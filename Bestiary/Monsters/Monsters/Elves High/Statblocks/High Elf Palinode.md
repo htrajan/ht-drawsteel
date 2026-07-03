@@ -10,7 +10,7 @@ file_dpath: Monsters/Elves High/Statblocks
 free_strike: 3
 intuition: 2
 item_id: high-elf-palinode
-item_index: '111'
+item_index: '04'
 item_name: High Elf Palinode
 level: 1
 might: 0
@@ -19,15 +19,15 @@ reason: 0
 roles:
   - Platoon Support
 scc:
-  - mcdm.monsters.v1:monster:high-elf-palinode
+  - mcdm.monsters.v1:monster.elves-high.statblock:high-elf-palinode
 scdc:
-  - 1.1.1:2:111
+  - 1.1.1:2.14.1:04
 size: 1M
 source: mcdm.monsters.v1
 speed: 5
 stability: 0
 stamina: '30'
-type: monster
+type: monster/elves-high/statblock
 ---
 
 ###### High Elf Palinode
@@ -35,7 +35,7 @@ type: monster
 |   Fey, High Elf, Humanoid   |          -          |       Level 1       |     Platoon Support     |          EV 6          |
 | :-------------------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |      **1M**<br/> Size       |  **5**<br/> Speed   | **30**<br/> Stamina |  **0**<br/> Stability   | **3**<br/> Free Strike |
-| **Psychic 5**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Psychic 5**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |      **0**<br/> Might       | **0**<br/> Agility  |  **0**<br/> Reason  |  **+2**<br/> Intuition  |  **+1**<br/> Presence  |
 
 <!-- -->

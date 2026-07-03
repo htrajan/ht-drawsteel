@@ -9,7 +9,7 @@ file_dpath: Monsters/Demons/Statblocks
 free_strike: 3
 intuition: 2
 item_id: wobalas
-item_index: '255'
+item_index: '02'
 item_name: Wobalas
 level: 4
 might: 1
@@ -18,24 +18,24 @@ reason: 1
 roles:
   - Minion Artillery
 scc:
-  - mcdm.monsters.v1:monster:wobalas
+  - mcdm.monsters.v1:monster.demons.statblock:wobalas
 scdc:
-  - 1.1.1:2:255
+  - 1.1.1:2.35.1:02
 size: 1M
 source: mcdm.monsters.v1
 speed: 6
 stability: 0
 stamina: '7'
-type: monster
+type: monster/demons/statblock
 ---
 
 ###### Wobalas
 
-|   Abyssal, Demon    |          -          |      Level 4       |                 Minion Artillery                 |   EV 6 for four minions    |
-| :-----------------: | :-----------------: | :----------------: | :----------------------------------------------: | :------------------------: |
-|  **1M**<br/> Size   |  **6**<br/> Speed   | **7**<br/> Stamina |               **0**<br/> Stability               |   **3**<br/> Free Strike   |
-| **-**<br/> Immunity | **-**<br/> Movement |         -          | **+2 damage bonus to strikes**<br/> With Captain | **Holy 5**<br/> Weaknesses |
-|  **+1**<br/> Might  | **+3**<br/> Agility | **+1**<br/> Reason |              **+2**<br/> Intuition               |    **+1**<br/> Presence    |
+|   Abyssal, Demon    |          -          |      Level 4       |                 Minion Artillery                 |  EV 6 for four minions   |
+| :-----------------: | :-----------------: | :----------------: | :----------------------------------------------: | :----------------------: |
+|  **1M**<br/> Size   |  **6**<br/> Speed   | **7**<br/> Stamina |               **0**<br/> Stability               |  **3**<br/> Free Strike  |
+| **-**<br/> Immunity | **-**<br/> Movement |         -          | **+2 damage bonus to strikes**<br/> With Captain | **Holy 5**<br/> Weakness |
+|  **+1**<br/> Might  | **+3**<br/> Agility | **+1**<br/> Reason |              **+2**<br/> Intuition               |   **+1**<br/> Presence   |
 
 <!-- -->
 > 🏹 **Despair Bolt (Signature Ability)**

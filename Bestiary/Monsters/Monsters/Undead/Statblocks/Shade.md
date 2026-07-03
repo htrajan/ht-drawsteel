@@ -8,7 +8,7 @@ file_dpath: Monsters/Undead/Statblocks
 free_strike: 2
 intuition: 0
 item_id: shade
-item_index: '65'
+item_index: '13'
 item_name: Shade
 level: 1
 might: -5
@@ -17,15 +17,15 @@ reason: 0
 roles:
   - Minion Ambusher
 scc:
-  - mcdm.monsters.v1:monster:shade
+  - mcdm.monsters.v1:monster.undead.statblock:shade
 scdc:
-  - 1.1.1:2:65
+  - 1.1.1:2.8.1:13
 size: 1M
 source: mcdm.monsters.v1
 speed: 5
 stability: 1
 stamina: '4'
-type: monster
+type: monster/undead/statblock
 ---
 
 ###### Shade
@@ -33,7 +33,7 @@ type: monster
 |                  Undead                  |              -               |      Level 1       |             Minion Ambusher             | EV 3 for four minions  |
 | :--------------------------------------: | :--------------------------: | :----------------: | :-------------------------------------: | :--------------------: |
 |             **1M**<br/> Size             |       **5**<br/> Speed       | **4**<br/> Stamina |          **1**<br/> Stability           | **2**<br/> Free Strike |
-| **Corruption 1, poison 1**<br/> Immunity | **Fly, hover**<br/> Movement |         -          | **+2 bonus to speed**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Corruption 1, poison 1**<br/> Immunity | **Fly, hover**<br/> Movement |         -          | **+2 bonus to speed**<br/> With Captain |  **-**<br/> Weakness   |
 |            **-5**<br/> Might             |     **+1**<br/> Agility      | **0**<br/> Reason  |          **0**<br/> Intuition           |  **+2**<br/> Presence  |
 
 <!-- -->

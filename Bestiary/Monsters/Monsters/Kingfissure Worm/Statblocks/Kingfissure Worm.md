@@ -9,7 +9,7 @@ file_dpath: Monsters/Kingfissure Worm/Statblocks
 free_strike: 8
 intuition: 2
 item_id: kingfissure-worm
-item_index: '247'
+item_index: '01'
 item_name: Kingfissure Worm
 level: 7
 might: 5
@@ -18,15 +18,15 @@ reason: -5
 roles:
   - Solo
 scc:
-  - mcdm.monsters.v1:monster:kingfissure-worm
+  - mcdm.monsters.v1:monster.kingfissure-worm.statblock:kingfissure-worm
 scdc:
-  - 1.1.1:2:247
+  - 1.1.1:2.33.1:01
 size: '5'
 source: mcdm.monsters.v1
 speed: 10
 stability: 5
 stamina: '420'
-type: monster
+type: monster/kingfissure-worm/statblock
 ---
 
 ###### Kingfissure Worm
@@ -34,7 +34,7 @@ type: monster
 |     Beast, Worm     |            -             |       Level 7        |          Solo           |         EV 108         |
 | :-----------------: | :----------------------: | :------------------: | :---------------------: | :--------------------: |
 |   **5**<br/> Size   |    **10**<br/> Speed     | **420**<br/> Stamina |  **5**<br/> Stability   | **8**<br/> Free Strike |
-| **-**<br/> Immunity | **Burrow**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **Burrow**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |  **+5**<br/> Might  |   **+1**<br/> Agility    |  **-5**<br/> Reason  |  **+2**<br/> Intuition  |  **-3**<br/> Presence  |
 
 <!-- -->
@@ -116,7 +116,7 @@ type: monster
 <!-- -->
 > ⭐️ **Swallowed**
 >
-> A creature swallowed by the kingfissure worm is restrained and takes 1d6 acid damage at the start of every turn. If the worm takes 25 or more damage in a single round from swallowed creatures, they immediately regurgitate all creatures they have swallowed, who land prone in unoccupied spaces within 3 squares of the kingfissure worm
+> A creature swallowed by the kingfissure worm is restrained and takes 1d6 acid damage at the start of every turn. If the worm takes 25 or more damage in a single round from swallowed creatures, they immediately regurgitate all creatures they have swallowed, who land prone in unoccupied spaces within 3 squares of the kingfissure worm.
 
 <!-- -->
 > ⭐️ **Titanic Tunneler**

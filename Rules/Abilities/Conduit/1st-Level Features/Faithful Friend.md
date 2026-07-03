@@ -15,8 +15,9 @@ level: 1
 scc:
   - mcdm.heroes.v1:feature.ability.conduit.1st-level-feature:faithful-friend
 scdc:
-  - 1.1.1:13.2.8.1:02
+  - 1.1.1:11.2.8.1:02
 source: mcdm.heroes.v1
+subclass: Nature
 target: Self
 type: feature/ability/conduit/1st-level-feature
 ---

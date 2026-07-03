@@ -9,7 +9,7 @@ file_dpath: Monsters/Dwarves/Statblocks
 free_strike: 4
 intuition: 1
 item_id: dwarf-gunner
-item_index: '406'
+item_index: '11'
 item_name: Dwarf Gunner
 level: 1
 might: 0
@@ -18,15 +18,15 @@ reason: 0
 roles:
   - Platoon Artillery
 scc:
-  - mcdm.monsters.v1:monster:dwarf-gunner
+  - mcdm.monsters.v1:monster.dwarves.statblock:dwarf-gunner
 scdc:
-  - 1.1.1:2:406
+  - 1.1.1:2.52.1:11
 size: 1M
 source: mcdm.monsters.v1
 speed: 5
 stability: 1
 stamina: '26'
-type: monster
+type: monster/dwarves/statblock
 ---
 
 ###### Dwarf Gunner
@@ -34,7 +34,7 @@ type: monster
 |   Dwarf, Humanoid   |          -          |       Level 1       |    Platoon Artillery    |          EV 6          |
 | :-----------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |  **1M**<br/> Size   |  **5**<br/> Speed   | **26**<br/> Stamina |  **1**<br/> Stability   | **4**<br/> Free Strike |
-| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |  **+0**<br/> Might  | **+2**<br/> Agility | **+0**<br/> Reason  |  **+1**<br/> Intuition  |  **+0**<br/> Presence  |
 
 <!-- -->

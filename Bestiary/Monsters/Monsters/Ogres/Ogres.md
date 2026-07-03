@@ -24,11 +24,11 @@ Ogres who embrace good often dedicate themselves to inspiring causes, letting th
 
 ### Savory Stories
 
-Some ogres speak of a time when they shared vast wealth and riches, great homes made of hewn stone, and sumptuous feasts. These stories always end tragically, each with a different villain-from deceptive mages to talking cats-swindling the ogres of what is rightfully theirs. The truth of such legends remains unknown, but many cruel ogres use them as an excuse for their selfish indulgences.
+Some ogres speak of a time when they shared vast wealth and riches, great homes made of hewn stone, and sumptuous feasts. These stories always end tragically, each with a different villain—from deceptive mages to talking cats—swindling the ogres of what is rightfully theirs. The truth of such legends remains unknown, but many cruel ogres use them as an excuse for their selfish indulgences.
 
 ### Aristocracy of Bullies
 
-When wicked ogres gather more food than they can stomach or riches than they can spend, they use the excess to tempt their kin into working for them. These petty rulers make other ogres grovel at their feet for table scraps, then send them out into the world to steal more. Many ogre communities form around these arrogant aristocrats-but few such leaders die of old age, as the ambition and emotions of their subjects bring about violent ends.
+When wicked ogres gather more food than they can stomach or riches than they can spend, they use the excess to tempt their kin into working for them. These petty rulers make other ogres grovel at their feet for table scraps, then send them out into the world to steal more. Many ogre communities form around these arrogant aristocrats—but few such leaders die of old age, as the ambition and emotions of their subjects bring about violent ends.
 
 ### Cyclops: Ogre Progenitor
 
@@ -68,7 +68,7 @@ At the start of any ogre's turn, you can spend Malice to activate one of the fol
 |     Giant, Ogre     |          -          |       Level 2        |       Elite Brute       |         EV 16          |
 | :-----------------: | :-----------------: | :------------------: | :---------------------: | :--------------------: |
 |   **2**<br/> Size   |  **5**<br/> Speed   | **100**<br/> Stamina |  **4**<br/> Stability   | **5**<br/> Free Strike |
-| **-**<br/> Immunity | **-**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **-**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |  **+2**<br/> Might  | **0**<br/> Agility  |  **-1**<br/> Reason  |  **0**<br/> Intuition   |  **-1**<br/> Presence  |
 
 <!-- -->
@@ -125,7 +125,7 @@ At the start of any ogre's turn, you can spend Malice to activate one of the fol
 >
 > **Trigger:** A creature or object within distance moves or shifts away from the goon.
 >
-> **Effect:** The goon slides the target up to 5 squares
+> **Effect:** The goon slides the target up to 5 squares.
 
 <!-- -->
 > ⭐️ **Defiant Anger**
@@ -137,7 +137,7 @@ At the start of any ogre's turn, you can spend Malice to activate one of the fol
 |     Giant, Ogre     |          -          |       Level 2       |      Elite Harrier      |         EV 16          |
 | :-----------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |   **2**<br/> Size   |  **6**<br/> Speed   | **80**<br/> Stamina |  **2**<br/> Stability   | **5**<br/> Free Strike |
-| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |  **+2**<br/> Might  | **+1**<br/> Agility | **-1**<br/> Reason  |  **0**<br/> Intuition   |  **-1**<br/> Presence  |
 
 <!-- -->
@@ -177,6 +177,8 @@ At the start of any ogre's turn, you can spend Malice to activate one of the fol
 > | -------------- | ----------------------------: |
 > | **📏 3 burst** | **🎯 Each enemy in the area** |
 >
+> **Power Roll + 2:**
+>
 > - **≤11:** I < 0 frightened (save ends)
 > - **12-16:** I < 1 frightened (save ends)
 > - **17+:** I < 2 frightened (save ends)
@@ -184,11 +186,11 @@ At the start of any ogre's turn, you can spend Malice to activate one of the fol
 > **Effect:** While a target is frightened this way, any ogre gains an edge on strikes against them.
 
 <!-- -->
-> ❗️ **Hrraaaaaagh!**
+> ❗️ **Hrraaaaaagh! (1 Malice)**
 >
-> | **ree triggered action** |       **-** |
-> | ------------------------ | ----------: |
-> | **📏 Self**              | **🎯 Self** |
+> | **-**       | **Free triggered action** |
+> | ----------- | ------------------------: |
+> | **📏 Self** |               **🎯 Self** |
 >
 > **Trigger:** The juggernaut takes damage.
 >
@@ -197,7 +199,7 @@ At the start of any ogre's turn, you can spend Malice to activate one of the fol
 <!-- -->
 > ⭐️ **Destructive Path**
 >
-> The juggernaut automatically destroys any mundane size 1 objects in their path when they move or are forced moved. They can break through any mundane wall made of wood, stone, or a similarly sturdy material this way as long as the wall is 2 squares thick or less.
+> The juggernaut automatically destroys any mundane size 1 objects in their path when they move or are force moved. They can break through any mundane wall made of wood, stone, or a similarly sturdy material this way as long as the wall is 2 squares thick or less.
 
 <!-- -->
 > ⭐️ **Defiant Anger**
@@ -220,7 +222,7 @@ At the start of any ogre's turn, you can spend Malice to activate one of the fol
 |     Giant, Ogre     |          -          |      Level 10       |            Minion Controller            | EV 12 for four minions |
 | :-----------------: | :-----------------: | :-----------------: | :-------------------------------------: | :--------------------: |
 |   **3**<br/> Size   |  **6**<br/> Speed   | **14**<br/> Stamina |          **5**<br/> Stability           | **4**<br/> Free Strike |
-| **-**<br/> Immunity | **-**<br/> Movement |          -          | **+4 bonus to speed**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **-**<br/> Movement |          -          | **+4 bonus to speed**<br/> With Captain |  **-**<br/> Weakness   |
 |  **+5**<br/> Might  | **-1**<br/> Agility | **-1**<br/> Reason  |          **+3**<br/> Intuition          |  **-1**<br/> Presence  |
 
 <!-- -->
@@ -248,7 +250,7 @@ At the start of any ogre's turn, you can spend Malice to activate one of the fol
 |     Giant, Ogre     |          -          |       Level 7       |                 Minion Brute                  | EV 9 for four minions  |
 | :-----------------: | :-----------------: | :-----------------: | :-------------------------------------------: | :--------------------: |
 |   **2**<br/> Size   |  **5**<br/> Speed   | **13**<br/> Stamina |             **4**<br/> Stability              | **4**<br/> Free Strike |
-| **-**<br/> Immunity | **-**<br/> Movement |          -          | **Gain an edge on strikes**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **-**<br/> Movement |          -          | **Gain an edge on strikes**<br/> With Captain |  **-**<br/> Weakness   |
 |  **+4**<br/> Might  | **+1**<br/> Agility | **-1**<br/> Reason  |             **0**<br/> Intuition              |  **+2**<br/> Presence  |
 
 <!-- -->
@@ -281,7 +283,7 @@ At the start of any ogre's turn, you can spend Malice to activate one of the fol
 |     Giant, Ogre     |          -          |       Level 7       |                 Minion Artillery                  | EV 9 for four minions  |
 | :-----------------: | :-----------------: | :-----------------: | :-----------------------------------------------: | :--------------------: |
 |   **2**<br/> Size   |  **5**<br/> Speed   | **10**<br/> Stamina |               **2**<br/> Stability                | **4**<br/> Free Strike |
-| **-**<br/> Immunity | **-**<br/> Movement |          -          | **+5 bonus to ranged distance**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **-**<br/> Movement |          -          | **+5 bonus to ranged distance**<br/> With Captain |  **-**<br/> Weakness   |
 |  **+4**<br/> Might  | **+2**<br/> Agility | **-1**<br/> Reason  |               **0**<br/> Intuition                |  **-1**<br/> Presence  |
 
 <!-- -->

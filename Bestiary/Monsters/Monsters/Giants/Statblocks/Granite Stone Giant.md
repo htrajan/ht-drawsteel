@@ -9,7 +9,7 @@ file_dpath: Monsters/Giants/Statblocks
 free_strike: 8
 intuition: 2
 item_id: granite-stone-giant
-item_index: '204'
+item_index: '13'
 item_name: Granite Stone Giant
 level: 8
 might: 4
@@ -18,15 +18,15 @@ reason: 1
 roles:
   - Elite Defender
 scc:
-  - mcdm.monsters.v1:monster:granite-stone-giant
+  - mcdm.monsters.v1:monster.giants.statblock:granite-stone-giant
 scdc:
-  - 1.1.1:2:204
+  - 1.1.1:2.23.1:13
 size: '4'
 source: mcdm.monsters.v1
 speed: 7
 stability: 10
 stamina: '247'
-type: monster
+type: monster/giants/statblock
 ---
 
 ###### Granite Stone Giant
@@ -34,7 +34,7 @@ type: monster
 | Giant, Stone Giant  |            -             |       Level 8        |     Elite Defender      |         EV 40          |
 | :-----------------: | :----------------------: | :------------------: | :---------------------: | :--------------------: |
 |   **4**<br/> Size   |     **7**<br/> Speed     | **247**<br/> Stamina |  **10**<br/> Stability  | **8**<br/> Free Strike |
-| **-**<br/> Immunity | **Burrow**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **Burrow**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |  **+4**<br/> Might  |   **+1**<br/> Agility    |  **+1**<br/> Reason  |  **+2**<br/> Intuition  |  **+1**<br/> Presence  |
 
 <!-- -->

@@ -9,7 +9,7 @@ file_dpath: Monsters/Gnolls/Statblocks
 free_strike: 2
 intuition: 0
 item_id: gnoll-mage-mauler
-item_index: '44'
+item_index: '10'
 item_name: Gnoll Mage Mauler
 level: 2
 might: 2
@@ -18,15 +18,15 @@ reason: -1
 roles:
   - Minion Hexer
 scc:
-  - mcdm.monsters.v1:monster:gnoll-mage-mauler
+  - mcdm.monsters.v1:monster.gnolls.statblock:gnoll-mage-mauler
 scdc:
-  - 1.1.1:2:44
+  - 1.1.1:2.6.1:10
 size: 1M
 source: mcdm.monsters.v1
 speed: 5
 stability: 1
 stamina: '4'
-type: monster
+type: monster/gnolls/statblock
 ---
 
 ###### Gnoll Mage Mauler
@@ -34,7 +34,7 @@ type: monster
 |   Abyssal, Gnoll    |          -          |      Level 2       |                   Minion Hexer                   | EV 4 for four minions  |
 | :-----------------: | :-----------------: | :----------------: | :----------------------------------------------: | :--------------------: |
 |  **1M**<br/> Size   |  **5**<br/> Speed   | **4**<br/> Stamina |               **1**<br/> Stability               | **2**<br/> Free Strike |
-| **-**<br/> Immunity | **-**<br/> Movement |         -          | **+2 bonus to melee distance**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **-**<br/> Movement |         -          | **+2 bonus to melee distance**<br/> With Captain |  **-**<br/> Weakness   |
 |  **+2**<br/> Might  | **+1**<br/> Agility | **-1**<br/> Reason |               **0**<br/> Intuition               |  **0**<br/> Presence   |
 
 <!-- -->

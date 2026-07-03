@@ -9,7 +9,7 @@ file_dpath: Monsters/Lizardfolks/Statblocks
 free_strike: 4
 intuition: 0
 item_id: lizardfolk-scaletooth
-item_index: '52'
+item_index: '07'
 item_name: Lizardfolk Scaletooth
 level: 1
 might: 2
@@ -18,15 +18,15 @@ reason: 0
 roles:
   - Platoon Brute
 scc:
-  - mcdm.monsters.v1:monster:lizardfolk-scaletooth
+  - mcdm.monsters.v1:monster.lizardfolks.statblock:lizardfolk-scaletooth
 scdc:
-  - 1.1.1:2:52
+  - 1.1.1:2.7.1:07
 size: 1M
 source: mcdm.monsters.v1
 speed: 5
 stability: 0
 stamina: '46'
-type: monster
+type: monster/lizardfolks/statblock
 ---
 
 ###### Lizardfolk Scaletooth
@@ -34,7 +34,7 @@ type: monster
 | Humanoid, Lizardfolk |           -            |       Level 1       |      Platoon Brute      |          EV 6          |
 | :------------------: | :--------------------: | :-----------------: | :---------------------: | :--------------------: |
 |   **1M**<br/> Size   |    **5**<br/> Speed    | **46**<br/> Stamina |  **0**<br/> Stability   | **4**<br/> Free Strike |
-| **-**<br/> Immunity  | **Swim**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity  | **Swim**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |  **+2**<br/> Might   |  **+1**<br/> Agility   |  **0**<br/> Reason  |  **0**<br/> Intuition   |  **0**<br/> Presence   |
 
 <!-- -->

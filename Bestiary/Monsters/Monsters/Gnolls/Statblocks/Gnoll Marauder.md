@@ -9,7 +9,7 @@ file_dpath: Monsters/Gnolls/Statblocks
 free_strike: 2
 intuition: 0
 item_id: gnoll-marauder
-item_index: '37'
+item_index: '03'
 item_name: Gnoll Marauder
 level: 2
 might: 1
@@ -18,15 +18,15 @@ reason: 0
 roles:
   - Horde Harrier
 scc:
-  - mcdm.monsters.v1:monster:gnoll-marauder
+  - mcdm.monsters.v1:monster.gnolls.statblock:gnoll-marauder
 scdc:
-  - 1.1.1:2:37
+  - 1.1.1:2.6.1:03
 size: 1M
 source: mcdm.monsters.v1
 speed: 7
 stability: 1
 stamina: '20'
-type: monster
+type: monster/gnolls/statblock
 ---
 
 ###### Gnoll Marauder
@@ -34,7 +34,7 @@ type: monster
 |   Abyssal, Gnoll    |          -          |       Level 2       |      Horde Harrier      |          EV 4          |
 | :-----------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |  **1M**<br/> Size   |  **7**<br/> Speed   | **20**<br/> Stamina |  **1**<br/> Stability   | **2**<br/> Free Strike |
-| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |  **+1**<br/> Might  | **+1**<br/> Agility |  **0**<br/> Reason  |  **0**<br/> Intuition   |  **+1**<br/> Presence  |
 
 <!-- -->

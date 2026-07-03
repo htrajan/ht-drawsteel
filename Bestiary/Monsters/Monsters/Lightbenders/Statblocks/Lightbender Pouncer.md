@@ -9,7 +9,7 @@ file_dpath: Monsters/Lightbenders/Statblocks
 free_strike: 5
 intuition: 1
 item_id: lightbender-pouncer
-item_index: '207'
+item_index: '02'
 item_name: Lightbender Pouncer
 level: 3
 might: 2
@@ -18,24 +18,24 @@ reason: -3
 roles:
   - Elite Harrier
 scc:
-  - mcdm.monsters.v1:monster:lightbender-pouncer
+  - mcdm.monsters.v1:monster.lightbenders.statblock:lightbender-pouncer
 scdc:
-  - 1.1.1:2:207
+  - 1.1.1:2.25.1:02
 size: '2'
 source: mcdm.monsters.v1
-speed: 1
+speed: 10
 stability: 1
-stamina: '0100'
-type: monster
+stamina: '100'
+type: monster/lightbenders/statblock
 ---
 
 ###### Lightbender Pouncer
 
-| Beast, Lightbender  |          -          |        Level 3        |      Elite Harrier      |         EV 20          |
-| :-----------------: | :-----------------: | :-------------------: | :---------------------: | :--------------------: |
-|   **2**<br/> Size   |  **1**<br/> Speed   | **0100**<br/> Stamina |  **1**<br/> Stability   | **5**<br/> Free Strike |
-| **-**<br/> Immunity | **-**<br/> Movement |           -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
-|  **+2**<br/> Might  | **+1**<br/> Agility |  **-3**<br/> Reason   |  **+1**<br/> Intuition  |  **-1**<br/> Presence  |
+| Beast, Lightbender  |          -          |       Level 3        |      Elite Harrier      |         EV 20          |
+| :-----------------: | :-----------------: | :------------------: | :---------------------: | :--------------------: |
+|   **2**<br/> Size   |  **10**<br/> Speed  | **100**<br/> Stamina |  **1**<br/> Stability   | **5**<br/> Free Strike |
+| **-**<br/> Immunity | **-**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
+|  **+2**<br/> Might  | **+1**<br/> Agility |  **-3**<br/> Reason  |  **+1**<br/> Intuition  |  **-1**<br/> Presence  |
 
 <!-- -->
 > 🗡 **Pounce (Signature Ability)**
@@ -53,7 +53,7 @@ type: monster
 > **Effect:** The pouncer can make a free strike against each target they knock prone.
 
 <!-- -->
-> ❇️ **Sparking Tail Whip**
+> ❇️ **Sparkling Tail Whip**
 >
 > | **Area, Magic** |                          **Main action** |
 > | --------------- | ---------------------------------------: |
@@ -73,6 +73,8 @@ type: monster
 > | **Area, Magic, Ranged** |                  **Maneuver** |
 > | ----------------------- | ----------------------------: |
 > | **📏 3 cube within 10** | **🎯 Each enemy in the area** |
+>
+> **Power Roll + 2:**
 >
 > - **≤11:** I < 0 dazed (save ends)
 > - **12-16:** I < 1 dazed (save ends)

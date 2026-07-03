@@ -28,7 +28,7 @@ Fortunately, many humans devote themselves to righting wrongs and reshaping the 
 
 #### Risks and Rewards
 
-Humans devote as much attention to games and gambling as to more serious pursuits. Perhaps this competitive nature explains their renowned knack for seizing the moment-knowing when to risk all on a throw of the dice. Whether in sport or battle, humans quickly spot their opponent's mistakes and seize the advantage.
+Humans devote as much attention to games and gambling as to more serious pursuits. Perhaps this competitive nature explains their renowned knack for seizing the moment—knowing when to risk all on a throw of the dice. Whether in sport or battle, humans quickly spot their opponent's mistakes and seize the advantage.
 
 Humans see unrealized potential everywhere, whether envisioning an untamed forest transformed into a prosperous village, or an ancient dungeon yielding chests filled with coins. Pursuing such ambitions might end in catastrophe, but for these gamblers, it's a game worth playing.
 
@@ -78,7 +78,7 @@ At the start of any human's turn, you can spend Malice to activate one of the fo
 |              Human, Humanoid              |          -          |      Level 2       |                 Minion Controller                 | EV 4 for four minions  |
 | :---------------------------------------: | :-----------------: | :----------------: | :-----------------------------------------------: | :--------------------: |
 |             **1M**<br/> Size              |  **5**<br/> Speed   | **4**<br/> Stamina |               **0**<br/> Stability                | **2**<br/> Free Strike |
-| **Corruption 2, psychic 2**<br/> Immunity | **-**<br/> Movement |         -          | **+5 bonus to ranged distance**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Corruption 2, psychic 2**<br/> Immunity | **-**<br/> Movement |         -          | **+5 bonus to ranged distance**<br/> With Captain |  **-**<br/> Weakness   |
 |             **0**<br/> Might              | **+1**<br/> Agility | **0**<br/> Reason  |               **0**<br/> Intuition                |  **+2**<br/> Presence  |
 
 <!-- -->
@@ -106,7 +106,7 @@ At the start of any human's turn, you can spend Malice to activate one of the fo
 |              Human, Humanoid              |          -          |      Level 1       |                 Minion Artillery                  | EV 3 for four minions  |
 | :---------------------------------------: | :-----------------: | :----------------: | :-----------------------------------------------: | :--------------------: |
 |             **1M**<br/> Size              |  **5**<br/> Speed   | **3**<br/> Stamina |               **0**<br/> Stability                | **2**<br/> Free Strike |
-| **Corruption 1, psychic 1**<br/> Immunity | **-**<br/> Movement |         -          | **+5 bonus to ranged distance**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Corruption 1, psychic 1**<br/> Immunity | **-**<br/> Movement |         -          | **+5 bonus to ranged distance**<br/> With Captain |  **-**<br/> Weakness   |
 |             **0**<br/> Might              | **+2**<br/> Agility | **0**<br/> Reason  |               **0**<br/> Intuition                |  **0**<br/> Presence   |
 
 <!-- -->
@@ -132,7 +132,7 @@ At the start of any human's turn, you can spend Malice to activate one of the fo
 |              Human, Humanoid              |          -          |      Level 1       |                   Minion Hexer                    | EV 3 for four minions  |
 | :---------------------------------------: | :-----------------: | :----------------: | :-----------------------------------------------: | :--------------------: |
 |             **1M**<br/> Size              |  **5**<br/> Speed   | **3**<br/> Stamina |               **0**<br/> Stability                | **1**<br/> Free Strike |
-| **Corruption 1, psychic 1**<br/> Immunity | **-**<br/> Movement |         -          | **+5 bonus to ranged distance**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Corruption 1, psychic 1**<br/> Immunity | **-**<br/> Movement |         -          | **+5 bonus to ranged distance**<br/> With Captain |  **-**<br/> Weakness   |
 |             **0**<br/> Might              | **+1**<br/> Agility | **0**<br/> Reason  |               **0**<br/> Intuition                |  **+2**<br/> Presence  |
 
 <!-- -->
@@ -160,7 +160,7 @@ At the start of any human's turn, you can spend Malice to activate one of the fo
 |              Human, Humanoid              |          -          |      Level 1       |              Minion Brute               | EV 3 for four minions  |
 | :---------------------------------------: | :-----------------: | :----------------: | :-------------------------------------: | :--------------------: |
 |             **1M**<br/> Size              |  **5**<br/> Speed   | **5**<br/> Stamina |          **0**<br/> Stability           | **2**<br/> Free Strike |
-| **Corruption 1, psychic 1**<br/> Immunity | **-**<br/> Movement |         -          | **+5 bonus to speed**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Corruption 1, psychic 1**<br/> Immunity | **-**<br/> Movement |         -          | **+2 bonus to speed**<br/> With Captain |  **-**<br/> Weakness   |
 |             **+2**<br/> Might             | **0**<br/> Agility  | **0**<br/> Reason  |          **0**<br/> Intuition           |  **0**<br/> Presence   |
 
 <!-- -->
@@ -188,7 +188,7 @@ At the start of any human's turn, you can spend Malice to activate one of the fo
 |              Human, Humanoid              |          -          |      Level 1       |                Minion Harrier                 | EV 3 for four minions  |
 | :---------------------------------------: | :-----------------: | :----------------: | :-------------------------------------------: | :--------------------: |
 |             **1M**<br/> Size              |  **7**<br/> Speed   | **4**<br/> Stamina |             **0**<br/> Stability              | **1**<br/> Free Strike |
-| **Corruption 1, psychic 1**<br/> Immunity | **-**<br/> Movement |         -          | **Gain an edge on strikes**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Corruption 1, psychic 1**<br/> Immunity | **-**<br/> Movement |         -          | **Gain an edge on strikes**<br/> With Captain |  **-**<br/> Weakness   |
 |             **0**<br/> Might              | **+2**<br/> Agility | **0**<br/> Reason  |             **0**<br/> Intuition              |  **0**<br/> Presence   |
 
 <!-- -->
@@ -216,7 +216,7 @@ At the start of any human's turn, you can spend Malice to activate one of the fo
 |              Human, Humanoid              |          -          |      Level 1       |                Minion Ambusher                | EV 3 for four minions  |
 | :---------------------------------------: | :-----------------: | :----------------: | :-------------------------------------------: | :--------------------: |
 |             **1M**<br/> Size              |  **7**<br/> Speed   | **4**<br/> Stamina |             **0**<br/> Stability              | **2**<br/> Free Strike |
-| **Corruption 1, psychic 1**<br/> Immunity | **-**<br/> Movement |         -          | **Gain an edge on strikes**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Corruption 1, psychic 1**<br/> Immunity | **-**<br/> Movement |         -          | **Gain an edge on strikes**<br/> With Captain |  **-**<br/> Weakness   |
 |             **0**<br/> Might              | **+2**<br/> Agility | **0**<br/> Reason  |             **0**<br/> Intuition              |  **+1**<br/> Presence  |
 
 <!-- -->
@@ -244,7 +244,7 @@ At the start of any human's turn, you can spend Malice to activate one of the fo
 |              Human, Humanoid              |          -          |       Level 1       |      Platoon Brute      |          EV 6          |
 | :---------------------------------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |             **1M**<br/> Size              |  **5**<br/> Speed   | **40**<br/> Stamina |  **0**<br/> Stability   | **4**<br/> Free Strike |
-| **Corruption 1, psychic 1**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Corruption 1, psychic 1**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |             **+2**<br/> Might             | **+1**<br/> Agility |  **0**<br/> Reason  |  **0**<br/> Intuition   |  **0**<br/> Presence   |
 
 <!-- -->
@@ -286,7 +286,7 @@ At the start of any human's turn, you can spend Malice to activate one of the fo
 |              Human, Humanoid              |          -          |       Level 2       |     Platoon Support     |          EV 8          |
 | :---------------------------------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |             **1M**<br/> Size              |  **5**<br/> Speed   | **40**<br/> Stamina |  **0**<br/> Stability   | **4**<br/> Free Strike |
-| **Corruption 2, psychic 2**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Corruption 2, psychic 2**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |             **0**<br/> Might              | **+1**<br/> Agility |  **0**<br/> Reason  |  **0**<br/> Intuition   |  **+2**<br/> Presence  |
 
 <!-- -->
@@ -323,7 +323,7 @@ At the start of any human's turn, you can spend Malice to activate one of the fo
 |              Human, Humanoid              |          -          |       Level 2       |    Platoon Defender     |          EV 8          |
 | :---------------------------------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |             **1M**<br/> Size              |  **5**<br/> Speed   | **50**<br/> Stamina |  **0**<br/> Stability   | **4**<br/> Free Strike |
-| **Corruption 2, psychic 2**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Corruption 2, psychic 2**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |             **+2**<br/> Might             | **0**<br/> Agility  | **+1**<br/> Reason  |  **0**<br/> Intuition   |  **0**<br/> Presence   |
 
 <!-- -->
@@ -349,7 +349,7 @@ At the start of any human's turn, you can spend Malice to activate one of the fo
 <!-- -->
 > ⭐️ **Overwhelm**
 >
-> An enemy who starts their turn adjacent to the knave can't shift
+> An enemy who starts their turn adjacent to the knave can't shift.
 
 <!-- -->
 > ⭐️ **Supernatural Insight**
@@ -361,7 +361,7 @@ At the start of any human's turn, you can spend Malice to activate one of the fo
 |              Human, Humanoid              |          -          |       Level 1       |    Platoon Ambusher     |          EV 6          |
 | :---------------------------------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |             **1M**<br/> Size              |  **5**<br/> Speed   | **30**<br/> Stamina |  **0**<br/> Stability   | **4**<br/> Free Strike |
-| **Corruption 1, psychic 1**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Corruption 1, psychic 1**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |             **0**<br/> Might              | **+2**<br/> Agility |  **0**<br/> Reason  |  **0**<br/> Intuition   |  **+1**<br/> Presence  |
 
 <!-- -->
@@ -386,7 +386,7 @@ At the start of any human's turn, you can spend Malice to activate one of the fo
 > | -------- | --------------: |
 > | **📏 -** |        **🎯 -** |
 >
-> The scoundrel uses Rapier and Dagger against up to three targets. They shift up to 2 squares before or after each strike
+> The scoundrel uses Rapier and Dagger against up to three targets. They shift up to 2 squares before or after each strike.
 
 <!-- -->
 > ⭐️ **Supernatural Insight**
@@ -398,7 +398,7 @@ At the start of any human's turn, you can spend Malice to activate one of the fo
 |              Human, Humanoid              |          -          |       Level 3       |   Platoon Controller    |         EV 10          |
 | :---------------------------------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |             **1M**<br/> Size              |  **5**<br/> Speed   | **40**<br/> Stamina |  **0**<br/> Stability   | **5**<br/> Free Strike |
-| **Corruption 3, psychic 3**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Corruption 3, psychic 3**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |             **0**<br/> Might              | **0**<br/> Agility  | **+2**<br/> Reason  |  **0**<br/> Intuition   |  **+1**<br/> Presence  |
 
 <!-- -->
@@ -448,7 +448,7 @@ At the start of any human's turn, you can spend Malice to activate one of the fo
 |              Human, Humanoid              |          -          |       Level 1       |    Platoon Artillery    |          EV 6          |
 | :---------------------------------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |             **1M**<br/> Size              |  **5**<br/> Speed   | **20**<br/> Stamina |  **0**<br/> Stability   | **4**<br/> Free Strike |
-| **Corruption 1, psychic 1**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Corruption 1, psychic 1**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |             **0**<br/> Might              | **+2**<br/> Agility |  **0**<br/> Reason  |  **+1**<br/> Intuition  |  **0**<br/> Presence   |
 
 <!-- -->
@@ -478,7 +478,7 @@ At the start of any human's turn, you can spend Malice to activate one of the fo
 |              Human, Humanoid              |          -          |       Level 1       |         Leader          |         EV 12          |
 | :---------------------------------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |             **1M**<br/> Size              |  **5**<br/> Speed   | **80**<br/> Stamina |  **2**<br/> Stability   | **4**<br/> Free Strike |
-| **Corruption 2, psychic 2**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Corruption 2, psychic 2**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |             **+3**<br/> Might             | **+2**<br/> Agility | **+2**<br/> Reason  |  **0**<br/> Intuition   |  **+2**<br/> Presence  |
 
 <!-- -->
@@ -488,7 +488,7 @@ At the start of any human's turn, you can spend Malice to activate one of the fo
 > | ---------------- | ----------------------------: |
 > | **📏 1 burst**   | **🎯 Each enemy in the area** |
 >
-> **Power Roll + 2:**
+> **Power Roll + 3:**
 >
 > - **≤11:** 3 damage; M < 1 slowed (save ends)
 > - **12-16:** 6 damage; M < 2 slowed (save ends)
@@ -515,7 +515,7 @@ At the start of any human's turn, you can spend Malice to activate one of the fo
 <!-- -->
 > ⭐️ **Supernatural Insight**
 >
-> The blackguard ignores concealment if it's granted by a supernatural effect
+> The blackguard ignores concealment if it's granted by a supernatural effect.
 
 <!-- -->
 > ❗️ **Parry!**
@@ -553,14 +553,14 @@ At the start of any human's turn, you can spend Malice to activate one of the fo
 > | ------------------------------- | ----------------------------: |
 > | **📏 3 cube within 5**          | **🎯 Each enemy in the area** |
 >
-> **Effect:** The blackguard uses their Zweihander Swing against each target. Each ally within 5 squares of the area can then make a free strike against a target (one target per ally)
+> **Effect:** The blackguard uses their Zweihander Swing against each target. Each ally within 5 squares of the area can then make a free strike against a target (one target per ally).
 
 ###### Human Bandit Chief
 
 |              Human, Humanoid              |          -          |       Level 3        |         Leader          |         EV 20          |
 | :---------------------------------------: | :-----------------: | :------------------: | :---------------------: | :--------------------: |
 |             **1M**<br/> Size              |  **5**<br/> Speed   | **120**<br/> Stamina |  **2**<br/> Stability   | **5**<br/> Free Strike |
-| **Corruption 4, psychic 4**<br/> Immunity | **-**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Corruption 4, psychic 4**<br/> Immunity | **-**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |             **+2**<br/> Might             | **+3**<br/> Agility |  **+2**<br/> Reason  |  **+3**<br/> Intuition  |  **+2**<br/> Presence  |
 
 <!-- -->
@@ -570,7 +570,7 @@ At the start of any human's turn, you can spend Malice to activate one of the fo
 > | -------------------------------- | ----------------------------: |
 > | **📏 Melee 2**                   | **🎯 Two enemies or objects** |
 >
-> **Power Roll + 2:**
+> **Power Roll + 3:**
 >
 > - **≤11:** 8 damage; pull 1
 > - **12-16:** 12 damage; pull 2
@@ -586,6 +586,8 @@ At the start of any human's turn, you can spend Malice to activate one of the fo
 > | **Melee**      |     **Maneuver** |
 > | -------------- | ---------------: |
 > | **📏 Melee 1** | **🎯 One enemy** |
+>
+> **Power Roll + 3:**
 >
 > - **≤11:** Push 1; M < 1 prone
 > - **12-16:** Push 2; M < 2 prone
@@ -612,7 +614,7 @@ At the start of any human's turn, you can spend Malice to activate one of the fo
 <!-- -->
 > ⭐️ **Supernatural Insight**
 >
-> The bandit chief ignores concealment if it's granted by a supernatural effect
+> The bandit chief ignores concealment if it's granted by a supernatural effect.
 
 <!-- -->
 > ☠️ **Shoot! (Villain Action 1)**
@@ -646,7 +648,7 @@ At the start of any human's turn, you can spend Malice to activate one of the fo
 |    Animal, Human    |           -           |       Level 1       |      Platoon Mount      |          EV 6          |
 | :-----------------: | :-------------------: | :-----------------: | :---------------------: | :--------------------: |
 |   **2**<br/> Size   |   **5**<br/> Speed    | **30**<br/> Stamina |  **0**<br/> Stability   | **3**<br/> Free Strike |
-| **-**<br/> Immunity | **Fly**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **Fly**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |  **+2**<br/> Might  |  **+2**<br/> Agility  | **-3**<br/> Reason  |  **+1**<br/> Intuition  |  **-2**<br/> Presence  |
 
 <!-- -->

@@ -18,13 +18,13 @@ Edacity. The hyena-faced gnolls know only blood and hunger. These fiends carry w
 
 #### Born From Blood
 
-The Abyssal Waste is an alien landscape hostile to most life. Yet amid its desolation, fiendish creatures thrive, including abyssal hyenas-bloodthirsty scavengers who fight with other lesser fiends over the corpses of demons. The first gnolls arose when a pack of those predators lapped at the ichor oozing from the wounds of a dying demon prince, As'sylrak the Warper.
+The Abyssal Waste is an alien landscape hostile to most life. Yet amid its desolation, fiendish creatures thrive, including abyssal hyenas—bloodthirsty scavengers who fight with other lesser fiends over the corpses of demons. The first gnolls arose when a pack of those predators lapped at the ichor oozing from the wounds of a dying demon prince, As'sylrak the Warper.
 
 As his last act, the demon gave the fiendish hyenas a demonic cunning to match their insatiable hunger, bound his evil will to theirs, and turned their paws into hands so they could wield weapons. He called these new fiends "gnoll," an Abyssal word that has many meanings, one of which is "to consume completely." And true to their name, the gnolls immediately devoured their creator.
 
 #### Ceaseless Hunger
 
-The merciless gnolls quickly spread across the timescape in search of new victims to quench their never-ending hunger. Their packs were originally followed by some of the abyssal hyenas who didn't receive As'sylrak's blessing, with those tagalongs enjoying the castoffs of the gnoll packs. Gnolls never forgot the day when they tasted immortal flesh-and they hunger for more, longing for a day when they hunt the gods themselves through heavenly halls.
+The merciless gnolls quickly spread across the timescape in search of new victims to quench their never-ending hunger. Their packs were originally followed by some of the abyssal hyenas who didn't receive As'sylrak's blessing, with those tagalongs enjoying the castoffs of the gnoll packs. Gnolls never forgot the day when they tasted immortal flesh—and they hunger for more, longing for a day when they hunt the gods themselves through heavenly halls.
 
 #### Gnoll War
 
@@ -36,7 +36,7 @@ Stronger and smarter than their beastly counterparts, abyssal hyenas crawl out o
 
 #### Tusker Demons
 
-Towering among the gnolls of a war band, the elephantine tusker demon serves as beast of burden and war machine. Tusker demons have no facial features except a twisted crown of tusks that surrounds their ravening maw. Although they usually follow gnoll commands, tuskers in lethe (see the Demons section) are prone to violent outbursts and charge at anything that moves-enemies and allies alike.
+Towering among the gnolls of a war band, the elephantine tusker demon serves as beast of burden and war machine. Tusker demons have no facial features except a twisted crown of tusks that surrounds their ravening maw. Although they usually follow gnoll commands, tuskers in lethe (see the [Demons](#demons) section) are prone to violent outbursts and charge at anything that moves—enemies and allies alike.
 
 #### Gnoll Languages
 
@@ -80,7 +80,7 @@ At the start of any gnoll's turn, you can spend Malice to activate one of the fo
 | Abyssal, Animal, Gnoll |          -          |      Level 2       |              Minion Brute               | EV 4 for four minions  |
 | :--------------------: | :-----------------: | :----------------: | :-------------------------------------: | :--------------------: |
 |    **1M**<br/> Size    |  **8**<br/> Speed   | **7**<br/> Stamina |          **1**<br/> Stability           | **3**<br/> Free Strike |
-|  **-**<br/> Immunity   | **-**<br/> Movement |         -          | **+2 bonus to speed**<br/> With Captain | **-**<br/> Weaknesses  |
+|  **-**<br/> Immunity   | **-**<br/> Movement |         -          | **+2 bonus to speed**<br/> With Captain |  **-**<br/> Weakness   |
 |   **+2**<br/> Might    | **+1**<br/> Agility | **-3**<br/> Reason |          **0**<br/> Intuition           |  **-2**<br/> Presence  |
 
 <!-- -->
@@ -101,12 +101,12 @@ At the start of any gnoll's turn, you can spend Malice to activate one of the fo
 >
 > When the abyssal hyena is reduced to 0 Stamina, they can make a melee free strike before dying.
 
-###### Gnoll Chainflai
+###### Gnoll Chainflail
 
 |   Abyssal, Gnoll    |          -          |      Level 2       |                 Minion Artillery                 | EV 4 for four minions  |
 | :-----------------: | :-----------------: | :----------------: | :----------------------------------------------: | :--------------------: |
 |  **1M**<br/> Size   |  **5**<br/> Speed   | **4**<br/> Stamina |               **1**<br/> Stability               | **3**<br/> Free Strike |
-| **-**<br/> Immunity | **-**<br/> Movement |         -          | **+1 damage bonus to strikes**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **-**<br/> Movement |         -          | **+1 damage bonus to strikes**<br/> With Captain |  **-**<br/> Weakness   |
 |  **+2**<br/> Might  | **0**<br/> Agility  | **+1**<br/> Reason |               **0**<br/> Intuition               |  **-2**<br/> Presence  |
 
 <!-- -->
@@ -132,7 +132,7 @@ At the start of any gnoll's turn, you can spend Malice to activate one of the fo
 |   Abyssal, Gnoll    |          -          |      Level 2       |                   Minion Hexer                   | EV 4 for four minions  |
 | :-----------------: | :-----------------: | :----------------: | :----------------------------------------------: | :--------------------: |
 |  **1M**<br/> Size   |  **5**<br/> Speed   | **4**<br/> Stamina |               **1**<br/> Stability               | **2**<br/> Free Strike |
-| **-**<br/> Immunity | **-**<br/> Movement |         -          | **+2 bonus to melee distance**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **-**<br/> Movement |         -          | **+2 bonus to melee distance**<br/> With Captain |  **-**<br/> Weakness   |
 |  **+2**<br/> Might  | **+1**<br/> Agility | **-1**<br/> Reason |               **0**<br/> Intuition               |  **0**<br/> Presence   |
 
 <!-- -->
@@ -160,7 +160,7 @@ At the start of any gnoll's turn, you can spend Malice to activate one of the fo
 |   Abyssal, Gnoll    |          -          |      Level 2       |                Minion Harrier                 | EV 4 for four minions  |
 | :-----------------: | :-----------------: | :----------------: | :-------------------------------------------: | :--------------------: |
 |  **1M**<br/> Size   |  **7**<br/> Speed   | **5**<br/> Stamina |             **1**<br/> Stability              | **2**<br/> Free Strike |
-| **-**<br/> Immunity | **-**<br/> Movement |         -          | **Gain an edge on strikes**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **-**<br/> Movement |         -          | **Gain an edge on strikes**<br/> With Captain |  **-**<br/> Weakness   |
 |  **+1**<br/> Might  | **+2**<br/> Agility | **+0**<br/> Reason |             **+0**<br/> Intuition             |  **-2**<br/> Presence  |
 
 <!-- -->
@@ -186,7 +186,7 @@ At the start of any gnoll's turn, you can spend Malice to activate one of the fo
 |   Abyssal, Gnoll    |          -          |       Level 2       |     Horde Artillery     |          EV 4          |
 | :-----------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |  **1M**<br/> Size   |  **5**<br/> Speed   | **15**<br/> Stamina |  **1**<br/> Stability   | **3**<br/> Free Strike |
-| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |  **0**<br/> Might   | **+2**<br/> Agility | **+1**<br/> Reason  |  **0**<br/> Intuition   |  **-1**<br/> Presence  |
 
 <!-- -->
@@ -228,7 +228,7 @@ At the start of any gnoll's turn, you can spend Malice to activate one of the fo
 |   Abyssal, Gnoll    |          -          |       Level 2       |      Horde Support      |          EV 4          |
 | :-----------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |  **1M**<br/> Size   |  **5**<br/> Speed   | **20**<br/> Stamina |  **1**<br/> Stability   | **2**<br/> Free Strike |
-| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |  **+1**<br/> Might  | **0**<br/> Agility  |  **0**<br/> Reason  |  **+2**<br/> Intuition  |  **+2**<br/> Presence  |
 
 <!-- -->
@@ -274,7 +274,7 @@ At the start of any gnoll's turn, you can spend Malice to activate one of the fo
 |   Abyssal, Gnoll    |          -          |       Level 2       |       Horde Brute       |          EV 4          |
 | :-----------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |  **1L**<br/> Size   |  **5**<br/> Speed   | **25**<br/> Stamina |  **1**<br/> Stability   | **3**<br/> Free Strike |
-| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |  **+2**<br/> Might  | **+1**<br/> Agility |  **0**<br/> Reason  |  **0**<br/> Intuition   |  **+1**<br/> Presence  |
 
 <!-- -->
@@ -311,7 +311,7 @@ At the start of any gnoll's turn, you can spend Malice to activate one of the fo
 |   Abyssal, Gnoll    |          -          |       Level 2       |       Horde Hexer       |          EV 4          |
 | :-----------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |  **1S**<br/> Size   |  **5**<br/> Speed   | **15**<br/> Stamina |  **1**<br/> Stability   | **2**<br/> Free Strike |
-| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |  **0**<br/> Might   | **0**<br/> Agility  | **+2**<br/> Reason  |  **+2**<br/> Intuition  |  **+2**<br/> Presence  |
 
 <!-- -->
@@ -352,7 +352,7 @@ At the start of any gnoll's turn, you can spend Malice to activate one of the fo
 |   Abyssal, Gnoll    |          -          |       Level 2       |      Horde Harrier      |          EV 4          |
 | :-----------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |  **1M**<br/> Size   |  **7**<br/> Speed   | **20**<br/> Stamina |  **1**<br/> Stability   | **2**<br/> Free Strike |
-| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |  **+1**<br/> Might  | **+1**<br/> Agility |  **0**<br/> Reason  |  **0**<br/> Intuition   |  **+1**<br/> Presence  |
 
 <!-- -->
@@ -389,7 +389,7 @@ At the start of any gnoll's turn, you can spend Malice to activate one of the fo
 | Abyssal, Demon, Gnoll |          -          |       Level 2        |       Elite Brute       |         EV 16          |
 | :-------------------: | :-----------------: | :------------------: | :---------------------: | :--------------------: |
 |    **3**<br/> Size    |  **7**<br/> Speed   | **100**<br/> Stamina |  **3**<br/> Stability   | **5**<br/> Free Strike |
-|  **-**<br/> Immunity  | **-**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+|  **-**<br/> Immunity  | **-**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |   **+2**<br/> Might   | **-1**<br/> Agility |  **-3**<br/> Reason  |  **0**<br/> Intuition   |  **-1**<br/> Presence  |
 
 <!-- -->
@@ -426,14 +426,14 @@ At the start of any gnoll's turn, you can spend Malice to activate one of the fo
 <!-- -->
 > ⭐️ **Lethe**
 >
-> While the tusker demon is winded, they gain an edge on strikes, and any strike made against them gains an edge
+> While the tusker demon is winded, they gain an edge on strikes, and any strike made against them gains an edge.
 
 ###### Gnoll Carnage
 
 |   Abyssal, Gnoll    |          -          |       Level 2        |         Leader          |         EV 16          |
 | :-----------------: | :-----------------: | :------------------: | :---------------------: | :--------------------: |
 |  **1M**<br/> Size   |  **5**<br/> Speed   | **100**<br/> Stamina |  **1**<br/> Stability   | **5**<br/> Free Strike |
-| **-**<br/> Immunity | **-**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **-**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |  **+3**<br/> Might  | **+3**<br/> Agility |  **0**<br/> Reason   |  **0**<br/> Intuition   |  **+3**<br/> Presence  |
 
 <!-- -->

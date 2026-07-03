@@ -9,7 +9,7 @@ file_dpath: Monsters/Hag/Statblocks
 free_strike: 6
 intuition: 3
 item_id: wode-hag
-item_index: '295'
+item_index: '01'
 item_name: Wode Hag
 level: 3
 might: 2
@@ -18,15 +18,15 @@ reason: 1
 roles:
   - Solo
 scc:
-  - mcdm.monsters.v1:monster:wode-hag
+  - mcdm.monsters.v1:monster.hag.statblock:wode-hag
 scdc:
-  - 1.1.1:2:295
+  - 1.1.1:2.38.1:01
 size: 1L
 source: mcdm.monsters.v1
 speed: 5
 stability: 1
 stamina: '300'
-type: monster
+type: monster/hag/statblock
 ---
 
 ###### Wode Hag
@@ -34,7 +34,7 @@ type: monster
 |      Fey, Hag       |              -               |       Level 3        |          Solo           |         EV 60          |
 | :-----------------: | :--------------------------: | :------------------: | :---------------------: | :--------------------: |
 |  **1L**<br/> Size   |       **5**<br/> Speed       | **300**<br/> Stamina |  **1**<br/> Stability   | **6**<br/> Free Strike |
-| **-**<br/> Immunity | **Fly, hover**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **Fly, hover**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |  **+2**<br/> Might  |     **+1**<br/> Agility      |  **+1**<br/> Reason  |  **+3**<br/> Intuition  |  **+3**<br/> Presence  |
 
 <!-- -->
@@ -135,7 +135,7 @@ type: monster
 > | ---------------- | ----------------------------: |
 > | **📏 1 burst**   | **🎯 Each enemy in the area** |
 >
-> **Effect:** Before using this villain action, the hag shifts up to their speed. They then use Corrosive Claws against each target, push each target up to 2 squares, and shift up to their speed again
+> **Effect:** Before using this villain action, the hag shifts up to their speed. They then use Corrosive Claws against each target, push each target up to 2 squares, and shift up to their speed again.
 
 <!-- -->
 > ☠️ **Open the Oven (Villain Action 3)**

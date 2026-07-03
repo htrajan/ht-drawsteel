@@ -9,7 +9,7 @@ file_dpath: Monsters/Goblins/Statblocks
 free_strike: 4
 intuition: 0
 item_id: goblin-monarch
-item_index: '309'
+item_index: '06'
 item_name: Goblin Monarch
 level: 1
 might: 0
@@ -18,15 +18,15 @@ reason: 1
 roles:
   - Leader
 scc:
-  - mcdm.monsters.v1:monster:goblin-monarch
+  - mcdm.monsters.v1:monster.goblins.statblock:goblin-monarch
 scdc:
-  - 1.1.1:2:309
+  - 1.1.1:2.40.1:06
 size: 1S
 source: mcdm.monsters.v1
 speed: 6
 stability: 1
 stamina: '80'
-type: monster
+type: monster/goblins/statblock
 ---
 
 ###### Goblin Monarch
@@ -34,7 +34,7 @@ type: monster
 |  Goblin, Humanoid   |            -            |       Level 1       |         Leader          |         EV 12          |
 | :-----------------: | :---------------------: | :-----------------: | :---------------------: | :--------------------: |
 |  **1S**<br/> Size   |    **6**<br/> Speed     | **80**<br/> Stamina |  **1**<br/> Stability   | **4**<br/> Free Strike |
-| **-**<br/> Immunity | **Climb**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **Climb**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |  **0**<br/> Might   |   **+3**<br/> Agility   | **+1**<br/> Reason  |  **0**<br/> Intuition   |  **+3**<br/> Presence  |
 
 <!-- -->
@@ -70,7 +70,7 @@ type: monster
 >
 > **Trigger:** A creature targets the monarch with a strike.
 >
-> **Effect:** The ally is the target of the triggering strike instead
+> **Effect:** The ally is the target of the triggering strike instead.
 
 <!-- -->
 > ⭐️ **Crafty**

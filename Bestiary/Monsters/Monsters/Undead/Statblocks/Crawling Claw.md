@@ -9,7 +9,7 @@ file_dpath: Monsters/Undead/Statblocks
 free_strike: 1
 intuition: -1
 item_id: crawling-claw
-item_index: '75'
+item_index: '23'
 item_name: Crawling Claw
 level: 1
 might: 0
@@ -18,15 +18,15 @@ reason: -5
 roles:
   - Minion Harrier
 scc:
-  - mcdm.monsters.v1:monster:crawling-claw
+  - mcdm.monsters.v1:monster.undead.statblock:crawling-claw
 scdc:
-  - 1.1.1:2:75
+  - 1.1.1:2.8.1:23
 size: 1T
 source: mcdm.monsters.v1
 speed: 6
 stability: 0
 stamina: '4'
-type: monster
+type: monster/undead/statblock
 ---
 
 ###### Crawling Claw
@@ -34,7 +34,7 @@ type: monster
 |             Undead, Soulless             |            -            |      Level 1       |             Minion Harrier              | EV 3 for four minions  |
 | :--------------------------------------: | :---------------------: | :----------------: | :-------------------------------------: | :--------------------: |
 |             **1T**<br/> Size             |    **6**<br/> Speed     | **4**<br/> Stamina |          **0**<br/> Stability           | **1**<br/> Free Strike |
-| **Corruption 1, poison 1**<br/> Immunity | **Climb**<br/> Movement |         -          | **+2 bonus to speed**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Corruption 1, poison 1**<br/> Immunity | **Climb**<br/> Movement |         -          | **+2 bonus to speed**<br/> With Captain |  **-**<br/> Weakness   |
 |             **0**<br/> Might             |   **+2**<br/> Agility   | **-5**<br/> Reason |          **-1**<br/> Intuition          |  **-1**<br/> Presence  |
 
 <!-- -->
@@ -55,4 +55,4 @@ type: monster
 <!-- -->
 > ⭐️ **Disorganized**
 >
-> Allies can't flank with the crawling cla.
+> Allies can't flank with the crawling claw.

@@ -10,7 +10,7 @@ file_dpath: Monsters/Draconians/Statblocks
 free_strike: 7
 intuition: 3
 item_id: aeolyxria-the-uncanny
-item_index: '104'
+item_index: '04'
 item_name: Aeolyxria the Uncanny
 level: 6
 might: -1
@@ -19,15 +19,15 @@ reason: 2
 roles:
   - Elite Controller
 scc:
-  - mcdm.monsters.v1:monster:aeolyxria-the-uncanny
+  - mcdm.monsters.v1:monster.draconians.statblock:aeolyxria-the-uncanny
 scdc:
-  - 1.1.1:2:104
+  - 1.1.1:2.11.1:04
 size: 1M
 source: mcdm.monsters.v1
 speed: 5
 stability: 2
 stamina: '140'
-type: monster
+type: monster/draconians/statblock
 ---
 
 ###### Aeolyxria the Uncanny
@@ -35,7 +35,7 @@ type: monster
 | Draconian, Dragon, Humanoid |           -           |       Level 6        |    Elite Controller     |         EV 32          |
 | :-------------------------: | :-------------------: | :------------------: | :---------------------: | :--------------------: |
 |      **1M**<br/> Size       |   **5**<br/> Speed    | **140**<br/> Stamina |  **2**<br/> Stability   | **7**<br/> Free Strike |
-| **Poison 6**<br/> Immunity  | **Fly**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Poison 6**<br/> Immunity  | **Fly**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |      **-1**<br/> Might      |  **+2**<br/> Agility  |  **+2**<br/> Reason  |  **+3**<br/> Intuition  |  **+1**<br/> Presence  |
 
 <!-- -->
@@ -54,9 +54,9 @@ type: monster
 <!-- -->
 > 🏹 **Experimental Treasure**
 >
-> | **Magic, Ranged, Strike** |                **Main action** |
-> | ------------------------- | -----------------------------: |
-> | **📏 Ranged 10**          | **🎯 Two creature or objects** |
+> | **Magic, Ranged, Strike** |                 **Main action** |
+> | ------------------------- | ------------------------------: |
+> | **📏 Ranged 10**          | **🎯 Two creatures or objects** |
 >
 > **Power Roll + 3:**
 >

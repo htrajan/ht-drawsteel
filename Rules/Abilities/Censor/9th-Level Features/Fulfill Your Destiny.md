@@ -7,7 +7,7 @@ cost_resource: Wrath
 distance: Ranged 10
 feature_type: ability
 file_basename: Fulfill Your Destiny
-file_dpath: Censor/9th-Level Features
+file_dpath: Abilities/Censor/9th-Level Features
 flavor: You have looked at various futures, and only this one works.
 item_id: fulfill-your-destiny-11-wrath
 item_index: '02'
@@ -19,8 +19,9 @@ level: 9
 scc:
   - mcdm.heroes.v1:feature.ability.censor.9th-level-feature:fulfill-your-destiny-11-wrath
 scdc:
-  - 1.1.1:13.2.7.7:02
+  - 1.1.1:11.2.7.7:02
 source: mcdm.heroes.v1
+subclass: Oracle
 target: One ally
 type: feature/ability/censor/9th-level-feature
 ---

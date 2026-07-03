@@ -10,7 +10,7 @@ file_dpath: Monsters/War Dogs/Statblocks
 free_strike: 1
 intuition: 0
 item_id: war-dog-eviscerite
-item_index: '354'
+item_index: '04'
 item_name: War Dog Eviscerite
 level: 1
 might: 1
@@ -19,15 +19,15 @@ reason: 0
 roles:
   - Horde Harrier
 scc:
-  - mcdm.monsters.v1:monster:war-dog-eviscerite
+  - mcdm.monsters.v1:monster.war-dogs.statblock:war-dog-eviscerite
 scdc:
-  - 1.1.1:2:354
+  - 1.1.1:2.51.1:04
 size: 1M
 source: mcdm.monsters.v1
 speed: 7
 stability: 0
 stamina: '15'
-type: monster
+type: monster/war-dogs/statblock
 ---
 
 ###### War Dog Eviscerite
@@ -35,15 +35,15 @@ type: monster
 | Humanoid, Soulless, War Dog |          -          |       Level 1       |      Horde Harrier      |          EV 3          |
 | :-------------------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |      **1M**<br/> Size       |  **7**<br/> Speed   | **15**<br/> Stamina |  **0**<br/> Stability   | **1**<br/> Free Strike |
-|     **-**<br/> Immunity     | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+|     **-**<br/> Immunity     | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |      **+1**<br/> Might      | **+2**<br/> Agility |  **0**<br/> Reason  |  **0**<br/> Intuition   |  **0**<br/> Presence   |
 
 <!-- -->
 > 🗡 **Chainsaw Whip (Signature Ability)**
 >
-> | **Melee, Strike, Weapon** |                **Main action** |
-> | ------------------------- | -----------------------------: |
-> | **📏 Melee 3**            | **🎯 One creature and object** |
+> | **Melee, Strike, Weapon** |               **Main action** |
+> | ------------------------- | ----------------------------: |
+> | **📏 Melee 3**            | **🎯 One creature or object** |
 >
 > **Power Roll + 2:**
 >

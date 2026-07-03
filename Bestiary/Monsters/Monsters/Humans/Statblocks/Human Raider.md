@@ -9,7 +9,7 @@ file_dpath: Monsters/Humans/Statblocks
 free_strike: 1
 intuition: 0
 item_id: human-raider
-item_index: '159'
+item_index: '03'
 item_name: Human Raider
 level: 1
 might: 0
@@ -18,15 +18,15 @@ reason: 0
 roles:
   - Minion Harrier
 scc:
-  - mcdm.monsters.v1:monster:human-raider
+  - mcdm.monsters.v1:monster.humans.statblock:human-raider
 scdc:
-  - 1.1.1:2:159
+  - 1.1.1:2.20.1:03
 size: 1M
 source: mcdm.monsters.v1
 speed: 7
 stability: 0
 stamina: '4'
-type: monster
+type: monster/humans/statblock
 ---
 
 ###### Human Raider
@@ -34,7 +34,7 @@ type: monster
 |              Human, Humanoid              |          -          |      Level 1       |                Minion Harrier                 | EV 3 for four minions  |
 | :---------------------------------------: | :-----------------: | :----------------: | :-------------------------------------------: | :--------------------: |
 |             **1M**<br/> Size              |  **7**<br/> Speed   | **4**<br/> Stamina |             **0**<br/> Stability              | **1**<br/> Free Strike |
-| **Corruption 1, psychic 1**<br/> Immunity | **-**<br/> Movement |         -          | **Gain an edge on strikes**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Corruption 1, psychic 1**<br/> Immunity | **-**<br/> Movement |         -          | **Gain an edge on strikes**<br/> With Captain |  **-**<br/> Weakness   |
 |             **0**<br/> Might              | **+2**<br/> Agility | **0**<br/> Reason  |             **0**<br/> Intuition              |  **0**<br/> Presence   |
 
 <!-- -->

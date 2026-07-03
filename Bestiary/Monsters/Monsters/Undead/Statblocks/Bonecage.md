@@ -9,7 +9,7 @@ file_dpath: Monsters/Undead/Statblocks
 free_strike: 4
 intuition: 3
 item_id: bonecage
-item_index: '55'
+item_index: '03'
 item_name: Bonecage
 level: 10
 might: 5
@@ -18,15 +18,15 @@ reason: -2
 roles:
   - Horde Controller
 scc:
-  - mcdm.monsters.v1:monster:bonecage
+  - mcdm.monsters.v1:monster.undead.statblock:bonecage
 scdc:
-  - 1.1.1:2:55
+  - 1.1.1:2.8.1:03
 size: '3'
 source: mcdm.monsters.v1
 speed: 6
 stability: 5
 stamina: '55'
-type: monster
+type: monster/undead/statblock
 ---
 
 ###### Bonecage
@@ -34,7 +34,7 @@ type: monster
 |              Undead, Soulless              |            -            |      Level 10       |    Horde Controller     |         EV 12          |
 | :----------------------------------------: | :---------------------: | :-----------------: | :---------------------: | :--------------------: |
 |              **3**<br/> Size               |    **6**<br/> Speed     | **55**<br/> Stamina |  **5**<br/> Stability   | **4**<br/> Free Strike |
-| **Corruption 10, poison 10**<br/> Immunity | **Climb**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Corruption 10, poison 10**<br/> Immunity | **Climb**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |             **+5**<br/> Might              |   **-2**<br/> Agility   | **-2**<br/> Reason  |  **+3**<br/> Intuition  |  **-1**<br/> Presence  |
 
 <!-- -->

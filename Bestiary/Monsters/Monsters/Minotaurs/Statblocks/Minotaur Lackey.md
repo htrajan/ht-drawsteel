@@ -10,7 +10,7 @@ file_dpath: Monsters/Minotaurs/Statblocks
 free_strike: 3
 intuition: 1
 item_id: minotaur-lackey
-item_index: '172'
+item_index: '01'
 item_name: Minotaur Lackey
 level: 8
 might: 3
@@ -19,15 +19,15 @@ reason: 0
 roles:
   - Minion Harrier
 scc:
-  - mcdm.monsters.v1:monster:minotaur-lackey
+  - mcdm.monsters.v1:monster.minotaurs.statblock:minotaur-lackey
 scdc:
-  - 1.1.1:2:172
+  - 1.1.1:2.21.1:01
 size: '2'
 source: mcdm.monsters.v1
 speed: 8
 stability: 2
 stamina: '13'
-type: monster
+type: monster/minotaurs/statblock
 ---
 
 ###### Minotaur Lackey
@@ -35,7 +35,7 @@ type: monster
 | Accursed, Humanoid, Minotaur |          -          |       Level 8       |             Minion Harrier              | EV 10 for four minions |
 | :--------------------------: | :-----------------: | :-----------------: | :-------------------------------------: | :--------------------: |
 |       **2**<br/> Size        |  **8**<br/> Speed   | **13**<br/> Stamina |          **2**<br/> Stability           | **3**<br/> Free Strike |
-|     **-**<br/> Immunity      | **-**<br/> Movement |          -          | **+2 bonus to speed**<br/> With Captain | **-**<br/> Weaknesses  |
+|     **-**<br/> Immunity      | **-**<br/> Movement |          -          | **+2 bonus to speed**<br/> With Captain |  **-**<br/> Weakness   |
 |      **+3**<br/> Might       | **+4**<br/> Agility |  **0**<br/> Reason  |          **+1**<br/> Intuition          |  **-1**<br/> Presence  |
 
 <!-- -->

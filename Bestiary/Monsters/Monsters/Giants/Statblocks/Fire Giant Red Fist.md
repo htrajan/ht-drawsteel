@@ -9,7 +9,7 @@ file_dpath: Monsters/Giants/Statblocks
 free_strike: 10
 intuition: 2
 item_id: fire-giant-red-fist
-item_index: '198'
+item_index: '07'
 item_name: Fire Giant Red Fist
 level: 9
 might: 4
@@ -18,15 +18,15 @@ reason: 0
 roles:
   - Elite Brute
 scc:
-  - mcdm.monsters.v1:monster:fire-giant-red-fist
+  - mcdm.monsters.v1:monster.giants.statblock:fire-giant-red-fist
 scdc:
-  - 1.1.1:2:198
+  - 1.1.1:2.23.1:07
 size: '4'
 source: mcdm.monsters.v1
 speed: 8
 stability: 5
 stamina: '240'
-type: monster
+type: monster/giants/statblock
 ---
 
 ###### Fire Giant Red Fist
@@ -34,7 +34,7 @@ type: monster
 |    Fire Giant, Giant     |          -          |       Level 9        |       Elite Brute       |          EV 44          |
 | :----------------------: | :-----------------: | :------------------: | :---------------------: | :---------------------: |
 |     **4**<br/> Size      |  **8**<br/> Speed   | **240**<br/> Stamina |  **5**<br/> Stability   | **10**<br/> Free Strike |
-| **Fire 9**<br/> Immunity | **-**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weaknesses  |
+| **Fire 9**<br/> Immunity | **-**<br/> Movement |          -           | **-**<br/> With Captain |   **-**<br/> Weakness   |
 |    **+4**<br/> Might     | **+2**<br/> Agility |  **0**<br/> Reason   |  **+2**<br/> Intuition  |  **+1**<br/> Presence   |
 
 <!-- -->
@@ -46,7 +46,7 @@ type: monster
 >
 > **Power Roll + 4:**
 >
-> - **≤11:** 14 fire damage; push
+> - **≤11:** 14 fire damage; push 2
 > - **12-16:** 19 fire damage; push 4; A < 3 burning (save ends)
 > - **17+:** 23 fire damage; push 6; A < 4 burning (save ends)
 >

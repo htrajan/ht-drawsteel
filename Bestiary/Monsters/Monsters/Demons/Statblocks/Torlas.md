@@ -9,7 +9,7 @@ file_dpath: Monsters/Demons/Statblocks
 free_strike: 1
 intuition: 0
 item_id: torlas
-item_index: '286'
+item_index: '33'
 item_name: Torlas
 level: 1
 might: 0
@@ -18,24 +18,24 @@ reason: 0
 roles:
   - Horde Controller
 scc:
-  - mcdm.monsters.v1:monster:torlas
+  - mcdm.monsters.v1:monster.demons.statblock:torlas
 scdc:
-  - 1.1.1:2:286
+  - 1.1.1:2.35.1:33
 size: 1S
 source: mcdm.monsters.v1
 speed: 5
 stability: 0
 stamina: '10'
-type: monster
+type: monster/demons/statblock
 ---
 
 ###### Torlas
 
-|   Abyssal, Demon    |          -          |       Level 1       |    Horde Controller     |            EV 3            |
-| :-----------------: | :-----------------: | :-----------------: | :---------------------: | :------------------------: |
-|  **1S**<br/> Size   |  **5**<br/> Speed   | **10**<br/> Stamina |  **0**<br/> Stability   |   **1**<br/> Free Strike   |
-| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **Holy 3**<br/> Weaknesses |
-|  **+0**<br/> Might  | **+1**<br/> Agility | **+0**<br/> Reason  |  **+0**<br/> Intuition  |    **+2**<br/> Presence    |
+|   Abyssal, Demon    |          -          |       Level 1       |    Horde Controller     |           EV 3           |
+| :-----------------: | :-----------------: | :-----------------: | :---------------------: | :----------------------: |
+|  **1S**<br/> Size   |  **5**<br/> Speed   | **10**<br/> Stamina |  **0**<br/> Stability   |  **1**<br/> Free Strike  |
+| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **Holy 3**<br/> Weakness |
+|  **+0**<br/> Might  | **+1**<br/> Agility | **+0**<br/> Reason  |  **+0**<br/> Intuition  |   **+2**<br/> Presence   |
 
 <!-- -->
 > 🔳 **Floor to Flesh (Signature Ability)**

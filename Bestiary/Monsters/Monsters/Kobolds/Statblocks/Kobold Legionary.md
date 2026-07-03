@@ -9,7 +9,7 @@ file_dpath: Monsters/Kobolds/Statblocks
 free_strike: 1
 intuition: 0
 item_id: kobold-legionary
-item_index: '98'
+item_index: '10'
 item_name: Kobold Legionary
 level: 1
 might: 2
@@ -18,15 +18,15 @@ reason: 0
 roles:
   - Horde Defender
 scc:
-  - mcdm.monsters.v1:monster:kobold-legionary
+  - mcdm.monsters.v1:monster.kobolds.statblock:kobold-legionary
 scdc:
-  - 1.1.1:2:98
+  - 1.1.1:2.10.1:10
 size: 1S
 source: mcdm.monsters.v1
 speed: 5
 stability: 0
 stamina: '20'
-type: monster
+type: monster/kobolds/statblock
 ---
 
 ###### Kobold Legionary
@@ -34,7 +34,7 @@ type: monster
 |  Humanoid, Kobold   |          -          |       Level 1       |     Horde Defender      |          EV 3          |
 | :-----------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |  **1S**<br/> Size   |  **5**<br/> Speed   | **20**<br/> Stamina |  **0**<br/> Stability   | **1**<br/> Free Strike |
-| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |  **+2**<br/> Might  | **+1**<br/> Agility |  **0**<br/> Reason  |  **0**<br/> Intuition   |  **0**<br/> Presence   |
 
 <!-- -->
@@ -42,7 +42,7 @@ type: monster
 >
 > | **Melee, Strike, Weapon** |               **Main action** |
 > | ------------------------- | ----------------------------: |
-> | **📏 Melee 5**            | **🎯 One creature or object** |
+> | **📏 Melee 1**            | **🎯 One creature or object** |
 >
 > **Power Roll + 2:**
 >

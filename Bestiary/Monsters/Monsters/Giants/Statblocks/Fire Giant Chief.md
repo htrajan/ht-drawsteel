@@ -9,7 +9,7 @@ file_dpath: Monsters/Giants/Statblocks
 free_strike: 9
 intuition: 2
 item_id: fire-giant-chief
-item_index: '192'
+item_index: '01'
 item_name: Fire Giant Chief
 level: 9
 might: 5
@@ -18,15 +18,15 @@ reason: 0
 roles:
   - Leader
 scc:
-  - mcdm.monsters.v1:monster:fire-giant-chief
+  - mcdm.monsters.v1:monster.giants.statblock:fire-giant-chief
 scdc:
-  - 1.1.1:2:192
+  - 1.1.1:2.23.1:01
 size: '5'
 source: mcdm.monsters.v1
 speed: 10
 stability: 10
 stamina: '240'
-type: monster
+type: monster/giants/statblock
 ---
 
 ###### Fire Giant Chief
@@ -34,7 +34,7 @@ type: monster
 |     Fire Giant, Giant     |          -          |       Level 9        |         Leader          |         EV 44          |
 | :-----------------------: | :-----------------: | :------------------: | :---------------------: | :--------------------: |
 |      **5**<br/> Size      |  **10**<br/> Speed  | **240**<br/> Stamina |  **10**<br/> Stability  | **9**<br/> Free Strike |
-| **Fire 10**<br/> Immunity | **-**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Fire 10**<br/> Immunity | **-**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |     **+5**<br/> Might     | **+3**<br/> Agility |  **0**<br/> Reason   |  **+2**<br/> Intuition  |  **+3**<br/> Presence  |
 
 <!-- -->
@@ -59,9 +59,9 @@ type: monster
 >
 > **Power Roll + 5:**
 >
-> - **≤11:** 14 damage; push 5; A < 3, 9 fire damage
-> - **12-16:** 19 damage; push 10; A < 4, 9 fire damage
-> - **17+:** 23 damage; push 15; A < 5, 9 fire damage
+> - **≤11:** 14 damage; push 5; A < 3 9 fire damage
+> - **12-16:** 19 damage; push 10; A < 4 9 fire damage
+> - **17+:** 23 damage; push 15; A < 5 9 fire damage
 
 <!-- -->
 > 🔳 **Lava Pillar (3 Malice)**
@@ -72,9 +72,9 @@ type: monster
 >
 > **Power Roll + 5:**
 >
-> - **≤11:** 5 fire damage; M < 3, vertical push 3
-> - **12-16:** 7 fire damage; M < 4, vertical push 4
-> - **17+:** 9 fire damage; M < 5, vertical push 5
+> - **≤11:** 5 fire damage; M < 3 vertical push 3
+> - **12-16:** 7 fire damage; M < 4 vertical push 4
+> - **17+:** 9 fire damage; M < 5 vertical push 5
 
 <!-- -->
 > ❗️ **Fuel the Fire (1 Malice)**
@@ -108,9 +108,9 @@ type: monster
 <!-- -->
 > ☠️ **All to Cinders (Villain Action 3)**
 >
-> | **Area**        |                                           **-** |
-> | --------------- | ----------------------------------------------: |
-> | **📏 10 burst** | **🎯 Self and each fire giant ally in the are** |
+> | **Area**        |                                            **-** |
+> | --------------- | -----------------------------------------------: |
+> | **📏 10 burst** | **🎯 Self and each fire giant ally in the area** |
 >
 > **Effect:** Each target unleashes a wave of fire, and each enemy within 2 squares of any target makes an Agility test. An enemy affected by two targets takes a bane on the test, while an enemy affected by three or more targets has a double bane.
 >

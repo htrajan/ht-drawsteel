@@ -9,7 +9,7 @@ file_dpath: Monsters/Manticores/Statblocks
 free_strike: 6
 intuition: 0
 item_id: manticore
-item_index: '348'
+item_index: '01'
 item_name: Manticore
 level: 4
 might: 4
@@ -18,24 +18,24 @@ reason: 0
 roles:
   - Solo
 scc:
-  - mcdm.monsters.v1:monster:manticore
+  - mcdm.monsters.v1:monster.manticores.statblock:manticore
 scdc:
-  - 1.1.1:2:348
+  - 1.1.1:2.48.1:01
 size: '2'
 source: mcdm.monsters.v1
-speed: 1
+speed: 10
 stability: 2
-stamina: '0350'
-type: monster
+stamina: '350'
+type: monster/manticores/statblock
 ---
 
 ###### Manticore
 
-|  Beast, Manticore   |           -           |        Level 4        |          Solo           |         EV 72          |
-| :-----------------: | :-------------------: | :-------------------: | :---------------------: | :--------------------: |
-|   **2**<br/> Size   |   **1**<br/> Speed    | **0350**<br/> Stamina |  **2**<br/> Stability   | **6**<br/> Free Strike |
-| **-**<br/> Immunity | **Fly**<br/> Movement |           -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
-|  **+4**<br/> Might  |  **+3**<br/> Agility  |   **0**<br/> Reason   |  **0**<br/> Intuition   |  **-1**<br/> Presence  |
+|  Beast, Manticore   |           -           |       Level 4        |          Solo           |         EV 72          |
+| :-----------------: | :-------------------: | :------------------: | :---------------------: | :--------------------: |
+|   **2**<br/> Size   |   **10**<br/> Speed   | **350**<br/> Stamina |  **2**<br/> Stability   | **6**<br/> Free Strike |
+| **-**<br/> Immunity | **Fly**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
+|  **+4**<br/> Might  |  **+3**<br/> Agility  |  **0**<br/> Reason   |  **0**<br/> Intuition   |  **-1**<br/> Presence  |
 
 <!-- -->
 > ☠️ **Solo Monster**
@@ -77,7 +77,7 @@ type: monster
 > - **12-16:** 11 damage; M < 3 4 poison damage, weakened (save ends)
 > - **17+:** 14 damage; M < 4 8 poison damage, weakened (save ends)
 >
-> **1 Malice:** While weakened this way, a target takes 1d6 poison dam- age at the start of each of their turns.
+> **1 Malice:** While weakened this way, a target takes 1d6 poison damage at the start of each of their turns.
 
 <!-- -->
 > 🗡 **Harrying Claws**
@@ -85,6 +85,8 @@ type: monster
 > | **Melee, Strike, Weapon** |                    **Maneuver** |
 > | ------------------------- | ------------------------------: |
 > | **📏 Melee 1**            | **🎯 Two creatures or objects** |
+>
+> **Power Roll + 4:**
 >
 > - **≤11:** Slide 1; A < 2 3 damage
 > - **12-16:** Slide 2; A < 3 5 damage
@@ -107,6 +109,8 @@ type: monster
 > | **Area, Magic** |                            **-** |
 > | --------------- | -------------------------------: |
 > | **📏 5 burst**  | **🎯 Each creature in the area** |
+>
+> **Power Roll + 4:**
 >
 > - **≤11:** Frightened (EoT); if the target has I < 2 they are instead frightened (save ends)
 > - **12-16:** Frightened (EoT); if the target has I < 3 they are instead frightened (save ends)

@@ -10,7 +10,7 @@ file_dpath: Monsters/War Dogs/Statblocks
 free_strike: 10
 intuition: 4
 item_id: soulbinder-psyche
-item_index: '389'
+item_index: '39'
 item_name: Soulbinder Psyche
 level: 10
 might: 1
@@ -19,15 +19,15 @@ reason: 3
 roles:
   - Elite Hexer
 scc:
-  - mcdm.monsters.v1:monster:soulbinder-psyche
+  - mcdm.monsters.v1:monster.war-dogs.statblock:soulbinder-psyche
 scdc:
-  - 1.1.1:2:389
+  - 1.1.1:2.51.1:39
 size: 1M
 source: mcdm.monsters.v1
 speed: 5
 stability: 1
 stamina: '220'
-type: monster
+type: monster/war-dogs/statblock
 ---
 
 ###### Soulbinder Psyche
@@ -35,7 +35,7 @@ type: monster
 | Humanoid, Soulless, War Dog |              -               |       Level 10       |       Elite Hexer       |          EV 48          |
 | :-------------------------: | :--------------------------: | :------------------: | :---------------------: | :---------------------: |
 |      **1M**<br/> Size       |       **5**<br/> Speed       | **220**<br/> Stamina |  **1**<br/> Stability   | **10**<br/> Free Strike |
-|     **-**<br/> Immunity     | **Fly, hover**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weaknesses  |
+|     **-**<br/> Immunity     | **Fly, hover**<br/> Movement |          -           | **-**<br/> With Captain |   **-**<br/> Weakness   |
 |      **+1**<br/> Might      |     **+3**<br/> Agility      |  **+3**<br/> Reason  |  **+4**<br/> Intuition  |  **+5**<br/> Presence   |
 
 <!-- -->
@@ -66,7 +66,7 @@ type: monster
 > - **12-16:** 12 corruption damage; P < 4 weakened (EoT)
 > - **17+:** 15 corruption damage; P < 5 weakened (EoT)
 >
-> **Effect:** The area is difficult terrain until the start of Psyche's next turn At the start of each of her turns, Psyche can use a maneuver to main- tain this effect, move the area up to 5 squares, and make the power roll against each creature in the area's new location.
+> **Effect:** The area is difficult terrain until the start of Psyche's next turn At the start of each of her turns, Psyche can use a maneuver to maintain this effect, move the area up to 5 squares, and make the power roll against each creature in the area's new location.
 >
 > **1 Malice:** Until the start of Psyche's next turn, if this ability makes a creature weakened, that creature is also soulbound (save ends; see Soulbind above).
 

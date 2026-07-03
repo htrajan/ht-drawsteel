@@ -9,7 +9,7 @@ file_dpath: Monsters/Goblins/Statblocks
 free_strike: 2
 intuition: 0
 item_id: goblin-sniper
-item_index: '315'
+item_index: '12'
 item_name: Goblin Sniper
 level: 1
 might: -2
@@ -18,15 +18,15 @@ reason: 0
 roles:
   - Minion Artillery
 scc:
-  - mcdm.monsters.v1:monster:goblin-sniper
+  - mcdm.monsters.v1:monster.goblins.statblock:goblin-sniper
 scdc:
-  - 1.1.1:2:315
+  - 1.1.1:2.40.1:12
 size: 1S
 source: mcdm.monsters.v1
 speed: 5
 stability: 0
 stamina: '3'
-type: monster
+type: monster/goblins/statblock
 ---
 
 ###### Goblin Sniper
@@ -34,7 +34,7 @@ type: monster
 |  Goblin, Humanoid   |            -            |      Level 1       |                 Minion Artillery                  | EV 3 for four minions  |
 | :-----------------: | :---------------------: | :----------------: | :-----------------------------------------------: | :--------------------: |
 |  **1S**<br/> Size   |    **5**<br/> Speed     | **3**<br/> Stamina |               **0**<br/> Stability                | **2**<br/> Free Strike |
-| **-**<br/> Immunity | **Climb**<br/> Movement |         -          | **+5 bonus to ranged distance**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **Climb**<br/> Movement |         -          | **+5 bonus to ranged distance**<br/> With Captain |  **-**<br/> Weakness   |
 |  **-2**<br/> Might  |   **+2**<br/> Agility   | **0**<br/> Reason  |               **0**<br/> Intuition                |  **-1**<br/> Presence  |
 
 <!-- -->

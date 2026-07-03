@@ -10,7 +10,7 @@ file_dpath: Monsters/War Dogs/Statblocks
 free_strike: 2
 intuition: 0
 item_id: war-dog-pestilite
-item_index: '366'
+item_index: '16'
 item_name: War Dog Pestilite
 level: 3
 might: 0
@@ -19,15 +19,15 @@ reason: 0
 roles:
   - Horde Controller
 scc:
-  - mcdm.monsters.v1:monster:war-dog-pestilite
+  - mcdm.monsters.v1:monster.war-dogs.statblock:war-dog-pestilite
 scdc:
-  - 1.1.1:2:366
+  - 1.1.1:2.51.1:16
 size: 1M
 source: mcdm.monsters.v1
 speed: 5
 stability: 0
 stamina: '20'
-type: monster
+type: monster/war-dogs/statblock
 ---
 
 ###### War Dog Pestilite
@@ -35,7 +35,7 @@ type: monster
 | Humanoid, Soulless, War Dog |          -          |       Level 3       |    Horde Controller     |          EV 5          |
 | :-------------------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |      **1M**<br/> Size       |  **5**<br/> Speed   | **20**<br/> Stamina |  **0**<br/> Stability   | **2**<br/> Free Strike |
-| **Poison 3**<br/> Immunity  | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Poison 3**<br/> Immunity  | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |      **0**<br/> Might       | **+1**<br/> Agility |  **0**<br/> Reason  |  **0**<br/> Intuition   |  **+2**<br/> Presence  |
 
 <!-- -->

@@ -9,7 +9,7 @@ file_dpath: Monsters/Demons/Statblocks
 free_strike: 2
 intuition: 0
 item_id: orliq
-item_index: '274'
+item_index: '21'
 item_name: Orliq
 level: 4
 might: -1
@@ -18,24 +18,24 @@ reason: 1
 roles:
   - Minion Harrier
 scc:
-  - mcdm.monsters.v1:monster:orliq
+  - mcdm.monsters.v1:monster.demons.statblock:orliq
 scdc:
-  - 1.1.1:2:274
+  - 1.1.1:2.35.1:21
 size: 1T
 source: mcdm.monsters.v1
 speed: 6
 stability: 0
 stamina: '8'
-type: monster
+type: monster/demons/statblock
 ---
 
 ###### Orliq
 
-|   Abyssal, Demon    |           -           |      Level 4       |             Minion Harrier              |   EV 6 for four minions    |
-| :-----------------: | :-------------------: | :----------------: | :-------------------------------------: | :------------------------: |
-|  **1T**<br/> Size   |   **6**<br/> Speed    | **8**<br/> Stamina |          **0**<br/> Stability           |   **2**<br/> Free Strike   |
-| **-**<br/> Immunity | **Fly**<br/> Movement |         -          | **+2 bonus to speed**<br/> With Captain | **Holy 5**<br/> Weaknesses |
-|  **-1**<br/> Might  |  **+3**<br/> Agility  | **+1**<br/> Reason |          **+0**<br/> Intuition          |    **-1**<br/> Presence    |
+|   Abyssal, Demon    |           -           |      Level 4       |             Minion Harrier              |  EV 6 for four minions   |
+| :-----------------: | :-------------------: | :----------------: | :-------------------------------------: | :----------------------: |
+|  **1T**<br/> Size   |   **6**<br/> Speed    | **8**<br/> Stamina |          **0**<br/> Stability           |  **2**<br/> Free Strike  |
+| **-**<br/> Immunity | **Fly**<br/> Movement |         -          | **+2 bonus to speed**<br/> With Captain | **Holy 5**<br/> Weakness |
+|  **-1**<br/> Might  |  **+3**<br/> Agility  | **+1**<br/> Reason |          **+0**<br/> Intuition          |   **-1**<br/> Presence   |
 
 <!-- -->
 > 🗡 **Soul Prism (Signature Ability)**

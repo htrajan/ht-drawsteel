@@ -10,7 +10,7 @@ file_dpath: Monsters/War Dogs/Statblocks
 free_strike: 1
 intuition: 0
 item_id: war-dog-conscript
-item_index: '365'
+item_index: '15'
 item_name: War Dog Conscript
 level: 1
 might: 2
@@ -19,15 +19,15 @@ reason: 0
 roles:
   - Minion Harrier
 scc:
-  - mcdm.monsters.v1:monster:war-dog-conscript
+  - mcdm.monsters.v1:monster.war-dogs.statblock:war-dog-conscript
 scdc:
-  - 1.1.1:2:365
+  - 1.1.1:2.51.1:15
 size: 1M
 source: mcdm.monsters.v1
 speed: 7
 stability: 0
 stamina: '4'
-type: monster
+type: monster/war-dogs/statblock
 ---
 
 ###### War Dog Conscript
@@ -35,7 +35,7 @@ type: monster
 | Humanoid, Soulless, War Dog |          -          |      Level 1       |                  Minion Harrier                  | EV 3 for four minions  |
 | :-------------------------: | :-----------------: | :----------------: | :----------------------------------------------: | :--------------------: |
 |      **1M**<br/> Size       |  **7**<br/> Speed   | **4**<br/> Stamina |               **0**<br/> Stability               | **1**<br/> Free Strike |
-|     **-**<br/> Immunity     | **-**<br/> Movement |         -          | **+1 damage bonus to strikes**<br/> With Captain | **-**<br/> Weaknesses  |
+|     **-**<br/> Immunity     | **-**<br/> Movement |         -          | **+1 damage bonus to strikes**<br/> With Captain |  **-**<br/> Weakness   |
 |      **+2**<br/> Might      | **0**<br/> Agility  | **0**<br/> Reason  |               **0**<br/> Intuition               |  **0**<br/> Presence   |
 
 <!-- -->

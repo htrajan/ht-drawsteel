@@ -14,11 +14,11 @@ type: monster/section
 
 ## Chimera
 
-Massive flexing claws. Lashing draconic tail. Nimble leathery wings. And not one, but three menacing heads: a snarling lion, a helix-horned ram, and a dragon with fire sparking in their throat. Many see the chimera as an aggressor-but few know this creature's origins as a divine guardian.
+Massive flexing claws. Lashing draconic tail. Nimble leathery wings. And not one, but three menacing heads: a snarling lion, a helix-horned ram, and a dragon with fire sparking in their throat. Many see the chimera as an aggressor—but few know this creature's origins as a divine guardian.
 
 ### The First Chimera
 
-The first chimera was a gift. A deity gave a devout queen this young guardian-one with a dragon's cunning, a lion's bravery, and a ram's tenacity. The queen raised the chimera to be a strong protector not just for herself but also her people, who loved the chimera and their ruler. But neighboring lands feared the beast. As a conquering force swept into the land, slaughtering the chimera was their fell goal.
+The first chimera was a gift. A deity gave a devout queen this young guardian—one with a dragon's cunning, a lion's bravery, and a ram's tenacity. The queen raised the chimera to be a strong protector not just for herself but also her people, who loved the chimera and their ruler. But neighboring lands feared the beast. As a conquering force swept into the land, slaughtering the chimera was their fell goal.
 
 The queen's resulting fury was said to be felt by the gods. As she screamed, a nearby volcano erupted, spewing basalt and chimeras over the land. With fiery might, the chimeras destroyed the opposing army, then dispersed. Each found a new territory and claimed the role of divine protector over that place, its inhabitants, and its treasures.
 
@@ -59,7 +59,7 @@ At the start of a chimera's turn, you can spend Malice to activate one of the fo
 |      Beast, Chimera      |           -           |       Level 3        |          Solo           |         EV 60          |
 | :----------------------: | :-------------------: | :------------------: | :---------------------: | :--------------------: |
 |     **2**<br/> Size      |   **10**<br/> Speed   | **300**<br/> Stamina |  **1**<br/> Stability   | **6**<br/> Free Strike |
-| **Fire 6**<br/> Immunity | **Fly**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Fire 6**<br/> Immunity | **Fly**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |    **+3**<br/> Might     |  **+2**<br/> Agility  |  **-2**<br/> Reason  |  **+1**<br/> Intuition  |  **+0**<br/> Presence  |
 
 <!-- -->
@@ -139,7 +139,7 @@ At the start of a chimera's turn, you can spend Malice to activate one of the fo
 >
 > **Effect:** The chimera shifts up to 5 squares. If they end this shift within distance of the target, make a power roll.
 >
-> **Power Roll + 3**
+> **Power Roll + 3:**
 >
 > - **≤11:** 6 damage; M < 1 slowed (save ends)
 > - **12-16:** 8 damage; prone; M < 2 slowed (save ends)

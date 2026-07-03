@@ -9,7 +9,7 @@ file_dpath: Monsters/Time Raiders/Statblocks
 free_strike: 3
 intuition: 1
 item_id: time-raider-myriad
-item_index: '144'
+item_index: '06'
 item_name: Time Raider Myriad
 level: 3
 might: 2
@@ -18,15 +18,15 @@ reason: 2
 roles:
   - Minion Brute
 scc:
-  - mcdm.monsters.v1:monster:time-raider-myriad
+  - mcdm.monsters.v1:monster.time-raiders.statblock:time-raider-myriad
 scdc:
-  - 1.1.1:2:144
+  - 1.1.1:2.18.1:06
 size: 1M
 source: mcdm.monsters.v1
 speed: 5
 stability: 0
 stamina: '8'
-type: monster
+type: monster/time-raiders/statblock
 ---
 
 ###### Time Raider Myriad
@@ -34,7 +34,7 @@ type: monster
 |    Humanoid, Time Raider    |          -          |      Level 3       |                   Minion Brute                   | EV 5 for four minions  |
 | :-------------------------: | :-----------------: | :----------------: | :----------------------------------------------: | :--------------------: |
 |      **1M**<br/> Size       |  **5**<br/> Speed   | **8**<br/> Stamina |               **0**<br/> Stability               | **3**<br/> Free Strike |
-| **Psychic 3**<br/> Immunity | **-**<br/> Movement |         -          | **+1 damage bonus to strikes**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Psychic 3**<br/> Immunity | **-**<br/> Movement |         -          | **+1 damage bonus to strikes**<br/> With Captain |  **-**<br/> Weakness   |
 |      **+2**<br/> Might      | **+1**<br/> Agility | **+2**<br/> Reason |              **+1**<br/> Intuition               |  **+1**<br/> Presence  |
 
 <!-- -->

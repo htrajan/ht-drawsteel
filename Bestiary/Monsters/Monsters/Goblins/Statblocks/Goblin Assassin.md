@@ -9,7 +9,7 @@ file_dpath: Monsters/Goblins/Statblocks
 free_strike: 2
 intuition: 0
 item_id: goblin-assassin
-item_index: '307'
+item_index: '04'
 item_name: Goblin Assassin
 level: 1
 might: -2
@@ -18,15 +18,15 @@ reason: 0
 roles:
   - Horde Ambusher
 scc:
-  - mcdm.monsters.v1:monster:goblin-assassin
+  - mcdm.monsters.v1:monster.goblins.statblock:goblin-assassin
 scdc:
-  - 1.1.1:2:307
+  - 1.1.1:2.40.1:04
 size: 1S
 source: mcdm.monsters.v1
 speed: 6
 stability: 0
 stamina: '15'
-type: monster
+type: monster/goblins/statblock
 ---
 
 ###### Goblin Assassin
@@ -34,7 +34,7 @@ type: monster
 |  Goblin, Humanoid   |            -            |       Level 1       |     Horde Ambusher      |          EV 3          |
 | :-----------------: | :---------------------: | :-----------------: | :---------------------: | :--------------------: |
 |  **1S**<br/> Size   |    **6**<br/> Speed     | **15**<br/> Stamina |  **0**<br/> Stability   | **2**<br/> Free Strike |
-| **-**<br/> Immunity | **Climb**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **Climb**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |  **-2**<br/> Might  |   **+2**<br/> Agility   |  **0**<br/> Reason  |  **0**<br/> Intuition   |  **-2**<br/> Presence  |
 
 <!-- -->
@@ -73,4 +73,4 @@ type: monster
 <!-- -->
 > ⭐️ **Slip Away**
 >
-> The assassin can attempt to hide even while observed
+> The assassin can attempt to hide even while observed.

@@ -9,7 +9,7 @@ file_dpath: Monsters/Gnolls/Statblocks
 free_strike: 5
 intuition: 0
 item_id: gnoll-carnage
-item_index: '38'
+item_index: '05'
 item_name: Gnoll Carnage
 level: 2
 might: 3
@@ -18,15 +18,15 @@ reason: 0
 roles:
   - Leader
 scc:
-  - mcdm.monsters.v1:monster:gnoll-carnage
+  - mcdm.monsters.v1:monster.gnolls.statblock:gnoll-carnage
 scdc:
-  - 1.1.1:2:38
+  - 1.1.1:2.6.1:05
 size: 1M
 source: mcdm.monsters.v1
 speed: 5
 stability: 1
 stamina: '100'
-type: monster
+type: monster/gnolls/statblock
 ---
 
 ###### Gnoll Carnage
@@ -34,7 +34,7 @@ type: monster
 |   Abyssal, Gnoll    |          -          |       Level 2        |         Leader          |         EV 16          |
 | :-----------------: | :-----------------: | :------------------: | :---------------------: | :--------------------: |
 |  **1M**<br/> Size   |  **5**<br/> Speed   | **100**<br/> Stamina |  **1**<br/> Stability   | **5**<br/> Free Strike |
-| **-**<br/> Immunity | **-**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **-**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |  **+3**<br/> Might  | **+3**<br/> Agility |  **0**<br/> Reason   |  **0**<br/> Intuition   |  **+3**<br/> Presence  |
 
 <!-- -->

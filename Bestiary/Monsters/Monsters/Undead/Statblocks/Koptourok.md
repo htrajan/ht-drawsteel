@@ -8,7 +8,7 @@ file_dpath: Monsters/Undead/Statblocks
 free_strike: 3
 intuition: 1
 item_id: koptourok
-item_index: '59'
+item_index: '07'
 item_name: Koptourok
 level: 7
 might: 4
@@ -17,15 +17,15 @@ reason: 0
 roles:
   - Horde Hexer
 scc:
-  - mcdm.monsters.v1:monster:koptourok
+  - mcdm.monsters.v1:monster.undead.statblock:koptourok
 scdc:
-  - 1.1.1:2:59
+  - 1.1.1:2.8.1:07
 size: 1M
 source: mcdm.monsters.v1
 speed: 5
 stability: 1
 stamina: '40'
-type: monster
+type: monster/undead/statblock
 ---
 
 ###### Koptourok
@@ -33,7 +33,7 @@ type: monster
 |                  Undead                  |          -          |       Level 7       |       Horde Hexer       |          EV 9          |
 | :--------------------------------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |             **1M**<br/> Size             |  **5**<br/> Speed   | **40**<br/> Stamina |  **1**<br/> Stability   | **3**<br/> Free Strike |
-| **Corruption 7, poison 7**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Corruption 7, poison 7**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |            **+4**<br/> Might             | **+2**<br/> Agility |  **0**<br/> Reason  |  **+1**<br/> Intuition  |  **-1**<br/> Presence  |
 
 <!-- -->
@@ -64,7 +64,7 @@ type: monster
 > - **12-16:** Pull 5; M < 3 5 corruption damage
 > - **17+:** Pull 7; M < 4 5 corruption damage
 >
-> **Effect:** This ability gains an edge against any target grabbed by the koptourok. If one or more targets are pulled adjacent to the kop- tourok, the koptourok can fly until the end of the encounter
+> **Effect:** This ability gains an edge against any target grabbed by the koptourok. If one or more targets are pulled adjacent to the koptourok, the koptourok can fly until the end of the encounter.
 
 <!-- -->
 > ⭐️ **Exhale**

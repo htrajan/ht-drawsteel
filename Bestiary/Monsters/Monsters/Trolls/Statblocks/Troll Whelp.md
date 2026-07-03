@@ -9,7 +9,7 @@ file_dpath: Monsters/Trolls/Statblocks
 free_strike: 3
 intuition: 0
 item_id: troll-whelp
-item_index: '410'
+item_index: '02'
 item_name: Troll Whelp
 level: 5
 might: 3
@@ -18,24 +18,24 @@ reason: -1
 roles:
   - Minion Brute
 scc:
-  - mcdm.monsters.v1:monster:troll-whelp
+  - mcdm.monsters.v1:monster.trolls.statblock:troll-whelp
 scdc:
-  - 1.1.1:2:410
+  - 1.1.1:2.53.1:02
 size: 1L
 source: mcdm.monsters.v1
 speed: 6
 stability: 3
 stamina: '10'
-type: monster
+type: monster/trolls/statblock
 ---
 
 ###### Troll Whelp
 
-|    Giant, Troll     |          -          |       Level 5       |                   Minion Brute                   |      EV 7 for four minions       |
-| :-----------------: | :-----------------: | :-----------------: | :----------------------------------------------: | :------------------------------: |
-|  **1L**<br/> Size   |  **6**<br/> Speed   | **10**<br/> Stamina |               **3**<br/> Stability               |      **3**<br/> Free Strike      |
-| **-**<br/> Immunity | **-**<br/> Movement |          -          | **+2 damage bonus to strikes**<br/> With Captain | **Acid 5, fire**<br/> Weaknesses |
-|  **+3**<br/> Might  | **+1**<br/> Agility | **-1**<br/> Reason  |               **0**<br/> Intuition               |       **0**<br/> Presence        |
+|    Giant, Troll     |          -          |       Level 5       |                   Minion Brute                   |     EV 7 for four minions      |
+| :-----------------: | :-----------------: | :-----------------: | :----------------------------------------------: | :----------------------------: |
+|  **1L**<br/> Size   |  **6**<br/> Speed   | **10**<br/> Stamina |               **3**<br/> Stability               |     **3**<br/> Free Strike     |
+| **-**<br/> Immunity | **-**<br/> Movement |          -          | **+2 damage bonus to strikes**<br/> With Captain | **Acid 5, fire**<br/> Weakness |
+|  **+3**<br/> Might  | **+1**<br/> Agility | **-1**<br/> Reason  |               **0**<br/> Intuition               |      **0**<br/> Presence       |
 
 <!-- -->
 > 🗡 **Jaws and Claws (Signature Ability)**

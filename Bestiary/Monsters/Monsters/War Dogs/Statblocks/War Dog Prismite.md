@@ -9,7 +9,7 @@ file_dpath: Monsters/War Dogs/Statblocks
 free_strike: 3
 intuition: 2
 item_id: war-dog-prismite
-item_index: '367'
+item_index: '17'
 item_name: War Dog Prismite
 level: 8
 might: 4
@@ -18,15 +18,15 @@ reason: 4
 roles:
   - Horde Defender
 scc:
-  - mcdm.monsters.v1:monster:war-dog-prismite
+  - mcdm.monsters.v1:monster.war-dogs.statblock:war-dog-prismite
 scdc:
-  - 1.1.1:2:367
+  - 1.1.1:2.51.1:17
 size: '2'
 source: mcdm.monsters.v1
 speed: 5
 stability: 2
 stamina: '82'
-type: monster
+type: monster/war-dogs/statblock
 ---
 
 ###### War Dog Prismite
@@ -34,7 +34,7 @@ type: monster
 |  Soulless, War Dog  |              -               |       Level 8       |     Horde Defender      |         EV 10          |
 | :-----------------: | :--------------------------: | :-----------------: | :---------------------: | :--------------------: |
 |   **2**<br/> Size   |       **5**<br/> Speed       | **82**<br/> Stamina |  **2**<br/> Stability   | **3**<br/> Free Strike |
-| **-**<br/> Immunity | **Fly, hover**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **Fly, hover**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |  **+4**<br/> Might  |      **0**<br/> Agility      | **+4**<br/> Reason  |  **+2**<br/> Intuition  |  **+3**<br/> Presence  |
 
 <!-- -->

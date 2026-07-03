@@ -9,7 +9,7 @@ file_dpath: Monsters/Orcs/Statblocks
 free_strike: 3
 intuition: 0
 item_id: orc-chainlock
-item_index: '125'
+item_index: '03'
 item_name: Orc Chainlock
 level: 1
 might: 2
@@ -18,15 +18,15 @@ reason: 1
 roles:
   - Platoon Hexer
 scc:
-  - mcdm.monsters.v1:monster:orc-chainlock
+  - mcdm.monsters.v1:monster.orcs.statblock:orc-chainlock
 scdc:
-  - 1.1.1:2:125
+  - 1.1.1:2.16.1:03
 size: 1L
 source: mcdm.monsters.v1
 speed: 5
 stability: 2
 stamina: '20'
-type: monster
+type: monster/orcs/statblock
 ---
 
 ###### Orc Chainlock
@@ -34,7 +34,7 @@ type: monster
 |    Humanoid, Orc    |          -          |       Level 1       |      Platoon Hexer      |          EV 6          |
 | :-----------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |  **1L**<br/> Size   |  **5**<br/> Speed   | **20**<br/> Stamina |  **2**<br/> Stability   | **3**<br/> Free Strike |
-| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |  **+2**<br/> Might  | **+2**<br/> Agility | **+1**<br/> Reason  |  **+0**<br/> Intuition  |  **+0**<br/> Presence  |
 
 <!-- -->

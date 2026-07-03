@@ -11,7 +11,7 @@ file_dpath: Monsters/Bugbears/Statblocks
 free_strike: 5
 intuition: 2
 item_id: bugbear-channeler
-item_index: '290'
+item_index: '03'
 item_name: Bugbear Channeler
 level: 2
 might: 1
@@ -20,15 +20,15 @@ reason: 2
 roles:
   - Elite Controller
 scc:
-  - mcdm.monsters.v1:monster:bugbear-channeler
+  - mcdm.monsters.v1:monster.bugbears.statblock:bugbear-channeler
 scdc:
-  - 1.1.1:2:290
+  - 1.1.1:2.37.1:03
 size: 1L
 source: mcdm.monsters.v1
 speed: 5
 stability: 0
 stamina: '60'
-type: monster
+type: monster/bugbears/statblock
 ---
 
 ###### Bugbear Channeler
@@ -36,13 +36,13 @@ type: monster
 | Bugbear, Fey, Goblin, Humanoid |          -          |       Level 2       |    Elite Controller     |         EV 16          |
 | :----------------------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |        **1L**<br/> Size        |  **5**<br/> Speed   | **60**<br/> Stamina |  **0**<br/> Stability   | **5**<br/> Free Strike |
-|      **-**<br/> Immunity       | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+|      **-**<br/> Immunity       | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |       **+1**<br/> Might        | **+1**<br/> Agility | **+2**<br/> Reason  |  **+2**<br/> Intuition  |  **+2**<br/> Presence  |
 
 <!-- -->
 > 🏹 **Shadow Drag (Signature Ability)**
 >
-> | **Magic, Ranged. Strike** |                 **Main Action** |
+> | **Magic, Ranged, Strike** |                 **Main Action** |
 > | ------------------------- | ------------------------------: |
 > | **📏 Ranged 8**           | **🎯 Two creatures or objects** |
 >

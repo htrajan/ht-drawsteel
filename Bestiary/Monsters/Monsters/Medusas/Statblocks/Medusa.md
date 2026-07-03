@@ -10,7 +10,7 @@ file_dpath: Monsters/Medusas/Statblocks
 free_strike: 8
 intuition: 0
 item_id: medusa
-item_index: '246'
+item_index: '01'
 item_name: Medusa
 level: 5
 might: 2
@@ -19,24 +19,24 @@ reason: 0
 roles:
   - Solo
 scc:
-  - mcdm.monsters.v1:monster:medusa
+  - mcdm.monsters.v1:monster.medusas.statblock:medusa
 scdc:
-  - 1.1.1:2:246
+  - 1.1.1:2.32.1:01
 size: 1M
 source: mcdm.monsters.v1
-speed: 1
+speed: 10
 stability: 5
-stamina: '0420'
-type: monster
+stamina: '420'
+type: monster/medusas/statblock
 ---
 
 ###### Medusa
 
-| Accursed, Humanoid, Medusa |          -          |        Level 5        |          Solo           |         EV 84          |
-| :------------------------: | :-----------------: | :-------------------: | :---------------------: | :--------------------: |
-|      **1M**<br/> Size      |  **1**<br/> Speed   | **0420**<br/> Stamina |  **5**<br/> Stability   | **8**<br/> Free Strike |
-|    **-**<br/> Immunity     | **-**<br/> Movement |           -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
-|     **+2**<br/> Might      | **+4**<br/> Agility |   **0**<br/> Reason   |  **0**<br/> Intuition   |  **0**<br/> Presence   |
+| Accursed, Humanoid, Medusa |          -          |       Level 5        |          Solo           |         EV 84          |
+| :------------------------: | :-----------------: | :------------------: | :---------------------: | :--------------------: |
+|      **1M**<br/> Size      |  **10**<br/> Speed  | **420**<br/> Stamina |  **5**<br/> Stability   | **8**<br/> Free Strike |
+|    **-**<br/> Immunity     | **-**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
+|     **+2**<br/> Might      | **+4**<br/> Agility |  **0**<br/> Reason   |  **0**<br/> Intuition   |  **0**<br/> Presence   |
 
 <!-- -->
 > ☠️ **Solo Monster**
@@ -86,7 +86,7 @@ type: monster
 > - **12-16:** M < 3 restrained (save ends)
 > - **17+:** Slowed (save ends); or if M < 4 restrained (save ends)
 >
-> **Effect:** A target with cover reduces the potency by 1, while a slowed target increases the potency by 1. A target restrained this way magi- cally begins to turn to stone, and a target who ends two consecutive turns restrained this way is petrified
+> **Effect:** A target with cover reduces the potency by 1, while a slowed target increases the potency by 1. A target restrained this way magically begins to turn to stone, and a target who ends two consecutive turns restrained this way is petrified.
 
 <!-- -->
 > 👤 **Nimble Escape**
@@ -120,7 +120,7 @@ type: monster
 <!-- -->
 > ⭐️ **Many Peering Eyes**
 >
-> The medusa can't be flanked
+> The medusa can't be flanked.
 
 <!-- -->
 > ☠️ **Mass Petrify (Villain Action 1)**
@@ -146,6 +146,8 @@ type: monster
 > | **Area, Magic** |          **-** |
 > | --------------- | -------------: |
 > | **📏 10 burst** | **🎯 Special** |
+>
+> **Power Roll + 4:**
 >
 > - **≤11:** 8 acid damage; P < 3 weakened (save ends)
 > - **12-16:** 13 acid damage; P < 4 weakened (save ends)

@@ -10,7 +10,7 @@ file_dpath: Monsters/Elves Shadow/Statblocks
 free_strike: 7
 intuition: 1
 item_id: shadow-elf-assassin
-item_index: '220'
+item_index: '12'
 item_name: Shadow Elf Assassin
 level: 6
 might: 0
@@ -19,15 +19,15 @@ reason: 2
 roles:
   - Platoon Artillery
 scc:
-  - mcdm.monsters.v1:monster:shadow-elf-assassin
+  - mcdm.monsters.v1:monster.elves-shadow.statblock:shadow-elf-assassin
 scdc:
-  - 1.1.1:2:220
+  - 1.1.1:2.27.1:12
 size: 1M
 source: mcdm.monsters.v1
 speed: 5
 stability: 0
 stamina: '70'
-type: monster
+type: monster/elves-shadow/statblock
 ---
 
 ###### Shadow Elf Assassin
@@ -35,7 +35,7 @@ type: monster
 | Fey, Humanoid, Shadow Elf |            -            |       Level 6       |    Platoon Artillery    |         EV 16          |
 | :-----------------------: | :---------------------: | :-----------------: | :---------------------: | :--------------------: |
 |     **1M**<br/> Size      |    **5**<br/> Speed     | **70**<br/> Stamina |  **0**<br/> Stability   | **7**<br/> Free Strike |
-|    **-**<br/> Immunity    | **Climb**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+|    **-**<br/> Immunity    | **Climb**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |     **0**<br/> Might      |   **+3**<br/> Agility   | **+2**<br/> Reason  |  **+1**<br/> Intuition  |  **+1**<br/> Presence  |
 
 <!-- -->

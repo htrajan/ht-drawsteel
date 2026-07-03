@@ -7,7 +7,7 @@ cost_resource: Discipline
 distance: Self
 feature_type: ability
 file_basename: Absolute Zero
-file_dpath: Null/9th-Level Features
+file_dpath: Abilities/Null/9th-Level Features
 flavor: You become the coldest thing in the timescape.
 item_id: absolute-zero-11-discipline
 item_index: '01'
@@ -18,8 +18,9 @@ level: 9
 scc:
   - mcdm.heroes.v1:feature.ability.null.9th-level-feature:absolute-zero-11-discipline
 scdc:
-  - 1.1.1:13.2.6.7:01
+  - 1.1.1:11.2.6.7:01
 source: mcdm.heroes.v1
+subclass: Cryokinetic
 target: Self
 type: feature/ability/null/9th-level-feature
 ---

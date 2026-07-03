@@ -10,7 +10,7 @@ file_dpath: Monsters/War Dogs/Statblocks
 free_strike: 7
 intuition: 3
 item_id: war-dog-tetrarch
-item_index: '363'
+item_index: '13'
 item_name: War Dog Tetrarch
 level: 6
 might: 4
@@ -19,15 +19,15 @@ reason: 2
 roles:
   - Leader
 scc:
-  - mcdm.monsters.v1:monster:war-dog-tetrarch
+  - mcdm.monsters.v1:monster.war-dogs.statblock:war-dog-tetrarch
 scdc:
-  - 1.1.1:2:363
+  - 1.1.1:2.51.1:13
 size: 1M
 source: mcdm.monsters.v1
 speed: 7
 stability: 2
 stamina: '180'
-type: monster
+type: monster/war-dogs/statblock
 ---
 
 ###### War Dog Tetrarch
@@ -35,7 +35,7 @@ type: monster
 | Humanoid, Soulless, War Dog |          -          |       Level 6        |         Leader          |         EV 32          |
 | :-------------------------: | :-----------------: | :------------------: | :---------------------: | :--------------------: |
 |      **1M**<br/> Size       |  **7**<br/> Speed   | **180**<br/> Stamina |  **2**<br/> Stability   | **7**<br/> Free Strike |
-|     **-**<br/> Immunity     | **-**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+|     **-**<br/> Immunity     | **-**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |      **+4**<br/> Might      | **+3**<br/> Agility |  **+2**<br/> Reason  |  **+3**<br/> Intuition  |  **+4**<br/> Presence  |
 
 <!-- -->
@@ -56,7 +56,7 @@ type: monster
 > **3 Malice:** Each target loses 1d3 Recoveries.
 
 <!-- -->
-> 🏹 **Get Them, You Dolts! 1 Malice per target**
+> 🏹 **Get Them, You Dolts! (1 Malice per target)**
 >
 > | **Ranged**       |           **Maneuver** |
 > | ---------------- | ---------------------: |
@@ -108,7 +108,7 @@ type: monster
 > - **12-16:** 13 fire damage; A < 3 slowed (save ends)
 > - **17+:** 16 fire damage; A < 4 slowed (save ends)
 >
-> **Effect:** The area is set ablaze until the end of the encounter. While ablaze, the area is difficult terrain, and any creature takes 2 fire damage for each square in the area they enter for the first time in a round
+> **Effect:** The area is set ablaze until the end of the encounter. While ablaze, the area is difficult terrain, and any creature takes 2 fire damage for each square in the area they enter for the first time in a round.
 
 <!-- -->
 > ☠️ **You Would Dare?! (Villain Action 3)**

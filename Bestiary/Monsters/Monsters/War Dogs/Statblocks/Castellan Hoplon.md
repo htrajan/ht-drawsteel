@@ -7,10 +7,10 @@ ancestry:
 ev: '48'
 file_basename: Castellan Hoplon
 file_dpath: Monsters/War Dogs/Statblocks
-free_strike: 0
+free_strike: 10
 intuition: 3
 item_id: castellan-hoplon
-item_index: '387'
+item_index: '37'
 item_name: Castellan Hoplon
 level: 10
 might: 5
@@ -19,24 +19,24 @@ reason: 4
 roles:
   - Elite Defender
 scc:
-  - mcdm.monsters.v1:monster:castellan-hoplon
+  - mcdm.monsters.v1:monster.war-dogs.statblock:castellan-hoplon
 scdc:
-  - 1.1.1:2:387
+  - 1.1.1:2.51.1:37
 size: 1M
 source: mcdm.monsters.v1
 speed: 5
-stability: 1
-stamina: '2603'
-type: monster
+stability: 3
+stamina: '260'
+type: monster/war-dogs/statblock
 ---
 
 ###### Castellan Hoplon
 
-| Humanoid, Soulless, War Dog |          -          |       Level 10        |     Elite Defender      |         EV 48          |
-| :-------------------------: | :-----------------: | :-------------------: | :---------------------: | :--------------------: |
-|      **1M**<br/> Size       |  **5**<br/> Speed   | **2603**<br/> Stamina |  **1**<br/> Stability   | **0**<br/> Free Strike |
-| **Damage 3**<br/> Immunity  | **-**<br/> Movement |           -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
-|      **+5**<br/> Might      | **+2**<br/> Agility |  **+4**<br/> Reason   |  **+3**<br/> Intuition  |  **+4**<br/> Presence  |
+| Humanoid, Soulless, War Dog |          -          |       Level 10       |     Elite Defender      |          EV 48          |
+| :-------------------------: | :-----------------: | :------------------: | :---------------------: | :---------------------: |
+|      **1M**<br/> Size       |  **5**<br/> Speed   | **260**<br/> Stamina |  **3**<br/> Stability   | **10**<br/> Free Strike |
+| **Damage 3**<br/> Immunity  | **-**<br/> Movement |          -           | **-**<br/> With Captain |   **-**<br/> Weakness   |
+|      **+5**<br/> Might      | **+2**<br/> Agility |  **+4**<br/> Reason  |  **+3**<br/> Intuition  |  **+4**<br/> Presence   |
 
 <!-- -->
 > 🗡 **Inspiring Strike (Signature Ability)**
@@ -69,6 +69,8 @@ type: monster
 > | -------------- | ----------------------------: |
 > | **📏 3 burst** | **🎯 Each enemy in the area** |
 >
+> **Power Roll + 5:**
+>
 > - **≤11:** R < 3 taunted (EoT)
 > - **12-16:** R < 4 taunted (EoT)
 > - **17+:** R < 5 taunted (EoT)
@@ -94,4 +96,4 @@ type: monster
 <!-- -->
 > ⭐️ **Last Stand**
 >
-> The first time in an encounter that Hoplon is reduced to 0 Stam- na, he instead has 1 Stamina and gains damage immunity 10 until the end of his next turn. When Hoplon is reduced to 0 Stamina again, each ally within 5 squares of him gains damage immunity 3 and deals an extra 5 damage on strikes, all until the end of the encounter.
+> The first time in an encounter that Hoplon is reduced to 0 Stamina, he instead has 1 Stamina and gains damage immunity 10 until the end of his next turn. When Hoplon is reduced to 0 Stamina again, each ally within 5 squares of him gains damage immunity 3 and deals an extra 5 damage on strikes, all until the end of the encounter.

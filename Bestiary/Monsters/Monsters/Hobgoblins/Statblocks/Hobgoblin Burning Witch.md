@@ -11,7 +11,7 @@ file_dpath: Monsters/Hobgoblins/Statblocks
 free_strike: 5
 intuition: 2
 item_id: hobgoblin-burning-witch
-item_index: '178'
+item_index: '02'
 item_name: Hobgoblin Burning Witch
 level: 4
 might: 0
@@ -20,15 +20,15 @@ reason: 2
 roles:
   - Platoon Controller
 scc:
-  - mcdm.monsters.v1:monster:hobgoblin-burning-witch
+  - mcdm.monsters.v1:monster.hobgoblins.statblock:hobgoblin-burning-witch
 scdc:
-  - 1.1.1:2:178
+  - 1.1.1:2.22.1:02
 size: 1M
 source: mcdm.monsters.v1
 speed: 5
 stability: 0
 stamina: '50'
-type: monster
+type: monster/hobgoblins/statblock
 ---
 
 ###### Hobgoblin Burning Witch
@@ -36,7 +36,7 @@ type: monster
 | Goblin, Hobgoblin, Humanoid, Infernal |             -              |       Level 4       |   Platoon Controller    |         EV 12          |
 | :-----------------------------------: | :------------------------: | :-----------------: | :---------------------: | :--------------------: |
 |           **1M**<br/> Size            |      **5**<br/> Speed      | **50**<br/> Stamina |  **0**<br/> Stability   | **5**<br/> Free Strike |
-|       **Fire 4**<br/> Immunity        | **Teleport**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+|       **Fire 4**<br/> Immunity        | **Teleport**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |           **0**<br/> Might            |    **+1**<br/> Agility     | **+2**<br/> Reason  |  **+2**<br/> Intuition  |  **+3**<br/> Presence  |
 
 <!-- -->

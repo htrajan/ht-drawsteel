@@ -28,7 +28,7 @@ stamina: '21'
 |     Angulotl, Humanoid     |               -               |       Level 1       |    Harrier Retainer     |          EV -          |
 | :------------------------: | :---------------------------: | :-----------------: | :---------------------: | :--------------------: |
 |      **1S**<br/> Size      |       **6**<br/> Speed        | **21**<br/> Stamina |  **0**<br/> Stability   | **2**<br/> Free Strike |
-| **Poison 2**<br/> Immunity | **Climb, swim**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Poison 2**<br/> Immunity | **Climb, swim**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |     **+1**<br/> Might      |      **+2**<br/> Agility      |  **0**<br/> Reason  |  **0**<br/> Intuition   |  **0**<br/> Presence   |
 
 <!-- -->
@@ -92,6 +92,6 @@ stamina: '21'
 > | -------------- | ----------------------------: |
 > | **📏 Melee 5** | **🎯 One creature or object** |
 >
-> **Trigger:** A creature moves within distance
+> **Trigger:** A creature moves within distance.
 >
-> **Effect:** If the target has M < AVERAGE, heir movement ends, they are knocked prone, and one ally within distance gains 2 surges.
+> **Effect:** If the target has M < AVERAGE, their movement ends, they are knocked prone, and one ally within distance gains 2 surges.

@@ -10,7 +10,7 @@ file_dpath: Monsters/Elves Shadow/Statblocks
 free_strike: 6
 intuition: 2
 item_id: shadow-elf-duskcaller
-item_index: '215'
+item_index: '07'
 item_name: Shadow Elf Duskcaller
 level: 5
 might: 0
@@ -19,15 +19,15 @@ reason: 3
 roles:
   - Platoon Controller
 scc:
-  - mcdm.monsters.v1:monster:shadow-elf-duskcaller
+  - mcdm.monsters.v1:monster.elves-shadow.statblock:shadow-elf-duskcaller
 scdc:
-  - 1.1.1:2:215
+  - 1.1.1:2.27.1:07
 size: 1M
 source: mcdm.monsters.v1
 speed: 5
 stability: 0
 stamina: '60'
-type: monster
+type: monster/elves-shadow/statblock
 ---
 
 ###### Shadow Elf Duskcaller
@@ -35,7 +35,7 @@ type: monster
 | Fey, Humanoid, Shadow Elf |            -            |       Level 5       |   Platoon Controller    |         EV 14          |
 | :-----------------------: | :---------------------: | :-----------------: | :---------------------: | :--------------------: |
 |     **1M**<br/> Size      |    **5**<br/> Speed     | **60**<br/> Stamina |  **0**<br/> Stability   | **6**<br/> Free Strike |
-|    **-**<br/> Immunity    | **Climb**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+|    **-**<br/> Immunity    | **Climb**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |     **0**<br/> Might      |   **+3**<br/> Agility   | **+3**<br/> Reason  |  **+2**<br/> Intuition  |  **+1**<br/> Presence  |
 
 <!-- -->

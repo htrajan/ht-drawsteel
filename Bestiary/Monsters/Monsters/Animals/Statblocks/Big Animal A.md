@@ -8,7 +8,7 @@ file_dpath: Monsters/Animals/Statblocks
 free_strike: 4
 intuition: 1
 item_id: big-animal-a
-item_index: '249'
+item_index: '02'
 item_name: Big Animal A
 level: 1
 might: 1
@@ -17,15 +17,15 @@ reason: -2
 roles:
   - Elite Mount
 scc:
-  - mcdm.monsters.v1:monster:big-animal-a
+  - mcdm.monsters.v1:monster.animals.statblock:big-animal-a
 scdc:
-  - 1.1.1:2:249
+  - 1.1.1:2.34.1:02
 size: '2'
 source: mcdm.monsters.v1
 speed: 6
 stability: 1
 stamina: '60'
-type: monster
+type: monster/animals/statblock
 ---
 
 ###### Big Animal A
@@ -33,7 +33,7 @@ type: monster
 |       Animal        |          -          |       Level 1       |       Elite Mount       |         EV 12          |
 | :-----------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |   **2**<br/> Size   |  **6**<br/> Speed   | **60**<br/> Stamina |  **1**<br/> Stability   | **4**<br/> Free Strike |
-| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |  **+1**<br/> Might  | **+2**<br/> Agility | **-2**<br/> Reason  |  **+1**<br/> Intuition  |  **-2**<br/> Presence  |
 
 <!-- -->
@@ -61,7 +61,7 @@ type: monster
 > **Effect:** The target vertical slides up to 3 squares. If the target is an ally, they can make a free strike at the end of the forced movement, then fall without taking damage.
 
 <!-- -->
-> ❗️**Juke**
+> ❗️ **Juke**
 >
 > | **-**       | **Triggered action** |
 > | ----------- | -------------------: |

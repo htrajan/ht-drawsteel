@@ -10,7 +10,7 @@ file_dpath: Monsters/Hobgoblins/Statblocks
 free_strike: 6
 intuition: 1
 item_id: slaughter-demon
-item_index: '190'
+item_index: '14'
 item_name: Slaughter Demon
 level: 4
 might: 3
@@ -19,15 +19,15 @@ reason: -1
 roles:
   - Elite Brute
 scc:
-  - mcdm.monsters.v1:monster:slaughter-demon
+  - mcdm.monsters.v1:monster.hobgoblins.statblock:slaughter-demon
 scdc:
-  - 1.1.1:2:190
+  - 1.1.1:2.22.1:14
 size: '3'
 source: mcdm.monsters.v1
 speed: 7
 stability: 3
 stamina: '140'
-type: monster
+type: monster/hobgoblins/statblock
 ---
 
 ###### Slaughter Demon
@@ -35,7 +35,7 @@ type: monster
 | Abyssal, Demon, Hobgoblin |            -             |       Level 4        |       Elite Brute       |         EV 24          |
 | :-----------------------: | :----------------------: | :------------------: | :---------------------: | :--------------------: |
 |      **3**<br/> Size      |     **7**<br/> Speed     | **140**<br/> Stamina |  **3**<br/> Stability   | **6**<br/> Free Strike |
-| **Fire 5**<br/> Immunity  | **Burrow**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Fire 5**<br/> Immunity  | **Burrow**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |     **+3**<br/> Might     |    **0**<br/> Agility    |  **-1**<br/> Reason  |  **+1**<br/> Intuition  |  **0**<br/> Presence   |
 
 <!-- -->

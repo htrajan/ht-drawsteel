@@ -10,7 +10,7 @@ file_dpath: Monsters/Demons/Statblocks
 free_strike: 3
 intuition: 0
 item_id: soulraker-scout
-item_index: '276'
+item_index: '23'
 item_name: Soulraker Scout
 level: 7
 might: 2
@@ -19,24 +19,24 @@ reason: 1
 roles:
   - Minion Harrier
 scc:
-  - mcdm.monsters.v1:monster:soulraker-scout
+  - mcdm.monsters.v1:monster.demons.statblock:soulraker-scout
 scdc:
-  - 1.1.1:2:276
+  - 1.1.1:2.35.1:23
 size: 1M
 source: mcdm.monsters.v1
 speed: 7
 stability: 0
 stamina: '12'
-type: monster
+type: monster/demons/statblock
 ---
 
 ###### Soulraker Scout
 
-| Abyssal, Demon, Soulraker |           -           |       Level 7       |                Minion Harrier                 |   EV 9 for four minions    |
-| :-----------------------: | :-------------------: | :-----------------: | :-------------------------------------------: | :------------------------: |
-|     **1M**<br/> Size      |   **7**<br/> Speed    | **12**<br/> Stamina |             **0**<br/> Stability              |   **3**<br/> Free Strike   |
-|    **-**<br/> Immunity    | **Fly**<br/> Movement |          -          | **Gain an edge on strikes**<br/> With Captain | **Holy 5**<br/> Weaknesses |
-|     **+2**<br/> Might     |  **+4**<br/> Agility  | **+1**<br/> Reason  |             **+0**<br/> Intuition             |    **-1**<br/> Presence    |
+| Abyssal, Demon, Soulraker |           -           |       Level 7       |                Minion Harrier                 |  EV 9 for four minions   |
+| :-----------------------: | :-------------------: | :-----------------: | :-------------------------------------------: | :----------------------: |
+|     **1M**<br/> Size      |   **7**<br/> Speed    | **12**<br/> Stamina |             **0**<br/> Stability              |  **3**<br/> Free Strike  |
+|    **-**<br/> Immunity    | **Fly**<br/> Movement |          -          | **Gain an edge on strikes**<br/> With Captain | **Holy 5**<br/> Weakness |
+|     **+2**<br/> Might     |  **+4**<br/> Agility  | **+1**<br/> Reason  |             **+0**<br/> Intuition             |   **-1**<br/> Presence   |
 
 <!-- -->
 > 🗡 **Soul Stinger (Signature Ability)**

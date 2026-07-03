@@ -9,7 +9,7 @@ file_dpath: Monsters/Gnolls/Statblocks
 free_strike: 2
 intuition: 2
 item_id: gnoll-abyssal-summoner
-item_index: '36'
+item_index: '02'
 item_name: Gnoll Abyssal Summoner
 level: 2
 might: 1
@@ -18,15 +18,15 @@ reason: 0
 roles:
   - Horde Support
 scc:
-  - mcdm.monsters.v1:monster:gnoll-abyssal-summoner
+  - mcdm.monsters.v1:monster.gnolls.statblock:gnoll-abyssal-summoner
 scdc:
-  - 1.1.1:2:36
+  - 1.1.1:2.6.1:02
 size: 1M
 source: mcdm.monsters.v1
 speed: 5
 stability: 1
 stamina: '20'
-type: monster
+type: monster/gnolls/statblock
 ---
 
 ###### Gnoll Abyssal Summoner
@@ -34,7 +34,7 @@ type: monster
 |   Abyssal, Gnoll    |          -          |       Level 2       |      Horde Support      |          EV 4          |
 | :-----------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |  **1M**<br/> Size   |  **5**<br/> Speed   | **20**<br/> Stamina |  **1**<br/> Stability   | **2**<br/> Free Strike |
-| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |  **+1**<br/> Might  | **0**<br/> Agility  |  **0**<br/> Reason  |  **+2**<br/> Intuition  |  **+2**<br/> Presence  |
 
 <!-- -->

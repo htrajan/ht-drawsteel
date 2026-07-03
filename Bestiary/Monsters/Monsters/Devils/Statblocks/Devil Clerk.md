@@ -9,7 +9,7 @@ file_dpath: Monsters/Devils/Statblocks
 free_strike: 3
 intuition: 1
 item_id: devil-clerk
-item_index: '299'
+item_index: '04'
 item_name: Devil Clerk
 level: 5
 might: 3
@@ -18,15 +18,15 @@ reason: 1
 roles:
   - Minion Brute
 scc:
-  - mcdm.monsters.v1:monster:devil-clerk
+  - mcdm.monsters.v1:monster.devils.statblock:devil-clerk
 scdc:
-  - 1.1.1:2:299
+  - 1.1.1:2.39.1:04
 size: 1M
 source: mcdm.monsters.v1
 speed: 6
 stability: 0
 stamina: '10'
-type: monster
+type: monster/devils/statblock
 ---
 
 ###### Devil Clerk
@@ -34,7 +34,7 @@ type: monster
 |     Devil, Infernal      |          -          |       Level 5       |                   Minion Brute                   | EV 7 for four minions  |
 | :----------------------: | :-----------------: | :-----------------: | :----------------------------------------------: | :--------------------: |
 |     **1M**<br/> Size     |  **6**<br/> Speed   | **10**<br/> Stamina |               **0**<br/> Stability               | **3**<br/> Free Strike |
-| **Fire 5**<br/> Immunity | **-**<br/> Movement |          -          | **+2 damage bonus to strikes**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Fire 5**<br/> Immunity | **-**<br/> Movement |          -          | **+2 damage bonus to strikes**<br/> With Captain |  **-**<br/> Weakness   |
 |    **+3**<br/> Might     | **+0**<br/> Agility | **+1**<br/> Reason  |              **+1**<br/> Intuition               |  **+2**<br/> Presence  |
 
 <!-- -->

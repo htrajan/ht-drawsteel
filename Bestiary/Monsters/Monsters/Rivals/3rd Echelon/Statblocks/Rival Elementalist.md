@@ -9,7 +9,7 @@ file_dpath: Monsters/Rivals/3rd Echelon/Statblocks
 free_strike: 8
 intuition: 3
 item_id: rival-elementalist
-item_index: '23'
+item_index: '03'
 item_name: Rival Elementalist
 level: 8
 might: 0
@@ -18,15 +18,15 @@ reason: 4
 roles:
   - Elite Controller
 scc:
-  - mcdm.monsters.v1:monster:rival-elementalist
+  - mcdm.monsters.v1:monster.rivals.3rd echelon.statblock:rival-elementalist
 scdc:
-  - 1.1.1:2:23
+  - 1.1.1:2.5.3.1:03
 size: 1M
 source: mcdm.monsters.v1
 speed: 5
 stability: 1
 stamina: '180'
-type: monster
+type: monster/rivals/3rd echelon/statblock
 ---
 
 ###### Rival Elementalist
@@ -34,7 +34,7 @@ type: monster
 |   Humanoid, Rival   |          -          |       Level 8        |    Elite Controller     |         EV 40          |
 | :-----------------: | :-----------------: | :------------------: | :---------------------: | :--------------------: |
 |  **1M**<br/> Size   |  **5**<br/> Speed   | **180**<br/> Stamina |  **1**<br/> Stability   | **8**<br/> Free Strike |
-| **-**<br/> Immunity | **-**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **-**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |  **0**<br/> Might   | **+2**<br/> Agility |  **+4**<br/> Reason  |  **+3**<br/> Intuition  |  **0**<br/> Presence   |
 
 <!-- -->

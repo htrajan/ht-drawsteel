@@ -9,7 +9,7 @@ file_dpath: Monsters/Basilisks/Statblocks
 free_strike: 4
 intuition: -1
 item_id: basilisk-tonguesnapper
-item_index: '334'
+item_index: '02'
 item_name: Basilisk Tonguesnapper
 level: 1
 might: 1
@@ -18,15 +18,15 @@ reason: -3
 roles:
   - Elite Hexer
 scc:
-  - mcdm.monsters.v1:monster:basilisk-tonguesnapper
+  - mcdm.monsters.v1:monster.basilisks.statblock:basilisk-tonguesnapper
 scdc:
-  - 1.1.1:2:334
+  - 1.1.1:2.44.1:02
 size: '2'
 source: mcdm.monsters.v1
 speed: 8
 stability: 2
 stamina: '40'
-type: monster
+type: monster/basilisks/statblock
 ---
 
 ###### Basilisk Tonguesnapper
@@ -34,7 +34,7 @@ type: monster
 |          Basilisk, Beast           |          -          |       Level 1       |       Elite Hexer       |         EV 12          |
 | :--------------------------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |          **2**<br/> Size           |  **8**<br/> Speed   | **40**<br/> Stamina |  **2**<br/> Stability   | **4**<br/> Free Strike |
-| **Acid 2, Poison 2**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Acid 2, Poison 2**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |         **+1**<br/> Might          | **+2**<br/> Agility | **-3**<br/> Reason  |  **-1**<br/> Intuition  |  **-1**<br/> Presence  |
 
 <!-- -->
@@ -77,6 +77,8 @@ type: monster
 > | **Magic, Melee, Ranged, Strike** |     **Main action** |
 > | -------------------------------- | ------------------: |
 > | **📏 Melee 1 or ranged 10**      | **🎯 One creature** |
+>
+> **Power Roll + 2:**
 >
 > - **≤11:** 8 corruption damage; R < 0 dazed (save ends)
 > - **12-16:** 10 corruption damage; R < 1 dazed (save ends)

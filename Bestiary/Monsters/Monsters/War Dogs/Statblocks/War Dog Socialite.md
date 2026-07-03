@@ -10,7 +10,7 @@ file_dpath: Monsters/War Dogs/Statblocks
 free_strike: 4
 intuition: 3
 item_id: war-dog-socialite
-item_index: '369'
+item_index: '19'
 item_name: War Dog Socialite
 level: 10
 might: 2
@@ -19,15 +19,15 @@ reason: 4
 roles:
   - Minion Hexer
 scc:
-  - mcdm.monsters.v1:monster:war-dog-socialite
+  - mcdm.monsters.v1:monster.war-dogs.statblock:war-dog-socialite
 scdc:
-  - 1.1.1:2:369
+  - 1.1.1:2.51.1:19
 size: 1M
 source: mcdm.monsters.v1
 speed: 5
 stability: 0
 stamina: '14'
-type: monster
+type: monster/war-dogs/statblock
 ---
 
 ###### War Dog Socialite
@@ -35,7 +35,7 @@ type: monster
 | Humanoid, Soulless, War Dog  |          -          |      Level 10       |                 Minion Hexer                  | EV 12 for four minions |
 | :--------------------------: | :-----------------: | :-----------------: | :-------------------------------------------: | :--------------------: |
 |       **1M**<br/> Size       |  **5**<br/> Speed   | **14**<br/> Stamina |             **0**<br/> Stability              | **4**<br/> Free Strike |
-| **Psychic 10**<br/> Immunity | **-**<br/> Movement |          -          | **Gain an edge on strikes**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Psychic 10**<br/> Immunity | **-**<br/> Movement |          -          | **Gain an edge on strikes**<br/> With Captain |  **-**<br/> Weakness   |
 |      **+2**<br/> Might       | **+2**<br/> Agility | **+4**<br/> Reason  |             **+3**<br/> Intuition             |  **+5**<br/> Presence  |
 
 <!-- -->

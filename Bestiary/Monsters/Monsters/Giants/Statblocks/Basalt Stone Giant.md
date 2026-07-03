@@ -9,7 +9,7 @@ file_dpath: Monsters/Giants/Statblocks
 free_strike: 8
 intuition: 2
 item_id: basalt-stone-giant
-item_index: '196'
+item_index: '05'
 item_name: Basalt Stone Giant
 level: 8
 might: 4
@@ -18,15 +18,15 @@ reason: 1
 roles:
   - Elite Controller
 scc:
-  - mcdm.monsters.v1:monster:basalt-stone-giant
+  - mcdm.monsters.v1:monster.giants.statblock:basalt-stone-giant
 scdc:
-  - 1.1.1:2:196
+  - 1.1.1:2.23.1:05
 size: '4'
 source: mcdm.monsters.v1
 speed: 7
 stability: 10
 stamina: '207'
-type: monster
+type: monster/giants/statblock
 ---
 
 ###### Basalt Stone Giant
@@ -34,7 +34,7 @@ type: monster
 | Giant, Stone Giant  |            -             |       Level 8        |    Elite Controller     |         EV 40          |
 | :-----------------: | :----------------------: | :------------------: | :---------------------: | :--------------------: |
 |   **4**<br/> Size   |     **7**<br/> Speed     | **207**<br/> Stamina |  **10**<br/> Stability  | **8**<br/> Free Strike |
-| **-**<br/> Immunity | **Burrow**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **Burrow**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |  **+4**<br/> Might  |   **+2**<br/> Agility    |  **+1**<br/> Reason  |  **+2**<br/> Intuition  |  **+1**<br/> Presence  |
 
 <!-- -->
@@ -74,7 +74,7 @@ type: monster
 > | ----------- | -----------: |
 > | **📏 Self** |  **🎯 Self** |
 >
-> **Effect:** The basalt stone giant moves up to their speed. Each square that they leave during this move is difficult terrain for enemies Giants ignore this difficult terrain.
+> **Effect:** The basalt stone giant moves up to their speed. Each square that they leave during this move is difficult terrain for enemies. Giants ignore this difficult terrain.
 
 <!-- -->
 > ❗️ **Resonate Rune**
@@ -95,7 +95,7 @@ type: monster
 <!-- -->
 > ⭐️ **Stone Steps**
 >
-> The basalt stone giant ignores difficult terrain
+> The basalt stone giant ignores difficult terrain.
 
 <!-- -->
 > ⭐️ **Stone Swim**

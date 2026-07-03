@@ -9,7 +9,7 @@ file_dpath: Monsters/Rivals/4th Echelon/Statblocks
 free_strike: 10
 intuition: 2
 item_id: rival-fury
-item_index: '29'
+item_index: '02'
 item_name: Rival Fury
 level: 10
 might: 5
@@ -18,15 +18,15 @@ reason: 0
 roles:
   - Elite Brute
 scc:
-  - mcdm.monsters.v1:monster:rival-fury
+  - mcdm.monsters.v1:monster.rivals.4th echelon.statblock:rival-fury
 scdc:
-  - 1.1.1:2:29
+  - 1.1.1:2.5.4.1:02
 size: 1M
 source: mcdm.monsters.v1
 speed: 5
 stability: 3
 stamina: '260'
-type: monster
+type: monster/rivals/4th echelon/statblock
 ---
 
 ###### Rival Fury
@@ -34,7 +34,7 @@ type: monster
 |   Humanoid, Rival   |          -          |       Level 10       |       Elite Brute       |          EV 48          |
 | :-----------------: | :-----------------: | :------------------: | :---------------------: | :---------------------: |
 |  **1M**<br/> Size   |  **5**<br/> Speed   | **260**<br/> Stamina |  **3**<br/> Stability   | **10**<br/> Free Strike |
-| **-**<br/> Immunity | **-**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **-**<br/> Movement |          -           | **-**<br/> With Captain |   **-**<br/> Weakness   |
 |  **+5**<br/> Might  | **+4**<br/> Agility |  **0**<br/> Reason   |  **+2**<br/> Intuition  |  **+3**<br/> Presence   |
 
 <!-- -->

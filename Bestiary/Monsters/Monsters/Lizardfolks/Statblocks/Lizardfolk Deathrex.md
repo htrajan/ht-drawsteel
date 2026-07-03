@@ -9,7 +9,7 @@ file_dpath: Monsters/Lizardfolks/Statblocks
 free_strike: 4
 intuition: 1
 item_id: lizardfolk-deathrex
-item_index: '46'
+item_index: '01'
 item_name: Lizardfolk Deathrex
 level: 1
 might: 3
@@ -18,15 +18,15 @@ reason: 0
 roles:
   - Leader
 scc:
-  - mcdm.monsters.v1:monster:lizardfolk-deathrex
+  - mcdm.monsters.v1:monster.lizardfolks.statblock:lizardfolk-deathrex
 scdc:
-  - 1.1.1:2:46
+  - 1.1.1:2.7.1:01
 size: '2'
 source: mcdm.monsters.v1
 speed: 5
 stability: 2
 stamina: '80'
-type: monster
+type: monster/lizardfolks/statblock
 ---
 
 ###### Lizardfolk Deathrex
@@ -34,7 +34,7 @@ type: monster
 | Humanoid, Lizardfolk |               -               |       Level 1       |         Leader          |         EV 12          |
 | :------------------: | :---------------------------: | :-----------------: | :---------------------: | :--------------------: |
 |   **2**<br/> Size    |       **5**<br/> Speed        | **80**<br/> Stamina |  **2**<br/> Stability   | **4**<br/> Free Strike |
-| **-**<br/> Immunity  | **Climb, swim**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity  | **Climb, swim**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |  **+3**<br/> Might   |      **+2**<br/> Agility      |  **0**<br/> Reason  |  **+1**<br/> Intuition  |  **+2**<br/> Presence  |
 
 <!-- -->
@@ -59,7 +59,7 @@ type: monster
 > | ------------------------- | ------------------------------------: |
 > | **📏 Melee 1**            | **🎯 One grabbed creature or object** |
 >
-> **Power Roll + 2:**
+> **Power Roll + 3:**
 >
 > - **≤11:** 8 damage; M < 1 dazed (save ends)
 > - **12-16:** 12 damage; M < 2 dazed (save ends)
@@ -110,10 +110,11 @@ type: monster
 >
 > **Effect:** The deathrex shifts up to their speed, leaving behind a shed skin duplicate in the space they started in. The duplicate acts on the deathrex's turn and has the deathrex's characteristics, but has 10 Stamina and no villain actions.
 
-☠️ **Thresher Thrasher (Villain Action 3)**
-
-| **Area**        |                                 **-** |
-| --------------- | ------------------------------------: |
-| **📏 10 burst** | **🎯 Self and each ally in the area** |
-
-**Effect:** Each target moves up to their speed. Until the end of the encounter, whenever a creature comes adjacent to a target or starts their turn there, the target can make a free strike against them.
+<!-- -->
+> ☠️ **Thresher Thrasher (Villain Action 3)**
+>
+> | **Area**        |                                 **-** |
+> | --------------- | ------------------------------------: |
+> | **📏 10 burst** | **🎯 Self and each ally in the area** |
+>
+> **Effect:** Each target moves up to their speed. Until the end of the encounter, whenever a creature comes adjacent to a target or starts their turn there, the target can make a free strike against them.

@@ -9,7 +9,7 @@ file_dpath: Monsters/Orcs/Statblocks
 free_strike: 4
 intuition: 1
 item_id: orc-terranova
-item_index: '130'
+item_index: 08
 item_name: Orc Terranova
 level: 2
 might: 1
@@ -18,15 +18,15 @@ reason: 0
 roles:
   - Platoon Controller
 scc:
-  - mcdm.monsters.v1:monster:orc-terranova
+  - mcdm.monsters.v1:monster.orcs.statblock:orc-terranova
 scdc:
-  - 1.1.1:2:130
+  - 1.1.1:2.16.1:08
 size: 1M
 source: mcdm.monsters.v1
 speed: 6
 stability: 2
 stamina: '30'
-type: monster
+type: monster/orcs/statblock
 ---
 
 ###### Orc Terranova
@@ -34,7 +34,7 @@ type: monster
 |    Humanoid, Orc    |            -             |       Level 2       |   Platoon Controller    |          EV 8          |
 | :-----------------: | :----------------------: | :-----------------: | :---------------------: | :--------------------: |
 |  **1M**<br/> Size   |     **6**<br/> Speed     | **30**<br/> Stamina |  **2**<br/> Stability   | **4**<br/> Free Strike |
-| **-**<br/> Immunity | **Burrow**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **Burrow**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |  **+1**<br/> Might  |   **+1**<br/> Agility    | **+0**<br/> Reason  |  **+1**<br/> Intuition  |  **+2**<br/> Presence  |
 
 <!-- -->
@@ -65,7 +65,7 @@ type: monster
 > - **12-16:** 7 damage; M < 1 restrained (save ends)
 > - **17+:** 10 damage; M < 2 restrained (save ends)
 >
-> **Effect:** The area is difficult terrain
+> **Effect:** The area is difficult terrain.
 
 <!-- -->
 > ⭐️ **Seismic Step**

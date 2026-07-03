@@ -10,7 +10,7 @@ file_dpath: Monsters/Minotaurs/Statblocks
 free_strike: 6
 intuition: 2
 item_id: minotaur-sunderer
-item_index: '175'
+item_index: '04'
 item_name: Minotaur Sunderer
 level: 3
 might: 2
@@ -19,15 +19,15 @@ reason: 0
 roles:
   - Elite Brute
 scc:
-  - mcdm.monsters.v1:monster:minotaur-sunderer
+  - mcdm.monsters.v1:monster.minotaurs.statblock:minotaur-sunderer
 scdc:
-  - 1.1.1:2:175
+  - 1.1.1:2.21.1:04
 size: '2'
 source: mcdm.monsters.v1
 speed: 6
 stability: 2
 stamina: '120'
-type: monster
+type: monster/minotaurs/statblock
 ---
 
 ###### Minotaur Sunderer
@@ -35,7 +35,7 @@ type: monster
 | Accursed, Humanoid, Minotaur |          -          |       Level 3        |       Elite Brute       |         EV 20          |
 | :--------------------------: | :-----------------: | :------------------: | :---------------------: | :--------------------: |
 |       **2**<br/> Size        |  **6**<br/> Speed   | **120**<br/> Stamina |  **2**<br/> Stability   | **6**<br/> Free Strike |
-|     **-**<br/> Immunity      | **-**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+|     **-**<br/> Immunity      | **-**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |      **+2**<br/> Might       | **+1**<br/> Agility |  **0**<br/> Reason   |  **+2**<br/> Intuition  |  **-1**<br/> Presence  |
 
 <!-- -->

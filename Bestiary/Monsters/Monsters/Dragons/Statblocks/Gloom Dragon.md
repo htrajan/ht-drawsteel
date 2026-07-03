@@ -9,7 +9,7 @@ file_dpath: Monsters/Dragons/Statblocks
 free_strike: 6
 intuition: 3
 item_id: gloom-dragon
-item_index: '344'
+item_index: '02'
 item_name: Gloom Dragon
 level: 4
 might: 2
@@ -18,15 +18,15 @@ reason: 1
 roles:
   - Solo
 scc:
-  - mcdm.monsters.v1:monster:gloom-dragon
+  - mcdm.monsters.v1:monster.dragons.statblock:gloom-dragon
 scdc:
-  - 1.1.1:2:344
+  - 1.1.1:2.47.1:02
 size: '4'
 source: mcdm.monsters.v1
 speed: 8
 stability: 2
 stamina: '350'
-type: monster
+type: monster/dragons/statblock
 ---
 
 ###### Gloom Dragon
@@ -34,7 +34,7 @@ type: monster
 |      Dragon, Elemental      |              -               |       Level 4        |          Solo           |         EV 72          |
 | :-------------------------: | :--------------------------: | :------------------: | :---------------------: | :--------------------: |
 |       **4**<br/> Size       |       **8**<br/> Speed       | **350**<br/> Stamina |  **2**<br/> Stability   | **6**<br/> Free Strike |
-| **Psychic 5**<br/> Immunity | **Fly, hover**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Psychic 5**<br/> Immunity | **Fly, hover**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |      **+2**<br/> Might      |     **+4**<br/> Agility      |  **+1**<br/> Reason  |  **+3**<br/> Intuition  |  **+4**<br/> Presence  |
 
 <!-- -->

@@ -2,12 +2,12 @@
 file_basename: Olothec Malice
 file_dpath: Monsters/Olothec/Features
 item_id: olothec-malice-malice-features
-item_index: '10'
+item_index: '13'
 item_name: Olothec Malice (Malice Features)
 scc:
   - mcdm.monsters.v1:monster.feature:olothec-malice-malice-features
 scdc:
-  - 1.1.1:2.2:10
+  - 1.1.1:2.2:13
 source: mcdm.monsters.v1
 type: monster/feature
 ---
@@ -39,4 +39,4 @@ At the start of an olothec's turn, you can spend Malice to activate one of the f
 <!-- -->
 > ❇️ **Memory of Chaos (6 Malice)**
 >
-> The olothec broadcasts their memory of the universe in its primordial state-a sweeping cacophony of transcendental irrationality and unceasing change. Until the end of the encounter, any creature who starts their turn within 3 squares of the olothec and has R < 3 is dazed and slowed until the end of their next turn).
+> The olothec broadcasts their memory of the universe in its primordial state—a sweeping cacophony of transcendental irrationality and unceasing change. Until the end of the encounter, any creature who starts their turn within 3 squares of the olothec and has R < 3 is dazed and slowed until the end of their next turn).

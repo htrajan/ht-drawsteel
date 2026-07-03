@@ -9,7 +9,7 @@ file_dpath: Monsters/Devils/Statblocks
 free_strike: 7
 intuition: 1
 item_id: devil-adjudicator
-item_index: '297'
+item_index: '02'
 item_name: Devil Adjudicator
 level: 6
 might: 0
@@ -18,15 +18,15 @@ reason: 2
 roles:
   - Elite Controller
 scc:
-  - mcdm.monsters.v1:monster:devil-adjudicator
+  - mcdm.monsters.v1:monster.devils.statblock:devil-adjudicator
 scdc:
-  - 1.1.1:2:297
+  - 1.1.1:2.39.1:02
 size: 1M
 source: mcdm.monsters.v1
 speed: 6
 stability: 1
 stamina: '140'
-type: monster
+type: monster/devils/statblock
 ---
 
 ###### Devil Adjudicator
@@ -34,7 +34,7 @@ type: monster
 |     Devil, Infernal      |           -           |       Level 6        |    Elite Controller     |         EV 32          |
 | :----------------------: | :-------------------: | :------------------: | :---------------------: | :--------------------: |
 |     **1M**<br/> Size     |   **6**<br/> Speed    | **140**<br/> Stamina |  **1**<br/> Stability   | **7**<br/> Free Strike |
-| **Fire 5**<br/> Immunity | **Fly**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Fire 5**<br/> Immunity | **Fly**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |    **+0**<br/> Might     |  **+1**<br/> Agility  |  **+2**<br/> Reason  |  **+1**<br/> Intuition  |  **+3**<br/> Presence  |
 
 <!-- -->
@@ -59,7 +59,7 @@ type: monster
 > | ----------------- | ------------------: |
 > | **📏 Ranged 10**  | **🎯 One creature** |
 >
-> **Effect:** The target makes a Presence test
+> **Effect:** The target makes a Presence test.
 >
 > - **≤11:** The target is slowed, takes a bane on power rolls, and can't regain Stamina (save ends).
 > - **12-16:** The target is slowed and takes a bane on power rolls (save ends).
@@ -83,11 +83,11 @@ type: monster
 >
 > **Trigger:** A creature targets the adjudicator with a strike.
 >
-> **Effect:** The target makes a Presence test
-
-- **≤11:** The adjudicator chooses a new target for the strike.
-- **12-16:** The adjudicator halves the triggering damage.
-- **17+:** The target takes a bane on the strike.
+> **Effect:** The target makes a Presence test.
+>
+> - **≤11:** The adjudicator chooses a new target for the strike.
+> - **12-16:** The adjudicator halves the triggering damage.
+> - **17+:** The target takes a bane on the strike.
 
 <!-- -->
 > ⭐️ **Vexatious Litigation**

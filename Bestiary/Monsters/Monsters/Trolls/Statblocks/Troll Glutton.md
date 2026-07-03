@@ -9,7 +9,7 @@ file_dpath: Monsters/Trolls/Statblocks
 free_strike: 7
 intuition: 0
 item_id: troll-glutton
-item_index: '411'
+item_index: '03'
 item_name: Troll Glutton
 level: 5
 might: 3
@@ -18,24 +18,24 @@ reason: -1
 roles:
   - Elite Brute
 scc:
-  - mcdm.monsters.v1:monster:troll-glutton
+  - mcdm.monsters.v1:monster.trolls.statblock:troll-glutton
 scdc:
-  - 1.1.1:2:411
+  - 1.1.1:2.53.1:03
 size: '2'
 source: mcdm.monsters.v1
 speed: 6
 stability: 4
 stamina: '160'
-type: monster
+type: monster/trolls/statblock
 ---
 
 ###### Troll Glutton
 
-|    Giant, Troll     |          -          |       Level 5        |       Elite Brute       |              EV 28               |
-| :-----------------: | :-----------------: | :------------------: | :---------------------: | :------------------------------: |
-|   **2**<br/> Size   |  **6**<br/> Speed   | **160**<br/> Stamina |  **4**<br/> Stability   |      **7**<br/> Free Strike      |
-| **-**<br/> Immunity | **-**<br/> Movement |          -           | **-**<br/> With Captain | **Acid 5, fire**<br/> Weaknesses |
-|  **+3**<br/> Might  | **+1**<br/> Agility |  **-1**<br/> Reason  |  **0**<br/> Intuition   |       **+1**<br/> Presence       |
+|    Giant, Troll     |          -          |       Level 5        |       Elite Brute       |             EV 28              |
+| :-----------------: | :-----------------: | :------------------: | :---------------------: | :----------------------------: |
+|   **2**<br/> Size   |  **6**<br/> Speed   | **160**<br/> Stamina |  **4**<br/> Stability   |     **7**<br/> Free Strike     |
+| **-**<br/> Immunity | **-**<br/> Movement |          -           | **-**<br/> With Captain | **Acid 5, fire**<br/> Weakness |
+|  **+3**<br/> Might  | **+1**<br/> Agility |  **-1**<br/> Reason  |  **0**<br/> Intuition   |      **+1**<br/> Presence      |
 
 <!-- -->
 > 🗡 **Voracious Mastication (Signature Ability)**
@@ -68,7 +68,7 @@ type: monster
 > | ----------- | -----------: |
 > | **📏 Self** |  **🎯 Self** |
 >
-> **Effect:** Until the start of their next turn, the glutton has a double edge on strikes, and strikes made against them gain an edge
+> **Effect:** Until the start of their next turn, the glutton has a double edge on strikes, and strikes made against them gain an edge.
 
 <!-- -->
 > ❗️ **Spiteful Retort (1 Malice)**
@@ -89,4 +89,4 @@ type: monster
 <!-- -->
 > ⭐️ **Relentless Hunger**
 >
-> The glutton dies only if they are reduced to 0 Stamina by acid or fire damage, if they end their turn with 0 Stamina, or if they take acid or fire damage while at 0 Stamina
+> The glutton dies only if they are reduced to 0 Stamina by acid or fire damage, if they end their turn with 0 Stamina, or if they take acid or fire damage while at 0 Stamina.

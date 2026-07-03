@@ -74,7 +74,7 @@ Undead are often encountered in groups that include more than just a single kind
 
 ### Corporeal Undead
 
-At their most innocuous, corporeal undead are a mockery of life, a body hoisted and dragged along by unnatural strings. At their worst, they are a violent scourge hungry for slaughter, and a perverse reflection of the mortal desire to exist for eternity. Ghouls, skeletons, soulwights, and zombies number among the lesser corporeal undead. Many lack a soul, and many can't think beyond the orders of their creators-unlike more powerful corporeal undead such as liches and vampires. Those who aren't controlled by others typically have a singular focus: the destruction of all living things.
+At their most innocuous, corporeal undead are a mockery of life, a body hoisted and dragged along by unnatural strings. At their worst, they are a violent scourge hungry for slaughter, and a perverse reflection of the mortal desire to exist for eternity. Ghouls, skeletons, soulwights, and zombies number among the lesser corporeal undead. Many lack a soul, and many can't think beyond the orders of their creators—unlike more powerful corporeal undead such as liches and vampires. Those who aren't controlled by others typically have a singular focus: the destruction of all living things.
 
 The magic that animates a corpse removes the need for air, sleep, and sustenance. This magic also halts decay, preserving the undead at the stage of deterioration before they were animated. While most corporeal undead are brought to unlife by a creator, tales abound of zombies suddenly rising from graveyards during rare astronomical occurrences, skeletal soldiers emerging from mass graves on the anniversary of their death, and other seemingly spontaneous acts of necromancy.
 
@@ -114,7 +114,7 @@ At the start of any undead's turn, you can spend Malice to activate one of the f
 <!-- -->
 > 🔳 **The Grasping, the Hungry (5 Malice)**
 >
-> Ravenous and rotting undead arms burst forth from 9 connected squares of a vertical or horizontal surface. Any creature who ends their turn adjacent to an affected square makes an Agility test.
+> Ravenous and rotting undead arms burst forth from 9 connected squares of a vertical or horizontal surface. Any creature who ends their turn adjacent to an affected square makes an **Agility test**.
 >
 > - **≤11:** 5 damage; restrained (save ends)
 > - **12-16:** 5 damage; restrained (EoT)
@@ -132,7 +132,7 @@ At the start of any undead's turn, you can spend Malice to activate one of the f
 |             Undead, Soulless             |            -            |      Level 1       |             Minion Harrier              | EV 3 for four minions  |
 | :--------------------------------------: | :---------------------: | :----------------: | :-------------------------------------: | :--------------------: |
 |             **1T**<br/> Size             |    **6**<br/> Speed     | **4**<br/> Stamina |          **0**<br/> Stability           | **1**<br/> Free Strike |
-| **Corruption 1, poison 1**<br/> Immunity | **Climb**<br/> Movement |         -          | **+2 bonus to speed**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Corruption 1, poison 1**<br/> Immunity | **Climb**<br/> Movement |         -          | **+2 bonus to speed**<br/> With Captain |  **-**<br/> Weakness   |
 |             **0**<br/> Might             |   **+2**<br/> Agility   | **-5**<br/> Reason |          **-1**<br/> Intuition          |  **-1**<br/> Presence  |
 
 <!-- -->
@@ -153,14 +153,14 @@ At the start of any undead's turn, you can spend Malice to activate one of the f
 <!-- -->
 > ⭐️ **Disorganized**
 >
-> Allies can't flank with the crawling cla.
+> Allies can't flank with the crawling claw.
 
 ###### Decrepit Skeleton
 
 |             Undead, Soulless             |          -          |      Level 1       |               Minion Artillery                | EV 3 for four minions  |
 | :--------------------------------------: | :-----------------: | :----------------: | :-------------------------------------------: | :--------------------: |
 |             **1M**<br/> Size             |  **5**<br/> Speed   | **3**<br/> Stamina |             **0**<br/> Stability              | **2**<br/> Free Strike |
-| **Corruption 1, poison 1**<br/> Immunity | **-**<br/> Movement |         -          | **Gain an edge on strikes**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Corruption 1, poison 1**<br/> Immunity | **-**<br/> Movement |         -          | **Gain an edge on strikes**<br/> With Captain |  **-**<br/> Weakness   |
 |             **0**<br/> Might             | **+2**<br/> Agility | **-2**<br/> Reason |             **0**<br/> Intuition              |  **-2**<br/> Presence  |
 
 <!-- -->
@@ -188,7 +188,7 @@ At the start of any undead's turn, you can spend Malice to activate one of the f
 |             Undead, Soulless             |          -          |      Level 1       |                   Minion Brute                   | EV 3 for four minions  |
 | :--------------------------------------: | :-----------------: | :----------------: | :----------------------------------------------: | :--------------------: |
 |             **1M**<br/> Size             |  **4**<br/> Speed   | **5**<br/> Stamina |               **0**<br/> Stability               | **2**<br/> Free Strike |
-| **Corruption 1, poison 1**<br/> Immunity | **-**<br/> Movement |         -          | **+1 damage bonus to strikes**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Corruption 1, poison 1**<br/> Immunity | **-**<br/> Movement |         -          | **+1 damage bonus to strikes**<br/> With Captain |  **-**<br/> Weakness   |
 |            **+2**<br/> Might             | **-2**<br/> Agility | **-5**<br/> Reason |              **-2**<br/> Intuition               |  **-3**<br/> Presence  |
 
 <!-- -->
@@ -207,14 +207,14 @@ At the start of any undead's turn, you can spend Malice to activate one of the f
 <!-- -->
 > ⭐️ **Death Grasp**
 >
-> When the rotting zombie is reduced to 0 Stamina, their space is difficult terrain. The first time any enemy who has M < 2 enters this space, they are slowed (save ends) and the effect end.
+> When the rotting zombie is reduced to 0 Stamina, their space is difficult terrain. The first time any enemy who has M < 2 enters this space, they are slowed (save ends) and the effect ends.
 
 ###### Shade
 
 |                  Undead                  |              -               |      Level 1       |             Minion Ambusher             | EV 3 for four minions  |
 | :--------------------------------------: | :--------------------------: | :----------------: | :-------------------------------------: | :--------------------: |
 |             **1M**<br/> Size             |       **5**<br/> Speed       | **4**<br/> Stamina |          **1**<br/> Stability           | **2**<br/> Free Strike |
-| **Corruption 1, poison 1**<br/> Immunity | **Fly, hover**<br/> Movement |         -          | **+2 bonus to speed**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Corruption 1, poison 1**<br/> Immunity | **Fly, hover**<br/> Movement |         -          | **+2 bonus to speed**<br/> With Captain |  **-**<br/> Weakness   |
 |            **-5**<br/> Might             |     **+1**<br/> Agility      | **0**<br/> Reason  |          **0**<br/> Intuition           |  **+2**<br/> Presence  |
 
 <!-- -->
@@ -240,7 +240,7 @@ At the start of any undead's turn, you can spend Malice to activate one of the f
 |                  Undead                  |          -          |       Level 1       |      Horde Harrier      |          EV 3          |
 | :--------------------------------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |             **1M**<br/> Size             |  **7**<br/> Speed   | **15**<br/> Stamina |  **0**<br/> Stability   | **1**<br/> Free Strike |
-| **Corruption 1, poison 1**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Corruption 1, poison 1**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |             **0**<br/> Might             | **+2**<br/> Agility | **-2**<br/> Reason  |  **0**<br/> Intuition   |  **-1**<br/> Presence  |
 
 <!-- -->
@@ -280,7 +280,7 @@ At the start of any undead's turn, you can spend Malice to activate one of the f
 |             Undead, Soulless             |          -          |       Level 1       |     Horde Artillery     |          EV 3          |
 | :--------------------------------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |             **1M**<br/> Size             |  **5**<br/> Speed   | **10**<br/> Stamina |  **0**<br/> Stability   | **2**<br/> Free Strike |
-| **Corruption 1, poison 1**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Corruption 1, poison 1**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |             **0**<br/> Might             | **+2**<br/> Agility | **+1**<br/> Reason  |  **0**<br/> Intuition   |  **-1**<br/> Presence  |
 
 <!-- -->
@@ -296,7 +296,7 @@ At the start of any undead's turn, you can spend Malice to activate one of the f
 > - **12-16:** 6 damage
 > - **17+:** 7 damage
 >
-> **Effect:** Until the start of the skeleton's next turn, the target takes 2 damage the first time they willingly move on their turn
+> **Effect:** Until the start of the skeleton's next turn, the target takes 2 damage the first time they willingly move on their turn.
 
 <!-- -->
 > ❇️ **Bone Spur (2 Malice)**
@@ -323,7 +323,7 @@ At the start of any undead's turn, you can spend Malice to activate one of the f
 |                  Undead                  |              -               |       Level 1       |       Horde Hexer       |          EV 3          |
 | :--------------------------------------: | :--------------------------: | :-----------------: | :---------------------: | :--------------------: |
 |             **1M**<br/> Size             |       **5**<br/> Speed       | **10**<br/> Stamina |  **1**<br/> Stability   | **1**<br/> Free Strike |
-| **Corruption 1, poison 1**<br/> Immunity | **Fly, hover**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Corruption 1, poison 1**<br/> Immunity | **Fly, hover**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |            **-5**<br/> Might             |     **+1**<br/> Agility      | **+0**<br/> Reason  |  **+0**<br/> Intuition  |  **+2**<br/> Presence  |
 
 <!-- -->
@@ -360,7 +360,7 @@ At the start of any undead's turn, you can spend Malice to activate one of the f
 |                  Undead                  |          -          |       Level 1       |       Horde Hexer       |          EV 3          |
 | :--------------------------------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |             **1M**<br/> Size             |  **5**<br/> Speed   | **10**<br/> Stamina |  **0**<br/> Stability   | **1**<br/> Free Strike |
-| **Corruption 1, poison 1**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Corruption 1, poison 1**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |            **+2**<br/> Might             | **+1**<br/> Agility |  **0**<br/> Reason  |  **0**<br/> Intuition   |  **+1**<br/> Presence  |
 
 <!-- -->
@@ -397,7 +397,7 @@ At the start of any undead's turn, you can spend Malice to activate one of the f
 |                  Undead                  |            -            |       Level 1       |     Horde Ambusher      |          EV 3          |
 | :--------------------------------------: | :---------------------: | :-----------------: | :---------------------: | :--------------------: |
 |             **1M**<br/> Size             |    **7**<br/> Speed     | **15**<br/> Stamina |  **1**<br/> Stability   | **2**<br/> Free Strike |
-| **Corruption 1, poison 1**<br/> Immunity | **Climb**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Corruption 1, poison 1**<br/> Immunity | **Climb**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |             **0**<br/> Might             |   **+2**<br/> Agility   |  **0**<br/> Reason  |  **0**<br/> Intuition   |  **+1**<br/> Presence  |
 
 <!-- -->
@@ -426,7 +426,7 @@ At the start of any undead's turn, you can spend Malice to activate one of the f
 > - **12-16:** 3 cold damage
 > - **17+:** 4 cold damage
 >
-> **Effect:** Until the end of the stalker's next turn, the area provides concealment, and blocks line of effect for enemies
+> **Effect:** Until the end of the stalker's next turn, the area provides concealment, and blocks line of effect for enemies.
 
 <!-- -->
 > 👤 **Shadow Jump (1 Malice)**
@@ -447,7 +447,7 @@ At the start of any undead's turn, you can spend Malice to activate one of the f
 |             Undead, Soulless             |          -          |       Level 1       |       Horde Brute       |          EV 3          |
 | :--------------------------------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |             **1M**<br/> Size             |  **5**<br/> Speed   | **20**<br/> Stamina |  **1**<br/> Stability   | **2**<br/> Free Strike |
-| **Corruption 1, poison 1**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Corruption 1, poison 1**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |            **+2**<br/> Might             | **+1**<br/> Agility | **-5**<br/> Reason  |  **-2**<br/> Intuition  |  **+1**<br/> Presence  |
 
 <!-- -->
@@ -463,7 +463,7 @@ At the start of any undead's turn, you can spend Malice to activate one of the f
 > - **12-16:** 6 damage
 > - **17+:** 7 damage; grabbed
 >
-> **Effect:** A target who starts their turn grabbed by the zombie takes 2 corruption damage. A creature who takes 5 or more corruption damage this way becomes insatiably hungry for flesh, and must complete the Find a Cure downtime project in Draw Steel: Heroes to end this effect
+> **Effect:** A target who starts their turn grabbed by the zombie takes 2 corruption damage. A creature who takes 5 or more corruption damage this way becomes insatiably hungry for flesh, and must complete the Find a Cure downtime project in Draw Steel: Heroes to end this effect.
 
 <!-- -->
 > ❇️ **Zombie Dust (3 Malice)**
@@ -483,14 +483,14 @@ At the start of any undead's turn, you can spend Malice to activate one of the f
 <!-- -->
 > ⭐️ **Endless Knight**
 >
-> The first time the zombie is reduced to 0 Stamina by damage that isn't fire damage or holy damage and their body isn't destroyed, they instead have 10 Stamina and fall prone
+> The first time the zombie is reduced to 0 Stamina by damage that isn't fire damage or holy damage and their body isn't destroyed, they instead have 10 Stamina and fall prone.
 
 ###### Ghost
 
 |                  Undead                  |              -               |       Level 1       |         Leader          |         EV 12          |
 | :--------------------------------------: | :--------------------------: | :-----------------: | :---------------------: | :--------------------: |
 |             **1M**<br/> Size             |       **6**<br/> Speed       | **80**<br/> Stamina |  **1**<br/> Stability   | **4**<br/> Free Strike |
-| **Corruption 3, poison 3**<br/> Immunity | **Fly, hover**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Corruption 3, poison 3**<br/> Immunity | **Fly, hover**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |            **-2**<br/> Might             |     **+2**<br/> Agility      |  **0**<br/> Reason  |  **0**<br/> Intuition   |  **+3**<br/> Presence  |
 
 <!-- -->
@@ -515,7 +515,7 @@ At the start of any undead's turn, you can spend Malice to activate one of the f
 > | --------------- | -------------------------------------------: |
 > | **📏 Ranged 8** | **🎯 Self or one ally with a Phasing trait** |
 >
-> **Effect:** The target shifts up to their speed
+> **Effect:** The target shifts up to their speed.
 >
 > **2 Malice:** The ghost chooses one additional target.
 
@@ -557,7 +557,7 @@ At the start of any undead's turn, you can spend Malice to activate one of the f
 > - **12-16:** P < 2 the target is levitated (EoT)
 > - **17+:** P < 3 the target is levitated until the end of the encounter
 >
-> **Effect:** A levitated target floats 1 square off the ground when first affected, then rises 1 square at the end of each of their turns. If a levitated target can't already fly, they can fly but are slowed and weakened while flying this way
+> **Effect:** A levitated target floats 1 square off the ground when first affected, then rises 1 square at the end of each of their turns. If a levitated target can't already fly, they can fly but are slowed and weakened while flying this way.
 
 <!-- -->
 > ☠️ **Awful Wail (Villain Action 3)**
@@ -618,7 +618,7 @@ At the start of any level 4 or higher undead's turn, you can spend Malice to act
 |             Undead, Soulless             |          -          |      Level 4       |                   Minion Brute                   | EV 6 for four minions  |
 | :--------------------------------------: | :-----------------: | :----------------: | :----------------------------------------------: | :--------------------: |
 |             **1M**<br/> Size             |  **5**<br/> Speed   | **9**<br/> Stamina |               **0**<br/> Stability               | **3**<br/> Free Strike |
-| **Corruption 4, poison 4**<br/> Immunity | **-**<br/> Movement |         -          | **+2 damage bonus to strikes**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Corruption 4, poison 4**<br/> Immunity | **-**<br/> Movement |         -          | **+2 damage bonus to strikes**<br/> With Captain |  **-**<br/> Weakness   |
 |            **+3**<br/> Might             | **-1**<br/> Agility | **0**<br/> Reason  |               **0**<br/> Intuition               |  **0**<br/> Presence   |
 
 <!-- -->
@@ -646,7 +646,7 @@ At the start of any level 4 or higher undead's turn, you can spend Malice to act
 |                  Undead                  |            -            |      Level 4       |                  Minion Harrier                  | EV 6 for four minions  |
 | :--------------------------------------: | :---------------------: | :----------------: | :----------------------------------------------: | :--------------------: |
 |             **1M**<br/> Size             |    **7**<br/> Speed     | **8**<br/> Stamina |               **0**<br/> Stability               | **2**<br/> Free Strike |
-| **Corruption 4, poison 4**<br/> Immunity | **Climb**<br/> Movement |         -          | **+2 damage bonus to strikes**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Corruption 4, poison 4**<br/> Immunity | **Climb**<br/> Movement |         -          | **+2 damage bonus to strikes**<br/> With Captain |  **-**<br/> Weakness   |
 |            **+3**<br/> Might             |   **+2**<br/> Agility   | **0**<br/> Reason  |               **0**<br/> Intuition               |  **0**<br/> Presence   |
 
 <!-- -->
@@ -667,7 +667,7 @@ At the start of any level 4 or higher undead's turn, you can spend Malice to act
 <!-- -->
 > ⭐️ **Ever So Hungry**
 >
-> Any enemy adjacent to three or more ghoul cravers can't shift
+> Any enemy adjacent to three or more ghoul cravers can't shift.
 
 <!-- -->
 > ⭐️ **Hunger**
@@ -679,7 +679,7 @@ At the start of any level 4 or higher undead's turn, you can spend Malice to act
 |             Undead, Soulless             |          -          |      Level 4       |                 Minion Artillery                  | EV 6 for four minions  |
 | :--------------------------------------: | :-----------------: | :----------------: | :-----------------------------------------------: | :--------------------: |
 |             **1M**<br/> Size             |  **5**<br/> Speed   | **7**<br/> Stamina |               **0**<br/> Stability                | **3**<br/> Free Strike |
-| **Corruption 4, poison 4**<br/> Immunity | **-**<br/> Movement |         -          | **+5 bonus to ranged distance**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Corruption 4, poison 4**<br/> Immunity | **-**<br/> Movement |         -          | **+5 bonus to ranged distance**<br/> With Captain |  **-**<br/> Weakness   |
 |            **-2**<br/> Might             | **+3**<br/> Agility | **0**<br/> Reason  |               **0**<br/> Intuition                |  **0**<br/> Presence   |
 
 <!-- -->
@@ -700,14 +700,14 @@ At the start of any level 4 or higher undead's turn, you can spend Malice to act
 <!-- -->
 > ⭐️ **Brittle Revenge**
 >
-> The hollowbone launcher explodes when they are reduced to 0 Stamina, dealing 2 damage to each adjacent creature
+> The hollowbone launcher explodes when they are reduced to 0 Stamina, dealing 2 damage to each adjacent creature.
 
 ###### Flesh Mournling
 
 |                  Undead                  |          -          |       Level 4       |     Horde Defender      |          EV 6          |
 | :--------------------------------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |             **2**<br/> Size              |  **6**<br/> Speed   | **35**<br/> Stamina |  **2**<br/> Stability   | **2**<br/> Free Strike |
-| **Corruption 4, poison 4**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Corruption 4, poison 4**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |            **+3**<br/> Might             | **+1**<br/> Agility |  **0**<br/> Reason  |  **+2**<br/> Intuition  |  **-1**<br/> Presence  |
 
 <!-- -->
@@ -723,7 +723,7 @@ At the start of any level 4 or higher undead's turn, you can spend Malice to act
 > - **12-16:** 7 damage
 > - **17+:** 9 damage
 >
-> **Effect:** The target can't shift until the end of their next turn
+> **Effect:** The target can't shift until the end of their next turn.
 >
 > **1 Malice:** This ability targets one additional target.
 
@@ -757,7 +757,7 @@ At the start of any level 4 or higher undead's turn, you can spend Malice to act
 |             Undead, Soulless             |          -          |       Level 4        |       Elite Brute       |         EV 24          |
 | :--------------------------------------: | :-----------------: | :------------------: | :---------------------: | :--------------------: |
 |             **3**<br/> Size              |  **6**<br/> Speed   | **140**<br/> Stamina |  **2**<br/> Stability   | **6**<br/> Free Strike |
-| **Corruption 4, poison 4**<br/> Immunity | **-**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Corruption 4, poison 4**<br/> Immunity | **-**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |            **+3**<br/> Might             | **-1**<br/> Agility |  **-2**<br/> Reason  |  **+1**<br/> Intuition  |  **+2**<br/> Presence  |
 
 <!-- -->
@@ -792,15 +792,15 @@ At the start of any level 4 or higher undead's turn, you can spend Malice to act
 <!-- -->
 > ⭐️ **Negative Nerves**
 >
-> When the giant zombie is targeted by an ability that deals rolled damage, they halve the damage from a tier 1 outcome
+> When the giant zombie is targeted by an ability that deals rolled damage, they halve the damage from a tier 1 outcome.
 
 ###### Mummy
 
-|              Mummy, Undead               |          -          |       Level 4       |       Horde Brute       |            EV 6            |
-| :--------------------------------------: | :-----------------: | :-----------------: | :---------------------: | :------------------------: |
-|             **1M**<br/> Size             |  **5**<br/> Speed   | **50**<br/> Stamina |  **2**<br/> Stability   |   **3**<br/> Free Strike   |
-| **Corruption 4, poison 4**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **Fire 5**<br/> Weaknesses |
-|            **+3**<br/> Might             | **-1**<br/> Agility | **+1**<br/> Reason  |  **+3**<br/> Intuition  |    **0**<br/> Presence     |
+|              Mummy, Undead               |          -          |       Level 4       |       Horde Brute       |           EV 6           |
+| :--------------------------------------: | :-----------------: | :-----------------: | :---------------------: | :----------------------: |
+|             **1M**<br/> Size             |  **5**<br/> Speed   | **50**<br/> Stamina |  **2**<br/> Stability   |  **3**<br/> Free Strike  |
+| **Corruption 4, poison 4**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **Fire 5**<br/> Weakness |
+|            **+3**<br/> Might             | **-1**<br/> Agility | **+1**<br/> Reason  |  **+3**<br/> Intuition  |   **0**<br/> Presence    |
 
 <!-- -->
 > 🗡 **Accursed Bindings (Signature Ability)**
@@ -841,14 +841,14 @@ At the start of any level 4 or higher undead's turn, you can spend Malice to act
 >
 > **Trigger:** The mummy comes within distance of a restrained creature or starts their turn within distance of one.
 >
-> **Effect:** The target takes 8 poison damage
+> **Effect:** The target takes 8 poison damage.
 
 ###### Vampire Spawn
 
 |             Undead, Vampire              |            -            |       Level 4       |      Horde Harrier      |          EV 6          |
 | :--------------------------------------: | :---------------------: | :-----------------: | :---------------------: | :--------------------: |
 |             **1M**<br/> Size             |    **5**<br/> Speed     | **30**<br/> Stamina |  **0**<br/> Stability   | **2**<br/> Free Strike |
-| **Corruption 4, poison 4**<br/> Immunity | **Climb**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Corruption 4, poison 4**<br/> Immunity | **Climb**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |            **+2**<br/> Might             |   **+3**<br/> Agility   | **-1**<br/> Reason  |  **+1**<br/> Intuition  |  **+2**<br/> Presence  |
 
 <!-- -->
@@ -887,7 +887,7 @@ At the start of any level 4 or higher undead's turn, you can spend Malice to act
 |                  Undead                  |              -               |       Level 4       |       Horde Hexer       |          EV 6          |
 | :--------------------------------------: | :--------------------------: | :-----------------: | :---------------------: | :--------------------: |
 |             **1M**<br/> Size             |       **8**<br/> Speed       | **25**<br/> Stamina |  **1**<br/> Stability   | **2**<br/> Free Strike |
-| **Corruption 4, poison 4**<br/> Immunity | **Fly, hover**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Corruption 4, poison 4**<br/> Immunity | **Fly, hover**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |            **-2**<br/> Might             |     **+2**<br/> Agility      | **+1**<br/> Reason  |  **+1**<br/> Intuition  |  **+3**<br/> Presence  |
 
 <!-- -->
@@ -928,15 +928,15 @@ At the start of any level 4 or higher undead's turn, you can spend Malice to act
 <!-- -->
 > ⭐️ **Agonizing Phasing**
 >
-> The wraith can move through creatures and objects at their usual speed, but can't end their turn inside a creature or object. The first time in a round that the wraith moves through a creature, that creature takes 5 corruption damage and takes a bane on their next strike. The wraith doesn't take damage from being force moved into objects
+> The wraith can move through creatures and objects at their usual speed, but can't end their turn inside a creature or object. The first time in a round that the wraith moves through a creature, that creature takes 5 corruption damage and takes a bane on their next strike. The wraith doesn't take damage from being force moved into objects.
 
 ###### Mummy Lord
 
-|              Mummy, Undead               |          -          |       Level 4        |         Leader          |           EV 24            |
-| :--------------------------------------: | :-----------------: | :------------------: | :---------------------: | :------------------------: |
-|             **1M**<br/> Size             |  **6**<br/> Speed   | **155**<br/> Stamina |  **4**<br/> Stability   |   **6**<br/> Free Strike   |
-| **Corruption 6, poison 6**<br/> Immunity | **-**<br/> Movement |          -           | **-**<br/> With Captain | **Fire 5**<br/> Weaknesses |
-|            **+4**<br/> Might             | **0**<br/> Agility  |  **+2**<br/> Reason  |  **+4**<br/> Intuition  |    **+2**<br/> Presence    |
+|              Mummy, Undead               |          -          |       Level 4        |         Leader          |          EV 24           |
+| :--------------------------------------: | :-----------------: | :------------------: | :---------------------: | :----------------------: |
+|             **1M**<br/> Size             |  **6**<br/> Speed   | **155**<br/> Stamina |  **4**<br/> Stability   |  **6**<br/> Free Strike  |
+| **Corruption 6, poison 6**<br/> Immunity | **-**<br/> Movement |          -           | **-**<br/> With Captain | **Fire 5**<br/> Weakness |
+|            **+4**<br/> Might             | **0**<br/> Agility  |  **+2**<br/> Reason  |  **+4**<br/> Intuition  |   **+2**<br/> Presence   |
 
 <!-- -->
 > 🗡 **Accursed Slam (Signature Ability)**
@@ -1070,7 +1070,7 @@ At the start of any level 7 or higher undead's turn, you can spend Malice to act
 |             Undead, Vampire              |            -            |       Level 7       |             Minion Harrier              | EV 9 for four minions  |
 | :--------------------------------------: | :---------------------: | :-----------------: | :-------------------------------------: | :--------------------: |
 |             **1M**<br/> Size             |    **6**<br/> Speed     | **12**<br/> Stamina |          **0**<br/> Stability           | **3**<br/> Free Strike |
-| **Corruption 7, poison 7**<br/> Immunity | **Climb**<br/> Movement |          -          | **+3 bonus to speed**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Corruption 7, poison 7**<br/> Immunity | **Climb**<br/> Movement |          -          | **+3 bonus to speed**<br/> With Captain |  **-**<br/> Weakness   |
 |            **+4**<br/> Might             |   **+1**<br/> Agility   | **-3**<br/> Reason  |          **+1**<br/> Intuition          |  **-3**<br/> Presence  |
 
 <!-- -->
@@ -1098,7 +1098,7 @@ At the start of any level 7 or higher undead's turn, you can spend Malice to act
 |                  Undead                  |              -               |       Level 7       |                 Minion Hexer                  | EV 9 for four minions  |
 | :--------------------------------------: | :--------------------------: | :-----------------: | :-------------------------------------------: | :--------------------: |
 |             **1M**<br/> Size             |       **5**<br/> Speed       | **10**<br/> Stamina |             **1**<br/> Stability              | **3**<br/> Free Strike |
-| **Corruption 7, poison 7**<br/> Immunity | **Fly, hover**<br/> Movement |          -          | **Gain an edge on strikes**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Corruption 7, poison 7**<br/> Immunity | **Fly, hover**<br/> Movement |          -          | **Gain an edge on strikes**<br/> With Captain |  **-**<br/> Weakness   |
 |            **-3**<br/> Might             |     **+4**<br/> Agility      | **-5**<br/> Reason  |             **+1**<br/> Intuition             |  **-3**<br/> Presence  |
 
 <!-- -->
@@ -1119,15 +1119,15 @@ At the start of any level 7 or higher undead's turn, you can spend Malice to act
 <!-- -->
 > ⭐️ **Corruptive Phasing**
 >
-> The spirit can move through creatures and objects at their usual speed, but can't end their turn inside a creature or object. The first time in a round that the spirit moves through a creature, that creature takes 4 corruption damage. The spirit doesn't take damage from being force moved into objects
+> The spirit can move through creatures and objects at their usual speed, but can't end their turn inside a creature or object. The first time in a round that the spirit moves through a creature, that creature takes 4 corruption damage. The spirit doesn't take damage from being force moved into objects.
 
 ###### Mummy Rotwrap
 
-|              Mummy, Undead               |          -          |       Level 7       |                   Minion Brute                   |   EV 9 for four minions    |
-| :--------------------------------------: | :-----------------: | :-----------------: | :----------------------------------------------: | :------------------------: |
-|             **1M**<br/> Size             |  **5**<br/> Speed   | **15**<br/> Stamina |               **1**<br/> Stability               |   **4**<br/> Free Strike   |
-| **Corruption 7, poison 7**<br/> Immunity | **-**<br/> Movement |          -          | **+3 bonus to melee distance**<br/> With Captain | **Fire 5**<br/> Weaknesses |
-|            **+4**<br/> Might             | **-2**<br/> Agility | **-2**<br/> Reason  |              **+1**<br/> Intuition               |    **-2**<br/> Presence    |
+|              Mummy, Undead               |          -          |       Level 7       |                   Minion Brute                   |  EV 9 for four minions   |
+| :--------------------------------------: | :-----------------: | :-----------------: | :----------------------------------------------: | :----------------------: |
+|             **1M**<br/> Size             |  **5**<br/> Speed   | **15**<br/> Stamina |               **1**<br/> Stability               |  **4**<br/> Free Strike  |
+| **Corruption 7, poison 7**<br/> Immunity | **-**<br/> Movement |          -          | **+3 bonus to melee distance**<br/> With Captain | **Fire 5**<br/> Weakness |
+|            **+4**<br/> Might             | **-2**<br/> Agility | **-2**<br/> Reason  |              **+1**<br/> Intuition               |   **-2**<br/> Presence   |
 
 <!-- -->
 > 🗡 **Fetid Wrappings (Signature Ability)**
@@ -1142,14 +1142,14 @@ At the start of any level 7 or higher undead's turn, you can spend Malice to act
 > - **12-16:** 7 damage; pull 1
 > - **17+:** 8 damage; pull 3
 >
-> **Effect:** Each ally gains an edge on strikes made against the target until the end of the round
+> **Effect:** Each ally gains an edge on strikes made against the target until the end of the round.
 
 ###### Dirt Mournling
 
 |                  Undead                  |                -                |       Level 7       |    Horde Controller     |          EV 9          |
 | :--------------------------------------: | :-----------------------------: | :-----------------: | :---------------------: | :--------------------: |
 |             **3**<br/> Size              |        **6**<br/> Speed         | **64**<br/> Stamina |  **3**<br/> Stability   | **3**<br/> Free Strike |
-| **Corruption 7, poison 7**<br/> Immunity | **Burrow, climb**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Corruption 7, poison 7**<br/> Immunity | **Burrow, climb**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |            **+4**<br/> Might             |       **+1**<br/> Agility       | **-2**<br/> Reason  |  **+1**<br/> Intuition  |  **-3**<br/> Presence  |
 
 <!-- -->
@@ -1180,7 +1180,7 @@ At the start of any level 7 or higher undead's turn, you can spend Malice to act
 > - **12-16:** 6 corruption damage; I < 3 frightened (save ends)
 > - **17+:** 7 corruption damage; I < 4 frightened (save ends)
 >
-> **Effect:** A target frightened this way is frightened of all undead. This effect ends early if the mournling is destroyed
+> **Effect:** A target frightened this way is frightened of all undead. This effect ends early if the mournling is destroyed.
 
 <!-- -->
 > ⭐️ **Arise**
@@ -1190,7 +1190,7 @@ At the start of any level 7 or higher undead's turn, you can spend Malice to act
 <!-- -->
 > ⭐️ **Immutable Form**
 >
-> The mournling's shape can't be changed by any external effect
+> The mournling's shape can't be changed by any external effect.
 
 <!-- -->
 > ⭐️ **Rupture**
@@ -1202,7 +1202,7 @@ At the start of any level 7 or higher undead's turn, you can spend Malice to act
 |                  Undead                  |              -               |       Level 7       |    Horde Controller     |          EV 9          |
 | :--------------------------------------: | :--------------------------: | :-----------------: | :---------------------: | :--------------------: |
 |             **2**<br/> Size              |       **6**<br/> Speed       | **40**<br/> Stamina |  **1**<br/> Stability   | **3**<br/> Free Strike |
-| **Corruption 7, poison 7**<br/> Immunity | **Fly, hover**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Corruption 7, poison 7**<br/> Immunity | **Fly, hover**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |            **-2**<br/> Might             |     **+4**<br/> Agility      | **-1**<br/> Reason  |  **0**<br/> Intuition   |  **0**<br/> Presence   |
 
 <!-- -->
@@ -1245,7 +1245,7 @@ At the start of any level 7 or higher undead's turn, you can spend Malice to act
 |                  Undead                  |          -          |       Level 7       |       Horde Hexer       |          EV 9          |
 | :--------------------------------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |             **1M**<br/> Size             |  **5**<br/> Speed   | **40**<br/> Stamina |  **1**<br/> Stability   | **3**<br/> Free Strike |
-| **Corruption 7, poison 7**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Corruption 7, poison 7**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |            **+4**<br/> Might             | **+2**<br/> Agility |  **0**<br/> Reason  |  **+1**<br/> Intuition  |  **-1**<br/> Presence  |
 
 <!-- -->
@@ -1276,7 +1276,7 @@ At the start of any level 7 or higher undead's turn, you can spend Malice to act
 > - **12-16:** Pull 5; M < 3 5 corruption damage
 > - **17+:** Pull 7; M < 4 5 corruption damage
 >
-> **Effect:** This ability gains an edge against any target grabbed by the koptourok. If one or more targets are pulled adjacent to the kop- tourok, the koptourok can fly until the end of the encounter
+> **Effect:** This ability gains an edge against any target grabbed by the koptourok. If one or more targets are pulled adjacent to the koptourok, the koptourok can fly until the end of the encounter.
 
 <!-- -->
 > ⭐️ **Exhale**
@@ -1288,7 +1288,7 @@ At the start of any level 7 or higher undead's turn, you can spend Malice to act
 |             Undead, Soulless             |          -          |       Level 7       |     Horde Artillery     |          EV 9          |
 | :--------------------------------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |             **1M**<br/> Size             |  **4**<br/> Speed   | **40**<br/> Stamina |  **2**<br/> Stability   | **4**<br/> Free Strike |
-| **Corruption 7, poison 7**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Corruption 7, poison 7**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |            **+4**<br/> Might             | **-2**<br/> Agility | **-4**<br/> Reason  |  **+1**<br/> Intuition  |  **-2**<br/> Presence  |
 
 <!-- -->
@@ -1316,12 +1316,10 @@ At the start of any level 7 or higher undead's turn, you can spend Malice to act
 > **Effect:** If the waxen is ignited (see Burn Bright), they shift up to their speed before using this ability. Each target makes an **Agility test**.
 >
 > - **≤11:** 10 damage
->
 > - **12-16:** 8 damage
->
 > - **17+:** 5 damage
 >
-> - The waxen is then destroyed and the area is difficult terrain for enemies.
+> The waxen is then destroyed and the area is difficult terrain for enemies.
 
 <!-- -->
 > ⭐️ **Burn Bright**
@@ -1333,7 +1331,7 @@ At the start of any level 7 or higher undead's turn, you can spend Malice to act
 |             Undead, Vampire              |            -            |       Level 7       |       Horde Hexer       |          EV 9          |
 | :--------------------------------------: | :---------------------: | :-----------------: | :---------------------: | :--------------------: |
 |             **1M**<br/> Size             |    **6**<br/> Speed     | **40**<br/> Stamina |  **3**<br/> Stability   | **3**<br/> Free Strike |
-| **Corruption 7, poison 7**<br/> Immunity | **Climb**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Corruption 7, poison 7**<br/> Immunity | **Climb**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |            **+4**<br/> Might             |   **+2**<br/> Agility   | **+1**<br/> Reason  |  **+1**<br/> Intuition  |  **+1**<br/> Presence  |
 
 <!-- -->
@@ -1346,7 +1344,7 @@ At the start of any level 7 or higher undead's turn, you can spend Malice to act
 > **Power Roll + 4:**
 >
 > - **≤11:** 7 damage; M < 2 bleeding (save ends)
-> - **12-16:** 10 corruption damage; M < 3 5 corruption damage and bleed- ing (save ends)
+> - **12-16:** 10 corruption damage; M < 3 5 corruption damage and bleeding (save ends)
 > - **17+:** 11 corruption damage; M < 4 7 corruption damage and bleeding (save ends)
 >
 > **Effect:** The vampire regains Stamina equal to any corruption damage dealt.
@@ -1384,11 +1382,11 @@ At the start of any level 7 or higher undead's turn, you can spend Malice to act
 
 ###### Vampire Lord
 
-|                  Undead                  |                    -                     |        Level 7        |         Leader          |         EV 36          |
-| :--------------------------------------: | :--------------------------------------: | :-------------------: | :---------------------: | :--------------------: |
-|             **1M**<br/> Size             |             **1**<br/> Speed             | **2200**<br/> Stamina |  **3**<br/> Stability   | **7**<br/> Free Strike |
-| **Corruption 9, poison 9**<br/> Immunity | **Climb, hover, teleport**<br/> Movement |           -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
-|            **+2**<br/> Might             |           **+5**<br/> Agility            |  **+1**<br/> Reason   |  **+1**<br/> Intuition  |  **+2**<br/> Presence  |
+|             Undead, Vampire              |                    -                     |       Level 7        |         Leader          |         EV 36          |
+| :--------------------------------------: | :--------------------------------------: | :------------------: | :---------------------: | :--------------------: |
+|             **1M**<br/> Size             |            **12**<br/> Speed             | **200**<br/> Stamina |  **3**<br/> Stability   | **7**<br/> Free Strike |
+| **Corruption 9, poison 9**<br/> Immunity | **Climb, hover, teleport**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
+|            **+2**<br/> Might             |           **+5**<br/> Agility            |  **+1**<br/> Reason  |  **+1**<br/> Intuition  |  **+2**<br/> Presence  |
 
 <!-- -->
 > 🗡 **Crimson Embrace (Signature Ability)**
@@ -1403,7 +1401,7 @@ At the start of any level 7 or higher undead's turn, you can spend Malice to act
 > - **12-16:** 21 corruption damage; M < 4 bleeding (save ends)
 > - **17+:** 24 corruption damage; M < 5 bleeding (save ends)
 >
-> **Effect:** The vampire regains Stamina equal to half the damage dealt, and can end one effect on them that can be ended by a saving throw
+> **Effect:** The vampire regains Stamina equal to half the damage dealt, and can end one effect on them that can be ended by a saving throw.
 >
 > **2+ Malice:** The vampire shifts 3 after striking the last target, and can target one additional creature for every 2 malice spent.
 
@@ -1456,25 +1454,26 @@ At the start of any level 7 or higher undead's turn, you can spend Malice to act
 >
 > **Effect:** The vampire turns to mist, filling the area. Until the end of the round, the vampire can't move or be targeted by abilities, but they can use Crimson Embrace against a target in the area. The vampire reforms in an unoccupied space in the area at the end of the round.
 
-☠️ **Sacrifice (Villain Action 3)**
-
-| **Magic, Ranged** |                   **-** |
-| ----------------- | ----------------------: |
-| **📏 Ranged 20**  | **🎯 Each chosen ally** |
-
-**Effect:** Each target is marked for sacrifice. At the end of the round, each target who isn't dead or destroyed takes 50 corruption damage. The vampire then uses the following ability.
-
-**Wave of Blood:**
-
-| **Area, Magic** |                         **-** |
-| --------------- | ----------------------------: |
-| **📏 20 burst** | **🎯 Each enemy in the area** |
-
-**Effect:** Each target makes a **Might test**. This ability deals an extra 5 damage for each creature killed by the Sacrifice villain action
-
-- **≤11:** 11 corruption damage
-- **12-16:** 8 corruption damage
-- **17+:** 2 corruption damage
+<!-- -->
+> ☠️ **Sacrifice (Villain Action 3)**
+>
+> | **Magic, Ranged** |                   **-** |
+> | ----------------- | ----------------------: |
+> | **📏 Ranged 20**  | **🎯 Each chosen ally** |
+>
+> **Effect:** Each target is marked for sacrifice. At the end of the round, each target who isn't dead or destroyed takes 50 corruption damage. The vampire then uses the following ability.
+>
+> **Wave of Blood:**
+>
+> | **Area, Magic** |                         **-** |
+> | --------------- | ----------------------------: |
+> | **📏 20 burst** | **🎯 Each enemy in the area** |
+>
+> **Effect:** Each target makes a **Might test**. This ability deals an extra 5 damage for each creature killed by the Sacrifice villain action.
+>
+> - **≤11:** 11 corruption damage
+> - **12-16:** 8 corruption damage
+> - **17+:** 2 corruption damage
 
 ###### Vampires and Sunlight
 
@@ -1501,7 +1500,7 @@ The weakness of many undead minions means that necromancers at war often find th
 
 ### Lithgekh
 
-Every mage who lives long enough eventually contends with the fact that their knowledge will one day leave the world. For those who can't stomach this idea, seeking the immortality of the lich often becomes an irresistible temptation. But many of those who try and fail to achieve lichdom become lithgekh-a word in the First Language meaning "lich corpse." Having failed to create a proper soul vessel, a lithgekh suffers an eternal hunger for magic to sustain themself. Liches will sometimes trick or tempt mortal mages into pursuing lichdom, only to sabotage them and create a lithgekh under the lich's control. These servants are prized by liches for their ability to disrupt enemy magic and empower their own.
+Every mage who lives long enough eventually contends with the fact that their knowledge will one day leave the world. For those who can't stomach this idea, seeking the immortality of the lich often becomes an irresistible temptation. But many of those who try and fail to achieve lichdom become lithgekh—a word in the First Language meaning "lich corpse." Having failed to create a proper soul vessel, a lithgekh suffers an eternal hunger for magic to sustain themself. Liches will sometimes trick or tempt mortal mages into pursuing lichdom, only to sabotage them and create a lithgekh under the lich's control. These servants are prized by liches for their ability to disrupt enemy magic and empower their own.
 
 ###### Undead Malice (Level 10 Malice Features)
 
@@ -1530,7 +1529,7 @@ At the start of any level 10 undead's turn, you can spend Malice to activate one
 |              Undead, Soulless              |          -          |      Level 10       |                   Minion Brute                   | EV 12 for four minions |
 | :----------------------------------------: | :-----------------: | :-----------------: | :----------------------------------------------: | :--------------------: |
 |              **3**<br/> Size               |  **4**<br/> Speed   | **17**<br/> Stamina |               **5**<br/> Stability               | **5**<br/> Free Strike |
-| **Corruption 10, poison 10**<br/> Immunity | **-**<br/> Movement |          -          | **+4 damage bonus to strikes**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Corruption 10, poison 10**<br/> Immunity | **-**<br/> Movement |          -          | **+4 damage bonus to strikes**<br/> With Captain |  **-**<br/> Weakness   |
 |             **+5**<br/> Might              | **-3**<br/> Agility | **-3**<br/> Reason  |              **+1**<br/> Intuition               |  **-2**<br/> Presence  |
 
 <!-- -->
@@ -1556,7 +1555,7 @@ At the start of any level 10 undead's turn, you can spend Malice to activate one
 |              Undead, Soulless              |          -          |      Level 10       |                Minion Defender                | EV 12 for four minions |
 | :----------------------------------------: | :-----------------: | :-----------------: | :-------------------------------------------: | :--------------------: |
 |              **1L**<br/> Size              |  **5**<br/> Speed   | **17**<br/> Stamina |             **2**<br/> Stability              | **4**<br/> Free Strike |
-| **Corruption 10, poison 10**<br/> Immunity | **-**<br/> Movement |          -          | **Gain an edge on strikes**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Corruption 10, poison 10**<br/> Immunity | **-**<br/> Movement |          -          | **Gain an edge on strikes**<br/> With Captain |  **-**<br/> Weakness   |
 |             **+3**<br/> Might              | **+5**<br/> Agility | **-2**<br/> Reason  |             **+4**<br/> Intuition             |  **-2**<br/> Presence  |
 
 <!-- -->
@@ -1570,7 +1569,7 @@ At the start of any level 10 undead's turn, you can spend Malice to activate one
 >
 > - **≤11:** 4 damage
 > - **12-16:** 7 damage
-> - **17+:** 9 damage; the target can't shift (EoT
+> - **17+:** 9 damage; the target can't shift (EoT)
 
 <!-- -->
 > ⭐️ **Bitter Bones**
@@ -1587,7 +1586,7 @@ At the start of any level 10 undead's turn, you can spend Malice to activate one
 |                   Undead                   |              -               |      Level 10       |             Minion Harrier              | EV 12 for four minions |
 | :----------------------------------------: | :--------------------------: | :-----------------: | :-------------------------------------: | :--------------------: |
 |              **1M**<br/> Size              |       **7**<br/> Speed       | **15**<br/> Stamina |          **1**<br/> Stability           | **4**<br/> Free Strike |
-| **Corruption 10, poison 10**<br/> Immunity | **Fly, hover**<br/> Movement |          -          | **+3 bonus to speed**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Corruption 10, poison 10**<br/> Immunity | **Fly, hover**<br/> Movement |          -          | **+3 bonus to speed**<br/> With Captain |  **-**<br/> Weakness   |
 |             **-2**<br/> Might              |     **+3**<br/> Agility      | **+1**<br/> Reason  |          **+1**<br/> Intuition          |  **+5**<br/> Presence  |
 
 <!-- -->
@@ -1599,7 +1598,7 @@ At the start of any level 10 undead's turn, you can spend Malice to activate one
 >
 > **Power Roll + 5:**
 >
-> - **≤11:** 4 cold damage; the wraith can shift 1 squar
+> - **≤11:** 4 cold damage; the wraith can shift 1 square
 > - **12-16:** 7 cold damage; the wraith shifts up to 2 square
 > - **17+:** 9 cold damage; P < 5 slowed (save ends); the wraith shifts up to 3 squares
 >
@@ -1615,7 +1614,7 @@ At the start of any level 10 undead's turn, you can spend Malice to activate one
 |              Undead, Soulless              |            -            |      Level 10       |    Horde Controller     |         EV 12          |
 | :----------------------------------------: | :---------------------: | :-----------------: | :---------------------: | :--------------------: |
 |              **3**<br/> Size               |    **6**<br/> Speed     | **55**<br/> Stamina |  **5**<br/> Stability   | **4**<br/> Free Strike |
-| **Corruption 10, poison 10**<br/> Immunity | **Climb**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Corruption 10, poison 10**<br/> Immunity | **Climb**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |             **+5**<br/> Might              |   **-2**<br/> Agility   | **-2**<br/> Reason  |  **+3**<br/> Intuition  |  **-1**<br/> Presence  |
 
 <!-- -->
@@ -1655,7 +1654,7 @@ At the start of any level 10 undead's turn, you can spend Malice to activate one
 |              Undead, Soulless              |              -               |      Level 10       |       Horde Hexer       |         EV 12          |
 | :----------------------------------------: | :--------------------------: | :-----------------: | :---------------------: | :--------------------: |
 |              **1M**<br/> Size              |       **6**<br/> Speed       | **55**<br/> Stamina |  **1**<br/> Stability   | **5**<br/> Free Strike |
-| **Corruption 10, poison 10**<br/> Immunity | **Fly, hover**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Corruption 10, poison 10**<br/> Immunity | **Fly, hover**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |              **0**<br/> Might              |     **+1**<br/> Agility      | **+5**<br/> Reason  |  **+3**<br/> Intuition  |  **-1**<br/> Presence  |
 
 <!-- -->

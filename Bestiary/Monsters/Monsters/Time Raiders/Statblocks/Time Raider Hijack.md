@@ -9,7 +9,7 @@ file_dpath: Monsters/Time Raiders/Statblocks
 free_strike: 5
 intuition: 2
 item_id: time-raider-hijack
-item_index: '140'
+item_index: '02'
 item_name: Time Raider Hijack
 level: 3
 might: 0
@@ -18,15 +18,15 @@ reason: 2
 roles:
   - Platoon Ambusher
 scc:
-  - mcdm.monsters.v1:monster:time-raider-hijack
+  - mcdm.monsters.v1:monster.time-raiders.statblock:time-raider-hijack
 scdc:
-  - 1.1.1:2:140
+  - 1.1.1:2.18.1:02
 size: 1M
 source: mcdm.monsters.v1
 speed: 6
 stability: 0
 stamina: '50'
-type: monster
+type: monster/time-raiders/statblock
 ---
 
 ###### Time Raider Hijack
@@ -34,7 +34,7 @@ type: monster
 |    Humanoid, Time Raider    |          -          |       Level 3       |    Platoon Ambusher     |         EV 10          |
 | :-------------------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |      **1M**<br/> Size       |  **6**<br/> Speed   | **50**<br/> Stamina |  **0**<br/> Stability   | **5**<br/> Free Strike |
-| **Psychic 3**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Psychic 3**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |      **0**<br/> Might       | **+2**<br/> Agility | **+2**<br/> Reason  |  **+2**<br/> Intuition  |  **+1**<br/> Presence  |
 
 <!-- -->

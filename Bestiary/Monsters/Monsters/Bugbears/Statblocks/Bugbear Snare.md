@@ -11,7 +11,7 @@ file_dpath: Monsters/Bugbears/Statblocks
 free_strike: 3
 intuition: 0
 item_id: bugbear-snare
-item_index: '294'
+item_index: '07'
 item_name: Bugbear Snare
 level: 5
 might: 2
@@ -20,15 +20,15 @@ reason: 0
 roles:
   - Minion Ambusher
 scc:
-  - mcdm.monsters.v1:monster:bugbear-snare
+  - mcdm.monsters.v1:monster.bugbears.statblock:bugbear-snare
 scdc:
-  - 1.1.1:2:294
+  - 1.1.1:2.37.1:07
 size: 1L
 source: mcdm.monsters.v1
 speed: 6
 stability: 2
 stamina: '9'
-type: monster
+type: monster/bugbears/statblock
 ---
 
 ###### Bugbear Snare
@@ -36,11 +36,11 @@ type: monster
 | Bugbear, Fey, Goblin, Humanoid |          -          |      Level 5       |             Minion Ambusher             | EV 7 for four minions  |
 | :----------------------------: | :-----------------: | :----------------: | :-------------------------------------: | :--------------------: |
 |        **1L**<br/> Size        |  **6**<br/> Speed   | **9**<br/> Stamina |          **2**<br/> Stability           | **3**<br/> Free Strike |
-|      **-**<br/> Immunity       | **-**<br/> Movement |         -          | **+3 bonus to speed**<br/> With Captain | **-**<br/> Weaknesses  |
+|      **-**<br/> Immunity       | **-**<br/> Movement |         -          | **+3 bonus to speed**<br/> With Captain |  **-**<br/> Weakness   |
 |       **+2**<br/> Might        | **+3**<br/> Agility | **+0**<br/> Reason |          **+0**<br/> Intuition          |  **+1**<br/> Presence  |
 
 <!-- -->
-> 🗡 **Cut 'Em Low! Signature Ability**
+> 🗡 **Cut 'Em Low! (Signature Ability)**
 >
 > | **Charge, Melee, Strike, Weapon** |                          **Main action** |
 > | --------------------------------- | ---------------------------------------: |

@@ -8,7 +8,7 @@ file_dpath: Monsters/Animals/Statblocks
 free_strike: 5
 intuition: 1
 item_id: predator-a
-item_index: '252'
+item_index: '05'
 item_name: Predator A
 level: 1
 might: 1
@@ -17,15 +17,15 @@ reason: -2
 roles:
   - Elite Brute
 scc:
-  - mcdm.monsters.v1:monster:predator-a
+  - mcdm.monsters.v1:monster.animals.statblock:predator-a
 scdc:
-  - 1.1.1:2:252
+  - 1.1.1:2.34.1:05
 size: '2'
 source: mcdm.monsters.v1
 speed: 5
 stability: 0
 stamina: '80'
-type: monster
+type: monster/animals/statblock
 ---
 
 ###### Predator A
@@ -33,7 +33,7 @@ type: monster
 |       Animal        |          -          |       Level 1       |       Elite Brute       |         EV 12          |
 | :-----------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |   **2**<br/> Size   |  **5**<br/> Speed   | **80**<br/> Stamina |  **0**<br/> Stability   | **5**<br/> Free Strike |
-| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |  **+1**<br/> Might  | **+2**<br/> Agility | **-2**<br/> Reason  |  **+1**<br/> Intuition  |  **+1**<br/> Presence  |
 
 <!-- -->

@@ -9,7 +9,7 @@ file_dpath: Monsters/Radenwights/Statblocks
 free_strike: 2
 intuition: 1
 item_id: radenwight-mischiever
-item_index: '153'
+item_index: '05'
 item_name: Radenwight Mischiever
 level: 1
 might: -1
@@ -18,15 +18,15 @@ reason: 0
 roles:
   - Minion Ambusher
 scc:
-  - mcdm.monsters.v1:monster:radenwight-mischiever
+  - mcdm.monsters.v1:monster.radenwights.statblock:radenwight-mischiever
 scdc:
-  - 1.1.1:2:153
+  - 1.1.1:2.19.1:05
 size: 1S
 source: mcdm.monsters.v1
 speed: 7
 stability: 0
 stamina: '4'
-type: monster
+type: monster/radenwights/statblock
 ---
 
 ###### Radenwight Mischiever
@@ -34,7 +34,7 @@ type: monster
 | Humanoid, Radenwight |            -            |      Level 1       |                 Minion Ambusher                  |   EV 3 for 4 minions   |
 | :------------------: | :---------------------: | :----------------: | :----------------------------------------------: | :--------------------: |
 |   **1S**<br/> Size   |    **7**<br/> Speed     | **4**<br/> Stamina |               **0**<br/> Stability               | **2**<br/> Free Strike |
-| **-**<br/> Immunity  | **Climb**<br/> Movement |         -          | **+1 damage bonus to strikes**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity  | **Climb**<br/> Movement |         -          | **+1 damage bonus to strikes**<br/> With Captain |  **-**<br/> Weakness   |
 |  **-1**<br/> Might   |   **+2**<br/> Agility   | **0**<br/> Reason  |              **+1**<br/> Intuition               |  **0**<br/> Presence   |
 
 <!-- -->

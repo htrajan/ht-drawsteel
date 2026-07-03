@@ -9,7 +9,7 @@ file_dpath: Monsters/Rivals/4th Echelon/Statblocks
 free_strike: 10
 intuition: 0
 item_id: rival-talent
-item_index: '32'
+item_index: '05'
 item_name: Rival Talent
 level: 10
 might: 0
@@ -18,15 +18,15 @@ reason: 5
 roles:
   - Elite Hexer
 scc:
-  - mcdm.monsters.v1:monster:rival-talent
+  - mcdm.monsters.v1:monster.rivals.4th echelon.statblock:rival-talent
 scdc:
-  - 1.1.1:2:32
+  - 1.1.1:2.5.4.1:05
 size: 1M
 source: mcdm.monsters.v1
 speed: 5
 stability: 2
 stamina: '220'
-type: monster
+type: monster/rivals/4th echelon/statblock
 ---
 
 ###### Rival Talent
@@ -34,7 +34,7 @@ type: monster
 |   Humanoid, Rival   |          -          |       Level 10       |       Elite Hexer       |          EV 48          |
 | :-----------------: | :-----------------: | :------------------: | :---------------------: | :---------------------: |
 |  **1M**<br/> Size   |  **5**<br/> Speed   | **220**<br/> Stamina |  **2**<br/> Stability   | **10**<br/> Free Strike |
-| **-**<br/> Immunity | **-**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **-**<br/> Movement |          -           | **-**<br/> With Captain |   **-**<br/> Weakness   |
 |  **0**<br/> Might   | **0**<br/> Agility  |  **+5**<br/> Reason  |  **0**<br/> Intuition   |  **+1**<br/> Presence   |
 
 <!-- -->
@@ -65,7 +65,7 @@ type: monster
 > - **12-16:** R < 4 restrained (save ends)
 > - **17+:** R < 5 restrained (save ends)
 >
-> \*\*Effect:\*\*One ally within distance can use an additional main action on their next turn.
+> **Effect:** One ally within distance can use an additional main action on their next turn.
 
 <!-- -->
 > ❗️ **Psionic Retribution (2 Malice)**

@@ -9,7 +9,7 @@ file_dpath: Monsters/Giants/Statblocks
 free_strike: 3
 intuition: 3
 item_id: sand-stone-giant
-item_index: '199'
+item_index: 08
 item_name: Sand Stone Giant
 level: 8
 might: 4
@@ -18,15 +18,15 @@ reason: 0
 roles:
   - Minion Controller
 scc:
-  - mcdm.monsters.v1:monster:sand-stone-giant
+  - mcdm.monsters.v1:monster.giants.statblock:sand-stone-giant
 scdc:
-  - 1.1.1:2:199
+  - 1.1.1:2.23.1:08
 size: '4'
 source: mcdm.monsters.v1
 speed: 7
 stability: 10
 stamina: '14'
-type: monster
+type: monster/giants/statblock
 ---
 
 ###### Sand Stone Giant
@@ -34,7 +34,7 @@ type: monster
 | Giant, Stone Giant  |            -             |       Level 8       |             Minion Controller             | EV 10 for four minions |
 | :-----------------: | :----------------------: | :-----------------: | :---------------------------------------: | :--------------------: |
 |   **4**<br/> Size   |     **7**<br/> Speed     | **14**<br/> Stamina |           **10**<br/> Stability           | **3**<br/> Free Strike |
-| **-**<br/> Immunity | **Burrow**<br/> Movement |          -          | **+6 bonus to Stamina**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **Burrow**<br/> Movement |          -          | **+6 bonus to Stamina**<br/> With Captain |  **-**<br/> Weakness   |
 |  **+4**<br/> Might  |   **+2**<br/> Agility    |  **0**<br/> Reason  |           **+3**<br/> Intuition           |  **0**<br/> Presence   |
 
 <!-- -->
@@ -58,7 +58,7 @@ type: monster
 <!-- -->
 > ⭐️ **Stone Steps**
 >
-> The sand stone giant ignores difficult terrain
+> The sand stone giant ignores difficult terrain.
 
 <!-- -->
 > ⭐️ **Stone Swim**

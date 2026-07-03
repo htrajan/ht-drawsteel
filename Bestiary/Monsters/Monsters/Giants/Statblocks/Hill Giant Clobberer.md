@@ -9,7 +9,7 @@ file_dpath: Monsters/Giants/Statblocks
 free_strike: 8
 intuition: -1
 item_id: hill-giant-clobberer
-item_index: '203'
+item_index: '12'
 item_name: Hill Giant Clobberer
 level: 7
 might: 4
@@ -18,15 +18,15 @@ reason: -1
 roles:
   - Elite Brute
 scc:
-  - mcdm.monsters.v1:monster:hill-giant-clobberer
+  - mcdm.monsters.v1:monster.giants.statblock:hill-giant-clobberer
 scdc:
-  - 1.1.1:2:203
+  - 1.1.1:2.23.1:12
 size: '4'
 source: mcdm.monsters.v1
 speed: 6
 stability: 5
 stamina: '200'
-type: monster
+type: monster/giants/statblock
 ---
 
 ###### Hill Giant Clobberer
@@ -34,7 +34,7 @@ type: monster
 |     Giant, Hill Giant      |            -            |       Level 7        |       Elite Brute       |         EV 36          |
 | :------------------------: | :---------------------: | :------------------: | :---------------------: | :--------------------: |
 |      **4**<br/> Size       |    **6**<br/> Speed     | **200**<br/> Stamina |  **5**<br/> Stability   | **8**<br/> Free Strike |
-| **Damage 3**<br/> Immunity | **Climb**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Damage 3**<br/> Immunity | **Climb**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |     **+4**<br/> Might      |   **-1**<br/> Agility   |  **-1**<br/> Reason  |  **-1**<br/> Intuition  |  **-1**<br/> Presence  |
 
 <!-- -->
@@ -107,4 +107,4 @@ type: monster
 <!-- -->
 > ⭐️ **Distracted**
 >
-> Whenever the clobberer targets a creature or object with an ability, any enemy within distance of the ability can use a free triggered action to distract the clobberer. The clobberer targets that enemy instead
+> Whenever the clobberer targets a creature or object with an ability, any enemy within distance of the ability can use a free triggered action to distract the clobberer. The clobberer targets that enemy instead.

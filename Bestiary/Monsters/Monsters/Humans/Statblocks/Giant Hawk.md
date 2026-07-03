@@ -9,7 +9,7 @@ file_dpath: Monsters/Humans/Statblocks
 free_strike: 3
 intuition: 1
 item_id: giant-hawk
-item_index: '168'
+item_index: '12'
 item_name: Giant Hawk
 level: 1
 might: 2
@@ -18,15 +18,15 @@ reason: -3
 roles:
   - Platoon Mount
 scc:
-  - mcdm.monsters.v1:monster:giant-hawk
+  - mcdm.monsters.v1:monster.humans.statblock:giant-hawk
 scdc:
-  - 1.1.1:2:168
+  - 1.1.1:2.20.1:12
 size: '2'
 source: mcdm.monsters.v1
 speed: 5
 stability: 0
 stamina: '30'
-type: monster
+type: monster/humans/statblock
 ---
 
 ###### Giant Hawk
@@ -34,7 +34,7 @@ type: monster
 |    Animal, Human    |           -           |       Level 1       |      Platoon Mount      |          EV 6          |
 | :-----------------: | :-------------------: | :-----------------: | :---------------------: | :--------------------: |
 |   **2**<br/> Size   |   **5**<br/> Speed    | **30**<br/> Stamina |  **0**<br/> Stability   | **3**<br/> Free Strike |
-| **-**<br/> Immunity | **Fly**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **Fly**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |  **+2**<br/> Might  |  **+2**<br/> Agility  | **-3**<br/> Reason  |  **+1**<br/> Intuition  |  **-2**<br/> Presence  |
 
 <!-- -->

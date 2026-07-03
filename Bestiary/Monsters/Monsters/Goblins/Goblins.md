@@ -20,7 +20,7 @@ Their long arms and prehensile toes make goblins particularly well adapted to en
 
 #### Encountered in Groups
 
-Whether within a society or living in exile, goblins survive and thrive because they work together. A single goblin forced into the wild is terrified. A dozen outlaw goblins are supremely confident-perhaps overly so. Such groups often become bandits who ambush travelers crossing through their territory, be it desert, forest, or underground. Larger goblin hordes might become unscrupulous mercenaries serving powerful villains. No matter how they're encountered, goblins prefer to fight as an overwhelming force and to flee when foes outnumber friends.
+Whether within a society or living in exile, goblins survive and thrive because they work together. A single goblin forced into the wild is terrified. A dozen outlaw goblins are supremely confident—perhaps overly so. Such groups often become bandits who ambush travelers crossing through their territory, be it desert, forest, or underground. Larger goblin hordes might become unscrupulous mercenaries serving powerful villains. No matter how they're encountered, goblins prefer to fight as an overwhelming force and to flee when foes outnumber friends.
 
 ###### Goblin Malice (Malice Features)
 
@@ -63,7 +63,7 @@ Goblins ride enormous arachnids as mounts in battle. With blades attached to the
 
 #### Worg
 
-Some goblins form a special bond with worgs-canine creatures raised by many goblin communities as mounts, guardians, and companions. A worg stays loyal to the hand that feeds them, and will protect their handler to the bitter end.
+Some goblins form a special bond with worgs—canine creatures raised by many goblin communities as mounts, guardians, and companions. A worg stays loyal to the hand that feeds them, and will protect their handler to the bitter end.
 
 #### Goblin Languages
 
@@ -74,7 +74,7 @@ Most goblins speak Caelian and Szetch.
 |  Goblin, Humanoid   |            -            |      Level 1       |                Minion Harrier                 | EV 3 for four minions  |
 | :-----------------: | :---------------------: | :----------------: | :-------------------------------------------: | :--------------------: |
 |  **1S**<br/> Size   |    **6**<br/> Speed     | **4**<br/> Stamina |             **0**<br/> Stability              | **1**<br/> Free Strike |
-| **-**<br/> Immunity | **Climb**<br/> Movement |         -          | **Gain an edge on strikes**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **Climb**<br/> Movement |         -          | **Gain an edge on strikes**<br/> With Captain |  **-**<br/> Weakness   |
 |  **-2**<br/> Might  |   **+2**<br/> Agility   | **0**<br/> Reason  |             **0**<br/> Intuition              |  **-1**<br/> Presence  |
 
 <!-- -->
@@ -93,14 +93,14 @@ Most goblins speak Caelian and Szetch.
 <!-- -->
 > ⭐️ **Crafty**
 >
-> The runner doesn't provoke opportunity attacks by moving
+> The runner doesn't provoke opportunity attacks by moving.
 
 ###### Goblin Sniper
 
 |  Goblin, Humanoid   |            -            |      Level 1       |                 Minion Artillery                  | EV 3 for four minions  |
 | :-----------------: | :---------------------: | :----------------: | :-----------------------------------------------: | :--------------------: |
 |  **1S**<br/> Size   |    **5**<br/> Speed     | **3**<br/> Stamina |               **0**<br/> Stability                | **2**<br/> Free Strike |
-| **-**<br/> Immunity | **Climb**<br/> Movement |         -          | **+5 bonus to ranged distance**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **Climb**<br/> Movement |         -          | **+5 bonus to ranged distance**<br/> With Captain |  **-**<br/> Weakness   |
 |  **-2**<br/> Might  |   **+2**<br/> Agility   | **0**<br/> Reason  |               **0**<br/> Intuition                |  **-1**<br/> Presence  |
 
 <!-- -->
@@ -128,7 +128,7 @@ Most goblins speak Caelian and Szetch.
 |  Goblin, Humanoid   |            -            |      Level 1       |                   Minion Brute                   | EV 3 for four minions  |
 | :-----------------: | :---------------------: | :----------------: | :----------------------------------------------: | :--------------------: |
 |  **1S**<br/> Size   |    **5**<br/> Speed     | **5**<br/> Stamina |               **0**<br/> Stability               | **2**<br/> Free Strike |
-| **-**<br/> Immunity | **Climb**<br/> Movement |         -          | **+1 damage bonus to strikes**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **Climb**<br/> Movement |         -          | **+1 damage bonus to strikes**<br/> With Captain |  **-**<br/> Weakness   |
 |  **+2**<br/> Might  |   **0**<br/> Agility    | **0**<br/> Reason  |               **0**<br/> Intuition               |  **-1**<br/> Presence  |
 
 <!-- -->
@@ -147,14 +147,14 @@ Most goblins speak Caelian and Szetch.
 <!-- -->
 > ⭐️ **Crafty**
 >
-> The spinecleaver doesn't provoke opportunity attacks by moving
+> The spinecleaver doesn't provoke opportunity attacks by moving.
 
 ###### Skitterling
 
 |   Animal, Goblin    |           -           |      Level 1       |              Minion Hexer               | EV 3 for four minions  |
 | :-----------------: | :-------------------: | :----------------: | :-------------------------------------: | :--------------------: |
 |  **1T**<br/> Size   |   **5**<br/> Speed    | **3**<br/> Stamina |          **0**<br/> Stability           | **1**<br/> Free Strike |
-| **-**<br/> Immunity | **Fly**<br/> Movement |         -          | **+3 bonus to speed**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **Fly**<br/> Movement |         -          | **+3 bonus to speed**<br/> With Captain |  **-**<br/> Weakness   |
 |  **-5**<br/> Might  |  **+2**<br/> Agility  | **-4**<br/> Reason |          **0**<br/> Intuition           |  **-2**<br/> Presence  |
 
 <!-- -->
@@ -177,7 +177,7 @@ Most goblins speak Caelian and Szetch.
 |  Goblin, Humanoid   |            -            |       Level 1       |     Horde Ambusher      |          EV 3          |
 | :-----------------: | :---------------------: | :-----------------: | :---------------------: | :--------------------: |
 |  **1S**<br/> Size   |    **6**<br/> Speed     | **15**<br/> Stamina |  **0**<br/> Stability   | **2**<br/> Free Strike |
-| **-**<br/> Immunity | **Climb**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **Climb**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |  **-2**<br/> Might  |   **+2**<br/> Agility   |  **0**<br/> Reason  |  **0**<br/> Intuition   |  **-2**<br/> Presence  |
 
 <!-- -->
@@ -216,14 +216,14 @@ Most goblins speak Caelian and Szetch.
 <!-- -->
 > ⭐️ **Slip Away**
 >
-> The assassin can attempt to hide even while observed
+> The assassin can attempt to hide even while observed.
 
 ###### Goblin Cursespitter
 
 |  Goblin, Humanoid   |            -            |       Level 1       |       Horde Hexer       |          EV 3          |
 | :-----------------: | :---------------------: | :-----------------: | :---------------------: | :--------------------: |
 |  **1S**<br/> Size   |    **5**<br/> Speed     | **10**<br/> Stamina |  **0**<br/> Stability   | **1**<br/> Free Strike |
-| **-**<br/> Immunity | **Climb**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **Climb**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |  **-2**<br/> Might  |   **+1**<br/> Agility   |  **0**<br/> Reason  |  **+2**<br/> Intuition  |  **0**<br/> Presence   |
 
 <!-- -->
@@ -237,7 +237,7 @@ Most goblins speak Caelian and Szetch.
 >
 > - **≤11:** 3 corruption damage; I < 0 weakened (save ends)
 > - **12-16:** 4 corruption damage; I < 1 weakened (save ends)
-> - **12-16:** 5 corruption damage; I < 2 weakened (save ends)
+> - **17+:** 5 corruption damage; I < 2 weakened (save ends)
 
 <!-- -->
 > 🏹 **Dizzying Hex (1 Malice)**
@@ -262,7 +262,7 @@ Most goblins speak Caelian and Szetch.
 |  Goblin, Humanoid   |            -            |       Level 1       |    Horde Controller     |          EV 3          |
 | :-----------------: | :---------------------: | :-----------------: | :---------------------: | :--------------------: |
 |  **1S**<br/> Size   |    **5**<br/> Speed     | **10**<br/> Stamina |  **0**<br/> Stability   | **1**<br/> Free Strike |
-| **-**<br/> Immunity | **Climb**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **Climb**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |  **-2**<br/> Might  |   **+1**<br/> Agility   |  **0**<br/> Reason  |  **0**<br/> Intuition   |  **+2**<br/> Presence  |
 
 <!-- -->
@@ -292,14 +292,14 @@ Most goblins speak Caelian and Szetch.
 <!-- -->
 > ⭐️ **Crafty**
 >
-> The stinker doesn't provoke opportunity attacks by moving
+> The stinker doesn't provoke opportunity attacks by moving.
 
 ###### Goblin Underboss
 
 |  Goblin, Humanoid   |            -            |       Level 1       |      Horde Support      |          EV 3          |
 | :-----------------: | :---------------------: | :-----------------: | :---------------------: | :--------------------: |
 |  **1S**<br/> Size   |    **5**<br/> Speed     | **15**<br/> Stamina |  **0**<br/> Stability   | **1**<br/> Free Strike |
-| **-**<br/> Immunity | **Climb**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **Climb**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |  **-1**<br/> Might  |   **+2**<br/> Agility   |  **0**<br/> Reason  |  **0**<br/> Intuition   |  **+1**<br/> Presence  |
 
 <!-- -->
@@ -338,7 +338,7 @@ Most goblins speak Caelian and Szetch.
 |  Goblin, Humanoid   |            -            |       Level 1       |      Horde Harrier      |          EV 3          |
 | :-----------------: | :---------------------: | :-----------------: | :---------------------: | :--------------------: |
 |  **1S**<br/> Size   |    **6**<br/> Speed     | **15**<br/> Stamina |  **0**<br/> Stability   | **1**<br/> Free Strike |
-| **-**<br/> Immunity | **Climb**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **Climb**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |  **-2**<br/> Might  |   **+2**<br/> Agility   |  **0**<br/> Reason  |  **0**<br/> Intuition   |  **-1**<br/> Presence  |
 
 <!-- -->
@@ -370,14 +370,14 @@ Most goblins speak Caelian and Szetch.
 <!-- -->
 > ⭐️ **Crafty**
 >
-> The warrior doesn't provoke opportunity attacks by moving
+> The warrior doesn't provoke opportunity attacks by moving.
 
 ###### Goblin Monarch
 
 |  Goblin, Humanoid   |            -            |       Level 1       |         Leader          |         EV 12          |
 | :-----------------: | :---------------------: | :-----------------: | :---------------------: | :--------------------: |
 |  **1S**<br/> Size   |    **6**<br/> Speed     | **80**<br/> Stamina |  **1**<br/> Stability   | **4**<br/> Free Strike |
-| **-**<br/> Immunity | **Climb**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **Climb**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |  **0**<br/> Might   |   **+3**<br/> Agility   | **+1**<br/> Reason  |  **0**<br/> Intuition   |  **+3**<br/> Presence  |
 
 <!-- -->
@@ -413,7 +413,7 @@ Most goblins speak Caelian and Szetch.
 >
 > **Trigger:** A creature targets the monarch with a strike.
 >
-> **Effect:** The ally is the target of the triggering strike instead
+> **Effect:** The ally is the target of the triggering strike instead.
 
 <!-- -->
 > ⭐️ **Crafty**
@@ -457,7 +457,7 @@ Most goblins speak Caelian and Szetch.
 |   Animal, Goblin    |            -            |       Level 1       |       Elite Mount       |         EV 12          |
 | :-----------------: | :---------------------: | :-----------------: | :---------------------: | :--------------------: |
 |   **3**<br/> Size   |    **7**<br/> Speed     | **60**<br/> Stamina |  **2**<br/> Stability   | **4**<br/> Free Strike |
-| **-**<br/> Immunity | **Climb**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **Climb**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |  **+2**<br/> Might  |   **+1**<br/> Agility   | **-4**<br/> Reason  |  **0**<br/> Intuition   |  **-3**<br/> Presence  |
 
 <!-- -->
@@ -521,7 +521,7 @@ Most goblins speak Caelian and Szetch.
 >
 > **Trigger:** The spider or any ally riding the spider takes damage.
 >
-> **Effect:** The damage is halved, and the spider shifts up to 2 squares after the triggering effect resolve
+> **Effect:** The damage is halved, and the spider shifts up to 2 squares after the triggering effect resolves.
 
 <!-- -->
 > ⭐️ **Ride Launcher**
@@ -531,14 +531,14 @@ Most goblins speak Caelian and Szetch.
 <!-- -->
 > ⭐️ **Wide Back**
 >
-> While riding the spider, two size 1 allies can occupy the same space
+> While riding the spider, two size 1 allies can occupy the same space.
 
 ###### Worg
 
 |   Animal, Goblin    |          -          |       Level 1       |       Horde Mount       |          EV 3          |
 | :-----------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |  **1L**<br/> Size   |  **5**<br/> Speed   | **15**<br/> Stamina |  **1**<br/> Stability   | **1**<br/> Free Strike |
-| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |  **+1**<br/> Might  | **+2**<br/> Agility | **-1**<br/> Reason  |  **0**<br/> Intuition   |  **-1**<br/> Presence  |
 
 <!-- -->

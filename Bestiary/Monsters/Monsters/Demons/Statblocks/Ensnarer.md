@@ -9,7 +9,7 @@ file_dpath: Monsters/Demons/Statblocks
 free_strike: 2
 intuition: -1
 item_id: ensnarer
-item_index: '257'
+item_index: '04'
 item_name: Ensnarer
 level: 1
 might: 2
@@ -18,24 +18,24 @@ reason: -1
 roles:
   - Minion Brute
 scc:
-  - mcdm.monsters.v1:monster:ensnarer
+  - mcdm.monsters.v1:monster.demons.statblock:ensnarer
 scdc:
-  - 1.1.1:2:257
+  - 1.1.1:2.35.1:04
 size: 1M
 source: mcdm.monsters.v1
 speed: 5
 stability: 0
 stamina: '5'
-type: monster
+type: monster/demons/statblock
 ---
 
 ###### Ensnarer
 
-|   Abyssal, Demon    |          -          |      Level 1       |                   Minion Brute                   |   EV 3 for four minions    |
-| :-----------------: | :-----------------: | :----------------: | :----------------------------------------------: | :------------------------: |
-|  **1M**<br/> Size   |  **5**<br/> Speed   | **5**<br/> Stamina |               **0**<br/> Stability               |   **2**<br/> Free Strike   |
-| **-**<br/> Immunity | **-**<br/> Movement |         -          | **+2 bonus to melee distance**<br/> With Captain | **Holy 3**<br/> Weaknesses |
-|  **+2**<br/> Might  | **+0**<br/> Agility | **-1**<br/> Reason |              **-1**<br/> Intuition               |    **-1**<br/> Presence    |
+|   Abyssal, Demon    |          -          |      Level 1       |                   Minion Brute                   |  EV 3 for four minions   |
+| :-----------------: | :-----------------: | :----------------: | :----------------------------------------------: | :----------------------: |
+|  **1M**<br/> Size   |  **5**<br/> Speed   | **5**<br/> Stamina |               **0**<br/> Stability               |  **2**<br/> Free Strike  |
+| **-**<br/> Immunity | **-**<br/> Movement |         -          | **+2 bonus to melee distance**<br/> With Captain | **Holy 3**<br/> Weakness |
+|  **+2**<br/> Might  | **+0**<br/> Agility | **-1**<br/> Reason |              **-1**<br/> Intuition               |   **-1**<br/> Presence   |
 
 <!-- -->
 > 🗡 **Barbed Tongues (Signature Ability)**

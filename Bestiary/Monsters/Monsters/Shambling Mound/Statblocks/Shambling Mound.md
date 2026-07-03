@@ -9,7 +9,7 @@ file_dpath: Monsters/Shambling Mound/Statblocks
 free_strike: 7
 intuition: 1
 item_id: shambling-mound
-item_index: '350'
+item_index: '01'
 item_name: Shambling Mound
 level: 5
 might: 4
@@ -18,15 +18,15 @@ reason: 0
 roles:
   - Solo
 scc:
-  - mcdm.monsters.v1:monster:shambling-mound
+  - mcdm.monsters.v1:monster.shambling-mound.statblock:shambling-mound
 scdc:
-  - 1.1.1:2:350
+  - 1.1.1:2.50.1:01
 size: '3'
 source: mcdm.monsters.v1
 speed: 3
 stability: 5
 stamina: '400'
-type: monster
+type: monster/shambling-mound/statblock
 ---
 
 ###### Shambling Mound
@@ -34,7 +34,7 @@ type: monster
 | Plant, Shambling Mound |          -          |       Level 5        |          Solo           |         EV 84          |
 | :--------------------: | :-----------------: | :------------------: | :---------------------: | :--------------------: |
 |    **3**<br/> Size     |  **3**<br/> Speed   | **400**<br/> Stamina |  **5**<br/> Stability   | **7**<br/> Free Strike |
-|  **-**<br/> Immunity   | **-**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+|  **-**<br/> Immunity   | **-**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |   **+4**<br/> Might    | **-1**<br/> Agility |  **0**<br/> Reason   |  **+1**<br/> Intuition  |  **0**<br/> Presence   |
 
 <!-- -->

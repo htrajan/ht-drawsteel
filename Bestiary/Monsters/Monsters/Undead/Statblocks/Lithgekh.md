@@ -9,7 +9,7 @@ file_dpath: Monsters/Undead/Statblocks
 free_strike: 5
 intuition: 3
 item_id: lithgekh
-item_index: '63'
+item_index: '11'
 item_name: Lithgekh
 level: 10
 might: 0
@@ -18,15 +18,15 @@ reason: 5
 roles:
   - Horde Hexer
 scc:
-  - mcdm.monsters.v1:monster:lithgekh
+  - mcdm.monsters.v1:monster.undead.statblock:lithgekh
 scdc:
-  - 1.1.1:2:63
+  - 1.1.1:2.8.1:11
 size: 1M
 source: mcdm.monsters.v1
 speed: 6
 stability: 1
 stamina: '55'
-type: monster
+type: monster/undead/statblock
 ---
 
 ###### Lithgekh
@@ -34,7 +34,7 @@ type: monster
 |              Undead, Soulless              |              -               |      Level 10       |       Horde Hexer       |         EV 12          |
 | :----------------------------------------: | :--------------------------: | :-----------------: | :---------------------: | :--------------------: |
 |              **1M**<br/> Size              |       **6**<br/> Speed       | **55**<br/> Stamina |  **1**<br/> Stability   | **5**<br/> Free Strike |
-| **Corruption 10, poison 10**<br/> Immunity | **Fly, hover**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Corruption 10, poison 10**<br/> Immunity | **Fly, hover**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |              **0**<br/> Might              |     **+1**<br/> Agility      | **+5**<br/> Reason  |  **+3**<br/> Intuition  |  **-1**<br/> Presence  |
 
 <!-- -->

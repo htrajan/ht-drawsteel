@@ -9,7 +9,7 @@ file_dpath: Monsters/Giants/Statblocks
 free_strike: 8
 intuition: 3
 item_id: marble-stone-giant
-item_index: '201'
+item_index: '10'
 item_name: Marble Stone Giant
 level: 8
 might: 4
@@ -18,15 +18,15 @@ reason: 0
 roles:
   - Elite Hexer
 scc:
-  - mcdm.monsters.v1:monster:marble-stone-giant
+  - mcdm.monsters.v1:monster.giants.statblock:marble-stone-giant
 scdc:
-  - 1.1.1:2:201
+  - 1.1.1:2.23.1:10
 size: '4'
 source: mcdm.monsters.v1
 speed: 6
 stability: 10
 stamina: '207'
-type: monster
+type: monster/giants/statblock
 ---
 
 ###### Marble Stone Giant
@@ -34,7 +34,7 @@ type: monster
 | Giant, Stone Giant  |            -             |       Level 8        |       Elite Hexer       |         EV 40          |
 | :-----------------: | :----------------------: | :------------------: | :---------------------: | :--------------------: |
 |   **4**<br/> Size   |     **6**<br/> Speed     | **207**<br/> Stamina |  **10**<br/> Stability  | **8**<br/> Free Strike |
-| **-**<br/> Immunity | **Burrow**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **Burrow**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |  **+4**<br/> Might  |   **+3**<br/> Agility    |  **0**<br/> Reason   |  **+3**<br/> Intuition  |  **0**<br/> Presence   |
 
 <!-- -->

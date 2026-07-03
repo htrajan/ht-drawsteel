@@ -11,7 +11,7 @@ file_dpath: Monsters/Hobgoblins/Statblocks
 free_strike: 3
 intuition: 0
 item_id: hobgoblin-recruit
-item_index: '177'
+item_index: '01'
 item_name: Hobgoblin Recruit
 level: 4
 might: 3
@@ -20,15 +20,15 @@ reason: 0
 roles:
   - Minion Brute
 scc:
-  - mcdm.monsters.v1:monster:hobgoblin-recruit
+  - mcdm.monsters.v1:monster.hobgoblins.statblock:hobgoblin-recruit
 scdc:
-  - 1.1.1:2:177
+  - 1.1.1:2.22.1:01
 size: 1M
 source: mcdm.monsters.v1
 speed: 5
 stability: 0
 stamina: '9'
-type: monster
+type: monster/hobgoblins/statblock
 ---
 
 ###### Hobgoblin Recruit
@@ -36,7 +36,7 @@ type: monster
 | Goblin, Hobgoblin, Humanoid, Infernal |          -          |      Level 4       |               Minion Brute                | EV 6 for four minions  |
 | :-----------------------------------: | :-----------------: | :----------------: | :---------------------------------------: | :--------------------: |
 |           **1M**<br/> Size            |  **5**<br/> Speed   | **9**<br/> Stamina |           **0**<br/> Stability            | **3**<br/> Free Strike |
-|       **Fire 2**<br/> Immunity        | **-**<br/> Movement |         -          | **+4 bonus to Stamina**<br/> With Captain | **-**<br/> Weaknesses  |
+|       **Fire 2**<br/> Immunity        | **-**<br/> Movement |         -          | **+4 bonus to Stamina**<br/> With Captain |  **-**<br/> Weakness   |
 |           **+3**<br/> Might           | **+2**<br/> Agility | **0**<br/> Reason  |           **0**<br/> Intuition            |  **+1**<br/> Presence  |
 
 <!-- -->

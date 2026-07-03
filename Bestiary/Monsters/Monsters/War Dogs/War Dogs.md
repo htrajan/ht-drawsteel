@@ -14,7 +14,7 @@ type: monster/section
 
 ## War Dogs
 
-Ajax's war dogs-brutal patchwork soldiers-owe their new lives to the Iron Saint and fight for him fanatically. War dog minions are the freshest recruits, possessing minimal patchwork qualities and generally treated as disposable. Those who survive a battle are rewarded with gifts from the Body Banks. Those who don't survive become recycled back into the Body Banks to be reborn.
+Ajax's war dogs—brutal patchwork soldiers—owe their new lives to the Iron Saint and fight for him fanatically. War dog minions are the freshest recruits, possessing minimal patchwork qualities and generally treated as disposable. Those who survive a battle are rewarded with gifts from the Body Banks. Those who don't survive become recycled back into the Body Banks to be reborn.
 
 ##### War Dog Stat Block List
 
@@ -97,7 +97,7 @@ War dogs aren't undead. They still have minds, wills, and drives that separate t
 
 From the moment they are reborn, every war dog is part of Ajax's war machine. Fresh recruits undergo inspections and tests to ensure their viability and assess their capabilities, and those who are found lacking are immediately recycled.
 
-Those who meet the minimum requirements are sent to a brief but intense training camp, where they are drilled in basic combat, personal fitness, and unswerving loyalty. It is here that war dogs are first indoctrinated with Ajax's ideals, and any who question those ideals are immediately recycled. Those who survive this training camp are fitted with loyalty collars-unremovable neck pieces fitted with explosive fuse-iron charges-and sent on to join a legion.
+Those who meet the minimum requirements are sent to a brief but intense training camp, where they are drilled in basic combat, personal fitness, and unswerving loyalty. It is here that war dogs are first indoctrinated with Ajax's ideals, and any who question those ideals are immediately recycled. Those who survive this training camp are fitted with loyalty collars—unremovable neck pieces fitted with explosive fuse-iron charges—and sent on to join a legion.
 
 ### Chain of Command
 
@@ -147,7 +147,7 @@ At the start of any war dog's turn, you can spend Malice to activate one of the 
 | Humanoid, Soulless, War Dog |          -          |      Level 1       |                 Minion Ambusher                  | EV 3 for four minions  |
 | :-------------------------: | :-----------------: | :----------------: | :----------------------------------------------: | :--------------------: |
 |      **1M**<br/> Size       |  **5**<br/> Speed   | **4**<br/> Stamina |               **0**<br/> Stability               | **2**<br/> Free Strike |
-|     **-**<br/> Immunity     | **-**<br/> Movement |         -          | **+1 damage bonus to strikes**<br/> With Captain | **-**<br/> Weaknesses  |
+|     **-**<br/> Immunity     | **-**<br/> Movement |         -          | **+1 damage bonus to strikes**<br/> With Captain |  **-**<br/> Weakness   |
 |      **0**<br/> Might       | **+2**<br/> Agility | **0**<br/> Reason  |               **0**<br/> Intuition               |  **0**<br/> Presence   |
 
 <!-- -->
@@ -175,7 +175,7 @@ At the start of any war dog's turn, you can spend Malice to activate one of the 
 | Humanoid, Soulless, War Dog |          -          |      Level 1       |                  Minion Harrier                  | EV 3 for four minions  |
 | :-------------------------: | :-----------------: | :----------------: | :----------------------------------------------: | :--------------------: |
 |      **1M**<br/> Size       |  **7**<br/> Speed   | **4**<br/> Stamina |               **0**<br/> Stability               | **1**<br/> Free Strike |
-|     **-**<br/> Immunity     | **-**<br/> Movement |         -          | **+1 damage bonus to strikes**<br/> With Captain | **-**<br/> Weaknesses  |
+|     **-**<br/> Immunity     | **-**<br/> Movement |         -          | **+1 damage bonus to strikes**<br/> With Captain |  **-**<br/> Weakness   |
 |      **+2**<br/> Might      | **0**<br/> Agility  | **0**<br/> Reason  |               **0**<br/> Intuition               |  **0**<br/> Presence   |
 
 <!-- -->
@@ -203,7 +203,7 @@ At the start of any war dog's turn, you can spend Malice to activate one of the 
 | Humanoid, Soulless, War Dog |          -          |      Level 1       |                 Minion Artillery                  | EV 3 for four minions  |
 | :-------------------------: | :-----------------: | :----------------: | :-----------------------------------------------: | :--------------------: |
 |      **1M**<br/> Size       |  **7**<br/> Speed   | **3**<br/> Stamina |               **0**<br/> Stability                | **2**<br/> Free Strike |
-|     **-**<br/> Immunity     | **-**<br/> Movement |         -          | **+5 bonus to ranged distance**<br/> With Captain | **-**<br/> Weaknesses  |
+|     **-**<br/> Immunity     | **-**<br/> Movement |         -          | **+5 bonus to ranged distance**<br/> With Captain |  **-**<br/> Weakness   |
 |      **0**<br/> Might       | **+2**<br/> Agility | **0**<br/> Reason  |               **0**<br/> Intuition                |  **0**<br/> Presence   |
 
 <!-- -->
@@ -231,7 +231,7 @@ At the start of any war dog's turn, you can spend Malice to activate one of the 
 | Humanoid, Soulless, War Dog |          -          |      Level 1       |                 Minion Brute                  | EV 3 for four minions  |
 | :-------------------------: | :-----------------: | :----------------: | :-------------------------------------------: | :--------------------: |
 |      **1M**<br/> Size       |  **5**<br/> Speed   | **5**<br/> Stamina |             **1**<br/> Stability              | **2**<br/> Free Strike |
-|     **-**<br/> Immunity     | **-**<br/> Movement |         -          | **Gain an edge on strikes**<br/> With Captain | **-**<br/> Weaknesses  |
+|     **-**<br/> Immunity     | **-**<br/> Movement |         -          | **Gain an edge on strikes**<br/> With Captain |  **-**<br/> Weakness   |
 |      **+2**<br/> Might      | **0**<br/> Agility  | **0**<br/> Reason  |             **0**<br/> Intuition              |  **0**<br/> Presence   |
 
 <!-- -->
@@ -255,39 +255,14 @@ At the start of any war dog's turn, you can spend Malice to activate one of the 
 <!-- -->
 > ⭐️ **Loyalty Collar**
 >
-> When the tetherite is reduced to 0 Stamina, their loyalty collar explodes, dealing 1d3 damage to each adjacent enemy and object.War Dog Malice Level 1+ Malice Features At the start of any war dog's turn, you can spend Malice to activate one of the following features.
-
-<!-- -->
-> 👤 **Reconstitute (3 Malice)**
->
-> One war dog acting this turn tears apart a nearby corpse of a humanoid and incorporates its body parts into their own. The war dog regains Stamina equal to 5 times their level.
-
-<!-- -->
-> 🔳 **Fire for Effect (5 Malice)**
->
-> | **Area, Magic, Ranged** |                     **Maneuver** |
-> | ----------------------- | -------------------------------: |
-> | **📏 4 cube within 10** | **🎯 Each creature in the area** |
->
-> **Effect:** Each target makes an Agility test. The same condition is imposed on each affected target.
->
-> **Power Roll + 3:**
->
-> - **≤11:** 5 fire damage; slowed or weakened (save ends
-> - **12-16:** 5 fire damage; slowed or weakened (EoT
-> - **17+:** 5 fire damage
-
-<!-- -->
-> ⭐️ **Fodder Run (7 Malice)**
->
-> Each war dog minion in the encounter shifts up to their speed and can make a free strike. A minion who does so is then reduced to 0
+> When the tetherite is reduced to 0 Stamina, their loyalty collar explodes, dealing 1d3 damage to each adjacent enemy and object.
 
 ###### War Dog Amalgamite
 
 | Humanoid, Soulless, War Dog |          -          |       Level 2       |       Horde Brute       |          EV 4          |
 | :-------------------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |       **2**<br/> Size       |  **5**<br/> Speed   | **25**<br/> Stamina |  **2**<br/> Stability   | **3**<br/> Free Strike |
-|     **-**<br/> Immunity     | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+|     **-**<br/> Immunity     | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |      **+2**<br/> Might      | **0**<br/> Agility  |  **0**<br/> Reason  |  **0**<br/> Intuition   |  **0**<br/> Presence   |
 
 <!-- -->
@@ -326,7 +301,7 @@ At the start of any war dog's turn, you can spend Malice to activate one of the 
 | Humanoid, Soulless, War Dog |          -          |       Level 1       |     Horde Artillery     |          EV 3          |
 | :-------------------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |      **1M**<br/> Size       |  **5**<br/> Speed   | **10**<br/> Stamina |  **0**<br/> Stability   | **2**<br/> Free Strike |
-|  **Fire 2**<br/> Immunity   | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+|  **Fire 2**<br/> Immunity   | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |      **0**<br/> Might       | **+2**<br/> Agility |  **0**<br/> Reason  |  **0**<br/> Intuition   |  **0**<br/> Presence   |
 
 <!-- -->
@@ -342,7 +317,7 @@ At the start of any war dog's turn, you can spend Malice to activate one of the 
 > - **12-16:** 4 fire damage
 > - **17+:** 5 fire damage
 >
-> **Effect:** The area is covered in sticky fire until the start of the crucibite's next turn. Any creature who enters the area for the first time in a round or starts their turn there takes 2 fire damage
+> **Effect:** The area is covered in sticky fire until the start of the crucibite's next turn. Any creature who enters the area for the first time in a round or starts their turn there takes 2 fire damage.
 >
 > **3 Malice:** The area becomes a 10 x 1 line, and if any ally of the crucibite is in the area when it is created, the ability deals an extra 2 damage to each target.
 
@@ -365,15 +340,15 @@ At the start of any war dog's turn, you can spend Malice to activate one of the 
 | Humanoid, Soulless, War Dog |          -          |       Level 1       |      Horde Harrier      |          EV 3          |
 | :-------------------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |      **1M**<br/> Size       |  **7**<br/> Speed   | **15**<br/> Stamina |  **0**<br/> Stability   | **1**<br/> Free Strike |
-|     **-**<br/> Immunity     | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+|     **-**<br/> Immunity     | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |      **+1**<br/> Might      | **+2**<br/> Agility |  **0**<br/> Reason  |  **0**<br/> Intuition   |  **0**<br/> Presence   |
 
 <!-- -->
 > 🗡 **Chainsaw Whip (Signature Ability)**
 >
-> | **Melee, Strike, Weapon** |                **Main action** |
-> | ------------------------- | -----------------------------: |
-> | **📏 Melee 3**            | **🎯 One creature and object** |
+> | **Melee, Strike, Weapon** |               **Main action** |
+> | ------------------------- | ----------------------------: |
+> | **📏 Melee 3**            | **🎯 One creature or object** |
 >
 > **Power Roll + 2:**
 >
@@ -402,7 +377,7 @@ At the start of any war dog's turn, you can spend Malice to activate one of the 
 | Humanoid, Soulless, War Dog |           -           |       Level 1       |     Horde Defender      |          EV 3          |
 | :-------------------------: | :-------------------: | :-----------------: | :---------------------: | :--------------------: |
 |      **1M**<br/> Size       |   **5**<br/> Speed    | **20**<br/> Stamina |  **0**<br/> Stability   | **1**<br/> Free Strike |
-| **Psychic 2**<br/> Immunity | **Fly**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Psychic 2**<br/> Immunity | **Fly**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |      **0**<br/> Might       |  **+1**<br/> Agility  |  **0**<br/> Reason  |  **0**<br/> Intuition   |  **+2**<br/> Presence  |
 
 <!-- -->
@@ -434,7 +409,7 @@ At the start of any war dog's turn, you can spend Malice to activate one of the 
 > | ----------------- | ----------------------------: |
 > | **📏 5 burst**    | **🎯 Each enemy in the area** |
 >
-> **Effect:** The neuronite chooses one ally within 10 squares. Each target is either taunted by the ally, or the ally has damage immunity 3 whenever any target makes a strike against them (the neuronite's choice). Either effect lasts until the start of the neuronite's next turn
+> **Effect:** The neuronite chooses one ally within 10 squares. Each target is either taunted by the ally, or the ally has damage immunity 3 whenever any target makes a strike against them (the neuronite's choice). Either effect lasts until the start of the neuronite's next turn.
 
 <!-- -->
 > ⭐️ **Loyalty Collar**
@@ -446,7 +421,7 @@ At the start of any war dog's turn, you can spend Malice to activate one of the 
 | Humanoid, Soulless, War Dog |          -          |       Level 3       |    Horde Controller     |          EV 5          |
 | :-------------------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |      **1M**<br/> Size       |  **5**<br/> Speed   | **20**<br/> Stamina |  **0**<br/> Stability   | **2**<br/> Free Strike |
-| **Poison 3**<br/> Immunity  | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Poison 3**<br/> Immunity  | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |      **0**<br/> Might       | **+1**<br/> Agility |  **0**<br/> Reason  |  **0**<br/> Intuition   |  **+2**<br/> Presence  |
 
 <!-- -->
@@ -483,7 +458,7 @@ At the start of any war dog's turn, you can spend Malice to activate one of the 
 | Humanoid, Soulless, War Dog |          -          |       Level 2       |       Horde Hexer       |          EV 4          |
 | :-------------------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |      **1M**<br/> Size       |  **5**<br/> Speed   | **15**<br/> Stamina |  **0**<br/> Stability   | **2**<br/> Free Strike |
-|  **Acid 2**<br/> Immunity   | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+|  **Acid 2**<br/> Immunity   | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |      **0**<br/> Might       | **+2**<br/> Agility |  **0**<br/> Reason  |  **0**<br/> Intuition   |  **0**<br/> Presence   |
 
 <!-- -->
@@ -503,7 +478,7 @@ At the start of any war dog's turn, you can spend Malice to activate one of the 
 >
 > **Special:** A creature adjacent to the target can attempt an **Agility test** as a maneuver to remove the detonator.
 >
-> - **≤11:** No effect
+> - **≤11:** No effect.
 > - **12-16:** The detonator is disarmed and destroyed.
 > - **17+:** The creature can attach the detonator to another creature or object within 5 squares of them.
 
@@ -526,7 +501,7 @@ At the start of any war dog's turn, you can spend Malice to activate one of the 
 | Humanoid, Soulless, War Dog |          -          |       Level 2       |      Horde Support      |          EV 4          |
 | :-------------------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |      **1M**<br/> Size       |  **5**<br/> Speed   | **20**<br/> Stamina |  **0**<br/> Stability   | **2**<br/> Free Strike |
-|     **-**<br/> Immunity     | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+|     **-**<br/> Immunity     | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |      **+2**<br/> Might      | **0**<br/> Agility  |  **0**<br/> Reason  |  **0**<br/> Intuition   |  **+1**<br/> Presence  |
 
 <!-- -->
@@ -568,7 +543,7 @@ At the start of any war dog's turn, you can spend Malice to activate one of the 
 | Humanoid, Soulless, War Dog |             -              |       Level 1       |     Horde Ambusher      |          EV 3          |
 | :-------------------------: | :------------------------: | :-----------------: | :---------------------: | :--------------------: |
 |      **1M**<br/> Size       |      **5**<br/> Speed      | **15**<br/> Stamina |  **0**<br/> Stability   | **2**<br/> Free Strike |
-|     **-**<br/> Immunity     | **Teleport**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+|     **-**<br/> Immunity     | **Teleport**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |      **0**<br/> Might       |    **+2**<br/> Agility     |  **0**<br/> Reason  |  **0**<br/> Intuition   |  **0**<br/> Presence   |
 
 <!-- -->
@@ -616,7 +591,7 @@ At the start of any war dog's turn, you can spend Malice to activate one of the 
 | Humanoid, Soulless, War Dog |          -          |       Level 3        |         Leader          |         EV 20          |
 | :-------------------------: | :-----------------: | :------------------: | :---------------------: | :--------------------: |
 |      **1M**<br/> Size       |  **5**<br/> Speed   | **120**<br/> Stamina |  **2**<br/> Stability   | **5**<br/> Free Strike |
-|     **-**<br/> Immunity     | **-**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+|     **-**<br/> Immunity     | **-**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |      **+3**<br/> Might      | **+2**<br/> Agility |  **+3**<br/> Reason  |  **+2**<br/> Intuition  |  **+2**<br/> Presence  |
 
 <!-- -->
@@ -654,7 +629,7 @@ At the start of any war dog's turn, you can spend Malice to activate one of the 
 >
 > **Trigger:** The target takes damage, is force moved, or is reduced to 0 Stamina.
 >
-> **Effect:** Even if reduced to 0 Stamina, the target moves up to their speed and can make a free strike after the triggering effect is resolved The target then immediately dies.
+> **Effect:** Even if reduced to 0 Stamina, the target moves up to their speed and can make a free strike after the triggering effect is resolved. The target then immediately dies.
 
 <!-- -->
 > ⭐️ **End Effect**
@@ -736,7 +711,7 @@ At the start of any level 4 or higher war dog's turn, you can spend Malice to ac
 |  Humanoid, Soulless, War Dog  |          -          |      Level 4       |                       Minion Artillery                       | EV 6 for four minions  |
 | :---------------------------: | :-----------------: | :----------------: | :----------------------------------------------------------: | :--------------------: |
 |       **1M**<br/> Size        |  **5**<br/> Speed   | **7**<br/> Stamina |                     **0**<br/> Stability                     | **3**<br/> Free Strike |
-| **Lightning 4**<br/> Immunity | **-**<br/> Movement |         -          | **Lightning spread increases by 1 square**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Lightning 4**<br/> Immunity | **-**<br/> Movement |         -          | **Lightning spread increases by 1 square**<br/> With Captain |  **-**<br/> Weakness   |
 |       **0**<br/> Might        | **0**<br/> Agility  | **+3**<br/> Reason |                     **0**<br/> Intuition                     |  **+2**<br/> Presence  |
 
 <!-- -->
@@ -764,7 +739,7 @@ At the start of any level 4 or higher war dog's turn, you can spend Malice to ac
 | Humanoid, Soulless, War Dog |          -          |      Level 4       |                Minion Harrier                 | EV 6 for four minions  |
 | :-------------------------: | :-----------------: | :----------------: | :-------------------------------------------: | :--------------------: |
 |      **1M**<br/> Size       |  **6**<br/> Speed   | **8**<br/> Stamina |             **0**<br/> Stability              | **2**<br/> Free Strike |
-|     **-**<br/> Immunity     | **-**<br/> Movement |         -          | **Gain an edge on strikes**<br/> With Captain | **-**<br/> Weaknesses  |
+|     **-**<br/> Immunity     | **-**<br/> Movement |         -          | **Gain an edge on strikes**<br/> With Captain |  **-**<br/> Weakness   |
 |      **0**<br/> Might       | **+3**<br/> Agility | **0**<br/> Reason  |             **+2**<br/> Intuition             |  **0**<br/> Presence   |
 
 <!-- -->
@@ -792,7 +767,7 @@ At the start of any level 4 or higher war dog's turn, you can spend Malice to ac
 | Humanoid, Soulless, War Dog |               -               |      Level 4       |             Minion Ambusher             | EV 6 for four minions  |
 | :-------------------------: | :---------------------------: | :----------------: | :-------------------------------------: | :--------------------: |
 |      **1S**<br/> Size       |       **5**<br/> Speed        | **8**<br/> Stamina |          **0**<br/> Stability           | **3**<br/> Free Strike |
-| **Poison 4**<br/> Immunity  | **Climb, swim**<br/> Movement |         -          | **+2 bonus to speed**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Poison 4**<br/> Immunity  | **Climb, swim**<br/> Movement |         -          | **+2 bonus to speed**<br/> With Captain |  **-**<br/> Weakness   |
 |      **-1**<br/> Might      |      **+3**<br/> Agility      | **0**<br/> Reason  |          **+2**<br/> Intuition          |  **0**<br/> Presence   |
 
 <!-- -->
@@ -820,7 +795,7 @@ At the start of any level 4 or higher war dog's turn, you can spend Malice to ac
 | Humanoid, Soulless, War Dog |            -            |       Level 6       |     Horde Artillery     |          EV 8          |
 | :-------------------------: | :---------------------: | :-----------------: | :---------------------: | :--------------------: |
 |      **1L**<br/> Size       |    **5**<br/> Speed     | **35**<br/> Stamina |  **0**<br/> Stability   | **4**<br/> Free Strike |
-| **Psychic 6**<br/> Immunity | **Climb**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Psychic 6**<br/> Immunity | **Climb**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |      **0**<br/> Might       |   **+3**<br/> Agility   | **+2**<br/> Reason  |  **+2**<br/> Intuition  |  **+1**<br/> Presence  |
 
 <!-- -->
@@ -836,7 +811,7 @@ At the start of any level 4 or higher war dog's turn, you can spend Malice to ac
 > - **12-16:** 9 damage
 > - **17+:** 11 damage; A < 3 bleeding (save ends)
 >
-> **Effect:** This ability ignores cover and concealment. The arachnite chooses one of the following damage types when making the strike: acid, cold, fire, lightning, poison, psychic, or sonic
+> **Effect:** This ability ignores cover and concealment. The arachnite chooses one of the following damage types when making the strike: acid, cold, fire, lightning, poison, psychic, or sonic.
 >
 > **2 Malice:** The arachnite can use this ability as if they were in the space of any ally within distance.
 
@@ -847,7 +822,7 @@ At the start of any level 4 or higher war dog's turn, you can spend Malice to ac
 > | ----------------------- | -------------: |
 > | **📏 2 cube within 10** | **🎯 Special** |
 >
-> **Effect:** The area is difficult terrain until the end of the encounter
+> **Effect:** The area is difficult terrain until the end of the encounter.
 
 <!-- -->
 > ⭐️ **Eight-Eyed Sight**
@@ -864,7 +839,7 @@ At the start of any level 4 or higher war dog's turn, you can spend Malice to ac
 | Humanoid, Soulless, War Dog |          -          |       Level 5       |     Horde Defender      |          EV 7          |
 | :-------------------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |      **1L**<br/> Size       |  **5**<br/> Speed   | **40**<br/> Stamina |  **2**<br/> Stability   | **3**<br/> Free Strike |
-|     **-**<br/> Immunity     | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+|     **-**<br/> Immunity     | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |      **+3**<br/> Might      | **-1**<br/> Agility |  **0**<br/> Reason  |  **+3**<br/> Intuition  |  **+1**<br/> Presence  |
 
 <!-- -->
@@ -885,7 +860,7 @@ At the start of any level 4 or higher war dog's turn, you can spend Malice to ac
 <!-- -->
 > ⭐️ **Doom Magnet**
 >
-> The doomthief emits a 3 aura of warped fate that blocks line of effect for any enemy ability that doesn't include them as a target
+> The doomthief emits a 3 aura of warped fate that blocks line of effect for any enemy ability that doesn't include them as a target.
 
 <!-- -->
 > 👤 **Expanding Doom (4 Malice)**
@@ -906,7 +881,7 @@ At the start of any level 4 or higher war dog's turn, you can spend Malice to ac
 |  Soulless, War Dog  |          -          |       Level 4       |       Horde Brute       |          EV 6          |
 | :-----------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |   **2**<br/> Size   |  **8**<br/> Speed   | **53**<br/> Stamina |  **2**<br/> Stability   | **3**<br/> Free Strike |
-| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |  **+3**<br/> Might  | **+3**<br/> Agility | **-1**<br/> Reason  |  **-2**<br/> Intuition  |  **0**<br/> Presence   |
 
 <!-- -->
@@ -933,7 +908,7 @@ At the start of any level 4 or higher war dog's turn, you can spend Malice to ac
 > | ------------------------- | -------------: |
 > | **📏 Special; see below** | **🎯 Special** |
 >
-> **Effect:** The equivite moves up to their speed and ignores difficult terrain. Any mundane size 1 object whose space they move through is destroyed. The equivite makes one power roll against each enemy whose space they move through for the first time
+> **Effect:** The equivite moves up to their speed and ignores difficult terrain. Any mundane size 1 object whose space they move through is destroyed. The equivite makes one power roll against each enemy whose space they move through for the first time.
 >
 > **Power Roll + 3:**
 >
@@ -951,7 +926,7 @@ At the start of any level 4 or higher war dog's turn, you can spend Malice to ac
 | Humanoid, Soulless, War Dog |          -          |       Level 4       |     Horde Ambusher      |          EV 6          |
 | :-------------------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |      **1M**<br/> Size       |  **8**<br/> Speed   | **30**<br/> Stamina |  **0**<br/> Stability   | **3**<br/> Free Strike |
-|     **-**<br/> Immunity     | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+|     **-**<br/> Immunity     | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |      **+1**<br/> Might      | **+3**<br/> Agility |  **0**<br/> Reason  |  **0**<br/> Intuition   |  **+2**<br/> Presence  |
 
 <!-- -->
@@ -983,7 +958,7 @@ At the start of any level 4 or higher war dog's turn, you can spend Malice to ac
 <!-- -->
 > ⭐️ **Face in the Crowd**
 >
-> The hypokrite is invisible while adjacent to any ally who isn't hidden, and they can attempt to hide even while observed. Whenever they use the Hide maneuver, the hypokrite can disguise themself as another creature within line of effect
+> The hypokrite is invisible while adjacent to any ally who isn't hidden, and they can attempt to hide even while observed. Whenever they use the Hide maneuver, the hypokrite can disguise themself as another creature within line of effect.
 
 <!-- -->
 > ⭐️ **Loyalty Collar**
@@ -995,7 +970,7 @@ At the start of any level 4 or higher war dog's turn, you can spend Malice to ac
 | Humanoid, Soulless, War Dog |          -          |       Level 5       |      Horde Harrier      |          EV 7          |
 | :-------------------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |      **1M**<br/> Size       |  **6**<br/> Speed   | **35**<br/> Stamina |  **0**<br/> Stability   | **3**<br/> Free Strike |
-|     **-**<br/> Immunity     | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+|     **-**<br/> Immunity     | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |      **+1**<br/> Might      | **+3**<br/> Agility |  **0**<br/> Reason  |  **+2**<br/> Intuition  |  **0**<br/> Presence   |
 
 <!-- -->
@@ -1039,7 +1014,7 @@ At the start of any level 4 or higher war dog's turn, you can spend Malice to ac
 | Humanoid, Soulless, War Dog |          -          |       Level 6       |    Horde Controller     |          EV 8          |
 | :-------------------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |      **1M**<br/> Size       |  **5**<br/> Speed   | **35**<br/> Stamina |  **0**<br/> Stability   | **3**<br/> Free Strike |
-|     **-**<br/> Immunity     | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+|     **-**<br/> Immunity     | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |      **+1**<br/> Might      | **+1**<br/> Agility | **+2**<br/> Reason  |  **+3**<br/> Intuition  |  **+1**<br/> Presence  |
 
 <!-- -->
@@ -1078,7 +1053,7 @@ At the start of any level 4 or higher war dog's turn, you can spend Malice to ac
 | Humanoid, Soulless, War Dog |          -          |       Level 5       |       Horde Hexer       |          EV 7          |
 | :-------------------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |      **1M**<br/> Size       |  **5**<br/> Speed   | **30**<br/> Stamina |  **0**<br/> Stability   | **3**<br/> Free Strike |
-|     **-**<br/> Immunity     | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+|     **-**<br/> Immunity     | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |      **0**<br/> Might       | **0**<br/> Agility  | **+2**<br/> Reason  |  **+3**<br/> Intuition  |  **0**<br/> Presence   |
 
 <!-- -->
@@ -1107,7 +1082,7 @@ At the start of any level 4 or higher war dog's turn, you can spend Malice to ac
 >
 > - **≤11:** 2 corruption damage
 > - **12-16:** 4 corruption damage
-> - **17+:** 5 corruption damage; one ally in the area can end one effect on them that can be ended by a saving throw, and can give that effect to one targe
+> - **17+:** 5 corruption damage; one ally in the area can end one effect on them that can be ended by a saving throw, and can give that effect to one target
 >
 > **Effect:** The tormentite regains 2 Stamina for each creature targeted by this ability.
 
@@ -1126,7 +1101,7 @@ At the start of any level 4 or higher war dog's turn, you can spend Malice to ac
 | Humanoid, Soulless, War Dog |          -          |       Level 5       |      Horde Support      |          EV 7          |
 | :-------------------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |      **1L**<br/> Size       |  **5**<br/> Speed   | **35**<br/> Stamina |  **1**<br/> Stability   | **3**<br/> Free Strike |
-|     **-**<br/> Immunity     | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+|     **-**<br/> Immunity     | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |      **0**<br/> Might       | **+1**<br/> Agility | **+3**<br/> Reason  |  **+2**<br/> Intuition  |  **0**<br/> Presence   |
 
 <!-- -->
@@ -1167,7 +1142,7 @@ At the start of any level 4 or higher war dog's turn, you can spend Malice to ac
 <!-- -->
 > ⭐️ **Body Bank Branch Manager**
 >
-> If the war doc uses the Reconstitute war dog Malice feature, it costs 1 Malice less. Additionally, allies can treat the living war doc as a corpse when using the Reconstitute feature (see Reconstitute)
+> If the war doc uses the Reconstitute war dog Malice feature, it costs 1 Malice less. Additionally, allies can treat the living war doc as a corpse when using the Reconstitute feature (see Reconstitute).
 
 ##### No Loyalty Collar?
 
@@ -1178,7 +1153,7 @@ The war doc and the iron priest are among the most zealous war dogs in their ran
 | Humanoid, Soulless, War Dog |          -          |       Level 6        |         Leader          |         EV 32          |
 | :-------------------------: | :-----------------: | :------------------: | :---------------------: | :--------------------: |
 |      **1M**<br/> Size       |  **7**<br/> Speed   | **180**<br/> Stamina |  **2**<br/> Stability   | **7**<br/> Free Strike |
-|     **-**<br/> Immunity     | **-**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+|     **-**<br/> Immunity     | **-**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |      **+4**<br/> Might      | **+3**<br/> Agility |  **+2**<br/> Reason  |  **+3**<br/> Intuition  |  **+4**<br/> Presence  |
 
 <!-- -->
@@ -1199,7 +1174,7 @@ The war doc and the iron priest are among the most zealous war dogs in their ran
 > **3 Malice:** Each target loses 1d3 Recoveries.
 
 <!-- -->
-> 🏹 **Get Them, You Dolts! 1 Malice per target**
+> 🏹 **Get Them, You Dolts! (1 Malice per target)**
 >
 > | **Ranged**       |           **Maneuver** |
 > | ---------------- | ---------------------: |
@@ -1251,7 +1226,7 @@ The war doc and the iron priest are among the most zealous war dogs in their ran
 > - **12-16:** 13 fire damage; A < 3 slowed (save ends)
 > - **17+:** 16 fire damage; A < 4 slowed (save ends)
 >
-> **Effect:** The area is set ablaze until the end of the encounter. While ablaze, the area is difficult terrain, and any creature takes 2 fire damage for each square in the area they enter for the first time in a round
+> **Effect:** The area is set ablaze until the end of the encounter. While ablaze, the area is difficult terrain, and any creature takes 2 fire damage for each square in the area they enter for the first time in a round.
 
 <!-- -->
 > ☠️ **You Would Dare?! (Villain Action 3)**
@@ -1299,7 +1274,7 @@ At the start of any level 7 or higher war dog's turn, you can spend Malice to ac
 | Humanoid, Soulless, War Dog |          -          |       Level 7       |                   Minion Brute                   | EV 9 for four minions  |
 | :-------------------------: | :-----------------: | :-----------------: | :----------------------------------------------: | :--------------------: |
 |       **2**<br/> Size       |  **5**<br/> Speed   | **13**<br/> Stamina |               **2**<br/> Stability               | **4**<br/> Free Strike |
-|     **-**<br/> Immunity     | **-**<br/> Movement |          -          | **+3 damage bonus to strikes**<br/> With Captain | **-**<br/> Weaknesses  |
+|     **-**<br/> Immunity     | **-**<br/> Movement |          -          | **+3 damage bonus to strikes**<br/> With Captain |  **-**<br/> Weakness   |
 |      **+4**<br/> Might      | **+1**<br/> Agility | **-2**<br/> Reason  |              **-1**<br/> Intuition               |  **+2**<br/> Presence  |
 
 <!-- -->
@@ -1327,7 +1302,7 @@ At the start of any level 7 or higher war dog's turn, you can spend Malice to ac
 | Humanoid, Soulless, War Dog |          -          |       Level 7       |                  Minion Ambusher                  | EV 9 for four minions  |
 | :-------------------------: | :-----------------: | :-----------------: | :-----------------------------------------------: | :--------------------: |
 |      **1S**<br/> Size       |  **6**<br/> Speed   | **12**<br/> Stamina |               **0**<br/> Stability                | **4**<br/> Free Strike |
-|     **-**<br/> Immunity     | **-**<br/> Movement |          -          | **+5 bonus to ranged distance**<br/> With Captain | **-**<br/> Weaknesses  |
+|     **-**<br/> Immunity     | **-**<br/> Movement |          -          | **+5 bonus to ranged distance**<br/> With Captain |  **-**<br/> Weakness   |
 |      **-1**<br/> Might      | **+2**<br/> Agility | **+4**<br/> Reason  |               **+3**<br/> Intuition               |  **+1**<br/> Presence  |
 
 <!-- -->
@@ -1340,10 +1315,10 @@ At the start of any level 7 or higher war dog's turn, you can spend Malice to ac
 > **Power Roll + 4:**
 >
 > - **≤11:** 4 fire damage
-> - **12-16:** 7 fire damage; push
-> - **17+:** 8 fire damage; push
+> - **12-16:** 7 fire damage; push 1
+> - **17+:** 8 fire damage; push 3
 >
-> **Effect:** The space the target occupies fills with dark smoke and blocks line of effect until the start of the saboteur's next turn
+> **Effect:** The space the target occupies fills with dark smoke and blocks line of effect until the start of the saboteur's next turn.
 
 <!-- -->
 > ⭐️ **Loyalty Collar**
@@ -1355,7 +1330,7 @@ At the start of any level 7 or higher war dog's turn, you can spend Malice to ac
 | Humanoid, Soulless, War Dog |          -          |       Level 7       |               Minion Artillery                | EV 9 for four minions  |
 | :-------------------------: | :-----------------: | :-----------------: | :-------------------------------------------: | :--------------------: |
 |      **1M**<br/> Size       |  **5**<br/> Speed   | **10**<br/> Stamina |             **0**<br/> Stability              | **4**<br/> Free Strike |
-|     **-**<br/> Immunity     | **-**<br/> Movement |          -          | **Gain an edge on strikes**<br/> With Captain | **-**<br/> Weaknesses  |
+|     **-**<br/> Immunity     | **-**<br/> Movement |          -          | **Gain an edge on strikes**<br/> With Captain |  **-**<br/> Weakness   |
 |      **+1**<br/> Might      | **+4**<br/> Agility | **+3**<br/> Reason  |             **+1**<br/> Intuition             |  **+1**<br/> Presence  |
 
 <!-- -->
@@ -1383,7 +1358,7 @@ At the start of any level 7 or higher war dog's turn, you can spend Malice to ac
 | Humanoid, Soulless, War Dog |           -           |       Level 8       |      Horde Harrier      |         EV 10          |
 | :-------------------------: | :-------------------: | :-----------------: | :---------------------: | :--------------------: |
 |      **1M**<br/> Size       |   **8**<br/> Speed    | **50**<br/> Stamina |  **0**<br/> Stability   | **3**<br/> Free Strike |
-|     **-**<br/> Immunity     | **Fly**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+|     **-**<br/> Immunity     | **Fly**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |      **0**<br/> Might       |  **+4**<br/> Agility  | **+1**<br/> Reason  |  **+3**<br/> Intuition  |  **+1**<br/> Presence  |
 
 <!-- -->
@@ -1414,7 +1389,7 @@ At the start of any level 7 or higher war dog's turn, you can spend Malice to ac
 > - **12-16:** 4 acid damage; M < 3 slowed (save ends)
 > - **17+:** 6 acid damage; M < 4 slowed (save ends)
 >
-> **Effect:** The area is difficult terrain
+> **Effect:** The area is difficult terrain.
 
 <!-- -->
 > ⭐️ **Jetwing Agility**
@@ -1431,7 +1406,7 @@ At the start of any level 7 or higher war dog's turn, you can spend Malice to ac
 |  Soulless, War Dog  |          -          |       Level 8       |     Horde Artillery     |         EV 10          |
 | :-----------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |  **1L**<br/> Size   |  **0**<br/> Speed   | **72**<br/> Stamina |  **5**<br/> Stability   | **4**<br/> Free Strike |
-| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |  **+4**<br/> Might  | **-2**<br/> Agility | **+2**<br/> Reason  |  **+3**<br/> Intuition  |  **+2**<br/> Presence  |
 
 <!-- -->
@@ -1473,7 +1448,7 @@ At the start of any level 7 or higher war dog's turn, you can spend Malice to ac
 | Humanoid, Soulless, War Dog |             -              |       Level 7       |     Horde Ambusher      |          EV 9          |
 | :-------------------------: | :------------------------: | :-----------------: | :---------------------: | :--------------------: |
 |      **1M**<br/> Size       |      **6**<br/> Speed      | **45**<br/> Stamina |  **0**<br/> Stability   | **4**<br/> Free Strike |
-|     **-**<br/> Immunity     | **Teleport**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+|     **-**<br/> Immunity     | **Teleport**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |      **+1**<br/> Might      |    **+4**<br/> Agility     | **+4**<br/> Reason  |  **+2**<br/> Intuition  |  **0**<br/> Presence   |
 
 <!-- -->
@@ -1515,7 +1490,7 @@ At the start of any level 7 or higher war dog's turn, you can spend Malice to ac
 | Humanoid, Soulless, War Dog |          -          |       Level 7        |       Elite Brute       |         EV 36          |
 | :-------------------------: | :-----------------: | :------------------: | :---------------------: | :--------------------: |
 |       **2**<br/> Size       |  **5**<br/> Speed   | **200**<br/> Stamina |  **4**<br/> Stability   | **7**<br/> Free Strike |
-|     **-**<br/> Immunity     | **-**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+|     **-**<br/> Immunity     | **-**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |      **+4**<br/> Might      | **+2**<br/> Agility |  **+1**<br/> Reason  |  **+1**<br/> Intuition  |  **+3**<br/> Presence  |
 
 <!-- -->
@@ -1538,7 +1513,7 @@ At the start of any level 7 or higher war dog's turn, you can spend Malice to ac
 > | ----------- | -----------: |
 > | **📏 Self** |  **🎯 Self** |
 >
-> **Effect:** Until the start of their next turn, the breaker has a double edge on abilities and is automatically affected by all potency effect
+> **Effect:** Until the start of their next turn, the breaker has a double edge on abilities and is automatically affected by all potency effect.
 
 <!-- -->
 > ⭐️ **Breaking Point**
@@ -1555,7 +1530,7 @@ At the start of any level 7 or higher war dog's turn, you can spend Malice to ac
 | Humanoid, Soulless, War Dog |          -          |       Level 8       |       Horde Hexer       |         EV 10          |
 | :-------------------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |      **1M**<br/> Size       |  **5**<br/> Speed   | **45**<br/> Stamina |  **0**<br/> Stability   | **3**<br/> Free Strike |
-|  **Fire 8**<br/> Immunity   | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+|  **Fire 8**<br/> Immunity   | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |      **0**<br/> Might       | **+2**<br/> Agility | **+3**<br/> Reason  |  **+4**<br/> Intuition  |  **+1**<br/> Presence  |
 
 <!-- -->
@@ -1571,7 +1546,7 @@ At the start of any level 7 or higher war dog's turn, you can spend Malice to ac
 > - **12-16:** 6 fire damage; A < 3 the target is seared (save ends)
 > - **17+:** 8 fire damage; A < 4 the target is seared (save ends)
 >
-> **Effect:** A seared creature takes a bane on strikes and has damage weakness 5. If this ability obtains a tier 3 outcome against one or more creatures who are already seared, the firestarter can use Enflame as a free triggered action
+> **Effect:** A seared creature takes a bane on strikes and has damage weakness 5. If this ability obtains a tier 3 outcome against one or more creatures who are already seared, the firestarter can use Enflame as a free triggered action.
 
 <!-- -->
 > 🏹 **Enflame**
@@ -1581,6 +1556,8 @@ At the start of any level 7 or higher war dog's turn, you can spend Malice to ac
 > | **📏 Ranged 10**  | **🎯 Special** |
 >
 > **Effect:** This ability targets each enemy within 2 squares of any seared creature within distance.
+>
+> **Power Roll + 4:**
 >
 > - **≤11:** 2 fire damage
 > - **12-16:** 4 fire damage; A < 3 the target is seared (save ends)
@@ -1596,7 +1573,7 @@ At the start of any level 7 or higher war dog's turn, you can spend Malice to ac
 | Humanoid, Soulless, War Dog |            -             |       Level 8       |    Horde Controller     |         EV 10          |
 | :-------------------------: | :----------------------: | :-----------------: | :---------------------: | :--------------------: |
 |      **1M**<br/> Size       |     **5**<br/> Speed     | **45**<br/> Stamina |  **3**<br/> Stability   | **3**<br/> Free Strike |
-|     **-**<br/> Immunity     | **Burrow**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+|     **-**<br/> Immunity     | **Burrow**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |      **+2**<br/> Might      |   **+1**<br/> Agility    | **+4**<br/> Reason  |  **+4**<br/> Intuition  |  **+2**<br/> Presence  |
 
 <!-- -->
@@ -1614,7 +1591,7 @@ At the start of any level 7 or higher war dog's turn, you can spend Malice to ac
 >
 > **Effect:** This ability ignores stability. The geomancer declares a direction for the area, and any creature pushed by this ability is pushed to the last space in the area in the chosen direction.
 >
-> **2 Malice:** The ground beneath the area becomes a 2-square-deep trench after the power roll is resolved
+> **2 Malice:** The ground beneath the area becomes a 2-square-deep trench after the power roll is resolved.
 
 <!-- -->
 > 🔳 **Siegeworks**
@@ -1640,7 +1617,7 @@ At the start of any level 7 or higher war dog's turn, you can spend Malice to ac
 | Humanoid, Soulless, War Dog |          -          |       Level 8       |      Horde Support      |         EV 10          |
 | :-------------------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |      **1M**<br/> Size       |  **5**<br/> Speed   | **50**<br/> Stamina |  **0**<br/> Stability   | **3**<br/> Free Strike |
-|     **-**<br/> Immunity     | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+|     **-**<br/> Immunity     | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |      **+2**<br/> Might      | **+1**<br/> Agility | **+1**<br/> Reason  |  **+4**<br/> Intuition  |  **+4**<br/> Presence  |
 
 <!-- -->
@@ -1665,7 +1642,7 @@ At the start of any level 7 or higher war dog's turn, you can spend Malice to ac
 > | --------------- | ------------------------------: |
 > | **📏 4 aura**   | **🎯 Each war dog in the area** |
 >
-> **Effect:** For every 2 Malice spent, each target gains one of the following effects until the start of the iron priest's next turn
+> **Effect:** For every 2 Malice spent, each target gains one of the following effects until the start of the iron priest's next turn.
 >
 > - The target has damage immunity 2.
 > - The target's strikes deal an extra 3 holy damage.
@@ -1681,7 +1658,7 @@ At the start of any level 7 or higher war dog's turn, you can spend Malice to ac
 |  Soulless, War Dog  |              -               |       Level 8       |     Horde Defender      |         EV 10          |
 | :-----------------: | :--------------------------: | :-----------------: | :---------------------: | :--------------------: |
 |   **2**<br/> Size   |       **5**<br/> Speed       | **82**<br/> Stamina |  **2**<br/> Stability   | **3**<br/> Free Strike |
-| **-**<br/> Immunity | **Fly, hover**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **Fly, hover**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |  **+4**<br/> Might  |      **0**<br/> Agility      | **+4**<br/> Reason  |  **+2**<br/> Intuition  |  **+3**<br/> Presence  |
 
 <!-- -->
@@ -1727,7 +1704,7 @@ At the start of any level 7 or higher war dog's turn, you can spend Malice to ac
 | Humanoid, Soulless, War Dog |             -              |       Level 9        |         Leader          |         EV 44          |
 | :-------------------------: | :------------------------: | :------------------: | :---------------------: | :--------------------: |
 |      **1M**<br/> Size       |      **7**<br/> Speed      | **240**<br/> Stamina |  **1**<br/> Stability   | **9**<br/> Free Strike |
-|     **-**<br/> Immunity     | **Teleport**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+|     **-**<br/> Immunity     | **Teleport**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |      **+1**<br/> Might      |    **+3**<br/> Agility     |  **+5**<br/> Reason  |  **+4**<br/> Intuition  |  **+3**<br/> Presence  |
 
 <!-- -->
@@ -1860,7 +1837,7 @@ At the start of any level 10 or higher war dog's turn, you can spend Malice to a
 | Humanoid, Soulless, War Dog |           -           |      Level 10       |             Minion Harrier              | EV 12 for four minions |
 | :-------------------------: | :-------------------: | :-----------------: | :-------------------------------------: | :--------------------: |
 |      **1M**<br/> Size       |   **7**<br/> Speed    | **15**<br/> Stamina |          **2**<br/> Stability           | **4**<br/> Free Strike |
-|     **-**<br/> Immunity     | **Fly**<br/> Movement |          -          | **+3 bonus to speed**<br/> With Captain | **-**<br/> Weaknesses  |
+|     **-**<br/> Immunity     | **Fly**<br/> Movement |          -          | **+3 bonus to speed**<br/> With Captain |  **-**<br/> Weakness   |
 |      **+5**<br/> Might      |  **+4**<br/> Agility  | **+2**<br/> Reason  |          **+3**<br/> Intuition          |  **+2**<br/> Presence  |
 
 <!-- -->
@@ -1891,7 +1868,7 @@ At the start of any level 10 or higher war dog's turn, you can spend Malice to a
 | Humanoid, Soulless, War Dog |          -          |      Level 10       |                 Minion Artillery                 | EV 12 for four minions |
 | :-------------------------: | :-----------------: | :-----------------: | :----------------------------------------------: | :--------------------: |
 |      **1M**<br/> Size       |  **5**<br/> Speed   | **14**<br/> Stamina |               **0**<br/> Stability               | **5**<br/> Free Strike |
-|     **-**<br/> Immunity     | **-**<br/> Movement |          -          | **+4 damage bonus to strikes**<br/> With Captain | **-**<br/> Weaknesses  |
+|     **-**<br/> Immunity     | **-**<br/> Movement |          -          | **+4 damage bonus to strikes**<br/> With Captain |  **-**<br/> Weakness   |
 |      **+1**<br/> Might      | **+5**<br/> Agility | **+3**<br/> Reason  |              **+5**<br/> Intuition               |  **+2**<br/> Presence  |
 
 <!-- -->
@@ -1907,7 +1884,7 @@ At the start of any level 10 or higher war dog's turn, you can spend Malice to a
 > - **12-16:** 8 damage; push 3
 > - **17+:** 10 damage; push 4
 >
-> **Effect:** Each enemy adjacent to the target before the forced movement takes 5 fire damage
+> **Effect:** Each enemy adjacent to the target before the forced movement takes 5 fire damage.
 
 <!-- -->
 > ⭐️ **Loyalty Collar**
@@ -1919,7 +1896,7 @@ At the start of any level 10 or higher war dog's turn, you can spend Malice to a
 | Humanoid, Soulless, War Dog  |          -          |      Level 10       |                 Minion Hexer                  | EV 12 for four minions |
 | :--------------------------: | :-----------------: | :-----------------: | :-------------------------------------------: | :--------------------: |
 |       **1M**<br/> Size       |  **5**<br/> Speed   | **14**<br/> Stamina |             **0**<br/> Stability              | **4**<br/> Free Strike |
-| **Psychic 10**<br/> Immunity | **-**<br/> Movement |          -          | **Gain an edge on strikes**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Psychic 10**<br/> Immunity | **-**<br/> Movement |          -          | **Gain an edge on strikes**<br/> With Captain |  **-**<br/> Weakness   |
 |      **+2**<br/> Might       | **+2**<br/> Agility | **+4**<br/> Reason  |             **+3**<br/> Intuition             |  **+5**<br/> Presence  |
 
 <!-- -->
@@ -1944,11 +1921,11 @@ At the start of any level 10 or higher war dog's turn, you can spend Malice to a
 
 ###### Castellan Hoplon
 
-| Humanoid, Soulless, War Dog |          -          |       Level 10        |     Elite Defender      |         EV 48          |
-| :-------------------------: | :-----------------: | :-------------------: | :---------------------: | :--------------------: |
-|      **1M**<br/> Size       |  **5**<br/> Speed   | **2603**<br/> Stamina |  **1**<br/> Stability   | **0**<br/> Free Strike |
-| **Damage 3**<br/> Immunity  | **-**<br/> Movement |           -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
-|      **+5**<br/> Might      | **+2**<br/> Agility |  **+4**<br/> Reason   |  **+3**<br/> Intuition  |  **+4**<br/> Presence  |
+| Humanoid, Soulless, War Dog |          -          |       Level 10       |     Elite Defender      |          EV 48          |
+| :-------------------------: | :-----------------: | :------------------: | :---------------------: | :---------------------: |
+|      **1M**<br/> Size       |  **5**<br/> Speed   | **260**<br/> Stamina |  **3**<br/> Stability   | **10**<br/> Free Strike |
+| **Damage 3**<br/> Immunity  | **-**<br/> Movement |          -           | **-**<br/> With Captain |   **-**<br/> Weakness   |
+|      **+5**<br/> Might      | **+2**<br/> Agility |  **+4**<br/> Reason  |  **+3**<br/> Intuition  |  **+4**<br/> Presence   |
 
 <!-- -->
 > 🗡 **Inspiring Strike (Signature Ability)**
@@ -1981,6 +1958,8 @@ At the start of any level 10 or higher war dog's turn, you can spend Malice to a
 > | -------------- | ----------------------------: |
 > | **📏 3 burst** | **🎯 Each enemy in the area** |
 >
+> **Power Roll + 5:**
+>
 > - **≤11:** R < 3 taunted (EoT)
 > - **12-16:** R < 4 taunted (EoT)
 > - **17+:** R < 5 taunted (EoT)
@@ -2006,15 +1985,15 @@ At the start of any level 10 or higher war dog's turn, you can spend Malice to a
 <!-- -->
 > ⭐️ **Last Stand**
 >
-> The first time in an encounter that Hoplon is reduced to 0 Stam- na, he instead has 1 Stamina and gains damage immunity 10 until the end of his next turn. When Hoplon is reduced to 0 Stamina again, each ally within 5 squares of him gains damage immunity 3 and deals an extra 5 damage on strikes, all until the end of the encounter.
+> The first time in an encounter that Hoplon is reduced to 0 Stamina, he instead has 1 Stamina and gains damage immunity 10 until the end of his next turn. When Hoplon is reduced to 0 Stamina again, each ally within 5 squares of him gains damage immunity 3 and deals an extra 5 damage on strikes, all until the end of the encounter.
 
 ###### Iron Champion Doru
 
-| Humanoid, Soulless, War Dog |          -          |       Level 10        |       Elite Brute       |         EV 48          |
-| :-------------------------: | :-----------------: | :-------------------: | :---------------------: | :--------------------: |
-|      **1L**<br/> Size       |  **5**<br/> Speed   | **2602**<br/> Stamina |  **1**<br/> Stability   | **0**<br/> Free Strike |
-|     **-**<br/> Immunity     | **-**<br/> Movement |           -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
-|      **+5**<br/> Might      | **+4**<br/> Agility |  **+1**<br/> Reason   |  **+4**<br/> Intuition  |  **+2**<br/> Presence  |
+| Humanoid, Soulless, War Dog |          -          |       Level 10       |       Elite Brute       |          EV 48          |
+| :-------------------------: | :-----------------: | :------------------: | :---------------------: | :---------------------: |
+|      **1L**<br/> Size       |  **5**<br/> Speed   | **260**<br/> Stamina |  **2**<br/> Stability   | **10**<br/> Free Strike |
+|     **-**<br/> Immunity     | **-**<br/> Movement |          -           | **-**<br/> With Captain |   **-**<br/> Weakness   |
+|      **+5**<br/> Might      | **+4**<br/> Agility |  **+1**<br/> Reason  |  **+4**<br/> Intuition  |  **+2**<br/> Presence   |
 
 <!-- -->
 > 🗡 **Houndaxe (Signature Ability)**
@@ -2038,7 +2017,7 @@ At the start of any level 10 or higher war dog's turn, you can spend Malice to a
 >
 > | **Area, Weapon** |                             **Main action** |
 > | ---------------- | ------------------------------------------: |
-> | **📏 Burst 3**   | **🎯 Each creature and object in the area** |
+> | **📏 3 burst**   | **🎯 Each creature and object in the area** |
 >
 > **Power Roll + 5:**
 >
@@ -2076,7 +2055,7 @@ At the start of any level 10 or higher war dog's turn, you can spend Malice to a
 <!-- -->
 > ⭐️ **The Scarless**
 >
-> Doru regains 10 Stamina at the start of each of his turns unless he took acid or fire damage since the start of his previous turn. Whe- ever he regains Stamina this way, the Director can spend 2 Malice to end one effect on Doru that can be ended by a saving throw
+> Doru regains 10 Stamina at the start of each of his turns unless he took acid or fire damage since the start of his previous turn. Whenever he regains Stamina this way, the Director can spend 2 Malice to end one effect on Doru that can be ended by a saving throw.
 
 <!-- -->
 > ⭐️ **Champion's Loyalty Collar**
@@ -2085,11 +2064,11 @@ At the start of any level 10 or higher war dog's turn, you can spend Malice to a
 
 ###### Logostician Vesper
 
-|  Soulless, War Dog  |          -          |        Level 10        |    Elite Controller     |         EV 48          |
-| :-----------------: | :-----------------: | :--------------------: | :---------------------: | :--------------------: |
-|   **2**<br/> Size   |  **1**<br/> Speed   | **02533**<br/> Stamina |  **1**<br/> Stability   | **0**<br/> Free Strike |
-| **-**<br/> Immunity | **-**<br/> Movement |           -            | **-**<br/> With Captain | **-**<br/> Weaknesses  |
-|  **+2**<br/> Might  | **+1**<br/> Agility |   **+5**<br/> Reason   |  **+4**<br/> Intuition  |  **+1**<br/> Presence  |
+|  Soulless, War Dog  |          -          |       Level 10       |    Elite Controller     |          EV 48          |
+| :-----------------: | :-----------------: | :------------------: | :---------------------: | :---------------------: |
+|   **2**<br/> Size   |  **10**<br/> Speed  | **253**<br/> Stamina |  **3**<br/> Stability   | **10**<br/> Free Strike |
+| **-**<br/> Immunity | **-**<br/> Movement |          -           | **-**<br/> With Captain |   **-**<br/> Weakness   |
+|  **+2**<br/> Might  | **+1**<br/> Agility |  **+5**<br/> Reason  |  **+4**<br/> Intuition  |  **+1**<br/> Presence   |
 
 <!-- -->
 > 🔳 **Portal to the Firing Line (Signature Ability)**
@@ -2132,11 +2111,13 @@ At the start of any level 10 or higher war dog's turn, you can spend Malice to a
 > | ----------------------- | ------------------------------------------: |
 > | **📏 5 cube within 15** | **🎯 Each creature and object in the area** |
 >
+> **Power Roll + 5:**
+>
 > - **≤11:** A < 4 pull 3 toward the center of the area
 > - **12-16:** A < 5 pull 3 toward the center of the area
 > - **17+:** Pull 3 toward the center of the area
 >
-> **Effect:** A portal appears at the center of the area. Any creature at the center of the area when this ability is used or who is pulled into the center for the first time in a round takes 10 sonic damage
+> **Effect:** A portal appears at the center of the area. Any creature at the center of the area when this ability is used or who is pulled into the center for the first time in a round takes 10 sonic damage.
 >
 > **2 Malice:** The area remains active and deals its damage until Vesper is reduced to 0 Stamina or until the end of the encounter. Any creature who enters the area and has A < 4 is pulled 3 squares toward the center of the area. Any creature who starts their turn in the area and has M < 4 is slowed until the end of their turn.
 
@@ -2166,7 +2147,7 @@ At the start of any level 10 or higher war dog's turn, you can spend Malice to a
 | Humanoid, Soulless, War Dog |              -               |       Level 10       |       Elite Hexer       |          EV 48          |
 | :-------------------------: | :--------------------------: | :------------------: | :---------------------: | :---------------------: |
 |      **1M**<br/> Size       |       **5**<br/> Speed       | **220**<br/> Stamina |  **1**<br/> Stability   | **10**<br/> Free Strike |
-|     **-**<br/> Immunity     | **Fly, hover**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weaknesses  |
+|     **-**<br/> Immunity     | **Fly, hover**<br/> Movement |          -           | **-**<br/> With Captain |   **-**<br/> Weakness   |
 |      **+1**<br/> Might      |     **+3**<br/> Agility      |  **+3**<br/> Reason  |  **+4**<br/> Intuition  |  **+5**<br/> Presence   |
 
 <!-- -->
@@ -2197,7 +2178,7 @@ At the start of any level 10 or higher war dog's turn, you can spend Malice to a
 > - **12-16:** 12 corruption damage; P < 4 weakened (EoT)
 > - **17+:** 15 corruption damage; P < 5 weakened (EoT)
 >
-> **Effect:** The area is difficult terrain until the start of Psyche's next turn At the start of each of her turns, Psyche can use a maneuver to main- tain this effect, move the area up to 5 squares, and make the power roll against each creature in the area's new location.
+> **Effect:** The area is difficult terrain until the start of Psyche's next turn At the start of each of her turns, Psyche can use a maneuver to maintain this effect, move the area up to 5 squares, and make the power roll against each creature in the area's new location.
 >
 > **1 Malice:** Until the start of Psyche's next turn, if this ability makes a creature weakened, that creature is also soulbound (save ends; see Soulbind above).
 
@@ -2250,11 +2231,11 @@ At the start of any level 10 or higher war dog's turn, you can spend Malice to a
 
 ###### Strategos Alkestis
 
-| Humanoid, Soulless, War Dog |          -          |       Level 10        |         Leader          |         EV 48          |
-| :-------------------------: | :-----------------: | :-------------------: | :---------------------: | :--------------------: |
-|      **1M**<br/> Size       |  **5**<br/> Speed   | **2602**<br/> Stamina |  **1**<br/> Stability   | **0**<br/> Free Strike |
-|     **-**<br/> Immunity     | **-**<br/> Movement |           -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
-|      **+4**<br/> Might      | **+4**<br/> Agility |  **+5**<br/> Reason   |  **+5**<br/> Intuition  |  **+5**<br/> Presence  |
+| Humanoid, Soulless, War Dog |          -          |       Level 10       |         Leader          |          EV 48          |
+| :-------------------------: | :-----------------: | :------------------: | :---------------------: | :---------------------: |
+|      **1M**<br/> Size       |  **5**<br/> Speed   | **260**<br/> Stamina |  **2**<br/> Stability   | **10**<br/> Free Strike |
+|     **-**<br/> Immunity     | **-**<br/> Movement |          -           | **-**<br/> With Captain |   **-**<br/> Weakness   |
+|      **+4**<br/> Might      | **+4**<br/> Agility |  **+5**<br/> Reason  |  **+5**<br/> Intuition  |  **+5**<br/> Presence   |
 
 <!-- -->
 > ⚔️ **Houndgun and Houndblade (Signature Ability)**
@@ -2280,7 +2261,7 @@ At the start of any level 10 or higher war dog's turn, you can spend Malice to a
 > | ---------------- | ----------------------------: |
 > | **📏 Ranged 15** | **🎯 One creature or object** |
 >
-> **Effect:** Until the start of Alkestis's next turn, any effect that reduces the damage taken by the target has no effect
+> **Effect:** Until the start of Alkestis's next turn, any effect that reduces the damage taken by the target has no effect.
 
 <!-- -->
 > ❗️ **Artillery Enfilade (2 Malice)**
@@ -2297,7 +2278,7 @@ At the start of any level 10 or higher war dog's turn, you can spend Malice to a
 > - **12-16:** 13 damage; A < 5 slowed (save ends)
 > - **17+:** 16 damage; A < 6 slowed (save ends)
 >
-> **Effect:** The area is difficult terrain until the start of the next round
+> **Effect:** The area is difficult terrain until the start of the next round.
 
 <!-- -->
 > ⭐️ **End Effect**

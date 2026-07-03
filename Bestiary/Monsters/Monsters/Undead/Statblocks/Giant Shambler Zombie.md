@@ -9,7 +9,7 @@ file_dpath: Monsters/Undead/Statblocks
 free_strike: 5
 intuition: 1
 item_id: giant-shambler-zombie
-item_index: '69'
+item_index: '17'
 item_name: Giant Shambler Zombie
 level: 10
 might: 5
@@ -18,15 +18,15 @@ reason: -3
 roles:
   - Minion Brute
 scc:
-  - mcdm.monsters.v1:monster:giant-shambler-zombie
+  - mcdm.monsters.v1:monster.undead.statblock:giant-shambler-zombie
 scdc:
-  - 1.1.1:2:69
+  - 1.1.1:2.8.1:17
 size: '3'
 source: mcdm.monsters.v1
 speed: 4
 stability: 5
 stamina: '17'
-type: monster
+type: monster/undead/statblock
 ---
 
 ###### Giant Shambler Zombie
@@ -34,7 +34,7 @@ type: monster
 |              Undead, Soulless              |          -          |      Level 10       |                   Minion Brute                   | EV 12 for four minions |
 | :----------------------------------------: | :-----------------: | :-----------------: | :----------------------------------------------: | :--------------------: |
 |              **3**<br/> Size               |  **4**<br/> Speed   | **17**<br/> Stamina |               **5**<br/> Stability               | **5**<br/> Free Strike |
-| **Corruption 10, poison 10**<br/> Immunity | **-**<br/> Movement |          -          | **+4 damage bonus to strikes**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Corruption 10, poison 10**<br/> Immunity | **-**<br/> Movement |          -          | **+4 damage bonus to strikes**<br/> With Captain |  **-**<br/> Weakness   |
 |             **+5**<br/> Might              | **-3**<br/> Agility | **-3**<br/> Reason  |              **+1**<br/> Intuition               |  **-2**<br/> Presence  |
 
 <!-- -->

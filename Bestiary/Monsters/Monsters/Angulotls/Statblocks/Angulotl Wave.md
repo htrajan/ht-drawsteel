@@ -9,7 +9,7 @@ file_dpath: Monsters/Angulotls/Statblocks
 free_strike: 1
 intuition: 2
 item_id: angulotl-wave
-item_index: '241'
+item_index: '04'
 item_name: Angulotl Wave
 level: 1
 might: 0
@@ -18,15 +18,15 @@ reason: 0
 roles:
   - Horde Controller
 scc:
-  - mcdm.monsters.v1:monster:angulotl-wave
+  - mcdm.monsters.v1:monster.angulotls.statblock:angulotl-wave
 scdc:
-  - 1.1.1:2:241
+  - 1.1.1:2.31.1:04
 size: 1S
 source: mcdm.monsters.v1
 speed: 5
 stability: 0
 stamina: '10'
-type: monster
+type: monster/angulotls/statblock
 ---
 
 ###### Angulotl Wave
@@ -34,7 +34,7 @@ type: monster
 |     Angulotl, Humanoid     |               -               |       Level 1       |    Horde Controller     |          EV 3          |
 | :------------------------: | :---------------------------: | :-----------------: | :---------------------: | :--------------------: |
 |      **1S**<br/> Size      |       **5**<br/> Speed        | **10**<br/> Stamina |  **0**<br/> Stability   | **1**<br/> Free Strike |
-| **Poison 2**<br/> Immunity | **Climb, swim**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Poison 2**<br/> Immunity | **Climb, swim**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |     **+0**<br/> Might      |      **+0**<br/> Agility      | **+0**<br/> Reason  |  **+2**<br/> Intuition  |  **+2**<br/> Presence  |
 
 <!-- -->

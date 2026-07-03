@@ -11,7 +11,7 @@ file_dpath: Monsters/Minotaurs/Statblocks
 free_strike: 4
 intuition: 2
 item_id: minotaur-stampede
-item_index: '174'
+item_index: '03'
 item_name: Minotaur Stampede
 level: 10
 might: 5
@@ -20,15 +20,15 @@ reason: 0
 roles:
   - Minion Defender
 scc:
-  - mcdm.monsters.v1:monster:minotaur-stampede
+  - mcdm.monsters.v1:monster.minotaurs.statblock:minotaur-stampede
 scdc:
-  - 1.1.1:2:174
+  - 1.1.1:2.21.1:03
 size: '4'
 source: mcdm.monsters.v1
 speed: 8
 stability: 2
 stamina: '17'
-type: monster
+type: monster/minotaurs/statblock
 ---
 
 ###### Minotaur Stampede
@@ -36,7 +36,7 @@ type: monster
 | Accursed, Humanoid, Minotaur, Swarm |          -          |      Level 10       |                Minion Defender                | EV 12 for four minions |
 | :---------------------------------: | :-----------------: | :-----------------: | :-------------------------------------------: | :--------------------: |
 |           **4**<br/> Size           |  **8**<br/> Speed   | **17**<br/> Stamina |             **2**<br/> Stability              | **4**<br/> Free Strike |
-|         **-**<br/> Immunity         | **-**<br/> Movement |          -          | **Gain an edge on strikes**<br/> With Captain | **-**<br/> Weaknesses  |
+|         **-**<br/> Immunity         | **-**<br/> Movement |          -          | **Gain an edge on strikes**<br/> With Captain |  **-**<br/> Weakness   |
 |          **+5**<br/> Might          | **+5**<br/> Agility |  **0**<br/> Reason  |             **+2**<br/> Intuition             |  **-1**<br/> Presence  |
 
 <!-- -->

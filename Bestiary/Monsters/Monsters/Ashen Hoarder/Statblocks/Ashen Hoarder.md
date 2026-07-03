@@ -9,7 +9,7 @@ file_dpath: Monsters/Ashen Hoarder/Statblocks
 free_strike: 6
 intuition: 0
 item_id: ashen-hoarder
-item_index: '208'
+item_index: '01'
 item_name: Ashen Hoarder
 level: 4
 might: 4
@@ -18,24 +18,24 @@ reason: -2
 roles:
   - Solo
 scc:
-  - mcdm.monsters.v1:monster:ashen-hoarder
+  - mcdm.monsters.v1:monster.ashen-hoarder.statblock:ashen-hoarder
 scdc:
-  - 1.1.1:2:208
+  - 1.1.1:2.26.1:01
 size: '3'
 source: mcdm.monsters.v1
 speed: 8
 stability: 3
 stamina: '350'
-type: monster
+type: monster/ashen-hoarder/statblock
 ---
 
 ###### Ashen Hoarder
 
-|  Construct, Undead  |            -             |       Level 4        |          Solo           |           EV 72            |
-| :-----------------: | :----------------------: | :------------------: | :---------------------: | :------------------------: |
-|   **3**<br/> Size   |     **8**<br/> Speed     | **350**<br/> Stamina |  **3**<br/> Stability   |   **6**<br/> Free Strike   |
-| **-**<br/> Immunity | **Burrow**<br/> Movement |          -           | **-**<br/> With Captain | **Holy 5**<br/> Weaknesses |
-|  **+4**<br/> Might  |   **-1**<br/> Agility    |  **-2**<br/> Reason  |  **+0**<br/> Intuition  |    **-5**<br/> Presence    |
+|  Construct, Undead  |            -             |       Level 4        |          Solo           |          EV 72           |
+| :-----------------: | :----------------------: | :------------------: | :---------------------: | :----------------------: |
+|   **3**<br/> Size   |     **8**<br/> Speed     | **350**<br/> Stamina |  **3**<br/> Stability   |  **6**<br/> Free Strike  |
+| **-**<br/> Immunity | **Burrow**<br/> Movement |          -           | **-**<br/> With Captain | **Holy 5**<br/> Weakness |
+|  **+4**<br/> Might  |   **-1**<br/> Agility    |  **-2**<br/> Reason  |  **+0**<br/> Intuition  |   **-5**<br/> Presence   |
 
 <!-- -->
 > ☠️ **Solo Monster**
@@ -85,7 +85,9 @@ type: monster
 >
 > **Power Roll + 4:**
 >
-> 6 corruption damage; M < 2 the target is impaled (save ends) 11 corruption damage; M < 3 the target is impaled (save ends) 14 corruption damage; M < 4 the target is impaled (save ends)
+> - **≤11:** 6 corruption damage; M < 2 the target is impaled (save ends)
+> - **12-16:** 11 corruption damage; M < 3 the target is impaled (save ends)
+> - **17+:** 14 corruption damage; M < 4 the target is impaled (save ends)
 >
 > **Effect:** An impaled creature is restrained and bleeding, and moves with the ashen hoarder. The ashen hoarder can have three creatures impaled with this ability at a time.
 

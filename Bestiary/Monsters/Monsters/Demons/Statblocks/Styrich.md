@@ -9,7 +9,7 @@ file_dpath: Monsters/Demons/Statblocks
 free_strike: 3
 intuition: 2
 item_id: styrich
-item_index: '260'
+item_index: '07'
 item_name: Styrich
 level: 8
 might: 2
@@ -18,24 +18,24 @@ reason: 0
 roles:
   - Horde Hexer
 scc:
-  - mcdm.monsters.v1:monster:styrich
+  - mcdm.monsters.v1:monster.demons.statblock:styrich
 scdc:
-  - 1.1.1:2:260
+  - 1.1.1:2.35.1:07
 size: 1L
 source: mcdm.monsters.v1
 speed: 6
 stability: 1
 stamina: '45'
-type: monster
+type: monster/demons/statblock
 ---
 
 ###### Styrich
 
-|   Abyssal, Demon    |          -          |       Level 8       |       Horde Hexer       |           EV 10            |
-| :-----------------: | :-----------------: | :-----------------: | :---------------------: | :------------------------: |
-|  **1L**<br/> Size   |  **6**<br/> Speed   | **45**<br/> Stamina |  **1**<br/> Stability   |   **3**<br/> Free Strike   |
-| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **Holy 5**<br/> Weaknesses |
-|  **+2**<br/> Might  | **+4**<br/> Agility | **+0**<br/> Reason  |  **+2**<br/> Intuition  |    **+0**<br/> Presence    |
+|   Abyssal, Demon    |          -          |       Level 8       |       Horde Hexer       |          EV 10           |
+| :-----------------: | :-----------------: | :-----------------: | :---------------------: | :----------------------: |
+|  **1L**<br/> Size   |  **6**<br/> Speed   | **45**<br/> Stamina |  **1**<br/> Stability   |  **3**<br/> Free Strike  |
+| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **Holy 5**<br/> Weakness |
+|  **+2**<br/> Might  | **+4**<br/> Agility | **+0**<br/> Reason  |  **+2**<br/> Intuition  |   **+0**<br/> Presence   |
 
 <!-- -->
 > 🗡 **Hair Whip (Signature Ability)**

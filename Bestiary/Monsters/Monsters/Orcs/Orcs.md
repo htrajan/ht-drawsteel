@@ -30,7 +30,7 @@ The intense power of an orc's spirit occasionally manifests as raw magic. Orc ey
 
 #### Mohlers
 
-Mohlers are spined, pig-like animals who corkscrew through the ground as fast as they can run. Native to deserts and forests, these burrowing creatures produce shallow networks of tunnels just below the surface. Where orcs go, mohlers are sure to follow. In times of peace, orcs domesticate them to plow the earth and eat pests-and in times of war, mohlers reshape the battlefield to knock the orcs' enemies off their feet.
+Mohlers are spined, pig-like animals who corkscrew through the ground as fast as they can run. Native to deserts and forests, these burrowing creatures produce shallow networks of tunnels just below the surface. Where orcs go, mohlers are sure to follow. In times of peace, orcs domesticate them to plow the earth and eat pests—and in times of war, mohlers reshape the battlefield to knock the orcs' enemies off their feet.
 
 When an orc community has exceptional gratitude for the deeds of one of their own or an outsider, they bestow the companionship of a mohler upon the individual. Treated kindly, mohlers make steadfast companions, protecting their caregivers with their lives. If mistreated, a mohler returns to their original den, and the orcs hunt the responsible party.
 
@@ -42,7 +42,7 @@ Orcs rely on giant bipedal lizards called scyzas to carry them over great distan
 
 Most orcs speak Caelian and Kalliak.
 
-###### Orc Malice Malice Features
+###### Orc Malice (Malice Features)
 
 At the start of any orc's turn, you can spend Malice to activate one of the following features.
 
@@ -74,7 +74,7 @@ At the start of any orc's turn, you can spend Malice to activate one of the foll
 |     Animal, Orc     |            -             |      Level 1       |             Minion Ambusher             | EV 3 for four minions  |
 | :-----------------: | :----------------------: | :----------------: | :-------------------------------------: | :--------------------: |
 |  **1S**<br/> Size   |     **7**<br/> Speed     | **4**<br/> Stamina |          **1**<br/> Stability           | **2**<br/> Free Strike |
-| **-**<br/> Immunity | **Burrow**<br/> Movement |         -          | **+2 bonus to speed**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **Burrow**<br/> Movement |         -          | **+2 bonus to speed**<br/> With Captain |  **-**<br/> Weakness   |
 |  **+0**<br/> Might  |   **+2**<br/> Agility    | **-4**<br/> Reason |          **+1**<br/> Intuition          |  **-3**<br/> Presence  |
 
 <!-- -->
@@ -107,7 +107,7 @@ At the start of any orc's turn, you can spend Malice to activate one of the foll
 |    Humanoid, Orc    |          -          |      Level 1       |             Minion Harrier              | EV 3 for four minions  |
 | :-----------------: | :-----------------: | :----------------: | :-------------------------------------: | :--------------------: |
 |  **1M**<br/> Size   |  **7**<br/> Speed   | **4**<br/> Stamina |          **0**<br/> Stability           | **1**<br/> Free Strike |
-| **-**<br/> Immunity | **-**<br/> Movement |         -          | **+2 bonus to speed**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **-**<br/> Movement |         -          | **+2 bonus to speed**<br/> With Captain |  **-**<br/> Weakness   |
 |  **+1**<br/> Might  | **+2**<br/> Agility | **0**<br/> Reason  |          **0**<br/> Intuition           |  **0**<br/> Presence   |
 
 <!-- -->
@@ -132,10 +132,10 @@ At the start of any orc's turn, you can spend Malice to activate one of the foll
 
 ###### Orc Bloodspark
 
-|    Humanoid, Orc    |          -          |      Level 1       |                      Minion Artillery                      |  EV 3 for four minion  |
+|    Humanoid, Orc    |          -          |      Level 1       |                      Minion Artillery                      | EV 3 for four minions  |
 | :-----------------: | :-----------------: | :----------------: | :--------------------------------------------------------: | :--------------------: |
 |  **1M**<br/> Size   |  **6**<br/> Speed   | **3**<br/> Stamina |                    **0**<br/> Stability                    | **2**<br/> Free Strike |
-| **-**<br/> Immunity | **-**<br/> Movement |         -          | **+2 bonus to forced movement distance**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **-**<br/> Movement |         -          | **+2 bonus to forced movement distance**<br/> With Captain |  **-**<br/> Weakness   |
 |  **0**<br/> Might   | **+1**<br/> Agility | **0**<br/> Reason  |                    **0**<br/> Intuition                    |  **+2**<br/> Presence  |
 
 <!-- -->
@@ -161,7 +161,7 @@ At the start of any orc's turn, you can spend Malice to activate one of the foll
 |    Humanoid, Orc    |          -          |      Level 1       |                 Minion Controller                 | EV 3 for four minions  |
 | :-----------------: | :-----------------: | :----------------: | :-----------------------------------------------: | :--------------------: |
 |  **1M**<br/> Size   |  **6**<br/> Speed   | **3**<br/> Stamina |               **0**<br/> Stability                | **1**<br/> Free Strike |
-| **-**<br/> Immunity | **-**<br/> Movement |         -          | **+5 bonus to ranged distance**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **-**<br/> Movement |         -          | **+5 bonus to ranged distance**<br/> With Captain |  **-**<br/> Weakness   |
 |  **0**<br/> Might   | **+1**<br/> Agility | **0**<br/> Reason  |               **0**<br/> Intuition                |  **+2**<br/> Presence  |
 
 <!-- -->
@@ -189,7 +189,7 @@ At the start of any orc's turn, you can spend Malice to activate one of the foll
 |    Humanoid, Orc    |          -          |      Level 1       |                   Minion Brute                   | EV 3 for four minions  |
 | :-----------------: | :-----------------: | :----------------: | :----------------------------------------------: | :--------------------: |
 |  **1L**<br/> Size   |  **6**<br/> Speed   | **5**<br/> Stamina |               **0**<br/> Stability               | **2**<br/> Free Strike |
-| **-**<br/> Immunity | **-**<br/> Movement |         -          | **+1 damage bonus to strikes**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **-**<br/> Movement |         -          | **+1 damage bonus to strikes**<br/> With Captain |  **-**<br/> Weakness   |
 |  **+2**<br/> Might  | **+1**<br/> Agility | **0**<br/> Reason  |               **0**<br/> Intuition               |  **0**<br/> Presence   |
 
 <!-- -->
@@ -201,7 +201,7 @@ At the start of any orc's turn, you can spend Malice to activate one of the foll
 >
 > **Power Roll + 2:**
 >
-> - **≤11:** 2 damage;
+> - **≤11:** 2 damage
 > - **12-16:** 4 damage; push 3
 > - **17+:** 5 damage; push 3 or prone
 >
@@ -217,7 +217,7 @@ At the start of any orc's turn, you can spend Malice to activate one of the foll
 |    Humanoid, Orc    |          -          |       Level 3       |     Platoon Harrier     |         EV 10          |
 | :-----------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |  **1M**<br/> Size   |  **8**<br/> Speed   | **50**<br/> Stamina |  **0**<br/> Stability   | **5**<br/> Free Strike |
-| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |  **+2**<br/> Might  | **+2**<br/> Agility |  **0**<br/> Reason  |  **+1**<br/> Intuition  |  **+1**<br/> Presence  |
 
 <!-- -->
@@ -252,7 +252,7 @@ At the start of any orc's turn, you can spend Malice to activate one of the foll
 |    Humanoid, Orc    |          -          |       Level 1       |      Platoon Hexer      |          EV 6          |
 | :-----------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |  **1L**<br/> Size   |  **5**<br/> Speed   | **20**<br/> Stamina |  **2**<br/> Stability   | **3**<br/> Free Strike |
-| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |  **+2**<br/> Might  | **+2**<br/> Agility | **+1**<br/> Reason  |  **+0**<br/> Intuition  |  **+0**<br/> Presence  |
 
 <!-- -->
@@ -298,8 +298,8 @@ At the start of any orc's turn, you can spend Malice to activate one of the foll
 |               Humanoid, Orc                |          -          |       Level 1       |    Platoon Artillery    |          EV 6          |
 | :----------------------------------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |              **1M**<br/> Size              |  **6**<br/> Speed   | **20**<br/> Stamina |  **0**<br/> Stability   | **4**<br/> Free Strike |
-| **Cold, fire, or lightning**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
-|             **+1**<br/> Might              | **+1**<br/> Agility | **+0**<br/> Reason  |  **+0**<br/> Intuition  |  **-2**<br/> Presence  |
+| **Cold, fire, or lightning**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
+|             **+1**<br/> Might              | **+1**<br/> Agility | **+0**<br/> Reason  |  **+0**<br/> Intuition  |  **+2**<br/> Presence  |
 
 <!-- -->
 > ⭐️ **Elemental Affinity**
@@ -346,7 +346,7 @@ At the start of any orc's turn, you can spend Malice to activate one of the foll
 |    Humanoid, Orc    |          -          |       Level 1       |    Platoon Ambusher     |          EV 6          |
 | :-----------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |  **1L**<br/> Size   |  **5**<br/> Speed   | **30**<br/> Stamina |  **0**<br/> Stability   | **4**<br/> Free Strike |
-| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |  **+1**<br/> Might  | **+2**<br/> Agility | **+0**<br/> Reason  |  **+1**<br/> Intuition  |  **-1**<br/> Presence  |
 
 <!-- -->
@@ -382,9 +382,9 @@ At the start of any orc's turn, you can spend Malice to activate one of the foll
 <!-- -->
 > 👤 **Chroma Cloak (1 Malice)**
 >
-> | **-**          |        **Maneuver** |
-> | -------------- | ------------------: |
-> | **📏 Melee 1** | **🎯 One creature** |
+> | **-**    | **Maneuver** |
+> | -------- | -----------: |
+> | **📏 -** |     **🎯 -** |
 >
 > The garroter turns invisible until the end of their turn. This invisibility ends early if they take damage or use an ability.
 
@@ -398,7 +398,7 @@ At the start of any orc's turn, you can spend Malice to activate one of the foll
 |    Humanoid, Orc    |          -          |       Level 1       |     Platoon Support     |          EV 6          |
 | :-----------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |  **1M**<br/> Size   |  **6**<br/> Speed   | **30**<br/> Stamina |  **0**<br/> Stability   | **3**<br/> Free Strike |
-| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |  **+1**<br/> Might  | **+0**<br/> Agility | **+0**<br/> Reason  |  **+1**<br/> Intuition  |  **+2**<br/> Presence  |
 
 <!-- -->
@@ -444,7 +444,7 @@ At the start of any orc's turn, you can spend Malice to activate one of the foll
 |    Humanoid, Orc    |          -          |       Level 3       |      Platoon Brute      |         EV 10          |
 | :-----------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |  **1L**<br/> Size   |  **6**<br/> Speed   | **60**<br/> Stamina |  **0**<br/> Stability   | **5**<br/> Free Strike |
-| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |  **+2**<br/> Might  | **+2**<br/> Agility | **-1**<br/> Reason  |  **-1**<br/> Intuition  |  **+2**<br/> Presence  |
 
 <!-- -->
@@ -488,7 +488,7 @@ At the start of any orc's turn, you can spend Malice to activate one of the foll
 |    Humanoid, Orc    |          -          |       Level 2       |    Platoon Defender     |          EV 8          |
 | :-----------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |  **1L**<br/> Size   |  **6**<br/> Speed   | **59**<br/> Stamina |  **2**<br/> Stability   | **4**<br/> Free Strike |
-| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |  **+2**<br/> Might  | **+2**<br/> Agility | **+2**<br/> Reason  |  **+2**<br/> Intuition  |  **+2**<br/> Presence  |
 
 <!-- -->
@@ -536,7 +536,7 @@ At the start of any orc's turn, you can spend Malice to activate one of the foll
 |    Humanoid, Orc    |            -             |       Level 2       |   Platoon Controller    |          EV 8          |
 | :-----------------: | :----------------------: | :-----------------: | :---------------------: | :--------------------: |
 |  **1M**<br/> Size   |     **6**<br/> Speed     | **30**<br/> Stamina |  **2**<br/> Stability   | **4**<br/> Free Strike |
-| **-**<br/> Immunity | **Burrow**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **Burrow**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |  **+1**<br/> Might  |   **+1**<br/> Agility    | **+0**<br/> Reason  |  **+1**<br/> Intuition  |  **+2**<br/> Presence  |
 
 <!-- -->
@@ -567,7 +567,7 @@ At the start of any orc's turn, you can spend Malice to activate one of the foll
 > - **12-16:** 7 damage; M < 1 restrained (save ends)
 > - **17+:** 10 damage; M < 2 restrained (save ends)
 >
-> **Effect:** The area is difficult terrain
+> **Effect:** The area is difficult terrain.
 
 <!-- -->
 > ⭐️ **Seismic Step**
@@ -584,7 +584,7 @@ At the start of any orc's turn, you can spend Malice to activate one of the foll
 |    Humanoid, Orc    |          -          |       Level 3        |         Leader          |         EV 20          |
 | :-----------------: | :-----------------: | :------------------: | :---------------------: | :--------------------: |
 |  **1M**<br/> Size   |  **6**<br/> Speed   | **120**<br/> Stamina |  **2**<br/> Stability   | **5**<br/> Free Strike |
-| **-**<br/> Immunity | **-**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **-**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |  **+3**<br/> Might  | **+2**<br/> Agility |  **+1**<br/> Reason  |  **+2**<br/> Intuition  |  **+2**<br/> Presence  |
 
 <!-- -->
@@ -636,7 +636,7 @@ At the start of any orc's turn, you can spend Malice to activate one of the foll
 <!-- -->
 > ☠️ **Close In (Villain Action 1)**
 >
-> | \*\* Area\*\*   |                        **-** |
+> | **Area**        |                        **-** |
 > | --------------- | ---------------------------: |
 > | **📏 10 burst** | **🎯 Each ally in the area** |
 >
@@ -679,7 +679,7 @@ At the start of any orc's turn, you can spend Malice to activate one of the foll
 |     Animal, Orc     |          -          |       Level 3        |       Elite Mount       |         EV 20          |
 | :-----------------: | :-----------------: | :------------------: | :---------------------: | :--------------------: |
 |   **4**<br/> Size   |  **6**<br/> Speed   | **100**<br/> Stamina |  **3**<br/> Stability   | **5**<br/> Free Strike |
-| **-**<br/> Immunity | **-**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **-**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |  **+2**<br/> Might  | **-1**<br/> Agility |  **-4**<br/> Reason  |  **+0**<br/> Intuition  |  **-1**<br/> Presence  |
 
 <!-- -->

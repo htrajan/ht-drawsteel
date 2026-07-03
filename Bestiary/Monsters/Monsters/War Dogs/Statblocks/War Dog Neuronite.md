@@ -10,7 +10,7 @@ file_dpath: Monsters/War Dogs/Statblocks
 free_strike: 1
 intuition: 0
 item_id: war-dog-neuronite
-item_index: '381'
+item_index: '31'
 item_name: War Dog Neuronite
 level: 1
 might: 0
@@ -19,15 +19,15 @@ reason: 0
 roles:
   - Horde Defender
 scc:
-  - mcdm.monsters.v1:monster:war-dog-neuronite
+  - mcdm.monsters.v1:monster.war-dogs.statblock:war-dog-neuronite
 scdc:
-  - 1.1.1:2:381
+  - 1.1.1:2.51.1:31
 size: 1M
 source: mcdm.monsters.v1
 speed: 5
 stability: 0
 stamina: '20'
-type: monster
+type: monster/war-dogs/statblock
 ---
 
 ###### War Dog Neuronite
@@ -35,7 +35,7 @@ type: monster
 | Humanoid, Soulless, War Dog |           -           |       Level 1       |     Horde Defender      |          EV 3          |
 | :-------------------------: | :-------------------: | :-----------------: | :---------------------: | :--------------------: |
 |      **1M**<br/> Size       |   **5**<br/> Speed    | **20**<br/> Stamina |  **0**<br/> Stability   | **1**<br/> Free Strike |
-| **Psychic 2**<br/> Immunity | **Fly**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Psychic 2**<br/> Immunity | **Fly**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |      **0**<br/> Might       |  **+1**<br/> Agility  |  **0**<br/> Reason  |  **0**<br/> Intuition   |  **+2**<br/> Presence  |
 
 <!-- -->
@@ -67,7 +67,7 @@ type: monster
 > | ----------------- | ----------------------------: |
 > | **📏 5 burst**    | **🎯 Each enemy in the area** |
 >
-> **Effect:** The neuronite chooses one ally within 10 squares. Each target is either taunted by the ally, or the ally has damage immunity 3 whenever any target makes a strike against them (the neuronite's choice). Either effect lasts until the start of the neuronite's next turn
+> **Effect:** The neuronite chooses one ally within 10 squares. Each target is either taunted by the ally, or the ally has damage immunity 3 whenever any target makes a strike against them (the neuronite's choice). Either effect lasts until the start of the neuronite's next turn.
 
 <!-- -->
 > ⭐️ **Loyalty Collar**

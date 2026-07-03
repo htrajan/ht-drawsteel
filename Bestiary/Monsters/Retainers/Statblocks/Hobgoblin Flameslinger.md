@@ -31,7 +31,7 @@ stamina: '48'
 | :-----------------------------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |           **1M**<br/> Size            |  **5**<br/> Speed   | **48**<br/> Stamina |  **0**<br/> Stability   | **5**<br/> Free Strike |
 |           **1M**<br/> Size            |  **5**<br/> Speed   | **48**<br/> Stamina |  **0**<br/> Stability   | **5**<br/> Free Strike |
-|       **Fire 4**<br/> Immunity        | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+|       **Fire 4**<br/> Immunity        | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |           **+1**<br/> Might           | **0**<br/> Agility  | **+2**<br/> Reason  |  **+1**<br/> Intuition  |  **+3**<br/> Presence  |
 
 <!-- -->
@@ -56,7 +56,7 @@ stamina: '48'
 > | ----------------- | ------------------: |
 > | **📏 Ranged 10**  | **🎯 One creature** |
 >
-> **Effect:** Until the end of the flameslinger's next turn, the target has fire weakness equal to the flameslinger's level. If the target is the flameslinger's mentor, they instead have fire immunity equal to the flameslinger's level
+> **Effect:** Until the end of the flameslinger's next turn, the target has fire weakness equal to the flameslinger's level. If the target is the flameslinger's mentor, they instead have fire immunity equal to the flameslinger's level.
 
 <!-- -->
 > ⭐️ **Infernal Ichor**
@@ -95,4 +95,4 @@ stamina: '48'
 > - **12-16:** 12 damage; push 3
 > - **17+:** 16 damage; push 5
 >
-> **Effect:** If the flameslinger's mentor is within 10 squares of the flameslinger, the mentor can be the source of the burst instead of the flameslinger
+> **Effect:** If the flameslinger's mentor is within 10 squares of the flameslinger, the mentor can be the source of the burst instead of the flameslinger.

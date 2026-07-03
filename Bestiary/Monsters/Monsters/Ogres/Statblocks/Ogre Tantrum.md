@@ -9,7 +9,7 @@ file_dpath: Monsters/Ogres/Statblocks
 free_strike: 4
 intuition: 0
 item_id: ogre-tantrum
-item_index: '03'
+item_index: '02'
 item_name: Ogre Tantrum
 level: 7
 might: 4
@@ -18,15 +18,15 @@ reason: -1
 roles:
   - Minion Artillery
 scc:
-  - mcdm.monsters.v1:monster:ogre-tantrum
+  - mcdm.monsters.v1:monster.ogres.statblock:ogre-tantrum
 scdc:
-  - 1.1.1:2:03
+  - 1.1.1:2.4.1:02
 size: '2'
 source: mcdm.monsters.v1
 speed: 5
 stability: 2
 stamina: '10'
-type: monster
+type: monster/ogres/statblock
 ---
 
 ###### Ogre Tantrum
@@ -34,7 +34,7 @@ type: monster
 |     Giant, Ogre     |          -          |       Level 7       |                 Minion Artillery                  | EV 9 for four minions  |
 | :-----------------: | :-----------------: | :-----------------: | :-----------------------------------------------: | :--------------------: |
 |   **2**<br/> Size   |  **5**<br/> Speed   | **10**<br/> Stamina |               **2**<br/> Stability                | **4**<br/> Free Strike |
-| **-**<br/> Immunity | **-**<br/> Movement |          -          | **+5 bonus to ranged distance**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **-**<br/> Movement |          -          | **+5 bonus to ranged distance**<br/> With Captain |  **-**<br/> Weakness   |
 |  **+4**<br/> Might  | **+2**<br/> Agility | **-1**<br/> Reason  |               **0**<br/> Intuition                |  **-1**<br/> Presence  |
 
 <!-- -->

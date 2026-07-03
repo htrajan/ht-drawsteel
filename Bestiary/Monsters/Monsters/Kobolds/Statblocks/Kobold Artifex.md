@@ -9,7 +9,7 @@ file_dpath: Monsters/Kobolds/Statblocks
 free_strike: 1
 intuition: 0
 item_id: kobold-artifex
-item_index: '91'
+item_index: '03'
 item_name: Kobold Artifex
 level: 1
 might: 0
@@ -18,15 +18,15 @@ reason: 1
 roles:
   - Horde Controller
 scc:
-  - mcdm.monsters.v1:monster:kobold-artifex
+  - mcdm.monsters.v1:monster.kobolds.statblock:kobold-artifex
 scdc:
-  - 1.1.1:2:91
+  - 1.1.1:2.10.1:03
 size: 1S
 source: mcdm.monsters.v1
 speed: 5
 stability: 0
 stamina: '10'
-type: monster
+type: monster/kobolds/statblock
 ---
 
 ###### Kobold Artifex
@@ -34,7 +34,7 @@ type: monster
 |  Humanoid, Kobold   |          -          |       Level 1       |    Horde Controller     |          EV 3          |
 | :-----------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |  **1S**<br/> Size   |  **5**<br/> Speed   | **10**<br/> Stamina |  **0**<br/> Stability   | **1**<br/> Free Strike |
-| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |  **0**<br/> Might   | **+2**<br/> Agility | **+1**<br/> Reason  |  **0**<br/> Intuition   |  **0**<br/> Presence   |
 
 <!-- -->

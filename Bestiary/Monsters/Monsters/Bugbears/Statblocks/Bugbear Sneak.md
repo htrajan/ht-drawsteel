@@ -11,7 +11,7 @@ file_dpath: Monsters/Bugbears/Statblocks
 free_strike: 5
 intuition: 0
 item_id: bugbear-sneak
-item_index: '288'
+item_index: '01'
 item_name: Bugbear Sneak
 level: 2
 might: 2
@@ -20,15 +20,15 @@ reason: 0
 roles:
   - Elite Ambusher
 scc:
-  - mcdm.monsters.v1:monster:bugbear-sneak
+  - mcdm.monsters.v1:monster.bugbears.statblock:bugbear-sneak
 scdc:
-  - 1.1.1:2:288
+  - 1.1.1:2.37.1:01
 size: 1L
 source: mcdm.monsters.v1
 speed: 7
 stability: 0
 stamina: '80'
-type: monster
+type: monster/bugbears/statblock
 ---
 
 ###### Bugbear Sneak
@@ -36,7 +36,7 @@ type: monster
 | Bugbear, Fey, Goblin, Humanoid |          -          |       Level 2       |     Elite Ambusher      |         EV 16          |
 | :----------------------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |        **1L**<br/> Size        |  **7**<br/> Speed   | **80**<br/> Stamina |  **0**<br/> Stability   | **5**<br/> Free Strike |
-|      **-**<br/> Immunity       | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+|      **-**<br/> Immunity       | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |       **+2**<br/> Might        | **+2**<br/> Agility | **+0**<br/> Reason  |  **+0**<br/> Intuition  |  **+0**<br/> Presence  |
 
 <!-- -->

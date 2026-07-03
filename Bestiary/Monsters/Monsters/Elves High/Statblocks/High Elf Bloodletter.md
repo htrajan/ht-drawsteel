@@ -10,7 +10,7 @@ file_dpath: Monsters/Elves High/Statblocks
 free_strike: 4
 intuition: 1
 item_id: high-elf-bloodletter
-item_index: '115'
+item_index: 08
 item_name: High Elf Bloodletter
 level: 1
 might: 0
@@ -19,15 +19,15 @@ reason: 0
 roles:
   - Platoon Ambusher
 scc:
-  - mcdm.monsters.v1:monster:high-elf-bloodletter
+  - mcdm.monsters.v1:monster.elves-high.statblock:high-elf-bloodletter
 scdc:
-  - 1.1.1:2:115
+  - 1.1.1:2.14.1:08
 size: 1M
 source: mcdm.monsters.v1
 speed: 7
 stability: 0
 stamina: '30'
-type: monster
+type: monster/elves-high/statblock
 ---
 
 ###### High Elf Bloodletter
@@ -35,7 +35,7 @@ type: monster
 | Fey, High Elf, Humanoid |          -          |       Level 1       |    Platoon Ambusher     |          EV 6          |
 | :---------------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |    **1M**<br/> Size     |  **7**<br/> Speed   | **30**<br/> Stamina |  **0**<br/> Stability   | **4**<br/> Free Strike |
-|   **-**<br/> Immunity   | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+|   **-**<br/> Immunity   | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |    **0**<br/> Might     | **+2**<br/> Agility |  **0**<br/> Reason  |  **+1**<br/> Intuition  |  **0**<br/> Presence   |
 
 <!-- -->

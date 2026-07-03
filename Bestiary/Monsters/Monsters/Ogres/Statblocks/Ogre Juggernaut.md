@@ -9,7 +9,7 @@ file_dpath: Monsters/Ogres/Statblocks
 free_strike: 5
 intuition: 0
 item_id: ogre-juggernaut
-item_index: '06'
+item_index: '05'
 item_name: Ogre Juggernaut
 level: 2
 might: 2
@@ -18,15 +18,15 @@ reason: -1
 roles:
   - Elite Harrier
 scc:
-  - mcdm.monsters.v1:monster:ogre-juggernaut
+  - mcdm.monsters.v1:monster.ogres.statblock:ogre-juggernaut
 scdc:
-  - 1.1.1:2:06
+  - 1.1.1:2.4.1:05
 size: '2'
 source: mcdm.monsters.v1
 speed: 6
 stability: 2
 stamina: '80'
-type: monster
+type: monster/ogres/statblock
 ---
 
 ###### Ogre Juggernaut
@@ -34,7 +34,7 @@ type: monster
 |     Giant, Ogre     |          -          |       Level 2       |      Elite Harrier      |         EV 16          |
 | :-----------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |   **2**<br/> Size   |  **6**<br/> Speed   | **80**<br/> Stamina |  **2**<br/> Stability   | **5**<br/> Free Strike |
-| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |  **+2**<br/> Might  | **+1**<br/> Agility | **-1**<br/> Reason  |  **0**<br/> Intuition   |  **-1**<br/> Presence  |
 
 <!-- -->
@@ -74,6 +74,8 @@ type: monster
 > | -------------- | ----------------------------: |
 > | **📏 3 burst** | **🎯 Each enemy in the area** |
 >
+> **Power Roll + 2:**
+>
 > - **≤11:** I < 0 frightened (save ends)
 > - **12-16:** I < 1 frightened (save ends)
 > - **17+:** I < 2 frightened (save ends)
@@ -81,11 +83,11 @@ type: monster
 > **Effect:** While a target is frightened this way, any ogre gains an edge on strikes against them.
 
 <!-- -->
-> ❗️ **Hrraaaaaagh!**
+> ❗️ **Hrraaaaaagh! (1 Malice)**
 >
-> | **ree triggered action** |       **-** |
-> | ------------------------ | ----------: |
-> | **📏 Self**              | **🎯 Self** |
+> | **-**       | **Free triggered action** |
+> | ----------- | ------------------------: |
+> | **📏 Self** |               **🎯 Self** |
 >
 > **Trigger:** The juggernaut takes damage.
 >
@@ -94,7 +96,7 @@ type: monster
 <!-- -->
 > ⭐️ **Destructive Path**
 >
-> The juggernaut automatically destroys any mundane size 1 objects in their path when they move or are forced moved. They can break through any mundane wall made of wood, stone, or a similarly sturdy material this way as long as the wall is 2 squares thick or less.
+> The juggernaut automatically destroys any mundane size 1 objects in their path when they move or are force moved. They can break through any mundane wall made of wood, stone, or a similarly sturdy material this way as long as the wall is 2 squares thick or less.
 
 <!-- -->
 > ⭐️ **Defiant Anger**

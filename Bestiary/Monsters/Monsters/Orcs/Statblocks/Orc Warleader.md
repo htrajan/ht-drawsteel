@@ -9,7 +9,7 @@ file_dpath: Monsters/Orcs/Statblocks
 free_strike: 5
 intuition: 2
 item_id: orc-warleader
-item_index: '128'
+item_index: '06'
 item_name: Orc Warleader
 level: 3
 might: 3
@@ -18,15 +18,15 @@ reason: 1
 roles:
   - Leader
 scc:
-  - mcdm.monsters.v1:monster:orc-warleader
+  - mcdm.monsters.v1:monster.orcs.statblock:orc-warleader
 scdc:
-  - 1.1.1:2:128
+  - 1.1.1:2.16.1:06
 size: 1M
 source: mcdm.monsters.v1
 speed: 6
 stability: 2
 stamina: '120'
-type: monster
+type: monster/orcs/statblock
 ---
 
 ###### Orc Warleader
@@ -34,7 +34,7 @@ type: monster
 |    Humanoid, Orc    |          -          |       Level 3        |         Leader          |         EV 20          |
 | :-----------------: | :-----------------: | :------------------: | :---------------------: | :--------------------: |
 |  **1M**<br/> Size   |  **6**<br/> Speed   | **120**<br/> Stamina |  **2**<br/> Stability   | **5**<br/> Free Strike |
-| **-**<br/> Immunity | **-**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **-**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |  **+3**<br/> Might  | **+2**<br/> Agility |  **+1**<br/> Reason  |  **+2**<br/> Intuition  |  **+2**<br/> Presence  |
 
 <!-- -->
@@ -86,7 +86,7 @@ type: monster
 <!-- -->
 > ☠️ **Close In (Villain Action 1)**
 >
-> | \*\* Area\*\*   |                        **-** |
+> | **Area**        |                        **-** |
 > | --------------- | ---------------------------: |
 > | **📏 10 burst** | **🎯 Each ally in the area** |
 >

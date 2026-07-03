@@ -9,7 +9,7 @@ file_dpath: Monsters/Demons/Statblocks
 free_strike: 5
 intuition: -1
 item_id: unguloid
-item_index: '254'
+item_index: '01'
 item_name: Unguloid
 level: 10
 might: 5
@@ -18,24 +18,24 @@ reason: -1
 roles:
   - Minion Brute
 scc:
-  - mcdm.monsters.v1:monster:unguloid
+  - mcdm.monsters.v1:monster.demons.statblock:unguloid
 scdc:
-  - 1.1.1:2:254
+  - 1.1.1:2.35.1:01
 size: '2'
 source: mcdm.monsters.v1
 speed: 8
 stability: 3
 stamina: '17'
-type: monster
+type: monster/demons/statblock
 ---
 
 ###### Unguloid
 
-|   Abyssal, Demon    |          -          |      Level 10       |                    Minion Brute                     |   EV 12 for four minions   |
-| :-----------------: | :-----------------: | :-----------------: | :-------------------------------------------------: | :------------------------: |
-|   **2**<br/> Size   |  **8**<br/> Speed   | **17**<br/> Stamina |                **3**<br/> Stability                 |   **5**<br/> Free Strike   |
-| **-**<br/> Immunity | **-**<br/> Movement |          -          | **Have a double edge on strikes**<br/> With Captain | **Holy 5**<br/> Weaknesses |
-|  **+5**<br/> Might  | **+5**<br/> Agility | **-1**<br/> Reason  |                **-1**<br/> Intuition                |    **-1**<br/> Presence    |
+|   Abyssal, Demon    |          -          |      Level 10       |                    Minion Brute                     |  EV 12 for four minions  |
+| :-----------------: | :-----------------: | :-----------------: | :-------------------------------------------------: | :----------------------: |
+|   **2**<br/> Size   |  **8**<br/> Speed   | **17**<br/> Stamina |                **3**<br/> Stability                 |  **5**<br/> Free Strike  |
+| **-**<br/> Immunity | **-**<br/> Movement |          -          | **Have a double edge on strikes**<br/> With Captain | **Holy 5**<br/> Weakness |
+|  **+5**<br/> Might  | **+5**<br/> Agility | **-1**<br/> Reason  |                **-1**<br/> Intuition                |   **-1**<br/> Presence   |
 
 <!-- -->
 > 🗡 **Gore Horn (Signature Ability)**

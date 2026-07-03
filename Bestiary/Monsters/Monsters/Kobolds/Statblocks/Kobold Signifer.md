@@ -9,7 +9,7 @@ file_dpath: Monsters/Kobolds/Statblocks
 free_strike: 1
 intuition: 0
 item_id: kobold-signifer
-item_index: '89'
+item_index: '01'
 item_name: Kobold Signifer
 level: 1
 might: 0
@@ -18,15 +18,15 @@ reason: 0
 roles:
   - Horde Support
 scc:
-  - mcdm.monsters.v1:monster:kobold-signifer
+  - mcdm.monsters.v1:monster.kobolds.statblock:kobold-signifer
 scdc:
-  - 1.1.1:2:89
+  - 1.1.1:2.10.1:01
 size: 1S
 source: mcdm.monsters.v1
 speed: 5
 stability: 0
 stamina: '15'
-type: monster
+type: monster/kobolds/statblock
 ---
 
 ###### Kobold Signifer
@@ -34,7 +34,7 @@ type: monster
 |  Humanoid, Kobold   |          -          |       Level 1       |      Horde Support      |          EV 3          |
 | :-----------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |  **1S**<br/> Size   |  **5**<br/> Speed   | **15**<br/> Stamina |  **0**<br/> Stability   | **1**<br/> Free Strike |
-| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |  **0**<br/> Might   | **+1**<br/> Agility |  **0**<br/> Reason  |  **0**<br/> Intuition   |  **+2**<br/> Presence  |
 
 <!-- -->
@@ -50,9 +50,9 @@ type: monster
 > - **12-16:** 4 damage
 > - **17+:** 5 damage
 >
-> **Effect:** One ally within 10 squares of the signifer can shift up to their speed if they end that shift adjacent to an ally
+> **Effect:** One ally within 10 squares of the signifer can shift up to their speed if they end that shift adjacent to an ally.
 >
-> **2+ Malice:** One additional ally can shift for each 2 Malice spent
+> **2+ Malice:** One additional ally can shift for each 2 Malice spent.
 
 <!-- -->
 > ❇️ **Glory to the Legion (5 Malice)**

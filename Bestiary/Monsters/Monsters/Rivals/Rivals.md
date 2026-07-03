@@ -14,7 +14,7 @@ type: monster/section
 
 ## Rivals
 
-They take the jobs you were eyeing on the local town's job board. They sit at your favorite table in the tavern with the best drinks, food, and entertainment. You know their names, and they know yours. They're rivals-heroes just like you. Maybe even better.
+They take the jobs you were eyeing on the local town's job board. They sit at your favorite table in the tavern with the best drinks, food, and entertainment. You know their names, and they know yours. They're rivals—heroes just like you. Maybe even better.
 
 Rivals are NPCs built around the mechanics of seven of the classes in *[Draw Steel: Heroes](https://mcdm.gg/DS-Heroes)*-the conduit, elementalist, fury, null, shadow, tactician, and talent (see Chapter 5: Classes in that book). Their stat blocks are streamlined and modular, meant to be easy to adjust on the fly with ancestral traits or signature abilities. Examples of each type of rival are presented at every tier, capturing their foray into renown as they inevitably cross, clash with, and impede the player characters' own heroic journey.
 
@@ -84,9 +84,9 @@ At the start of any rival's turn, you can spend Malice to activate one of the fo
 <!-- -->
 > 🔳 **Check Out Our Loot (5 Malice)**
 >
-> One rival pulls out a magic consumable and hurls it, targeting a 5 x 1 line within 1 square of them or a 3 cube within 10 squares of them. Each enemy in the area makes an Agility test. The rival chooses a damage type and a condition for the outcome of the test from one of the following pairs: sonic damage and dazed, poison
+> One rival pulls out a magic consumable and hurls it, targeting a 5 x 1 line within 1 square of them or a 3 cube within 10 squares of them. Each enemy in the area makes an Agility test. The rival chooses a damage type and a condition for the outcome of the test from one of the following pairs: sonic damage and dazed, poison damage and weakened, or fire damage and frightened.
 >
-> - **≤11:** damage and weakened, or fire damage and frightened. 11 damage; the condition affects the target (save ends)
+> - **≤11:** 11 damage; the condition affects the target (save ends)
 > - **12-16:** 8 damage; the condition affects the target (EoT)
 > - **17+:** 5 damage
 
@@ -125,7 +125,7 @@ It's possible that these rivals gained a head start on their adventures and will
 |   Humanoid, Rival   |          -          |       Level 2       |      Elite Support      |         EV 16          |
 | :-----------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |  **1M**<br/> Size   |  **5**<br/> Speed   | **80**<br/> Stamina |  **1**<br/> Stability   | **5**<br/> Free Strike |
-| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |  **+1**<br/> Might  | **+0**<br/> Agility | **+0**<br/> Reason  |  **+2**<br/> Intuition  |  **+0**<br/> Presence  |
 
 <!-- -->
@@ -146,9 +146,9 @@ It's possible that these rivals gained a head start on their adventures and will
 <!-- -->
 > 🏹 **Imbue with Might (2 Malice)**
 >
-> | **Magic, Ranged** |               **Maneuver** |
-> | ----------------- | -------------------------: |
-> | **📏 Ranged 10**  | **🎯 Self and five allie** |
+> | **Magic, Ranged** |                **Maneuver** |
+> | ----------------- | --------------------------: |
+> | **📏 Ranged 10**  | **🎯 Self and five allies** |
 >
 > **Effect:** Each target gains an edge on their next strike.
 
@@ -167,7 +167,7 @@ It's possible that these rivals gained a head start on their adventures and will
 |   Humanoid, Rival   |          -          |       Level 2       |    Elite Controller     |         EV 16          |
 | :-----------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |  **1M**<br/> Size   |  **5**<br/> Speed   | **60**<br/> Stamina |  **1**<br/> Stability   | **5**<br/> Free Strike |
-| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |  **+0**<br/> Might  | **+0**<br/> Agility | **+2**<br/> Reason  |  **+1**<br/> Intuition  |  **+0**<br/> Presence  |
 
 <!-- -->
@@ -219,7 +219,7 @@ It's possible that these rivals gained a head start on their adventures and will
 |   Humanoid, Rival   |          -          |       Level 2        |       Elite Brute       |         EV 16          |
 | :-----------------: | :-----------------: | :------------------: | :---------------------: | :--------------------: |
 |  **1M**<br/> Size   |  **5**<br/> Speed   | **100**<br/> Stamina |  **3**<br/> Stability   | **5**<br/> Free Strike |
-| **-**<br/> Immunity | **-**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **-**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |  **+2**<br/> Might  | **+1**<br/> Agility |  **0**<br/> Reason   |  **0**<br/> Intuition   |  **0**<br/> Presence   |
 
 <!-- -->
@@ -267,7 +267,7 @@ It's possible that these rivals gained a head start on their adventures and will
 |   Humanoid, Rival   |          -          |       Level 2       |      Elite Harrier      |         EV 16          |
 | :-----------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |  **1M**<br/> Size   |  **7**<br/> Speed   | **80**<br/> Stamina |  **3**<br/> Stability   | **5**<br/> Free Strike |
-| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |  **0**<br/> Might   | **+2**<br/> Agility | **+1**<br/> Reason  |  **+2**<br/> Intuition  |  **0**<br/> Presence   |
 
 <!-- -->
@@ -279,7 +279,7 @@ It's possible that these rivals gained a head start on their adventures and will
 >
 > **Power Roll + 2:**
 >
-> - **≤11:** 7 damage; the null shifts up to 2 square
+> - **≤11:** 7 damage; the null shifts up to 2 squares
 > - **12-16:** 10 damage; the null shifts up to 3 squares
 > - **17+:** 13 damage; the null shifts up to 4 squares
 
@@ -299,7 +299,7 @@ It's possible that these rivals gained a head start on their adventures and will
 <!-- -->
 > ⭐️ **Inertial Shield**
 >
-> The first time each round that the null is targeted by a da- age-dealing strike, they halve the damage.
+> The first time each round that the null is targeted by a damage-dealing strike, they halve the damage.
 
 <!-- -->
 > ⭐️ **Rivalry**
@@ -311,7 +311,7 @@ It's possible that these rivals gained a head start on their adventures and will
 |   Humanoid, Rival   |          -          |       Level 2       |     Elite Ambusher      |         EV 16          |
 | :-----------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |  **1M**<br/> Size   |  **7**<br/> Speed   | **80**<br/> Stamina |  **1**<br/> Stability   | **5**<br/> Free Strike |
-| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |  **0**<br/> Might   | **+2**<br/> Agility |  **0**<br/> Reason  |  **0**<br/> Intuition   |  **+1**<br/> Presence  |
 
 <!-- -->
@@ -372,7 +372,7 @@ It's possible that these rivals gained a head start on their adventures and will
 |   Humanoid, Rival   |          -          |       Level 2       |     Elite Artillery     |         EV 16          |
 | :-----------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |  **1M**<br/> Size   |  **5**<br/> Speed   | **60**<br/> Stamina |  **2**<br/> Stability   | **5**<br/> Free Strike |
-| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |  **+2**<br/> Might  | **0**<br/> Agility  | **+1**<br/> Reason  |  **0**<br/> Intuition   |  **0**<br/> Presence   |
 
 <!-- -->
@@ -426,7 +426,7 @@ It's possible that these rivals gained a head start on their adventures and will
 |   Humanoid, Rival   |          -          |       Level 2       |       Elite Hexer       |         EV 16          |
 | :-----------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |  **1M**<br/> Size   |  **5**<br/> Speed   | **60**<br/> Stamina |  **2**<br/> Stability   | **5**<br/> Free Strike |
-| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |  **0**<br/> Might   | **0**<br/> Agility  | **+2**<br/> Reason  |  **0**<br/> Intuition   |  **+1**<br/> Presence  |
 
 <!-- -->
@@ -464,7 +464,7 @@ It's possible that these rivals gained a head start on their adventures and will
 >
 > **Trigger:** A creature deals damage to the talent.
 >
-> **Effect:** The talent halves the damage and shifts up to 2 squares
+> **Effect:** The talent halves the damage and shifts up to 2 squares.
 
 <!-- -->
 > ⭐️ **Rivalry**
@@ -480,7 +480,7 @@ The rivals have learned a few new tricks since they last encountered the heroes.
 |   Humanoid, Rival   |          -          |       Level 5        |      Elite Support      |         EV 28          |
 | :-----------------: | :-----------------: | :------------------: | :---------------------: | :--------------------: |
 |  **1M**<br/> Size   |  **5**<br/> Speed   | **140**<br/> Stamina |  **1**<br/> Stability   | **6**<br/> Free Strike |
-| **-**<br/> Immunity | **-**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **-**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |  **+2**<br/> Might  | **0**<br/> Agility  |  **0**<br/> Reason   |  **+3**<br/> Intuition  |  **+1**<br/> Presence  |
 
 <!-- -->
@@ -501,9 +501,9 @@ The rivals have learned a few new tricks since they last encountered the heroes.
 <!-- -->
 > 🏹 **Imbue with Power (3 Malice)**
 >
-> | **Magic, Ranged** |               **Maneuver** |
-> | ----------------- | -------------------------: |
-> | **📏 Ranged 10**  | **🎯 Self and five allie** |
+> | **Magic, Ranged** |                **Maneuver** |
+> | ----------------- | --------------------------: |
+> | **📏 Ranged 10**  | **🎯 Self and five allies** |
 >
 > **Effect:** Each target has a double edge on their next strike.
 
@@ -522,7 +522,7 @@ The rivals have learned a few new tricks since they last encountered the heroes.
 |   Humanoid, Rival   |          -          |       Level 5        |    Elite Controller     |         EV 28          |
 | :-----------------: | :-----------------: | :------------------: | :---------------------: | :--------------------: |
 |  **1M**<br/> Size   |  **5**<br/> Speed   | **120**<br/> Stamina |  **1**<br/> Stability   | **6**<br/> Free Strike |
-| **-**<br/> Immunity | **-**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **-**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |  **0**<br/> Might   | **+2**<br/> Agility |  **+3**<br/> Reason  |  **+2**<br/> Intuition  |  **0**<br/> Presence   |
 
 <!-- -->
@@ -574,7 +574,7 @@ The rivals have learned a few new tricks since they last encountered the heroes.
 |   Humanoid, Rival   |          -          |       Level 5        |       Elite Brute       |         EV 28          |
 | :-----------------: | :-----------------: | :------------------: | :---------------------: | :--------------------: |
 |  **1M**<br/> Size   |  **5**<br/> Speed   | **160**<br/> Stamina |  **3**<br/> Stability   | **7**<br/> Free Strike |
-| **-**<br/> Immunity | **-**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **-**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |  **+3**<br/> Might  | **+2**<br/> Agility |  **0**<br/> Reason   |  **0**<br/> Intuition   |  **+1**<br/> Presence  |
 
 <!-- -->
@@ -622,7 +622,7 @@ The rivals have learned a few new tricks since they last encountered the heroes.
 |   Humanoid, Rival   |          -          |       Level 5        |      Elite Harrier      |         EV 28          |
 | :-----------------: | :-----------------: | :------------------: | :---------------------: | :--------------------: |
 |  **1M**<br/> Size   |  **7**<br/> Speed   | **140**<br/> Stamina |  **3**<br/> Stability   | **6**<br/> Free Strike |
-| **-**<br/> Immunity | **-**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **-**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |  **0**<br/> Might   | **+3**<br/> Agility |  **+2**<br/> Reason  |  **+3**<br/> Intuition  |  **0**<br/> Presence   |
 
 <!-- -->
@@ -666,7 +666,7 @@ The rivals have learned a few new tricks since they last encountered the heroes.
 |   Humanoid, Rival   |          -          |       Level 5        |     Elite Ambusher      |         EV 28          |
 | :-----------------: | :-----------------: | :------------------: | :---------------------: | :--------------------: |
 |  **1M**<br/> Size   |  **7**<br/> Speed   | **140**<br/> Stamina |  **1**<br/> Stability   | **7**<br/> Free Strike |
-| **-**<br/> Immunity | **-**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **-**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |  **0**<br/> Might   | **+3**<br/> Agility |  **+1**<br/> Reason  |  **0**<br/> Intuition   |  **+2**<br/> Presence  |
 
 <!-- -->
@@ -708,7 +708,7 @@ The rivals have learned a few new tricks since they last encountered the heroes.
 |   Humanoid, Rival   |          -          |       Level 5        |     Elite Artillery     |         EV 28          |
 | :-----------------: | :-----------------: | :------------------: | :---------------------: | :--------------------: |
 |  **1M**<br/> Size   |  **5**<br/> Speed   | **120**<br/> Stamina |  **2**<br/> Stability   | **7**<br/> Free Strike |
-| **-**<br/> Immunity | **-**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **-**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |  **+3**<br/> Might  | **0**<br/> Agility  |  **+2**<br/> Reason  |  **0**<br/> Intuition   |  **+1**<br/> Presence  |
 
 <!-- -->
@@ -762,7 +762,7 @@ The rivals have learned a few new tricks since they last encountered the heroes.
 |   Humanoid, Rival   |          -          |       Level 5        |       Elite Hexer       |         EV 28          |
 | :-----------------: | :-----------------: | :------------------: | :---------------------: | :--------------------: |
 |  **1M**<br/> Size   |  **5**<br/> Speed   | **120**<br/> Stamina |  **2**<br/> Stability   | **6**<br/> Free Strike |
-| **-**<br/> Immunity | **-**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **-**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |  **0**<br/> Might   | **0**<br/> Agility  |  **+3**<br/> Reason  |  **0**<br/> Intuition   |  **+1**<br/> Presence  |
 
 <!-- -->
@@ -800,7 +800,7 @@ The rivals have learned a few new tricks since they last encountered the heroes.
 >
 > **Trigger:** A creature deals damage to the talent.
 >
-> **Effect:** The talent halves the damage and shifts up to 2 squares
+> **Effect:** The talent halves the damage and shifts up to 2 squares.
 
 <!-- -->
 > ⭐️ **Rivalry**
@@ -811,7 +811,7 @@ The rivals have learned a few new tricks since they last encountered the heroes.
 
 A secret society created to overthrow Capital's political and cultural structure, the Black Iron Pact draws its name from Ajax's sobriquet, the Iron Saint. Iron is a metal with deep symbolism to the tyrannical saint.
 
-The five most powerful members of the pact-the High Command formally lead the society and serve as its strike team. The identity and whereabouts of the Black Iron Pact's original founder are closely guarded secrets, known only to Ajax and the High Command.
+The five most powerful members of the pact—the High Command formally lead the society and serve as its strike team. The identity and whereabouts of the Black Iron Pact's original founder are closely guarded secrets, known only to Ajax and the High Command.
 
 The pact's true numbers also remain a mystery, and many citizens work for them unknowingly. Such subterfuge ensures the pact's agents can't be traced back to the High Command.
 
@@ -819,7 +819,7 @@ The pact's true numbers also remain a mystery, and many citizens work for them u
 
 The Black Iron Pact's primary goal is the conquest of Capital and the installation of Ajax as its ruler and god. The pact's agents are true believers of Ajax's gospel, which seeks change through force and violence. Their evil belief is that humans are the true owners of this world, and as such, only humans can join the Black Iron Pact, though the society employs nonhuman pawns when risk of capture or death is high.
 
-Additionally, many members of the pact-notably senior member Erasmus and his wife Avalla-openly sneer at the idea of guilds (essentially scorning everyone in the middle class), and they object to anyone but a human man holding public office, owning any assets, or even learning to read.
+Additionally, many members of the pact—notably senior member Erasmus and his wife Avalla—openly sneer at the idea of guilds (essentially scorning everyone in the middle class), and they object to anyone but a human man holding public office, owning any assets, or even learning to read.
 
 **Running the Black Iron Pact**
 
@@ -840,7 +840,7 @@ Rivals at the 3rd Echelon have been through quite a few adventures the heroes mi
 |   Humanoid, Rival   |          -          |       Level 8        |      Elite Support      |         EV 40          |
 | :-----------------: | :-----------------: | :------------------: | :---------------------: | :--------------------: |
 |  **1M**<br/> Size   |  **5**<br/> Speed   | **200**<br/> Stamina |  **1**<br/> Stability   | **8**<br/> Free Strike |
-| **-**<br/> Immunity | **-**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **-**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |  **+3**<br/> Might  | **0**<br/> Agility  |  **+1**<br/> Reason  |  **+4**<br/> Intuition  |  **+2**<br/> Presence  |
 
 <!-- -->
@@ -861,9 +861,9 @@ Rivals at the 3rd Echelon have been through quite a few adventures the heroes mi
 <!-- -->
 > 🏹 **Imbue with Power (3 Malice)**
 >
-> | **Magic, Ranged** |               **Maneuver** |
-> | ----------------- | -------------------------: |
-> | **📏 Ranged 10**  | **🎯 Self and five allie** |
+> | **Magic, Ranged** |                **Maneuver** |
+> | ----------------- | --------------------------: |
+> | **📏 Ranged 10**  | **🎯 Self and five allies** |
 >
 > **Effect:** Each target has a double edge on their next strike.
 
@@ -882,7 +882,7 @@ Rivals at the 3rd Echelon have been through quite a few adventures the heroes mi
 |   Humanoid, Rival   |          -          |       Level 8        |    Elite Controller     |         EV 40          |
 | :-----------------: | :-----------------: | :------------------: | :---------------------: | :--------------------: |
 |  **1M**<br/> Size   |  **5**<br/> Speed   | **180**<br/> Stamina |  **1**<br/> Stability   | **8**<br/> Free Strike |
-| **-**<br/> Immunity | **-**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **-**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |  **0**<br/> Might   | **+2**<br/> Agility |  **+4**<br/> Reason  |  **+3**<br/> Intuition  |  **0**<br/> Presence   |
 
 <!-- -->
@@ -936,7 +936,7 @@ Rivals at the 3rd Echelon have been through quite a few adventures the heroes mi
 |   Humanoid, Rival   |          -          |       Level 8        |       Elite Brute       |         EV 40          |
 | :-----------------: | :-----------------: | :------------------: | :---------------------: | :--------------------: |
 |  **1M**<br/> Size   |  **5**<br/> Speed   | **220**<br/> Stamina |  **3**<br/> Stability   | **9**<br/> Free Strike |
-| **-**<br/> Immunity | **-**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **-**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |  **+4**<br/> Might  | **+3**<br/> Agility |  **0**<br/> Reason   |  **+1**<br/> Intuition  |  **+2**<br/> Presence  |
 
 <!-- -->
@@ -984,7 +984,7 @@ Rivals at the 3rd Echelon have been through quite a few adventures the heroes mi
 |   Humanoid, Rival   |          -          |       Level 8        |      Elite Harrier      |         EV 40          |
 | :-----------------: | :-----------------: | :------------------: | :---------------------: | :--------------------: |
 |  **1M**<br/> Size   |  **7**<br/> Speed   | **200**<br/> Stamina |  **3**<br/> Stability   | **8**<br/> Free Strike |
-| **-**<br/> Immunity | **-**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **-**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |  **+2**<br/> Might  | **+4**<br/> Agility |  **+3**<br/> Reason  |  **+4**<br/> Intuition  |  **0**<br/> Presence   |
 
 <!-- -->
@@ -1028,7 +1028,7 @@ Rivals at the 3rd Echelon have been through quite a few adventures the heroes mi
 |   Humanoid, Rival   |          -          |       Level 8        |     Elite Ambusher      |         EV 40          |
 | :-----------------: | :-----------------: | :------------------: | :---------------------: | :--------------------: |
 |  **1M**<br/> Size   |  **7**<br/> Speed   | **200**<br/> Stamina |  **1**<br/> Stability   | **9**<br/> Free Strike |
-| **-**<br/> Immunity | **-**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **-**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |  **0**<br/> Might   | **+4**<br/> Agility |  **+2**<br/> Reason  |  **0**<br/> Intuition   |  **+3**<br/> Presence  |
 
 <!-- -->
@@ -1070,7 +1070,7 @@ Rivals at the 3rd Echelon have been through quite a few adventures the heroes mi
 |   Humanoid, Rival   |          -          |       Level 8        |     Elite Artillery     |         EV 40          |
 | :-----------------: | :-----------------: | :------------------: | :---------------------: | :--------------------: |
 |  **1M**<br/> Size   |  **5**<br/> Speed   | **180**<br/> Stamina |  **2**<br/> Stability   | **9**<br/> Free Strike |
-| **-**<br/> Immunity | **-**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **-**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |  **+4**<br/> Might  | **+1**<br/> Agility |  **+3**<br/> Reason  |  **0**<br/> Intuition   |  **+2**<br/> Presence  |
 
 <!-- -->
@@ -1124,7 +1124,7 @@ Rivals at the 3rd Echelon have been through quite a few adventures the heroes mi
 |   Humanoid, Rival   |          -          |       Level 8        |       Elite Hexer       |         EV 40          |
 | :-----------------: | :-----------------: | :------------------: | :---------------------: | :--------------------: |
 |  **1M**<br/> Size   |  **5**<br/> Speed   | **180**<br/> Stamina |  **2**<br/> Stability   | **8**<br/> Free Strike |
-| **-**<br/> Immunity | **-**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **-**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |  **0**<br/> Might   | **0**<br/> Agility  |  **+4**<br/> Reason  |  **0**<br/> Intuition   |  **+1**<br/> Presence  |
 
 <!-- -->
@@ -1180,7 +1180,7 @@ This is what peak performance looks like. Few bands of monsters can put up a fig
 |   Humanoid, Rival   |          -          |       Level 10       |      Elite Support      |          EV 48          |
 | :-----------------: | :-----------------: | :------------------: | :---------------------: | :---------------------: |
 |  **1M**<br/> Size   |  **5**<br/> Speed   | **240**<br/> Stamina |  **1**<br/> Stability   | **10**<br/> Free Strike |
-| **-**<br/> Immunity | **-**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **-**<br/> Movement |          -           | **-**<br/> With Captain |   **-**<br/> Weakness   |
 |  **+4**<br/> Might  | **+1**<br/> Agility |  **+1**<br/> Reason  |  **+5**<br/> Intuition  |  **+3**<br/> Presence   |
 
 <!-- -->
@@ -1203,9 +1203,9 @@ This is what peak performance looks like. Few bands of monsters can put up a fig
 <!-- -->
 > 🏹 **Empyrean Boon (5 Malice)**
 >
-> | **Magic, Ranged** |               **Maneuver** |
-> | ----------------- | -------------------------: |
-> | **📏 Ranged 10**  | **🎯 Self and five allie** |
+> | **Magic, Ranged** |                **Maneuver** |
+> | ----------------- | --------------------------: |
+> | **📏 Ranged 10**  | **🎯 Self and five allies** |
 >
 > **Effect:** Each target has a double edge on their next strike, and that strike deals an extra 10 holy damage. Additionally, they can vertical slide each creature targeted by the strike up to 2 squares.
 
@@ -1224,7 +1224,7 @@ This is what peak performance looks like. Few bands of monsters can put up a fig
 |   Humanoid, Rival   |          -          |       Level 10       |    Elite Controller     |          EV 48          |
 | :-----------------: | :-----------------: | :------------------: | :---------------------: | :---------------------: |
 |  **1M**<br/> Size   |  **5**<br/> Speed   | **220**<br/> Stamina |  **1**<br/> Stability   | **10**<br/> Free Strike |
-| **-**<br/> Immunity | **-**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **-**<br/> Movement |          -           | **-**<br/> With Captain |   **-**<br/> Weakness   |
 |  **+1**<br/> Might  | **+3**<br/> Agility |  **+5**<br/> Reason  |  **+4**<br/> Intuition  |  **+1**<br/> Presence   |
 
 <!-- -->
@@ -1272,7 +1272,7 @@ This is what peak performance looks like. Few bands of monsters can put up a fig
 |   Humanoid, Rival   |          -          |       Level 10       |       Elite Brute       |          EV 48          |
 | :-----------------: | :-----------------: | :------------------: | :---------------------: | :---------------------: |
 |  **1M**<br/> Size   |  **5**<br/> Speed   | **260**<br/> Stamina |  **3**<br/> Stability   | **10**<br/> Free Strike |
-| **-**<br/> Immunity | **-**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **-**<br/> Movement |          -           | **-**<br/> With Captain |   **-**<br/> Weakness   |
 |  **+5**<br/> Might  | **+4**<br/> Agility |  **0**<br/> Reason   |  **+2**<br/> Intuition  |  **+3**<br/> Presence   |
 
 <!-- -->
@@ -1320,7 +1320,7 @@ This is what peak performance looks like. Few bands of monsters can put up a fig
 |   Humanoid, Rival   |          -          |       Level 10       |      Elite Harrier      |          EV 48          |
 | :-----------------: | :-----------------: | :------------------: | :---------------------: | :---------------------: |
 |  **1M**<br/> Size   |  **7**<br/> Speed   | **240**<br/> Stamina |  **3**<br/> Stability   | **10**<br/> Free Strike |
-| **-**<br/> Immunity | **-**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **-**<br/> Movement |          -           | **-**<br/> With Captain |   **-**<br/> Weakness   |
 |  **+3**<br/> Might  | **+5**<br/> Agility |  **+4**<br/> Reason  |  **+5**<br/> Intuition  |   **0**<br/> Presence   |
 
 <!-- -->
@@ -1364,7 +1364,7 @@ This is what peak performance looks like. Few bands of monsters can put up a fig
 |   Humanoid, Rival   |          -          |       Level 10       |     Elite Ambusher      |          EV 48          |
 | :-----------------: | :-----------------: | :------------------: | :---------------------: | :---------------------: |
 |  **1M**<br/> Size   |  **5**<br/> Speed   | **240**<br/> Stamina |  **1**<br/> Stability   | **10**<br/> Free Strike |
-| **-**<br/> Immunity | **-**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **-**<br/> Movement |          -           | **-**<br/> With Captain |   **-**<br/> Weakness   |
 |  **0**<br/> Might   | **+5**<br/> Agility |  **+3**<br/> Reason  |  **+2**<br/> Intuition  |  **+4**<br/> Presence   |
 
 <!-- -->
@@ -1406,7 +1406,7 @@ This is what peak performance looks like. Few bands of monsters can put up a fig
 |   Humanoid, Rival   |          -          |       Level 10       |     Elite Artillery     |          EV 48          |
 | :-----------------: | :-----------------: | :------------------: | :---------------------: | :---------------------: |
 |  **1M**<br/> Size   |  **5**<br/> Speed   | **220**<br/> Stamina |  **2**<br/> Stability   | **10**<br/> Free Strike |
-| **-**<br/> Immunity | **-**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **-**<br/> Movement |          -           | **-**<br/> With Captain |   **-**<br/> Weakness   |
 |  **+5**<br/> Might  | **+2**<br/> Agility |  **+4**<br/> Reason  |  **0**<br/> Intuition   |  **+3**<br/> Presence   |
 
 <!-- -->
@@ -1460,7 +1460,7 @@ This is what peak performance looks like. Few bands of monsters can put up a fig
 |   Humanoid, Rival   |          -          |       Level 10       |       Elite Hexer       |          EV 48          |
 | :-----------------: | :-----------------: | :------------------: | :---------------------: | :---------------------: |
 |  **1M**<br/> Size   |  **5**<br/> Speed   | **220**<br/> Stamina |  **2**<br/> Stability   | **10**<br/> Free Strike |
-| **-**<br/> Immunity | **-**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **-**<br/> Movement |          -           | **-**<br/> With Captain |   **-**<br/> Weakness   |
 |  **0**<br/> Might   | **0**<br/> Agility  |  **+5**<br/> Reason  |  **0**<br/> Intuition   |  **+1**<br/> Presence   |
 
 <!-- -->
@@ -1491,7 +1491,7 @@ This is what peak performance looks like. Few bands of monsters can put up a fig
 > - **12-16:** R < 4 restrained (save ends)
 > - **17+:** R < 5 restrained (save ends)
 >
-> \*\*Effect:\*\*One ally within distance can use an additional main action on their next turn.
+> **Effect:** One ally within distance can use an additional main action on their next turn.
 
 <!-- -->
 > ❗️ **Psionic Retribution (2 Malice)**

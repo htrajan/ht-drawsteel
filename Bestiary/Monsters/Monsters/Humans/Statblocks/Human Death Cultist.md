@@ -9,7 +9,7 @@ file_dpath: Monsters/Humans/Statblocks
 free_strike: 4
 intuition: 0
 item_id: human-death-cultist
-item_index: '162'
+item_index: '06'
 item_name: Human Death Cultist
 level: 2
 might: 0
@@ -18,15 +18,15 @@ reason: 0
 roles:
   - Platoon Support
 scc:
-  - mcdm.monsters.v1:monster:human-death-cultist
+  - mcdm.monsters.v1:monster.humans.statblock:human-death-cultist
 scdc:
-  - 1.1.1:2:162
+  - 1.1.1:2.20.1:06
 size: 1M
 source: mcdm.monsters.v1
 speed: 5
 stability: 0
 stamina: '40'
-type: monster
+type: monster/humans/statblock
 ---
 
 ###### Human Death Cultist
@@ -34,7 +34,7 @@ type: monster
 |              Human, Humanoid              |          -          |       Level 2       |     Platoon Support     |          EV 8          |
 | :---------------------------------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |             **1M**<br/> Size              |  **5**<br/> Speed   | **40**<br/> Stamina |  **0**<br/> Stability   | **4**<br/> Free Strike |
-| **Corruption 2, psychic 2**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Corruption 2, psychic 2**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |             **0**<br/> Might              | **+1**<br/> Agility |  **0**<br/> Reason  |  **0**<br/> Intuition   |  **+2**<br/> Presence  |
 
 <!-- -->

@@ -10,7 +10,7 @@ file_dpath: Monsters/War Dogs/Statblocks
 free_strike: 5
 intuition: 2
 item_id: war-dog-ground-commander
-item_index: '357'
+item_index: '07'
 item_name: War Dog Ground Commander
 level: 3
 might: 3
@@ -19,15 +19,15 @@ reason: 3
 roles:
   - Leader
 scc:
-  - mcdm.monsters.v1:monster:war-dog-ground-commander
+  - mcdm.monsters.v1:monster.war-dogs.statblock:war-dog-ground-commander
 scdc:
-  - 1.1.1:2:357
+  - 1.1.1:2.51.1:07
 size: 1M
 source: mcdm.monsters.v1
 speed: 5
 stability: 2
 stamina: '120'
-type: monster
+type: monster/war-dogs/statblock
 ---
 
 ###### War Dog Ground Commander
@@ -35,7 +35,7 @@ type: monster
 | Humanoid, Soulless, War Dog |          -          |       Level 3        |         Leader          |         EV 20          |
 | :-------------------------: | :-----------------: | :------------------: | :---------------------: | :--------------------: |
 |      **1M**<br/> Size       |  **5**<br/> Speed   | **120**<br/> Stamina |  **2**<br/> Stability   | **5**<br/> Free Strike |
-|     **-**<br/> Immunity     | **-**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+|     **-**<br/> Immunity     | **-**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |      **+3**<br/> Might      | **+2**<br/> Agility |  **+3**<br/> Reason  |  **+2**<br/> Intuition  |  **+2**<br/> Presence  |
 
 <!-- -->
@@ -73,7 +73,7 @@ type: monster
 >
 > **Trigger:** The target takes damage, is force moved, or is reduced to 0 Stamina.
 >
-> **Effect:** Even if reduced to 0 Stamina, the target moves up to their speed and can make a free strike after the triggering effect is resolved The target then immediately dies.
+> **Effect:** Even if reduced to 0 Stamina, the target moves up to their speed and can make a free strike after the triggering effect is resolved. The target then immediately dies.
 
 <!-- -->
 > ⭐️ **End Effect**

@@ -9,7 +9,7 @@ file_dpath: Monsters/Kobolds/Statblocks
 free_strike: 2
 intuition: 0
 item_id: kobold-centurion
-item_index: '99'
+item_index: '11'
 item_name: Kobold Centurion
 level: 1
 might: 2
@@ -18,15 +18,15 @@ reason: 2
 roles:
   - Leader
 scc:
-  - mcdm.monsters.v1:monster:kobold-centurion
+  - mcdm.monsters.v1:monster.kobolds.statblock:kobold-centurion
 scdc:
-  - 1.1.1:2:99
+  - 1.1.1:2.10.1:11
 size: 1S
 source: mcdm.monsters.v1
 speed: 5
 stability: 2
 stamina: '80'
-type: monster
+type: monster/kobolds/statblock
 ---
 
 ###### Kobold Centurion
@@ -34,7 +34,7 @@ type: monster
 |  Kobold, Humanoid   |          -          |       Level 1       |         Leader          |         EV 12          |
 | :-----------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |  **1S**<br/> Size   |  **5**<br/> Speed   | **80**<br/> Stamina |  **2**<br/> Stability   | **2**<br/> Free Strike |
-| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |  **+2**<br/> Might  | **+3**<br/> Agility | **+2**<br/> Reason  |  **0**<br/> Intuition   |  **+2**<br/> Presence  |
 
 <!-- -->
@@ -62,8 +62,6 @@ type: monster
 > | **📏 Ranged 10** | **🎯 One enemy** |
 >
 > **Effect:** Until the start of the centurion's next turn, the centurion and their allies gain an edge on power rolls against the target.
->
-> **3+ Malice:** This ability targets one additional target for each 3 Malice spent.
 
 <!-- -->
 > ❗️ **Testudo!**

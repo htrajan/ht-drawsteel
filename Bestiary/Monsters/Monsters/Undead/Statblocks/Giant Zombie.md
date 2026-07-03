@@ -9,7 +9,7 @@ file_dpath: Monsters/Undead/Statblocks
 free_strike: 6
 intuition: 1
 item_id: giant-zombie
-item_index: '67'
+item_index: '15'
 item_name: Giant Zombie
 level: 4
 might: 3
@@ -18,15 +18,15 @@ reason: -2
 roles:
   - Elite Brute
 scc:
-  - mcdm.monsters.v1:monster:giant-zombie
+  - mcdm.monsters.v1:monster.undead.statblock:giant-zombie
 scdc:
-  - 1.1.1:2:67
+  - 1.1.1:2.8.1:15
 size: '3'
 source: mcdm.monsters.v1
 speed: 6
 stability: 2
 stamina: '140'
-type: monster
+type: monster/undead/statblock
 ---
 
 ###### Giant Zombie
@@ -34,7 +34,7 @@ type: monster
 |             Undead, Soulless             |          -          |       Level 4        |       Elite Brute       |         EV 24          |
 | :--------------------------------------: | :-----------------: | :------------------: | :---------------------: | :--------------------: |
 |             **3**<br/> Size              |  **6**<br/> Speed   | **140**<br/> Stamina |  **2**<br/> Stability   | **6**<br/> Free Strike |
-| **Corruption 4, poison 4**<br/> Immunity | **-**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Corruption 4, poison 4**<br/> Immunity | **-**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |            **+3**<br/> Might             | **-1**<br/> Agility |  **-2**<br/> Reason  |  **+1**<br/> Intuition  |  **+2**<br/> Presence  |
 
 <!-- -->
@@ -69,4 +69,4 @@ type: monster
 <!-- -->
 > ⭐️ **Negative Nerves**
 >
-> When the giant zombie is targeted by an ability that deals rolled damage, they halve the damage from a tier 1 outcome
+> When the giant zombie is targeted by an ability that deals rolled damage, they halve the damage from a tier 1 outcome.

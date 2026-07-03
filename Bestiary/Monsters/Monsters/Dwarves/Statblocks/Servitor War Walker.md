@@ -9,7 +9,7 @@ file_dpath: Monsters/Dwarves/Statblocks
 free_strike: 4
 intuition: 0
 item_id: servitor-war-walker
-item_index: '396'
+item_index: '01'
 item_name: Servitor War Walker
 level: 1
 might: 2
@@ -18,15 +18,15 @@ reason: -2
 roles:
   - Elite Mount
 scc:
-  - mcdm.monsters.v1:monster:servitor-war-walker
+  - mcdm.monsters.v1:monster.dwarves.statblock:servitor-war-walker
 scdc:
-  - 1.1.1:2:396
+  - 1.1.1:2.52.1:01
 size: '3'
 source: mcdm.monsters.v1
 speed: 8
 stability: 2
 stamina: '60'
-type: monster
+type: monster/dwarves/statblock
 ---
 
 ###### Servitor War Walker
@@ -34,7 +34,7 @@ type: monster
 |   Dwarf, Humanoid   |            -            |       Level 1       |       Elite Mount       |         EV 12          |
 | :-----------------: | :---------------------: | :-----------------: | :---------------------: | :--------------------: |
 |   **3**<br/> Size   |    **8**<br/> Speed     | **60**<br/> Stamina |  **2**<br/> Stability   | **4**<br/> Free Strike |
-| **-**<br/> Immunity | **Climb**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **Climb**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |  **+2**<br/> Might  |   **+0**<br/> Agility   | **-2**<br/> Reason  |  **+0**<br/> Intuition  |  **-2**<br/> Presence  |
 
 <!-- -->

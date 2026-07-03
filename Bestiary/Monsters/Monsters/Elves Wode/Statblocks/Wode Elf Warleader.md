@@ -2,14 +2,15 @@
 agility: 3
 ancestry:
   - Fey
-  - Humanoid. Wode Elf
+  - Humanoid
+  - Wode Elf
 ev: '20'
 file_basename: Wode Elf Warleader
 file_dpath: Monsters/Elves Wode/Statblocks
 free_strike: 5
 intuition: 2
 item_id: wode-elf-warleader
-item_index: '234'
+item_index: '12'
 item_name: Wode Elf Warleader
 level: 3
 might: 2
@@ -18,23 +19,23 @@ reason: 2
 roles:
   - Leader
 scc:
-  - mcdm.monsters.v1:monster:wode-elf-warleader
+  - mcdm.monsters.v1:monster.elves-wode.statblock:wode-elf-warleader
 scdc:
-  - 1.1.1:2:234
+  - 1.1.1:2.28.1:12
 size: 1M
 source: mcdm.monsters.v1
 speed: 7
 stability: 2
 stamina: '120'
-type: monster
+type: monster/elves-wode/statblock
 ---
 
 ###### Wode Elf Warleader
 
-| Fey, Humanoid. Wode Elf |             -              |       Level 3        |         Leader          |         EV 20          |
+| Fey, Humanoid, Wode Elf |             -              |       Level 3        |         Leader          |         EV 20          |
 | :---------------------: | :------------------------: | :------------------: | :---------------------: | :--------------------: |
 |    **1M**<br/> Size     |      **7**<br/> Speed      | **120**<br/> Stamina |  **2**<br/> Stability   | **5**<br/> Free Strike |
-|   **-**<br/> Immunity   | **Teleport**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+|   **-**<br/> Immunity   | **Teleport**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |    **+2**<br/> Might    |    **+3**<br/> Agility     |  **+2**<br/> Reason  |  **+2**<br/> Intuition  |  **+2**<br/> Presence  |
 
 <!-- -->

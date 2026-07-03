@@ -14,7 +14,7 @@ type: monster/section
 
 ## Animals
 
-The natural denizens of every world, animals ferocious, atrocious, and precocious roam the lands between and among settlements of humanoids and other folk. Whether they graze or hunt, stay solitary or move in packs, fight danger or fly from it, all animals share a singular goal-to live. Most animals are not monsters, but some are twisted by magic and malice to *become* monsters. A hero wouldn't mercilessly kill a pack of hungry wolves-but they'll slay rot-magic dire wolves created by vampires. In many cases, animals are more likely to be bystanders than threats in an encounter.
+The natural denizens of every world, animals ferocious, atrocious, and precocious roam the lands between and among settlements of humanoids and other folk. Whether they graze or hunt, stay solitary or move in packs, fight danger or fly from it, all animals share a singular goal—to live. Most animals are not monsters, but some are twisted by magic and malice to *become* monsters. A hero wouldn't mercilessly kill a pack of hungry wolves—but they'll slay rot-magic dire wolves created by vampires. In many cases, animals are more likely to be bystanders than threats in an encounter.
 
 ### Animal Traits
 
@@ -77,7 +77,7 @@ The animal can automatically swim at full speed while moving.
 
 #### Defensive Traits
 
-Defensive traits help animals stay out of danger-or to set ambushes for unwary prey.
+Defensive traits help animals stay out of danger—or to set ambushes for unwary prey.
 
 ###### Camouflage (1 Point)
 
@@ -220,6 +220,8 @@ The animal gains the following ability.
 > | ---------------------- | -------------------------------: |
 > | **📏 3 cube within 1** | **🎯 Each creature in the area** |
 >
+> **Power Roll + highest characteristic:**
+>
 > - **≤11:** A < 0 restrained (save ends)
 > - **12-16:** A < 1 restrained (save ends)
 > - **17+:** A < 2 restrained (save ends)
@@ -284,7 +286,7 @@ The following stat blocks can be used to describe everyday animals capable of ac
 
 When building an animal by adding traits to a stat block, you can use a shorthand to describe the animal. For example, a dire wolf might be denoted as "Predator B: Swiftness, Pack, Hunter" to indicate that you're using the Predator B stat block with the Swiftness, Pack, and Hunter traits.
 
-The Example Animals table breaks out a number of animals using this notation. Selected traits are listed in order by category-mobility, defensive, offensive, and supernatural.
+The Example Animals table breaks out a number of animals using this notation. Selected traits are listed in order by category—mobility, defensive, offensive, and supernatural.
 
 <!-- -->
 > **Can I Make a Harmless Animal?**
@@ -296,7 +298,7 @@ The Example Animals table breaks out a number of animals using this notation. Se
 |       Animal        |          -          |       Level 1       |      Elite Harrier      |         EV 12          |
 | :-----------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |  **1M**<br/> Size   |  **6**<br/> Speed   | **60**<br/> Stamina |  **0**<br/> Stability   | **4**<br/> Free Strike |
-| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |  **+0**<br/> Might  | **+2**<br/> Agility | **-2**<br/> Reason  |  **+1**<br/> Intuition  |  **-2**<br/> Presence  |
 
 <!-- -->
@@ -333,7 +335,7 @@ The Example Animals table breaks out a number of animals using this notation. Se
 |    Animal, Swarm    |          -          |       Level 1       |       Elite Hexer       |         EV 12          |
 | :-----------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |   **2**<br/> Size   |  **5**<br/> Speed   | **40**<br/> Stamina |  **1**<br/> Stability   | **4**<br/> Free Strike |
-| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |  **-2**<br/> Might  | **+1**<br/> Agility | **-3**<br/> Reason  |  **+2**<br/> Intuition  |  **-3**<br/> Presence  |
 
 <!-- -->
@@ -375,7 +377,7 @@ The Example Animals table breaks out a number of animals using this notation. Se
 |       Animal        |          -          |       Level 1       |       Elite Mount       |         EV 12          |
 | :-----------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |   **2**<br/> Size   |  **6**<br/> Speed   | **60**<br/> Stamina |  **1**<br/> Stability   | **4**<br/> Free Strike |
-| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |  **+1**<br/> Might  | **+2**<br/> Agility | **-2**<br/> Reason  |  **+1**<br/> Intuition  |  **-2**<br/> Presence  |
 
 <!-- -->
@@ -403,7 +405,7 @@ The Example Animals table breaks out a number of animals using this notation. Se
 > **Effect:** The target vertical slides up to 3 squares. If the target is an ally, they can make a free strike at the end of the forced movement, then fall without taking damage.
 
 <!-- -->
-> ❗️**Juke**
+> ❗️ **Juke**
 >
 > | **-**       | **Triggered action** |
 > | ----------- | -------------------: |
@@ -423,7 +425,7 @@ The Example Animals table breaks out a number of animals using this notation. Se
 |       Animal        |          -          |       Level 2       |       Elite Mount       |         EV 16          |
 | :-----------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |   **3**<br/> Size   |  **6**<br/> Speed   | **80**<br/> Stamina |  **3**<br/> Stability   | **5**<br/> Free Strike |
-| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |  **+2**<br/> Might  | **+1**<br/> Agility | **-1**<br/> Reason  |  **+1**<br/> Intuition  |  **+0**<br/> Presence  |
 
 <!-- -->
@@ -491,7 +493,7 @@ The Example Animals table breaks out a number of animals using this notation. Se
 |       Animal        |          -          |       Level 1       |       Elite Brute       |         EV 12          |
 | :-----------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |   **2**<br/> Size   |  **5**<br/> Speed   | **80**<br/> Stamina |  **0**<br/> Stability   | **5**<br/> Free Strike |
-| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |  **+1**<br/> Might  | **+2**<br/> Agility | **-2**<br/> Reason  |  **+1**<br/> Intuition  |  **+1**<br/> Presence  |
 
 <!-- -->
@@ -537,7 +539,7 @@ The Example Animals table breaks out a number of animals using this notation. Se
 |       Animal        |          -          |       Level 3        |       Elite Brute       |         EV 16          |
 | :-----------------: | :-----------------: | :------------------: | :---------------------: | :--------------------: |
 |   **3**<br/> Size   |  **5**<br/> Speed   | **100**<br/> Stamina |  **2**<br/> Stability   | **5**<br/> Free Strike |
-| **-**<br/> Immunity | **-**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **-**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |  **+2**<br/> Might  | **+1**<br/> Agility |  **-1**<br/> Reason  |  **+1**<br/> Intuition  |  **+0**<br/> Presence  |
 
 <!-- -->
@@ -559,6 +561,8 @@ The Example Animals table breaks out a number of animals using this notation. Se
 > | **Area, Weapon** |                         **Main action** |
 > | ---------------- | --------------------------------------: |
 > | **📏 1 burst**   | **🎯 Each enemy or object in the area** |
+>
+> **Power Roll + 2:**
 >
 > - **≤11:** 3 damage
 > - **12-16:** 6 damage

@@ -28,7 +28,7 @@ stamina: '57'
 |     Devil, Infernal      |           -           |       Level 5       |     Hexer Retainer      |          EV -          |
 | :----------------------: | :-------------------: | :-----------------: | :---------------------: | :--------------------: |
 |     **1M**<br/> Size     |   **6**<br/> Speed    | **57**<br/> Stamina |  **0**<br/> Stability   | **5**<br/> Free Strike |
-| **Fire 5**<br/> Immunity | **Fly**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Fire 5**<br/> Immunity | **Fly**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |    **+3**<br/> Might     |  **+2**<br/> Agility  | **+3**<br/> Reason  |  **+1**<br/> Intuition  |  **+2**<br/> Presence  |
 
 <!-- -->
@@ -58,7 +58,7 @@ stamina: '57'
 <!-- -->
 > ⭐️ **True Name**
 >
-> If a creature within 10 squares speaks the defector's true name, the defector loses their damage immunities and their Tempting Offer triggered action until the end of the encounter
+> If a creature within 10 squares speaks the defector's true name, the defector loses their damage immunities and their Tempting Offer triggered action until the end of the encounter.
 
 ###### Level 7 Retainer Advancement Ability
 
@@ -75,7 +75,7 @@ stamina: '57'
 > - **12-16:** 10 corruption damage
 > - **17+:** 14 corruption damage
 >
-> **Effect:** If the defector's mentor is in the area, the mentor burns with flame until the end of the defector's next turn. While this fire burns the mentor has fire immunity 10, and any creature who targets the mentor with a strike takes 10 fire damage
+> **Effect:** If the defector's mentor is in the area, the mentor burns with flame until the end of the defector's next turn. While this fire burns the mentor has fire immunity 10, and any creature who targets the mentor with a strike takes 10 fire damage.
 
 ###### Level 10 Retainer Advancement Ability
 

@@ -187,7 +187,7 @@ Thorn dragons cultivate their lairs in lush farmlands or flourishing forests. Th
 
 #### Natural Curators
 
-More intelligent dragons seek all forms of riches for their hoard, but thorn dragons have no eye for worldly treasures. Instead, they amass the wealth of the wild they represent. Thorn dragons stockpile food even food they won't eat-alongside uncut gemstones, minerals and ore, wood, oils, and spices.
+More intelligent dragons seek all forms of riches for their hoard, but thorn dragons have no eye for worldly treasures. Instead, they amass the wealth of the wild they represent. Thorn dragons stockpile food—even food they won't eat—alongside uncut gemstones, minerals and ore, wood, oils, and spices.
 
 #### Bestial Instincts
 
@@ -209,7 +209,7 @@ Thorn dragons are highly territorial, and are vigilant against potential threats
 |     Dragon, Elemental      |           -           |       Level 2        |          Solo           |         EV 48          |
 | :------------------------: | :-------------------: | :------------------: | :---------------------: | :--------------------: |
 |      **3**<br/> Size       |   **8**<br/> Speed    | **250**<br/> Stamina |  **6**<br/> Stability   | **5**<br/> Free Strike |
-| **Poison 5**<br/> Immunity | **Fly**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Poison 5**<br/> Immunity | **Fly**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |     **+2**<br/> Might      |  **+3**<br/> Agility  |  **-1**<br/> Reason  |  **+1**<br/> Intuition  |  **+2**<br/> Presence  |
 
 <!-- -->
@@ -385,7 +385,7 @@ Eerie myths surround the gloom dragons, for they wield languages they do not the
 |      Dragon, Elemental      |              -               |       Level 4        |          Solo           |         EV 72          |
 | :-------------------------: | :--------------------------: | :------------------: | :---------------------: | :--------------------: |
 |       **4**<br/> Size       |       **8**<br/> Speed       | **350**<br/> Stamina |  **2**<br/> Stability   | **6**<br/> Free Strike |
-| **Psychic 5**<br/> Immunity | **Fly, hover**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Psychic 5**<br/> Immunity | **Fly, hover**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |      **+2**<br/> Might      |     **+4**<br/> Agility      |  **+1**<br/> Reason  |  **+3**<br/> Intuition  |  **+4**<br/> Presence  |
 
 <!-- -->
@@ -522,7 +522,7 @@ At the start of a gloom dragon's turn, you can spend Malice to activate one of t
 
 ### Crucible Dragon
 
-Crucible dragons are born from metallic elementals touched by the toxic combination of fiery rage and ice-cold grief-often the result of failure in the pursuit of perfection. Each dragon is a dark forge of abandoned creativity melted down in fires of spite, jealousy, and hate.
+Crucible dragons are born from metallic elementals touched by the toxic combination of fiery rage and ice-cold grief—often the result of failure in the pursuit of perfection. Each dragon is a dark forge of abandoned creativity melted down in fires of spite, jealousy, and hate.
 
 These metallic dragons are massive, heavy creatures requiring an immense release of heat to engage in flight. Their scales range from gleaming silver to blackened iron, depending on how fastidious they are about cleaning, and are occasionally gilded with more-precious metals. Their long tails terminate with a massive, hammer-like tip that can freeze over and instantly cool hot metal.
 
@@ -554,7 +554,7 @@ The oldest of crucible dragons are known to speak some Vastariax, though younger
 |    Dragon, Elemental     |          -          |       Level 6        |          Solo           |         EV 96          |
 | :----------------------: | :-----------------: | :------------------: | :---------------------: | :--------------------: |
 |     **4**<br/> Size      |  **8**<br/> Speed   | **450**<br/> Stamina |  **6**<br/> Stability   | **7**<br/> Free Strike |
-| **Fire 6**<br/> Immunity | **-**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Fire 6**<br/> Immunity | **-**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |    **+4**<br/> Might     | **-1**<br/> Agility |  **+3**<br/> Reason  |  **+3**<br/> Intuition  |  **+2**<br/> Presence  |
 
 <!-- -->
@@ -708,19 +708,17 @@ At the start of a crucible dragon's turn, you can spend Malice to activate one o
 
 ### Omen Dragon
 
-They have been known by many names: Reaper, Blight, Sorrow, Stillness, Vengeance, Grief. The omen dragons carry as many meanings and interpretations as death itself-for they are death embodied. This dragon is a coalescing of wayward souls, the stench of death solidified, that clings to the last vestiges of this world-to the detriment of their surroundings.
+They have been known by many names: Reaper, Blight, Sorrow, Stillness, Vengeance, Grief. The omen dragons carry as many meanings and interpretations as death itself—for they are death embodied. This dragon is a coalescing of wayward souls, the stench of death solidified, that clings to the last vestiges of this world—to the detriment of their surroundings.
 
 #### Life and Death
 
-The opposite of life isn't death-it's stagnation. When a soul refuses to move on, it lives outside the cycle of life. Souls can have any number of reasons to linger: anger, fear, sadness, a thirst for revenge. One skilled at dealing with the undead might even be able to shepherd such a soul back into its cycle. But when hundreds of souls with hundreds of unique motivations bind themselves to an elemental and form an omen dragon, the only practical way to stop them is to destroy what they've become.
+The opposite of life isn't death—it's stagnation. When a soul refuses to move on, it lives outside the cycle of life. Souls can have any number of reasons to linger: anger, fear, sadness, a thirst for revenge. One skilled at dealing with the undead might even be able to shepherd such a soul back into its cycle. But when hundreds of souls with hundreds of unique motivations bind themselves to an elemental and form an omen dragon, the only practical way to stop them is to destroy what they've become.
 
 As the embodiment of these wayward souls, the omen dragon wields them like weapons. They can send restless souls to grab creatures and pull them in, or to possess their attackers, compelling them to distraction in the middle of a fight. They even wrap themselves in the most durable of souls, creating a stifling aura.
 
 #### Life Outside Life
 
-Just as the omen dragon exists outside the cycle of life, so too does their domain. The omen dragon's dragonseal brings desolation and stagnancy to all living things. Growth does not happen. Living things that grow or creatures who dwell near an omen dragon's domain do not age. One can often find secret societies researching lichdom residing in
-
-such sites, for what better place to study than a stagnant wasteland that grants one infinite time?
+Just as the omen dragon exists outside the cycle of life, so too does their domain. The omen dragon's dragonseal brings desolation and stagnancy to all living things. Growth does not happen. Living things that grow or creatures who dwell near an omen dragon's domain do not age. One can often find secret societies researching lichdom residing in such sites, for what better place to study than a stagnant wasteland that grants one infinite time?
 
 The effects that surround an omen dragon also mean that new life cannot begin. Civilization cannot exist, let alone prosper, without a reliable food source. When living creatures die in these dragons' domains, their bodies do not decompose. Their souls are sucked into the omen dragon, granting the creature ever more power.
 
@@ -742,7 +740,7 @@ An omen dragon speaks with the voices of all the souls they have collected. In a
 |       Dragon, Elemental        |           -           |       Level 8        |          Solo           |         EV 120         |
 | :----------------------------: | :-------------------: | :------------------: | :---------------------: | :--------------------: |
 |        **5**<br/> Size         |   **10**<br/> Speed   | **550**<br/> Stamina |  **6**<br/> Stability   | **9**<br/> Free Strike |
-| **Corruption 6**<br/> Immunity | **Fly**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Corruption 6**<br/> Immunity | **Fly**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |       **+3**<br/> Might        |  **+4**<br/> Agility  |  **+2**<br/> Reason  |  **+3**<br/> Intuition  |  **+5**<br/> Presence  |
 
 <!-- -->
@@ -931,7 +929,7 @@ Meteor dragons are not known for their conversational habits. When they do deign
 |  Dragon, Elemental  |           -           |       Level 10       |          Solo           |         EV 144          |
 | :-----------------: | :-------------------: | :------------------: | :---------------------: | :---------------------: |
 |   **3**<br/> Size   |   **15**<br/> Speed   | **650**<br/> Stamina |  **6**<br/> Stability   | **10**<br/> Free Strike |
-| **-**<br/> Immunity | **Fly**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **Fly**<br/> Movement |          -           | **-**<br/> With Captain |   **-**<br/> Weakness   |
 |  **+5**<br/> Might  |  **+5**<br/> Agility  |  **+3**<br/> Reason  |  **+3**<br/> Intuition  |  **+5**<br/> Presence   |
 
 <!-- -->

@@ -9,7 +9,7 @@ file_dpath: Monsters/Demons/Statblocks
 free_strike: 2
 intuition: 0
 item_id: bendrak
-item_index: '280'
+item_index: '27'
 item_name: Bendrak
 level: 2
 might: 0
@@ -18,24 +18,24 @@ reason: 0
 roles:
   - Horde Hexer
 scc:
-  - mcdm.monsters.v1:monster:bendrak
+  - mcdm.monsters.v1:monster.demons.statblock:bendrak
 scdc:
-  - 1.1.1:2:280
+  - 1.1.1:2.35.1:27
 size: 1L
 source: mcdm.monsters.v1
 speed: 5
 stability: 0
 stamina: '15'
-type: monster
+type: monster/demons/statblock
 ---
 
 ###### Bendrak
 
-|   Abyssal, Demon    |          -          |       Level 2       |       Horde Hexer       |            EV 4            |
-| :-----------------: | :-----------------: | :-----------------: | :---------------------: | :------------------------: |
-|  **1L**<br/> Size   |  **5**<br/> Speed   | **15**<br/> Stamina |  **0**<br/> Stability   |   **2**<br/> Free Strike   |
-| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **Holy 3**<br/> Weaknesses |
-|  **+0**<br/> Might  | **+1**<br/> Agility | **+0**<br/> Reason  |  **+0**<br/> Intuition  |    **+2**<br/> Presence    |
+|   Abyssal, Demon    |          -          |       Level 2       |       Horde Hexer       |           EV 4           |
+| :-----------------: | :-----------------: | :-----------------: | :---------------------: | :----------------------: |
+|  **1L**<br/> Size   |  **5**<br/> Speed   | **15**<br/> Stamina |  **0**<br/> Stability   |  **2**<br/> Free Strike  |
+| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **Holy 3**<br/> Weakness |
+|  **+0**<br/> Might  | **+1**<br/> Agility | **+0**<br/> Reason  |  **+0**<br/> Intuition  |   **+2**<br/> Presence   |
 
 <!-- -->
 > 🏹 **Warp Perceptions (Signature Ability)**

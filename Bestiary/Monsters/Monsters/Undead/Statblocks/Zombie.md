@@ -9,7 +9,7 @@ file_dpath: Monsters/Undead/Statblocks
 free_strike: 2
 intuition: -2
 item_id: zombie
-item_index: '79'
+item_index: '27'
 item_name: Zombie
 level: 1
 might: 2
@@ -18,15 +18,15 @@ reason: -5
 roles:
   - Horde Brute
 scc:
-  - mcdm.monsters.v1:monster:zombie
+  - mcdm.monsters.v1:monster.undead.statblock:zombie
 scdc:
-  - 1.1.1:2:79
+  - 1.1.1:2.8.1:27
 size: 1M
 source: mcdm.monsters.v1
 speed: 5
 stability: 1
 stamina: '20'
-type: monster
+type: monster/undead/statblock
 ---
 
 ###### Zombie
@@ -34,7 +34,7 @@ type: monster
 |             Undead, Soulless             |          -          |       Level 1       |       Horde Brute       |          EV 3          |
 | :--------------------------------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |             **1M**<br/> Size             |  **5**<br/> Speed   | **20**<br/> Stamina |  **1**<br/> Stability   | **2**<br/> Free Strike |
-| **Corruption 1, poison 1**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Corruption 1, poison 1**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |            **+2**<br/> Might             | **+1**<br/> Agility | **-5**<br/> Reason  |  **-2**<br/> Intuition  |  **+1**<br/> Presence  |
 
 <!-- -->
@@ -50,7 +50,7 @@ type: monster
 > - **12-16:** 6 damage
 > - **17+:** 7 damage; grabbed
 >
-> **Effect:** A target who starts their turn grabbed by the zombie takes 2 corruption damage. A creature who takes 5 or more corruption damage this way becomes insatiably hungry for flesh, and must complete the Find a Cure downtime project in Draw Steel: Heroes to end this effect
+> **Effect:** A target who starts their turn grabbed by the zombie takes 2 corruption damage. A creature who takes 5 or more corruption damage this way becomes insatiably hungry for flesh, and must complete the Find a Cure downtime project in Draw Steel: Heroes to end this effect.
 
 <!-- -->
 > ❇️ **Zombie Dust (3 Malice)**
@@ -70,4 +70,4 @@ type: monster
 <!-- -->
 > ⭐️ **Endless Knight**
 >
-> The first time the zombie is reduced to 0 Stamina by damage that isn't fire damage or holy damage and their body isn't destroyed, they instead have 10 Stamina and fall prone
+> The first time the zombie is reduced to 0 Stamina by damage that isn't fire damage or holy damage and their body isn't destroyed, they instead have 10 Stamina and fall prone.

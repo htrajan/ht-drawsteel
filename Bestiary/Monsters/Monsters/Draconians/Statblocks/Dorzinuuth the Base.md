@@ -10,7 +10,7 @@ file_dpath: Monsters/Draconians/Statblocks
 free_strike: 7
 intuition: 2
 item_id: dorzinuuth-the-base
-item_index: '101'
+item_index: '01'
 item_name: Dorzinuuth the Base
 level: 6
 might: 4
@@ -19,15 +19,15 @@ reason: 1
 roles:
   - Leader
 scc:
-  - mcdm.monsters.v1:monster:dorzinuuth-the-base
+  - mcdm.monsters.v1:monster.draconians.statblock:dorzinuuth-the-base
 scdc:
-  - 1.1.1:2:101
+  - 1.1.1:2.11.1:01
 size: '2'
 source: mcdm.monsters.v1
 speed: 5
 stability: 3
 stamina: '180'
-type: monster
+type: monster/draconians/statblock
 ---
 
 ###### Dorzinuuth the Base
@@ -35,7 +35,7 @@ type: monster
 |  Draconian, Dragon, Humanoid  |              -               |       Level 6        |         Leader          |         EV 32          |
 | :---------------------------: | :--------------------------: | :------------------: | :---------------------: | :--------------------: |
 |        **2**<br/> Size        |       **5**<br/> Speed       | **180**<br/> Stamina |  **3**<br/> Stability   | **7**<br/> Free Strike |
-| **Lightning 6**<br/> Immunity | **Fly, hover**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Lightning 6**<br/> Immunity | **Fly, hover**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |       **+4**<br/> Might       |     **+1**<br/> Agility      |  **+1**<br/> Reason  |  **+2**<br/> Intuition  |  **+3**<br/> Presence  |
 
 <!-- -->

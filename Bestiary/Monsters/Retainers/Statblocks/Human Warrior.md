@@ -28,7 +28,7 @@ stamina: '21'
 |   Human, Humanoid   |          -          |       Level 1       |    Defender Retainer    |          EV -          |
 | :-----------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |  **1M**<br/> Size   |  **5**<br/> Speed   | **21**<br/> Stamina |  **0**<br/> Stability   | **2**<br/> Free Strike |
-| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |  **+2**<br/> Might  | **0**<br/> Agility  |  **0**<br/> Reason  |  **0**<br/> Intuition   |  **+1**<br/> Presence  |
 
 <!-- -->
@@ -49,7 +49,7 @@ stamina: '21'
 <!-- -->
 > ⭐️ **Supernatural Insight**
 >
-> The warrior ignores concealment if it's granted by a supernatural effect
+> The warrior ignores concealment if it's granted by a supernatural effect.
 
 ###### Level 4 Retainer Advancement Ability
 
@@ -88,7 +88,7 @@ stamina: '21'
 >
 > | **Area, Charge, Weapon** |               **Main action** |
 > | ------------------------ | ----------------------------: |
-> | **📏 Burst 1**           | **🎯 Each enemy in the area** |
+> | **📏 1 burst**           | **🎯 Each enemy in the area** |
 >
 > **Power Roll + highest characteristic:**
 >

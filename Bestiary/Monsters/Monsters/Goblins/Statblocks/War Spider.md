@@ -9,7 +9,7 @@ file_dpath: Monsters/Goblins/Statblocks
 free_strike: 4
 intuition: 0
 item_id: war-spider
-item_index: '314'
+item_index: '11'
 item_name: War Spider
 level: 1
 might: 2
@@ -18,15 +18,15 @@ reason: -4
 roles:
   - Elite Mount
 scc:
-  - mcdm.monsters.v1:monster:war-spider
+  - mcdm.monsters.v1:monster.goblins.statblock:war-spider
 scdc:
-  - 1.1.1:2:314
+  - 1.1.1:2.40.1:11
 size: '3'
 source: mcdm.monsters.v1
 speed: 7
 stability: 2
 stamina: '60'
-type: monster
+type: monster/goblins/statblock
 ---
 
 ###### War Spider
@@ -34,7 +34,7 @@ type: monster
 |   Animal, Goblin    |            -            |       Level 1       |       Elite Mount       |         EV 12          |
 | :-----------------: | :---------------------: | :-----------------: | :---------------------: | :--------------------: |
 |   **3**<br/> Size   |    **7**<br/> Speed     | **60**<br/> Stamina |  **2**<br/> Stability   | **4**<br/> Free Strike |
-| **-**<br/> Immunity | **Climb**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **Climb**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |  **+2**<br/> Might  |   **+1**<br/> Agility   | **-4**<br/> Reason  |  **0**<br/> Intuition   |  **-3**<br/> Presence  |
 
 <!-- -->
@@ -98,7 +98,7 @@ type: monster
 >
 > **Trigger:** The spider or any ally riding the spider takes damage.
 >
-> **Effect:** The damage is halved, and the spider shifts up to 2 squares after the triggering effect resolve
+> **Effect:** The damage is halved, and the spider shifts up to 2 squares after the triggering effect resolves.
 
 <!-- -->
 > ⭐️ **Ride Launcher**
@@ -108,4 +108,4 @@ type: monster
 <!-- -->
 > ⭐️ **Wide Back**
 >
-> While riding the spider, two size 1 allies can occupy the same space
+> While riding the spider, two size 1 allies can occupy the same space.

@@ -10,7 +10,7 @@ file_dpath: Monsters/Demons/Statblocks
 free_strike: 4
 intuition: 2
 item_id: soulraker-handmaiden
-item_index: '270'
+item_index: '17'
 item_name: Soulraker Handmaiden
 level: 8
 might: 3
@@ -19,24 +19,24 @@ reason: 2
 roles:
   - Horde Ambusher
 scc:
-  - mcdm.monsters.v1:monster:soulraker-handmaiden
+  - mcdm.monsters.v1:monster.demons.statblock:soulraker-handmaiden
 scdc:
-  - 1.1.1:2:270
+  - 1.1.1:2.35.1:17
 size: 1M
 source: mcdm.monsters.v1
 speed: 0
 stability: 0
 stamina: '50'
-type: monster
+type: monster/demons/statblock
 ---
 
 ###### Soulraker Handmaiden
 
-| Abyssal, Demon, Soulraker |          -          |       Level 8       |     Horde Ambusher      |           EV 10            |
-| :-----------------------: | :-----------------: | :-----------------: | :---------------------: | :------------------------: |
-|     **1M**<br/> Size      |  **0**<br/> Speed   | **50**<br/> Stamina |  **0**<br/> Stability   |   **4**<br/> Free Strike   |
-|    **-**<br/> Immunity    | **-**<br/> Movement |          -          | **-**<br/> With Captain | **Holy 5**<br/> Weaknesses |
-|     **+3**<br/> Might     | **+0**<br/> Agility | **+2**<br/> Reason  |  **+2**<br/> Intuition  |    **+4**<br/> Presence    |
+| Abyssal, Demon, Soulraker |          -          |       Level 8       |     Horde Ambusher      |          EV 10           |
+| :-----------------------: | :-----------------: | :-----------------: | :---------------------: | :----------------------: |
+|     **1M**<br/> Size      |  **0**<br/> Speed   | **50**<br/> Stamina |  **0**<br/> Stability   |  **4**<br/> Free Strike  |
+|    **-**<br/> Immunity    | **-**<br/> Movement |          -          | **-**<br/> With Captain | **Holy 5**<br/> Weakness |
+|     **+3**<br/> Might     | **+0**<br/> Agility | **+2**<br/> Reason  |  **+2**<br/> Intuition  |   **+4**<br/> Presence   |
 
 <!-- -->
 > ⭐️ **Implanted Parasite**

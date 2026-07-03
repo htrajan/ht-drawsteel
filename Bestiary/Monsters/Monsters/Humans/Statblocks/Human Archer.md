@@ -9,7 +9,7 @@ file_dpath: Monsters/Humans/Statblocks
 free_strike: 2
 intuition: 0
 item_id: human-archer
-item_index: '169'
+item_index: '13'
 item_name: Human Archer
 level: 1
 might: 0
@@ -18,15 +18,15 @@ reason: 0
 roles:
   - Minion Artillery
 scc:
-  - mcdm.monsters.v1:monster:human-archer
+  - mcdm.monsters.v1:monster.humans.statblock:human-archer
 scdc:
-  - 1.1.1:2:169
+  - 1.1.1:2.20.1:13
 size: 1M
 source: mcdm.monsters.v1
 speed: 5
 stability: 0
 stamina: '3'
-type: monster
+type: monster/humans/statblock
 ---
 
 ###### Human Archer
@@ -34,7 +34,7 @@ type: monster
 |              Human, Humanoid              |          -          |      Level 1       |                 Minion Artillery                  | EV 3 for four minions  |
 | :---------------------------------------: | :-----------------: | :----------------: | :-----------------------------------------------: | :--------------------: |
 |             **1M**<br/> Size              |  **5**<br/> Speed   | **3**<br/> Stamina |               **0**<br/> Stability                | **2**<br/> Free Strike |
-| **Corruption 1, psychic 1**<br/> Immunity | **-**<br/> Movement |         -          | **+5 bonus to ranged distance**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Corruption 1, psychic 1**<br/> Immunity | **-**<br/> Movement |         -          | **+5 bonus to ranged distance**<br/> With Captain |  **-**<br/> Weakness   |
 |             **0**<br/> Might              | **+2**<br/> Agility | **0**<br/> Reason  |               **0**<br/> Intuition                |  **0**<br/> Presence   |
 
 <!-- -->

@@ -9,7 +9,7 @@ file_dpath: Monsters/Ogres/Statblocks
 free_strike: 4
 intuition: 0
 item_id: ogre-blue-blood
-item_index: '04'
+item_index: '03'
 item_name: Ogre Blue Blood
 level: 7
 might: 4
@@ -18,15 +18,15 @@ reason: -1
 roles:
   - Minion Brute
 scc:
-  - mcdm.monsters.v1:monster:ogre-blue-blood
+  - mcdm.monsters.v1:monster.ogres.statblock:ogre-blue-blood
 scdc:
-  - 1.1.1:2:04
+  - 1.1.1:2.4.1:03
 size: '2'
 source: mcdm.monsters.v1
 speed: 5
 stability: 4
 stamina: '13'
-type: monster
+type: monster/ogres/statblock
 ---
 
 ###### Ogre Blue Blood
@@ -34,7 +34,7 @@ type: monster
 |     Giant, Ogre     |          -          |       Level 7       |                 Minion Brute                  | EV 9 for four minions  |
 | :-----------------: | :-----------------: | :-----------------: | :-------------------------------------------: | :--------------------: |
 |   **2**<br/> Size   |  **5**<br/> Speed   | **13**<br/> Stamina |             **4**<br/> Stability              | **4**<br/> Free Strike |
-| **-**<br/> Immunity | **-**<br/> Movement |          -          | **Gain an edge on strikes**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **-**<br/> Movement |          -          | **Gain an edge on strikes**<br/> With Captain |  **-**<br/> Weakness   |
 |  **+4**<br/> Might  | **+1**<br/> Agility | **-1**<br/> Reason  |             **0**<br/> Intuition              |  **+2**<br/> Presence  |
 
 <!-- -->

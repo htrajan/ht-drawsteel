@@ -9,7 +9,7 @@ file_dpath: Monsters/Dragons/Statblocks
 free_strike: 5
 intuition: 1
 item_id: thorn-dragon
-item_index: '347'
+item_index: '05'
 item_name: Thorn Dragon
 level: 2
 might: 2
@@ -18,15 +18,15 @@ reason: -1
 roles:
   - Solo
 scc:
-  - mcdm.monsters.v1:monster:thorn-dragon
+  - mcdm.monsters.v1:monster.dragons.statblock:thorn-dragon
 scdc:
-  - 1.1.1:2:347
+  - 1.1.1:2.47.1:05
 size: '3'
 source: mcdm.monsters.v1
 speed: 8
 stability: 6
 stamina: '250'
-type: monster
+type: monster/dragons/statblock
 ---
 
 ###### Thorn Dragon
@@ -34,7 +34,7 @@ type: monster
 |     Dragon, Elemental      |           -           |       Level 2        |          Solo           |         EV 48          |
 | :------------------------: | :-------------------: | :------------------: | :---------------------: | :--------------------: |
 |      **3**<br/> Size       |   **8**<br/> Speed    | **250**<br/> Stamina |  **6**<br/> Stability   | **5**<br/> Free Strike |
-| **Poison 5**<br/> Immunity | **Fly**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Poison 5**<br/> Immunity | **Fly**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |     **+2**<br/> Might      |  **+3**<br/> Agility  |  **-1**<br/> Reason  |  **+1**<br/> Intuition  |  **+2**<br/> Presence  |
 
 <!-- -->

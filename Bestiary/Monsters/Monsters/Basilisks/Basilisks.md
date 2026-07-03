@@ -14,7 +14,7 @@ type: monster/section
 
 ## Basilisks
 
-With eight legs, a scaled rough hide, and razor-sharp teeth coated in poison, the basilisk is a deadly threat-even aside from their petrifying eye beams. This dreadful creature can fell the mightiest of foes with a look, turning them into an immobilized stone statue who remains thankfully unaware when the basilisk later consumes their petrified form at their leisure.
+With eight legs, a scaled rough hide, and razor-sharp teeth coated in poison, the basilisk is a deadly threat—even aside from their petrifying eye beams. This dreadful creature can fell the mightiest of foes with a look, turning them into an immobilized stone statue who remains thankfully unaware when the basilisk later consumes their petrified form at their leisure.
 
 ### Raising Young
 
@@ -73,7 +73,7 @@ At the start of any basilisk's turn, you can spend Malice to activate one of the
 |      Basilisk, Beast       |          -          |       Level 1       |       Elite Brute       |         EV 12          |
 | :------------------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |      **2**<br/> Size       |  **8**<br/> Speed   | **80**<br/> Stamina |  **2**<br/> Stability   | **5**<br/> Free Strike |
-| **Poison 4**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Poison 4**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |     **+2**<br/> Might      | **+0**<br/> Agility | **-3**<br/> Reason  |  **-1**<br/> Intuition  |  **-1**<br/> Presence  |
 
 <!-- -->
@@ -96,7 +96,7 @@ At the start of any basilisk's turn, you can spend Malice to activate one of the
 >
 > | **Area, Magic**            |   **Maneuver** |
 > | -------------------------- | -------------: |
-> | **📏 5 × 2 line within 1** | **🎯 Special** |
+> | **📏 5 x 2 line within 1** | **🎯 Special** |
 >
 > **Special:** The area extends from both the basilisk's eyes, and this ability targets the first creature without cover on either side of the area.
 >
@@ -142,7 +142,7 @@ At the start of any basilisk's turn, you can spend Malice to activate one of the
 |          Basilisk, Beast           |          -          |       Level 1       |       Elite Hexer       |         EV 12          |
 | :--------------------------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |          **2**<br/> Size           |  **8**<br/> Speed   | **40**<br/> Stamina |  **2**<br/> Stability   | **4**<br/> Free Strike |
-| **Acid 2, Poison 2**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Acid 2, Poison 2**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |         **+1**<br/> Might          | **+2**<br/> Agility | **-3**<br/> Reason  |  **-1**<br/> Intuition  |  **-1**<br/> Presence  |
 
 <!-- -->
@@ -185,6 +185,8 @@ At the start of any basilisk's turn, you can spend Malice to activate one of the
 > | **Magic, Melee, Ranged, Strike** |     **Main action** |
 > | -------------------------------- | ------------------: |
 > | **📏 Melee 1 or ranged 10**      | **🎯 One creature** |
+>
+> **Power Roll + 2:**
 >
 > - **≤11:** 8 corruption damage; R < 0 dazed (save ends)
 > - **12-16:** 10 corruption damage; R < 1 dazed (save ends)

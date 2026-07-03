@@ -9,7 +9,7 @@ file_dpath: Monsters/Orcs/Statblocks
 free_strike: 4
 intuition: 2
 item_id: orc-rampart
-item_index: '134'
+item_index: '12'
 item_name: Orc Rampart
 level: 2
 might: 2
@@ -18,15 +18,15 @@ reason: 2
 roles:
   - Platoon Defender
 scc:
-  - mcdm.monsters.v1:monster:orc-rampart
+  - mcdm.monsters.v1:monster.orcs.statblock:orc-rampart
 scdc:
-  - 1.1.1:2:134
+  - 1.1.1:2.16.1:12
 size: 1L
 source: mcdm.monsters.v1
 speed: 6
 stability: 2
 stamina: '59'
-type: monster
+type: monster/orcs/statblock
 ---
 
 ###### Orc Rampart
@@ -34,7 +34,7 @@ type: monster
 |    Humanoid, Orc    |          -          |       Level 2       |    Platoon Defender     |          EV 8          |
 | :-----------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |  **1L**<br/> Size   |  **6**<br/> Speed   | **59**<br/> Stamina |  **2**<br/> Stability   | **4**<br/> Free Strike |
-| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |  **+2**<br/> Might  | **+2**<br/> Agility | **+2**<br/> Reason  |  **+2**<br/> Intuition  |  **+2**<br/> Presence  |
 
 <!-- -->

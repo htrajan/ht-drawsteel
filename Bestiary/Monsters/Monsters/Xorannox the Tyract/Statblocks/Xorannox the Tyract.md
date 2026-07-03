@@ -9,7 +9,7 @@ file_dpath: Monsters/Xorannox the Tyract/Statblocks
 free_strike: 7
 intuition: 3
 item_id: xorannox-the-tyract
-item_index: '319'
+item_index: '04'
 item_name: Xorannox the Tyract
 level: 6
 might: 4
@@ -18,15 +18,15 @@ reason: 4
 roles:
   - Solo
 scc:
-  - mcdm.monsters.v1:monster:xorannox-the-tyract
+  - mcdm.monsters.v1:monster.xorannox the tyract.statblock:xorannox-the-tyract
 scdc:
-  - 1.1.1:2:319
+  - 1.1.1:2.41.1:04
 size: '3'
 source: mcdm.monsters.v1
 speed: 5
 stability: 2
 stamina: '450'
-type: monster
+type: monster/xorannox the tyract/statblock
 ---
 
 ###### Xorannox the Tyract
@@ -34,7 +34,7 @@ type: monster
 |  Horror, Overmind   |              -               |       Level 6        |          Solo           |         EV 96          |
 | :-----------------: | :--------------------------: | :------------------: | :---------------------: | :--------------------: |
 |   **3**<br/> Size   |       **5**<br/> Speed       | **450**<br/> Stamina |  **2**<br/> Stability   | **7**<br/> Free Strike |
-| **-**<br/> Immunity | **Fly, hover**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **Fly, hover**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |  **+4**<br/> Might  |     **+2**<br/> Agility      |  **+4**<br/> Reason  |  **+3**<br/> Intuition  |  **+3**<br/> Presence  |
 
 <!-- -->
@@ -52,9 +52,9 @@ type: monster
 <!-- -->
 > 🗡 **Toothful Thrashing (Signature Ability)**
 >
-> | **Melee, Strike, Weapon** |                **Main action** |
-> | ------------------------- | -----------------------------: |
-> | **📏 Melee 1**            | **🎯 One creatures or object** |
+> | **Melee, Strike, Weapon** |               **Main action** |
+> | ------------------------- | ----------------------------: |
+> | **📏 Melee 1**            | **🎯 One creature or object** |
 >
 > **Power Roll + 4:**
 >
@@ -109,7 +109,7 @@ type: monster
 <!-- -->
 > ⭐️ **Above It All**
 >
-> Xorannox can't be made frightened or knocked prone, and he can't be flanked
+> Xorannox can't be made frightened or knocked prone, and he can't be flanked.
 
 <!-- -->
 > ⭐️ **Natural Enemies**

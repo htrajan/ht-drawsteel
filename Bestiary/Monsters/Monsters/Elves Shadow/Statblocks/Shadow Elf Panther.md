@@ -10,7 +10,7 @@ file_dpath: Monsters/Elves Shadow/Statblocks
 free_strike: 6
 intuition: 1
 item_id: shadow-elf-panther
-item_index: '217'
+item_index: 09
 item_name: Shadow Elf Panther
 level: 4
 might: 3
@@ -19,15 +19,15 @@ reason: -1
 roles:
   - Platoon Brute
 scc:
-  - mcdm.monsters.v1:monster:shadow-elf-panther
+  - mcdm.monsters.v1:monster.elves-shadow.statblock:shadow-elf-panther
 scdc:
-  - 1.1.1:2:217
+  - 1.1.1:2.27.1:09
 size: 1M
 source: mcdm.monsters.v1
 speed: 5
 stability: 0
 stamina: '70'
-type: monster
+type: monster/elves-shadow/statblock
 ---
 
 ###### Shadow Elf Panther
@@ -35,7 +35,7 @@ type: monster
 | Fey, Humanoid, Shadow Elf |            -            |       Level 4       |      Platoon Brute      |         EV 12          |
 | :-----------------------: | :---------------------: | :-----------------: | :---------------------: | :--------------------: |
 |     **1M**<br/> Size      |    **5**<br/> Speed     | **70**<br/> Stamina |  **0**<br/> Stability   | **6**<br/> Free Strike |
-|    **-**<br/> Immunity    | **Climb**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+|    **-**<br/> Immunity    | **Climb**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |     **+3**<br/> Might     |   **+2**<br/> Agility   | **-1**<br/> Reason  |  **+1**<br/> Intuition  |  **+1**<br/> Presence  |
 
 <!-- -->

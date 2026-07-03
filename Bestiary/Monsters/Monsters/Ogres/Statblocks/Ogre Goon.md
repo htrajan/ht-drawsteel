@@ -9,7 +9,7 @@ file_dpath: Monsters/Ogres/Statblocks
 free_strike: 5
 intuition: 0
 item_id: ogre-goon
-item_index: '02'
+item_index: '01'
 item_name: Ogre Goon
 level: 2
 might: 2
@@ -18,15 +18,15 @@ reason: -1
 roles:
   - Elite Brute
 scc:
-  - mcdm.monsters.v1:monster:ogre-goon
+  - mcdm.monsters.v1:monster.ogres.statblock:ogre-goon
 scdc:
-  - 1.1.1:2:02
+  - 1.1.1:2.4.1:01
 size: '2'
 source: mcdm.monsters.v1
 speed: 5
 stability: 4
 stamina: '100'
-type: monster
+type: monster/ogres/statblock
 ---
 
 ###### Ogre Goon
@@ -34,7 +34,7 @@ type: monster
 |     Giant, Ogre     |          -          |       Level 2        |       Elite Brute       |         EV 16          |
 | :-----------------: | :-----------------: | :------------------: | :---------------------: | :--------------------: |
 |   **2**<br/> Size   |  **5**<br/> Speed   | **100**<br/> Stamina |  **4**<br/> Stability   | **5**<br/> Free Strike |
-| **-**<br/> Immunity | **-**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **-**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |  **+2**<br/> Might  | **0**<br/> Agility  |  **-1**<br/> Reason  |  **0**<br/> Intuition   |  **-1**<br/> Presence  |
 
 <!-- -->
@@ -91,7 +91,7 @@ type: monster
 >
 > **Trigger:** A creature or object within distance moves or shifts away from the goon.
 >
-> **Effect:** The goon slides the target up to 5 squares
+> **Effect:** The goon slides the target up to 5 squares.
 
 <!-- -->
 > ⭐️ **Defiant Anger**

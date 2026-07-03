@@ -9,7 +9,7 @@ file_dpath: Monsters/Angulotls/Statblocks
 free_strike: 2
 intuition: 1
 item_id: angulotl-cleaver
-item_index: '240'
+item_index: '03'
 item_name: Angulotl Cleaver
 level: 1
 might: 0
@@ -18,15 +18,15 @@ reason: 0
 roles:
   - Minion Ambusher
 scc:
-  - mcdm.monsters.v1:monster:angulotl-cleaver
+  - mcdm.monsters.v1:monster.angulotls.statblock:angulotl-cleaver
 scdc:
-  - 1.1.1:2:240
+  - 1.1.1:2.31.1:03
 size: 1S
 source: mcdm.monsters.v1
 speed: 6
 stability: 0
 stamina: '4'
-type: monster
+type: monster/angulotls/statblock
 ---
 
 ###### Angulotl Cleaver
@@ -34,7 +34,7 @@ type: monster
 |     Angulotl, Humanoid     |               -               |      Level 1       |                 Minion Ambusher                  |   EV 3 for 4 minions   |
 | :------------------------: | :---------------------------: | :----------------: | :----------------------------------------------: | :--------------------: |
 |      **1S**<br/> Size      |       **6**<br/> Speed        | **4**<br/> Stamina |               **0**<br/> Stability               | **2**<br/> Free Strike |
-| **Poison 2**<br/> Immunity | **Climb, swim**<br/> Movement |         -          | **+1 damage bonus to strikes**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Poison 2**<br/> Immunity | **Climb, swim**<br/> Movement |         -          | **+1 damage bonus to strikes**<br/> With Captain |  **-**<br/> Weakness   |
 |      **0**<br/> Might      |      **+2**<br/> Agility      | **+0**<br/> Reason |              **+1**<br/> Intuition               |  **+0**<br/> Presence  |
 
 <!-- -->

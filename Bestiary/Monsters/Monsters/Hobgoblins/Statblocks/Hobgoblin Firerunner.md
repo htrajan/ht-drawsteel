@@ -11,7 +11,7 @@ file_dpath: Monsters/Hobgoblins/Statblocks
 free_strike: 6
 intuition: 1
 item_id: hobgoblin-firerunner
-item_index: '191'
+item_index: '15'
 item_name: Hobgoblin Firerunner
 level: 5
 might: 2
@@ -20,15 +20,15 @@ reason: 1
 roles:
   - Platoon Harrier
 scc:
-  - mcdm.monsters.v1:monster:hobgoblin-firerunner
+  - mcdm.monsters.v1:monster.hobgoblins.statblock:hobgoblin-firerunner
 scdc:
-  - 1.1.1:2:191
+  - 1.1.1:2.22.1:15
 size: 1M
 source: mcdm.monsters.v1
 speed: 8
 stability: 0
 stamina: '70'
-type: monster
+type: monster/hobgoblins/statblock
 ---
 
 ###### Hobgoblin Firerunner
@@ -36,7 +36,7 @@ type: monster
 | Goblin, Hobgoblin, Humanoid, Infernal |          -          |       Level 5       |     Platoon Harrier     |         EV 14          |
 | :-----------------------------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |           **1M**<br/> Size            |  **8**<br/> Speed   | **70**<br/> Stamina |  **0**<br/> Stability   | **6**<br/> Free Strike |
-|       **Fire 5**<br/> Immunity        | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+|       **Fire 5**<br/> Immunity        | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |           **+2**<br/> Might           | **+3**<br/> Agility | **+1**<br/> Reason  |  **+1**<br/> Intuition  |  **0**<br/> Presence   |
 
 <!-- -->

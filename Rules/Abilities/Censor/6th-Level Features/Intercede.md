@@ -7,7 +7,7 @@ cost_resource: Wrath
 distance: Ranged 10
 feature_type: ability
 file_basename: Intercede
-file_dpath: Censor/6th-Level Features
+file_dpath: Abilities/Censor/6th-Level Features
 flavor: You take your ally's place.
 item_id: intercede-9-wrath
 item_index: '02'
@@ -19,8 +19,9 @@ level: 6
 scc:
   - mcdm.heroes.v1:feature.ability.censor.6th-level-feature:intercede-9-wrath
 scdc:
-  - 1.1.1:13.2.7.3:02
+  - 1.1.1:11.2.7.3:02
 source: mcdm.heroes.v1
+subclass: Paragon
 target: One ally
 type: feature/ability/censor/6th-level-feature
 ---

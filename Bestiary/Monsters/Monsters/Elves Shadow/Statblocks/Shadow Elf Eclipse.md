@@ -10,7 +10,7 @@ file_dpath: Monsters/Elves Shadow/Statblocks
 free_strike: 7
 intuition: 1
 item_id: shadow-elf-eclipse
-item_index: '219'
+item_index: '11'
 item_name: Shadow Elf Eclipse
 level: 6
 might: 4
@@ -19,15 +19,15 @@ reason: 2
 roles:
   - Leader
 scc:
-  - mcdm.monsters.v1:monster:shadow-elf-eclipse
+  - mcdm.monsters.v1:monster.elves-shadow.statblock:shadow-elf-eclipse
 scdc:
-  - 1.1.1:2:219
+  - 1.1.1:2.27.1:11
 size: 1M
 source: mcdm.monsters.v1
 speed: 6
 stability: 1
 stamina: '180'
-type: monster
+type: monster/elves-shadow/statblock
 ---
 
 ###### Shadow Elf Eclipse
@@ -35,7 +35,7 @@ type: monster
 | Fey, Humanoid, Shadow Elf |            -            |       Level 6        |         Leader          |         EV 32          |
 | :-----------------------: | :---------------------: | :------------------: | :---------------------: | :--------------------: |
 |     **1M**<br/> Size      |    **6**<br/> Speed     | **180**<br/> Stamina |  **1**<br/> Stability   | **7**<br/> Free Strike |
-|    **-**<br/> Immunity    | **Climb**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+|    **-**<br/> Immunity    | **Climb**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |     **+4**<br/> Might     |   **+3**<br/> Agility   |  **+2**<br/> Reason  |  **+1**<br/> Intuition  |  **+2**<br/> Presence  |
 
 <!-- -->

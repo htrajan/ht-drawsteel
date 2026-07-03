@@ -10,7 +10,7 @@ file_dpath: Monsters/Minotaurs/Statblocks
 free_strike: 5
 intuition: 1
 item_id: minotaur
-item_index: '173'
+item_index: '02'
 item_name: Minotaur
 level: 3
 might: 2
@@ -19,15 +19,15 @@ reason: 0
 roles:
   - Elite Harrier
 scc:
-  - mcdm.monsters.v1:monster:minotaur
+  - mcdm.monsters.v1:monster.minotaurs.statblock:minotaur
 scdc:
-  - 1.1.1:2:173
+  - 1.1.1:2.21.1:02
 size: '2'
 source: mcdm.monsters.v1
 speed: 8
 stability: 2
 stamina: '100'
-type: monster
+type: monster/minotaurs/statblock
 ---
 
 ###### Minotaur
@@ -35,7 +35,7 @@ type: monster
 | Accursed, Humanoid, Minotaur |          -          |       Level 3        |      Elite Harrier      |         EV 20          |
 | :--------------------------: | :-----------------: | :------------------: | :---------------------: | :--------------------: |
 |       **2**<br/> Size        |  **8**<br/> Speed   | **100**<br/> Stamina |  **2**<br/> Stability   | **5**<br/> Free Strike |
-|     **-**<br/> Immunity      | **-**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+|     **-**<br/> Immunity      | **-**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |      **+2**<br/> Might       | **+2**<br/> Agility |  **0**<br/> Reason   |  **+1**<br/> Intuition  |  **-1**<br/> Presence  |
 
 <!-- -->
@@ -51,7 +51,7 @@ type: monster
 > - **12-16:** 11 damage; push 2
 > - **17+:** 14 damage; push 3
 >
-> **Effect:** The minotaur shifts up to 3 squares
+> **Effect:** The minotaur shifts up to 3 squares.
 
 <!-- -->
 > 👤 **Primal Bay (3 Malice)**
@@ -86,7 +86,7 @@ type: monster
 >
 > **Trigger:** A creature within distance deals damage to the minotaur.
 >
-> **Effect:** The minotaur uses theCharge main action and either Flail and Blade or Goring Horns against the target.
+> **Effect:** The minotaur uses the Charge main action and either Flail and Blade or Goring Horns against the target.
 
 <!-- -->
 > ⭐️ **Minotaur Sense**

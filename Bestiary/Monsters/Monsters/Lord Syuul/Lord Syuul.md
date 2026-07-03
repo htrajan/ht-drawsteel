@@ -93,7 +93,7 @@ At the start of Lord Syuul's turn, you can spend Malice to activate one of the f
 |   Horror, Voiceless Talker   |                 -                 |       Level 6        |          Solo           |         EV 96          |
 | :--------------------------: | :-------------------------------: | :------------------: | :---------------------: | :--------------------: |
 |       **1M**<br/> Size       |         **7**<br/> Speed          | **450**<br/> Stamina |  **3**<br/> Stability   | **7**<br/> Free Strike |
-| **Psychic 10**<br/> Immunity | **Hover, teleport**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Psychic 10**<br/> Immunity | **Hover, teleport**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |      **+1**<br/> Might       |        **+3**<br/> Agility        |  **+4**<br/> Reason  |  **+4**<br/> Intuition  |  **+3**<br/> Presence  |
 
 <!-- -->
@@ -155,7 +155,7 @@ At the start of Lord Syuul's turn, you can spend Malice to activate one of the f
 > | ----------- | -----------: |
 > | **📏 Self** |  **🎯 Self** |
 >
-> Lord Syuul can teleport up to 5 squares along with each creature and object he has grabbed. He can release grabbed creatures and objects before or after teleporting
+> Lord Syuul can teleport up to 5 squares along with each creature and object he has grabbed. He can release grabbed creatures and objects before or after teleporting.
 
 <!-- -->
 > ❗️ **Adaptability**
@@ -182,7 +182,7 @@ At the start of Lord Syuul's turn, you can spend Malice to activate one of the f
 >
 > **Effect:** Each target makes an **Intuition test**.
 >
-> - **≤11:** 16 psychic damage; the target has no line of effect to any creture except Lord Syuul, and takes a bane on strikes targeting Lord Syuul (save ends)
+> - **≤11:** 16 psychic damage; the target has no line of effect to any creature except Lord Syuul, and takes a bane on strikes targeting Lord Syuul (save ends)
 > - **12-16:** 13 psychic damage; the target has no line of effect to any creature except Lord Syuul (save ends)
 > - **17+:** 7 psychic damage
 

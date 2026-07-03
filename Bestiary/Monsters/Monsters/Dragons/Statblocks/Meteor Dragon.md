@@ -9,7 +9,7 @@ file_dpath: Monsters/Dragons/Statblocks
 free_strike: 10
 intuition: 3
 item_id: meteor-dragon
-item_index: '346'
+item_index: '04'
 item_name: Meteor Dragon
 level: 10
 might: 5
@@ -18,15 +18,15 @@ reason: 3
 roles:
   - Solo
 scc:
-  - mcdm.monsters.v1:monster:meteor-dragon
+  - mcdm.monsters.v1:monster.dragons.statblock:meteor-dragon
 scdc:
-  - 1.1.1:2:346
+  - 1.1.1:2.47.1:04
 size: '3'
 source: mcdm.monsters.v1
 speed: 15
 stability: 6
 stamina: '650'
-type: monster
+type: monster/dragons/statblock
 ---
 
 ###### Meteor Dragon
@@ -34,7 +34,7 @@ type: monster
 |  Dragon, Elemental  |           -           |       Level 10       |          Solo           |         EV 144          |
 | :-----------------: | :-------------------: | :------------------: | :---------------------: | :---------------------: |
 |   **3**<br/> Size   |   **15**<br/> Speed   | **650**<br/> Stamina |  **6**<br/> Stability   | **10**<br/> Free Strike |
-| **-**<br/> Immunity | **Fly**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **Fly**<br/> Movement |          -           | **-**<br/> With Captain |   **-**<br/> Weakness   |
 |  **+5**<br/> Might  |  **+5**<br/> Agility  |  **+3**<br/> Reason  |  **+3**<br/> Intuition  |  **+5**<br/> Presence   |
 
 <!-- -->

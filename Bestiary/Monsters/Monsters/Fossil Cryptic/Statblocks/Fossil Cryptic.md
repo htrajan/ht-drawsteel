@@ -8,7 +8,7 @@ file_dpath: Monsters/Fossil Cryptic/Statblocks
 free_strike: 5
 intuition: 1
 item_id: fossil-cryptic
-item_index: '415'
+item_index: '01'
 item_name: Fossil Cryptic
 level: 2
 might: 3
@@ -17,15 +17,15 @@ reason: 1
 roles:
   - Solo
 scc:
-  - mcdm.monsters.v1:monster:fossil-cryptic
+  - mcdm.monsters.v1:monster.fossil-cryptic.statblock:fossil-cryptic
 scdc:
-  - 1.1.1:2:415
+  - 1.1.1:2.54.1:01
 size: 1L
 source: mcdm.monsters.v1
 speed: 8
 stability: 3
 stamina: '250'
-type: monster
+type: monster/fossil-cryptic/statblock
 ---
 
 ###### Fossil Cryptic
@@ -33,7 +33,7 @@ type: monster
 |      Elemental      |            -             |       Level 2        |          Solo           |         EV 48          |
 | :-----------------: | :----------------------: | :------------------: | :---------------------: | :--------------------: |
 |  **1L**<br/> Size   |     **8**<br/> Speed     | **250**<br/> Stamina |  **3**<br/> Stability   | **5**<br/> Free Strike |
-| **-**<br/> Immunity | **Burrow**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **Burrow**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |  **+3**<br/> Might  |   **+2**<br/> Agility    |  **+1**<br/> Reason  |  **+1**<br/> Intuition  |  **0**<br/> Presence   |
 
 <!-- -->
@@ -46,7 +46,7 @@ type: monster
 <!-- -->
 > ⭐️ **Churning Trunk**
 >
-> The cryptic is constantly surrounded by a 1 aura of swirling debris that obscures their form. Ranged abilities that target the cryptic take a bane. Additionally, any enemy who enters the aura for the first time in a round or starts their turn there takes 5 damage
+> The cryptic is constantly surrounded by a 1 aura of swirling debris that obscures their form. Ranged abilities that target the cryptic take a bane. Additionally, any enemy who enters the aura for the first time in a round or starts their turn there takes 5 damage.
 
 <!-- -->
 > ⭐️ **Seismic Step**
@@ -103,7 +103,7 @@ type: monster
 >
 > **Trigger:** The cryptic takes damage.
 >
-> **Effect:** The cryptic halves the damage, ignores any nondamaging effects associated with it, and shifts up to 3 squares
+> **Effect:** The cryptic halves the damage, ignores any nondamaging effects associated with it, and shifts up to 3 squares.
 
 <!-- -->
 > ❗️ **Shatterstone (5 Malice)**

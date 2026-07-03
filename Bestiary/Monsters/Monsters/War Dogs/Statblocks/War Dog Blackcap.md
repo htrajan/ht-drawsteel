@@ -10,7 +10,7 @@ file_dpath: Monsters/War Dogs/Statblocks
 free_strike: 4
 intuition: 2
 item_id: war-dog-blackcap
-item_index: '375'
+item_index: '25'
 item_name: War Dog Blackcap
 level: 7
 might: 1
@@ -19,15 +19,15 @@ reason: 4
 roles:
   - Horde Ambusher
 scc:
-  - mcdm.monsters.v1:monster:war-dog-blackcap
+  - mcdm.monsters.v1:monster.war-dogs.statblock:war-dog-blackcap
 scdc:
-  - 1.1.1:2:375
+  - 1.1.1:2.51.1:25
 size: 1M
 source: mcdm.monsters.v1
 speed: 6
 stability: 0
 stamina: '45'
-type: monster
+type: monster/war-dogs/statblock
 ---
 
 ###### War Dog Blackcap
@@ -35,7 +35,7 @@ type: monster
 | Humanoid, Soulless, War Dog |             -              |       Level 7       |     Horde Ambusher      |          EV 9          |
 | :-------------------------: | :------------------------: | :-----------------: | :---------------------: | :--------------------: |
 |      **1M**<br/> Size       |      **6**<br/> Speed      | **45**<br/> Stamina |  **0**<br/> Stability   | **4**<br/> Free Strike |
-|     **-**<br/> Immunity     | **Teleport**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+|     **-**<br/> Immunity     | **Teleport**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |      **+1**<br/> Might      |    **+4**<br/> Agility     | **+4**<br/> Reason  |  **+2**<br/> Intuition  |  **0**<br/> Presence   |
 
 <!-- -->

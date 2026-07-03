@@ -9,7 +9,7 @@ file_dpath: Monsters/Demons/Statblocks
 free_strike: 5
 intuition: 1
 item_id: chimeron
-item_index: '268'
+item_index: '15'
 item_name: Chimeron
 level: 9
 might: 4
@@ -18,24 +18,24 @@ reason: 2
 roles:
   - Horde Brute
 scc:
-  - mcdm.monsters.v1:monster:chimeron
+  - mcdm.monsters.v1:monster.demons.statblock:chimeron
 scdc:
-  - 1.1.1:2:268
+  - 1.1.1:2.35.1:15
 size: '3'
 source: mcdm.monsters.v1
 speed: 6
 stability: 2
 stamina: '90'
-type: monster
+type: monster/demons/statblock
 ---
 
 ###### Chimeron
 
-|   Abyssal, Demon    |          -          |       Level 9       |       Horde Brute       |            EV 9            |
-| :-----------------: | :-----------------: | :-----------------: | :---------------------: | :------------------------: |
-|   **3**<br/> Size   |  **6**<br/> Speed   | **90**<br/> Stamina |  **2**<br/> Stability   |   **5**<br/> Free Strike   |
-| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **Holy 5**<br/> Weaknesses |
-|  **+4**<br/> Might  | **+0**<br/> Agility | **+2**<br/> Reason  |  **+1**<br/> Intuition  |    **+2**<br/> Presence    |
+|   Abyssal, Demon    |          -          |       Level 9       |       Horde Brute       |           EV 9           |
+| :-----------------: | :-----------------: | :-----------------: | :---------------------: | :----------------------: |
+|   **3**<br/> Size   |  **6**<br/> Speed   | **90**<br/> Stamina |  **2**<br/> Stability   |  **5**<br/> Free Strike  |
+| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **Holy 5**<br/> Weakness |
+|  **+4**<br/> Might  | **+0**<br/> Agility | **+2**<br/> Reason  |  **+1**<br/> Intuition  |   **+2**<br/> Presence   |
 
 <!-- -->
 > 🗡 **Flux Gnash (Signature Ability)**

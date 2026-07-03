@@ -9,7 +9,7 @@ file_dpath: Monsters/Wyverns/Statblocks
 free_strike: 6
 intuition: 1
 item_id: wyvern-predator
-item_index: '122'
+item_index: '02'
 item_name: Wyvern Predator
 level: 4
 might: 3
@@ -18,15 +18,15 @@ reason: -1
 roles:
   - Elite Brute
 scc:
-  - mcdm.monsters.v1:monster:wyvern-predator
+  - mcdm.monsters.v1:monster.wyverns.statblock:wyvern-predator
 scdc:
-  - 1.1.1:2:122
+  - 1.1.1:2.15.1:02
 size: '3'
 source: mcdm.monsters.v1
 speed: 7
 stability: 3
 stamina: '140'
-type: monster
+type: monster/wyverns/statblock
 ---
 
 ###### Wyvern Predator
@@ -34,7 +34,7 @@ type: monster
 |      Beast, Wyvern       |           -           |       Level 4        |       Elite Brute       |         EV 24          |
 | :----------------------: | :-------------------: | :------------------: | :---------------------: | :--------------------: |
 |     **3**<br/> Size      |   **7**<br/> Speed    | **140**<br/> Stamina |  **3**<br/> Stability   | **6**<br/> Free Strike |
-| **Acid 5**<br/> Immunity | **Fly**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Acid 5**<br/> Immunity | **Fly**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |    **+3**<br/> Might     |  **+2**<br/> Agility  |  **-1**<br/> Reason  |  **+1**<br/> Intuition  |  **0**<br/> Presence   |
 
 <!-- -->
@@ -89,7 +89,7 @@ type: monster
 >
 > **Trigger:** A creature within distance deals damage to the predator with a melee ability.
 >
-> **Effect:** The predator uses Sedating Stinger against the target, then shifts up to 3 squares
+> **Effect:** The predator uses Sedating Stinger against the target, then shifts up to 3 squares.
 
 <!-- -->
 > ⭐️ **Stubborn Rage**

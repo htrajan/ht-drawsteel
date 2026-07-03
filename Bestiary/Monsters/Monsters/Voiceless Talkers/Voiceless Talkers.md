@@ -14,7 +14,7 @@ type: monster/section
 
 ## Voiceless Talkers
 
-Among the most powerful psions in the timescape, synlirii (*sin-LEER-ee*, singular: synliroi) are known as the "voiceless talkers" to the denizens of the World Below-and to surface dwellers unfortunate enough to encounter them. Descended from boneless aquatic cephalopods, they are alien in thought and motivation to the humanoid species they loathe. Synlirii consider the "barking ones" (their label for creatures who squeeze air through meat flaps to communicate) an abomination that must be corrected.
+Among the most powerful psions in the timescape, synlirii (*sin-LEER-ee*, singular: synliroi) are known as the "voiceless talkers" to the denizens of the World Below—and to surface dwellers unfortunate enough to encounter them. Descended from boneless aquatic cephalopods, they are alien in thought and motivation to the humanoid species they loathe. Synlirii consider the "barking ones" (their label for creatures who squeeze air through meat flaps to communicate) an abomination that must be corrected.
 
 ### Uneasy Alliances
 
@@ -34,11 +34,11 @@ Synlirii breed mollusks that secrete plastic-like substances, using them to fash
 
 ### Creature Engineers
 
-Synlirii are obsessed with manipulating the natural development of other organisms. They create hulking brains, mindkillers, and other servants using a psionic technique they call the Interlace. Many synlirii experiments don't live long and aren't intended to. But the World Below is littered with unnatural creatures who escaped the voiceless talkers' Body Banks-most of them singular life forms who can't reproduce and might never die.
+Synlirii are obsessed with manipulating the natural development of other organisms. They create hulking brains, mindkillers, and other servants using a psionic technique they call the Interlace. Many synlirii experiments don't live long and aren't intended to. But the World Below is littered with unnatural creatures who escaped the voiceless talkers' Body Banks—most of them singular life forms who can't reproduce and might never die.
 
 ### Graywarper
 
-Graywarpers are voiceless talkers who were drained of most of their psionic abilities-and free will-as punishment for insolence or incompetence. They are viewed solely as expendable tools who enhance the power of other voiceless talkers.
+Graywarpers are voiceless talkers who were drained of most of their psionic abilities—and free will—as punishment for insolence or incompetence. They are viewed solely as expendable tools who enhance the power of other voiceless talkers.
 
 ### Hulking Brain
 
@@ -88,7 +88,7 @@ At the start of any voiceless talker's turn, you can spend Malice to activate on
 |  Horror, Voiceless Talker   |              -               |      Level 6       |                   Minion Hexer                   | EV 8 for four minions  |
 | :-------------------------: | :--------------------------: | :----------------: | :----------------------------------------------: | :--------------------: |
 |      **1S**<br/> Size       |       **4**<br/> Speed       | **9**<br/> Stamina |               **0**<br/> Stability               | **3**<br/> Free Strike |
-| **Psychic 6**<br/> Immunity | **Fly, hover**<br/> Movement |         -          | **+2 damage bonus to strikes**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Psychic 6**<br/> Immunity | **Fly, hover**<br/> Movement |         -          | **+2 damage bonus to strikes**<br/> With Captain |  **-**<br/> Weakness   |
 |      **-1**<br/> Might      |     **+3**<br/> Agility      | **+1**<br/> Reason |              **+1**<br/> Intuition               |  **0**<br/> Presence   |
 
 <!-- -->
@@ -125,7 +125,7 @@ At the start of any voiceless talker's turn, you can spend Malice to activate on
 | Horror, Voiceless Talker |          -          |      Level 6       |             Minion Controller             | EV 8 for four minions  |
 | :----------------------: | :-----------------: | :----------------: | :---------------------------------------: | :--------------------: |
 |     **1M**<br/> Size     |  **5**<br/> Speed   | **9**<br/> Stamina |           **0**<br/> Stability            | **3**<br/> Free Strike |
-|   **-**<br/> Immunity    | **-**<br/> Movement |         -          | **+2 bonus to Stamina**<br/> With Captain | **-**<br/> Weaknesses  |
+|   **-**<br/> Immunity    | **-**<br/> Movement |         -          | **+2 bonus to Stamina**<br/> With Captain |  **-**<br/> Weakness   |
 |    **-1**<br/> Might     | **0**<br/> Agility  | **+3**<br/> Reason |           **+1**<br/> Intuition           |  **+1**<br/> Presence  |
 
 <!-- -->
@@ -151,7 +151,7 @@ At the start of any voiceless talker's turn, you can spend Malice to activate on
 | Horror, Voiceless Talker |          -          |       Level 6        |       Elite Brute       |         EV 32          |
 | :----------------------: | :-----------------: | :------------------: | :---------------------: | :--------------------: |
 |     **1L**<br/> Size     |  **5**<br/> Speed   | **180**<br/> Stamina |  **4**<br/> Stability   | **7**<br/> Free Strike |
-|   **-**<br/> Immunity    | **-**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+|   **-**<br/> Immunity    | **-**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |    **+3**<br/> Might     | **+1**<br/> Agility |  **-2**<br/> Reason  |  **-2**<br/> Intuition  |  **0**<br/> Presence   |
 
 <!-- -->
@@ -178,7 +178,7 @@ At the start of any voiceless talker's turn, you can spend Malice to activate on
 > | ----------------- | ----------------: |
 > | **📏 Melee 1**    | **🎯 Each enemy** |
 >
-> **Effect:** A target must be grabbed by the hulking brain, and is no longer grabbed after the power roll is resolved
+> **Effect:** A target must be grabbed by the hulking brain, and is no longer grabbed after the power roll is resolved.
 >
 > **Power Roll + 3:**
 >
@@ -223,7 +223,7 @@ At the start of any voiceless talker's turn, you can spend Malice to activate on
 |  Horror, Voiceless Talker   |              -               |       Level 6        |       Elite Hexer       |         EV 32          |
 | :-------------------------: | :--------------------------: | :------------------: | :---------------------: | :--------------------: |
 |      **1S**<br/> Size       |       **6**<br/> Speed       | **140**<br/> Stamina |  **2**<br/> Stability   | **7**<br/> Free Strike |
-| **Psychic 6**<br/> Immunity | **Fly, hover**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Psychic 6**<br/> Immunity | **Fly, hover**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |      **-1**<br/> Might      |     **+3**<br/> Agility      |  **+3**<br/> Reason  |  **+2**<br/> Intuition  |  **0**<br/> Presence   |
 
 <!-- -->
@@ -294,7 +294,7 @@ At the start of any voiceless talker's turn, you can spend Malice to activate on
 |  Horror, Voiceless Talker   |                 -                 |       Level 6        |     Elite Artillery     |         EV 32          |
 | :-------------------------: | :-------------------------------: | :------------------: | :---------------------: | :--------------------: |
 |      **1M**<br/> Size       |         **5**<br/> Speed          | **140**<br/> Stamina |  **2**<br/> Stability   | **7**<br/> Free Strike |
-| **Psychic 6**<br/> Immunity | **Hover, teleport**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Psychic 6**<br/> Immunity | **Hover, teleport**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |      **0**<br/> Might       |        **+3**<br/> Agility        |  **+3**<br/> Reason  |  **+2**<br/> Intuition  |  **+1**<br/> Presence  |
 
 <!-- -->
@@ -345,7 +345,7 @@ At the start of any voiceless talker's turn, you can spend Malice to activate on
 >
 > **Trigger:** The artillerist takes damage.
 >
-> **Effect:** The artillerist can teleport up to 5 squares and ignores any effects associated with the damage
+> **Effect:** The artillerist can teleport up to 5 squares and ignores any effects associated with the damage.
 
 <!-- -->
 > ⭐️ **Psionic Conductor**
@@ -362,7 +362,7 @@ At the start of any voiceless talker's turn, you can spend Malice to activate on
 |  Horror, Voiceless Talker   |                 -                 |       Level 6        |    Elite Controller     |         EV 32          |
 | :-------------------------: | :-------------------------------: | :------------------: | :---------------------: | :--------------------: |
 |      **1M**<br/> Size       |         **5**<br/> Speed          | **140**<br/> Stamina |  **2**<br/> Stability   | **7**<br/> Free Strike |
-| **Psychic 6**<br/> Immunity | **Hover, teleport**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Psychic 6**<br/> Immunity | **Hover, teleport**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |      **-1**<br/> Might      |        **+1**<br/> Agility        |  **+3**<br/> Reason  |  **+2**<br/> Intuition  |  **+2**<br/> Presence  |
 
 <!-- -->
@@ -429,7 +429,7 @@ At the start of any voiceless talker's turn, you can spend Malice to activate on
 |  Horror, Voiceless Talker   |                 -                 |       Level 6        |         Leader          |         EV 32          |
 | :-------------------------: | :-------------------------------: | :------------------: | :---------------------: | :--------------------: |
 |      **1M**<br/> Size       |         **5**<br/> Speed          | **180**<br/> Stamina |  **2**<br/> Stability   | **7**<br/> Free Strike |
-| **Psychic 8**<br/> Immunity | **Hover, teleport**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Psychic 8**<br/> Immunity | **Hover, teleport**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |      **0**<br/> Might       |        **+3**<br/> Agility        |  **+4**<br/> Reason  |  **+1**<br/> Intuition  |  **+2**<br/> Presence  |
 
 <!-- -->

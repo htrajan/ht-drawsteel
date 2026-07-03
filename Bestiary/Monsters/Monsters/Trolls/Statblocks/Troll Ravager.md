@@ -9,7 +9,7 @@ file_dpath: Monsters/Trolls/Statblocks
 free_strike: 4
 intuition: 1
 item_id: troll-ravager
-item_index: '413'
+item_index: '05'
 item_name: Troll Ravager
 level: 9
 might: 4
@@ -18,24 +18,24 @@ reason: 0
 roles:
   - Minion Harrier
 scc:
-  - mcdm.monsters.v1:monster:troll-ravager
+  - mcdm.monsters.v1:monster.trolls.statblock:troll-ravager
 scdc:
-  - 1.1.1:2:413
+  - 1.1.1:2.53.1:05
 size: '2'
 source: mcdm.monsters.v1
 speed: 8
 stability: 2
 stamina: '15'
-type: monster
+type: monster/trolls/statblock
 ---
 
 ###### Troll Ravager
 
-|    Giant, Troll     |          -          |       Level 9       |             Minion Harrier              |      EV 11 for four minions      |
-| :-----------------: | :-----------------: | :-----------------: | :-------------------------------------: | :------------------------------: |
-|   **2**<br/> Size   |  **8**<br/> Speed   | **15**<br/> Stamina |          **2**<br/> Stability           |      **4**<br/> Free Strike      |
-| **-**<br/> Immunity | **-**<br/> Movement |          -          | **+2 bonus to speed**<br/> With Captain | **Acid 5, fire**<br/> Weaknesses |
-|  **+4**<br/> Might  | **+2**<br/> Agility |  **0**<br/> Reason  |          **+1**<br/> Intuition          |       **+1**<br/> Presence       |
+|    Giant, Troll     |          -          |       Level 9       |             Minion Harrier              |     EV 11 for four minions     |
+| :-----------------: | :-----------------: | :-----------------: | :-------------------------------------: | :----------------------------: |
+|   **2**<br/> Size   |  **8**<br/> Speed   | **15**<br/> Stamina |          **2**<br/> Stability           |     **4**<br/> Free Strike     |
+| **-**<br/> Immunity | **-**<br/> Movement |          -          | **+2 bonus to speed**<br/> With Captain | **Acid 5, fire**<br/> Weakness |
+|  **+4**<br/> Might  | **+2**<br/> Agility |  **0**<br/> Reason  |          **+1**<br/> Intuition          |      **+1**<br/> Presence      |
 
 <!-- -->
 > 🗡 **Dine and Dash (Signature Ability)**
@@ -55,4 +55,4 @@ type: monster
 <!-- -->
 > ⭐️ **Group Appetite**
 >
-> The ravager dies only if their squad's Stamina pool is reduced to 0 Stamina by acid or fire damage, if they end their turn with 0 Stamina in their squad's Stamina pool, or if they take acid or fire damage while their squad's Stamina pool is at 0 Stamina
+> The ravager dies only if their squad's Stamina pool is reduced to 0 Stamina by acid or fire damage, if they end their turn with 0 Stamina in their squad's Stamina pool, or if they take acid or fire damage while their squad's Stamina pool is at 0 Stamina.

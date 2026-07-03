@@ -9,7 +9,7 @@ file_dpath: Monsters/Time Raiders/Statblocks
 free_strike: 5
 intuition: 1
 item_id: time-raider-vertex
-item_index: '146'
+item_index: 08
 item_name: Time Raider Vertex
 level: 3
 might: 1
@@ -18,15 +18,15 @@ reason: 2
 roles:
   - Platoon Support
 scc:
-  - mcdm.monsters.v1:monster:time-raider-vertex
+  - mcdm.monsters.v1:monster.time-raiders.statblock:time-raider-vertex
 scdc:
-  - 1.1.1:2:146
+  - 1.1.1:2.18.1:08
 size: '2'
 source: mcdm.monsters.v1
 speed: 5
 stability: 2
 stamina: '62'
-type: monster
+type: monster/time-raiders/statblock
 ---
 
 ###### Time Raider Vertex
@@ -34,7 +34,7 @@ type: monster
 |    Humanoid, Time Raider    |              -               |       Level 3       |     Platoon Support     |         EV 10          |
 | :-------------------------: | :--------------------------: | :-----------------: | :---------------------: | :--------------------: |
 |       **2**<br/> Size       |       **5**<br/> Speed       | **62**<br/> Stamina |  **2**<br/> Stability   | **5**<br/> Free Strike |
-| **Psychic 3**<br/> Immunity | **Fly, hover**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Psychic 3**<br/> Immunity | **Fly, hover**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |      **+1**<br/> Might      |     **+1**<br/> Agility      | **+2**<br/> Reason  |  **+1**<br/> Intuition  |  **0**<br/> Presence   |
 
 <!-- -->

@@ -9,7 +9,7 @@ file_dpath: Monsters/Time Raiders/Statblocks
 free_strike: 5
 intuition: 2
 item_id: time-raider-armiger
-item_index: '141'
+item_index: '03'
 item_name: Time Raider Armiger
 level: 3
 might: 0
@@ -18,15 +18,15 @@ reason: 2
 roles:
   - Platoon Defender
 scc:
-  - mcdm.monsters.v1:monster:time-raider-armiger
+  - mcdm.monsters.v1:monster.time-raiders.statblock:time-raider-armiger
 scdc:
-  - 1.1.1:2:141
+  - 1.1.1:2.18.1:03
 size: 1M
 source: mcdm.monsters.v1
 speed: 5
 stability: 0
 stamina: '60'
-type: monster
+type: monster/time-raiders/statblock
 ---
 
 ###### Time Raider Armiger
@@ -34,7 +34,7 @@ type: monster
 |    Humanoid, Time Raider    |          -          |       Level 3       |    Platoon Defender     |         EV 10          |
 | :-------------------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |      **1M**<br/> Size       |  **5**<br/> Speed   | **60**<br/> Stamina |  **0**<br/> Stability   | **5**<br/> Free Strike |
-| **Psychic 3**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Psychic 3**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |      **0**<br/> Might       | **+2**<br/> Agility | **+2**<br/> Reason  |  **+2**<br/> Intuition  |  **0**<br/> Presence   |
 
 <!-- -->
@@ -59,7 +59,7 @@ type: monster
 > | ------------------- | -----------------------------: |
 > | **📏 Ranged 20**    | **🎯 The triggering creature** |
 >
-> **Trigger:** A creature deals damage to any ally of the armiger who the armiger has line of effect to
+> **Trigger:** A creature deals damage to any ally of the armiger who the armiger has line of effect to.
 >
 > **Power Roll + 2:**
 >

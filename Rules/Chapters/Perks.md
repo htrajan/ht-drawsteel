@@ -56,7 +56,7 @@ Whenever you make a test to craft something and don't have a skill that applies 
 
 #### Improvisation Creation
 
-Without needing to make a test-and even without tools-you can quickly jury-rig or repair a mundane item or piece of equipment related to a skill you have from the crafting skill group. That item lasts for 1 hour or works for one use or activation (whichever comes first, as the Director determines), then breaks beyond repair. For example, if you have the Carpentry skill, you could repair a rickety wooden bridge long enough for a group of creatures to cross it, or build a simple shovel made of wood that can be used for 1 hour.
+Without needing to make a test—and even without tools—you can quickly jury-rig or repair a mundane item or piece of equipment related to a skill you have from the crafting skill group. That item lasts for 1 hour or works for one use or activation (whichever comes first, as the Director determines), then breaks beyond repair. For example, if you have the Carpentry skill, you could repair a rickety wooden bridge long enough for a group of creatures to cross it, or build a simple shovel made of wood that can be used for 1 hour.
 
 #### Inspired Artisan
 
@@ -69,7 +69,7 @@ On any day when you don't take a respite, you can spend 1 uninterrupted hour wor
 <!-- -->
 > **Perks and Tests**
 >
-> The existence of specific perks doesn't mean that a hero can't attempt the task related to a perk without having that perk. Aside from supernatural perks, a Director can always allow a hero to attempt a mundane task mentioned in a perk by making a test. Perks are special because they allow a hero to attempt a specific task without a test, and often give a better result than a successful test-or even a test with a reward would give.
+> The existence of specific perks doesn't mean that a hero can't attempt the task related to a perk without having that perk. Aside from supernatural perks, a Director can always allow a hero to attempt a mundane task mentioned in a perk by making a test. Perks are special because they allow a hero to attempt a specific task without a test, and often give a better result than a successful test—or even a test with a reward would give.
 >
 > For example, can a hero catch a falling ally if they don't have the I've Got You perk? A Director can absolutely allow it, but might decide that the hero needs to succeed on a Might test to accomplish the task, using a main action or maneuver to prepare for it. Being able to catch an ally automatically as a free triggered action is what the perk gets you!
 
@@ -155,7 +155,7 @@ Whenever you make a test that uses the Brag, Flirt, or Intimidate skills, you ca
 
 #### So Tell Me...
 
-Whenever you succeed on a Presence test to influence one or more creatures, you can ask one creature you influenced a follow-up question after the test resolves, which they must answer honestly. At the Director's discretion, the creature doesn't have to answer the question completely-or at all-if the response would put them or a loved one in danger.
+Whenever you succeed on a Presence test to influence one or more creatures, you can ask one creature you influenced a follow-up question after the test resolves, which they must answer honestly. At the Director's discretion, the creature doesn't have to answer the question completely—or at all—if the response would put them or a loved one in danger.
 
 #### Spot the Tell
 
@@ -167,7 +167,7 @@ This section presents intrigue perks in alphabetical order.
 
 #### Criminal Contacts
 
-You have access to a network of criminal contacts. As a respite activity while you take a respite in a settlement, you can ask a question of your contacts by making a Presence test. On a tier 2 outcome, you learn one piece of information that would be common among criminals-the secret entrances into a building, the location of a local criminal in hiding, the name of a local thieves' guild leader, and so forth. On a tier 3 outcome, you can instead gain knowledge that would be uncommon among criminals as long as such information exists-the location of a local treasure cache, the location of a murder weapon used in a noble's assassination, the name of an NPC secretly bankrolling a local assassin's guild, and so forth.
+You have access to a network of criminal contacts. As a respite activity while you take a respite in a settlement, you can ask a question of your contacts by making a Presence test. On a tier 2 outcome, you learn one piece of information that would be common among criminals—the secret entrances into a building, the location of a local criminal in hiding, the name of a local thieves' guild leader, and so forth. On a tier 3 outcome, you can instead gain knowledge that would be uncommon among criminals as long as such information exists—the location of a local treasure cache, the location of a murder weapon used in a noble's assassination, the name of an NPC secretly bankrolling a local assassin's guild, and so forth.
 
 #### Forgettable Face
 
@@ -239,23 +239,24 @@ This section presents supernatural perks in alphabetical order.
 
 You have the following ability.
 
-###### Arcane Trick
-
-*You cast an entertaining spell that creates a minor but impressive magical effect.*
-
-| **Magic**              | **Main action** |
-| ---------------------- | --------------: |
-| **📏 Self; see below** |     **🎯 Self** |
-
-**Effect:** Choose one of the following effects:
-
-- You teleport a size 1S or smaller object adjacent to you into an unoccupied space adjacent to you.
-- Until the start of your next turn, a part of your body shoots a shower of harmless noisy sparks that light up each square adjacent to you.
-- You ignite or snuff out (your choice) every mundane light source of 1L or smaller adjacent to you.
-- You transform up to 1 pound of edible food you touch to make it taste delicious or disgusting.
-- Until the start of your next turn, you make your body exude a particular odor you've smelled before. This smell can be sensed by each creature within 5 squares of you, but can't impose any condition or other drawback on those creatures.
-- You place a small magical inscription on the surface of a mundane object you touch, or you can remove an inscription that was made by you or by another creature using Arcane Trick.
-- You touch a size 1T object to cover it with an illusion that makes it look like a different object. Any creature who handles the object becomes aware of the illusion. The illusion ends when you stop touching the object.
+<!-- -->
+> ###### Arcane Trick
+>
+> *You cast an entertaining spell that creates a minor but impressive magical effect.*
+>
+> | **Magic**              | **Main action** |
+> | ---------------------- | --------------: |
+> | **📏 Self; see below** |     **🎯 Self** |
+>
+> **Effect:** Choose one of the following effects:
+>
+> - You teleport a size 1S or smaller object adjacent to you into an unoccupied space adjacent to you.
+> - Until the start of your next turn, a part of your body shoots a shower of harmless noisy sparks that light up each square adjacent to you.
+> - You ignite or snuff out (your choice) every mundane light source of 1L or smaller adjacent to you.
+> - You transform up to 1 pound of edible food you touch to make it taste delicious or disgusting.
+> - Until the start of your next turn, you make your body exude a particular odor you've smelled before. This smell can be sensed by each creature within 5 squares of you, but can't impose any condition or other drawback on those creatures.
+> - You place a small magical inscription on the surface of a mundane object you touch, or you can remove an inscription that was made by you or by another creature using Arcane Trick.
+> - You touch a size 1T object to cover it with an illusion that makes it look like a different object. Any creature who handles the object becomes aware of the illusion. The illusion ends when you stop touching the object.
 
 #### Creature Sense
 
@@ -263,7 +264,7 @@ As a maneuver, choose a creature within 10 squares. If that creature is your lev
 
 #### Familiar
 
-A supernatural spirit who has taken the form of a specific small animal or animated object has chosen to be your familiar-or to adopt you as their familiar.
+A supernatural spirit who has taken the form of a specific small animal or animated object has chosen to be your familiar—or to adopt you as their familiar.
 
 The spirit uses the familiar stat block.
 
@@ -290,29 +291,31 @@ If your familiar is destroyed, you can restore them as a respite activity, or by
 
 You have the following ability.
 
-###### Invisible Force
-
-*You manipulate a tiny object with your mind.*
-
-| **Psionic, Ranged** |              **Maneuver** |
-| ------------------- | ------------------------: |
-| **📏 Ranged 10**    | **🎯 One size 1T object** |
-
-**Effect:** You can grab or manipulate the target object with your mind, moving the object up to a number of squares equal to your Reason, Intuition, or Presence score (your choice). You can use this ability to turn doorknobs, pull levers, and so forth. You can manipulate any small movable piece of a larger object as long as the piece is unattended and size 1T. You can't use this ability to break a smaller piece off a larger object.
+<!-- -->
+> ###### Invisible Force
+>
+> *You manipulate a tiny object with your mind.*
+>
+> | **Psionic, Ranged** |              **Maneuver** |
+> | ------------------- | ------------------------: |
+> | **📏 Ranged 10**    | **🎯 One size 1T object** |
+>
+> **Effect:** You can grab or manipulate the target object with your mind, moving the object up to a number of squares equal to your Reason, Intuition, or Presence score (your choice). You can use this ability to turn doorknobs, pull levers, and so forth. You can manipulate any small movable piece of a larger object as long as the piece is unattended and size 1T. You can't use this ability to break a smaller piece off a larger object.
 
 #### Psychic Whisper
 
 You have the following ability.
 
-###### Psychic Whisper
-
-*You send a one-way telepathic message to a friend.*
-
-| **Psionic, Ranged** |    **Maneuver** |
-| ------------------- | --------------: |
-| **📏 Ranged 10**    | **🎯 One ally** |
-
-**Effect:** As long as the target understands one or more languages, you send a telepathic message to them that takes 10 seconds or less to speak. The target knows who the message is from and can decide to ignore it and subsequent messages.
+<!-- -->
+> ###### Psychic Whisper
+>
+> *You send a one-way telepathic message to a friend.*
+>
+> | **Psionic, Ranged** |    **Maneuver** |
+> | ------------------- | --------------: |
+> | **📏 Ranged 10**    | **🎯 One ally** |
+>
+> **Effect:** As long as the target understands one or more languages, you send a telepathic message to them that takes 10 seconds or less to speak. The target knows who the message is from and can decide to ignore it and subsequent messages.
 
 #### Ritualist
 

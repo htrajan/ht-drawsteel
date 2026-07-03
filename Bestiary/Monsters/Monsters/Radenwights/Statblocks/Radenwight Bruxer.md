@@ -9,7 +9,7 @@ file_dpath: Monsters/Radenwights/Statblocks
 free_strike: 4
 intuition: 0
 item_id: radenwight-bruxer
-item_index: '149'
+item_index: '01'
 item_name: Radenwight Bruxer
 level: 1
 might: 2
@@ -18,15 +18,15 @@ reason: -1
 roles:
   - Platoon Brute
 scc:
-  - mcdm.monsters.v1:monster:radenwight-bruxer
+  - mcdm.monsters.v1:monster.radenwights.statblock:radenwight-bruxer
 scdc:
-  - 1.1.1:2:149
+  - 1.1.1:2.19.1:01
 size: 1L
 source: mcdm.monsters.v1
 speed: 5
 stability: 2
 stamina: '40'
-type: monster
+type: monster/radenwights/statblock
 ---
 
 ###### Radenwight Bruxer
@@ -34,7 +34,7 @@ type: monster
 | Humanoid, Radenwight |            -            |       Level 1       |      Platoon Brute      |          EV 6          |
 | :------------------: | :---------------------: | :-----------------: | :---------------------: | :--------------------: |
 |   **1L**<br/> Size   |    **5**<br/> Speed     | **40**<br/> Stamina |  **2**<br/> Stability   | **4**<br/> Free Strike |
-| **-**<br/> Immunity  | **Climb**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity  | **Climb**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |  **+2**<br/> Might   |   **+1**<br/> Agility   | **-1**<br/> Reason  |  **0**<br/> Intuition   |  **+1**<br/> Presence  |
 
 <!-- -->
@@ -79,4 +79,4 @@ type: monster
 <!-- -->
 > ⭐️ **Lockdown**
 >
-> Any enemy who shifts adjacent to the bruxer has that shif t en d Additionally, any enemy adjacent to the bruxer can't shift.
+> Any enemy who shifts adjacent to the bruxer has that shift end. Additionally, any enemy adjacent to the bruxer can't shift.

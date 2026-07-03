@@ -9,7 +9,7 @@ file_dpath: Monsters/Demons/Statblocks
 free_strike: 4
 intuition: -2
 item_id: vicisitator
-item_index: '264'
+item_index: '11'
 item_name: Vicisitator
 level: 10
 might: 4
@@ -18,24 +18,24 @@ reason: -1
 roles:
   - Horde Harrier
 scc:
-  - mcdm.monsters.v1:monster:vicisitator
+  - mcdm.monsters.v1:monster.demons.statblock:vicisitator
 scdc:
-  - 1.1.1:2:264
+  - 1.1.1:2.35.1:11
 size: 1M
 source: mcdm.monsters.v1
 speed: 9
 stability: 0
 stamina: '60'
-type: monster
+type: monster/demons/statblock
 ---
 
 ###### Vicisitator
 
-|   Abyssal, Demon    |          -          |      Level 10       |      Horde Harrier      |           EV 12            |
-| :-----------------: | :-----------------: | :-----------------: | :---------------------: | :------------------------: |
-|  **1M**<br/> Size   |  **9**<br/> Speed   | **60**<br/> Stamina |  **0**<br/> Stability   |   **4**<br/> Free Strike   |
-| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **Holy 5**<br/> Weaknesses |
-|  **+4**<br/> Might  | **+5**<br/> Agility | **-1**<br/> Reason  |  **-2**<br/> Intuition  |    **-3**<br/> Presence    |
+|   Abyssal, Demon    |          -          |      Level 10       |      Horde Harrier      |          EV 12           |
+| :-----------------: | :-----------------: | :-----------------: | :---------------------: | :----------------------: |
+|  **1M**<br/> Size   |  **9**<br/> Speed   | **60**<br/> Stamina |  **0**<br/> Stability   |  **4**<br/> Free Strike  |
+| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **Holy 5**<br/> Weakness |
+|  **+4**<br/> Might  | **+5**<br/> Agility | **-1**<br/> Reason  |  **-2**<br/> Intuition  |   **-3**<br/> Presence   |
 
 <!-- -->
 > ⚔️ **Warp Touch (Signature Ability)**

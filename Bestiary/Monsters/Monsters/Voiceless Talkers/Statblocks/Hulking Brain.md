@@ -9,7 +9,7 @@ file_dpath: Monsters/Voiceless Talkers/Statblocks
 free_strike: 7
 intuition: -2
 item_id: hulking-brain
-item_index: '337'
+item_index: '02'
 item_name: Hulking Brain
 level: 6
 might: 3
@@ -18,15 +18,15 @@ reason: -2
 roles:
   - Elite Brute
 scc:
-  - mcdm.monsters.v1:monster:hulking-brain
+  - mcdm.monsters.v1:monster.voiceless-talkers.statblock:hulking-brain
 scdc:
-  - 1.1.1:2:337
+  - 1.1.1:2.46.1:02
 size: 1L
 source: mcdm.monsters.v1
 speed: 5
 stability: 4
 stamina: '180'
-type: monster
+type: monster/voiceless-talkers/statblock
 ---
 
 ###### Hulking Brain
@@ -34,7 +34,7 @@ type: monster
 | Horror, Voiceless Talker |          -          |       Level 6        |       Elite Brute       |         EV 32          |
 | :----------------------: | :-----------------: | :------------------: | :---------------------: | :--------------------: |
 |     **1L**<br/> Size     |  **5**<br/> Speed   | **180**<br/> Stamina |  **4**<br/> Stability   | **7**<br/> Free Strike |
-|   **-**<br/> Immunity    | **-**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+|   **-**<br/> Immunity    | **-**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |    **+3**<br/> Might     | **+1**<br/> Agility |  **-2**<br/> Reason  |  **-2**<br/> Intuition  |  **0**<br/> Presence   |
 
 <!-- -->
@@ -61,7 +61,7 @@ type: monster
 > | ----------------- | ----------------: |
 > | **📏 Melee 1**    | **🎯 Each enemy** |
 >
-> **Effect:** A target must be grabbed by the hulking brain, and is no longer grabbed after the power roll is resolved
+> **Effect:** A target must be grabbed by the hulking brain, and is no longer grabbed after the power roll is resolved.
 >
 > **Power Roll + 3:**
 >

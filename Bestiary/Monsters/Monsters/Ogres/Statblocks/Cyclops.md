@@ -9,7 +9,7 @@ file_dpath: Monsters/Ogres/Statblocks
 free_strike: 4
 intuition: 3
 item_id: cyclops
-item_index: '05'
+item_index: '04'
 item_name: Cyclops
 level: 10
 might: 5
@@ -18,15 +18,15 @@ reason: -1
 roles:
   - Minion Controller
 scc:
-  - mcdm.monsters.v1:monster:cyclops
+  - mcdm.monsters.v1:monster.ogres.statblock:cyclops
 scdc:
-  - 1.1.1:2:05
+  - 1.1.1:2.4.1:04
 size: '3'
 source: mcdm.monsters.v1
 speed: 6
 stability: 5
 stamina: '14'
-type: monster
+type: monster/ogres/statblock
 ---
 
 ###### Cyclops
@@ -34,7 +34,7 @@ type: monster
 |     Giant, Ogre     |          -          |      Level 10       |            Minion Controller            | EV 12 for four minions |
 | :-----------------: | :-----------------: | :-----------------: | :-------------------------------------: | :--------------------: |
 |   **3**<br/> Size   |  **6**<br/> Speed   | **14**<br/> Stamina |          **5**<br/> Stability           | **4**<br/> Free Strike |
-| **-**<br/> Immunity | **-**<br/> Movement |          -          | **+4 bonus to speed**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **-**<br/> Movement |          -          | **+4 bonus to speed**<br/> With Captain |  **-**<br/> Weakness   |
 |  **+5**<br/> Might  | **-1**<br/> Agility | **-1**<br/> Reason  |          **+3**<br/> Intuition          |  **-1**<br/> Presence  |
 
 <!-- -->

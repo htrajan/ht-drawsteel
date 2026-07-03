@@ -8,7 +8,7 @@ file_dpath: Monsters/Lich/Statblocks
 free_strike: 10
 intuition: 5
 item_id: lich
-item_index: '349'
+item_index: '01'
 item_name: Lich
 level: 10
 might: 2
@@ -17,24 +17,24 @@ reason: 5
 roles:
   - Solo
 scc:
-  - mcdm.monsters.v1:monster:lich
+  - mcdm.monsters.v1:monster.lich.statblock:lich
 scdc:
-  - 1.1.1:2:349
+  - 1.1.1:2.49.1:01
 size: 1M
 source: mcdm.monsters.v1
 speed: 10
 stability: 1
 stamina: '650'
-type: monster
+type: monster/lich/statblock
 ---
 
 ###### Lich
 
-|                   Undead                   |              -               |       Level 10       |          Solo           |           EV 144           |
-| :----------------------------------------: | :--------------------------: | :------------------: | :---------------------: | :------------------------: |
-|              **1M**<br/> Size              |      **10**<br/> Speed       | **650**<br/> Stamina |  **1**<br/> Stability   |  **10**<br/> Free Strike   |
-| **Corruption 10, poison 10**<br/> Immunity | **Fly, hover**<br/> Movement |          -           | **-**<br/> With Captain | **Holy 5**<br/> Weaknesses |
-|             **+2**<br/> Might              |     **+3**<br/> Agility      |  **+5**<br/> Reason  |  **+5**<br/> Intuition  |    **+5**<br/> Presence    |
+|                   Undead                   |              -               |       Level 10       |          Solo           |          EV 144          |
+| :----------------------------------------: | :--------------------------: | :------------------: | :---------------------: | :----------------------: |
+|              **1M**<br/> Size              |      **10**<br/> Speed       | **650**<br/> Stamina |  **1**<br/> Stability   | **10**<br/> Free Strike  |
+| **Corruption 10, poison 10**<br/> Immunity | **Fly, hover**<br/> Movement |          -           | **-**<br/> With Captain | **Holy 5**<br/> Weakness |
+|             **+2**<br/> Might              |     **+3**<br/> Agility      |  **+5**<br/> Reason  |  **+5**<br/> Intuition  |   **+5**<br/> Presence   |
 
 <!-- -->
 > ☠️ **Solo Monster**
@@ -94,13 +94,14 @@ type: monster
 >
 > **2+ Malice:** Each creature wracked with pain gains one of the following conditions of the lich's choice for each 2 Malice spent: bleeding, slowed, or prone and can't stand. These conditions end when a creature is no longer wracked with pain.
 
-👤 **Necrotic Form**
-
-| **-**       | **Maneuver** |
-| ----------- | -----------: |
-| **📏 Self** |  **🎯 Self** |
-
-**Effect:** The lich becomes spectral, moves up to their speed, and becomes corporeal again. While spectral, the lich automatically ends the grabbed or restrained conditions, has damage immunity 5, can move through solid matter, and ignores difficult terrain. If the lich ends this movement inside solid matter, they are shunted out into the space from which they entered it.
+<!-- -->
+> 👤 **Necrotic Form**
+>
+> | **-**       | **Maneuver** |
+> | ----------- | -----------: |
+> | **📏 Self** |  **🎯 Self** |
+>
+> **Effect:** The lich becomes spectral, moves up to their speed, and becomes corporeal again. While spectral, the lich automatically ends the grabbed or restrained conditions, has damage immunity 5, can move through solid matter, and ignores difficult terrain. If the lich ends this movement inside solid matter, they are shunted out into the space from which they entered it.
 
 <!-- -->
 > ❗️ **Baleful Swap (2 Malice)**

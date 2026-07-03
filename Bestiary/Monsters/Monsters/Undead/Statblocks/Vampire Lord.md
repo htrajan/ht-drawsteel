@@ -2,13 +2,14 @@
 agility: 5
 ancestry:
   - Undead
+  - Vampire
 ev: '36'
 file_basename: Vampire Lord
 file_dpath: Monsters/Undead/Statblocks
 free_strike: 7
 intuition: 1
 item_id: vampire-lord
-item_index: '72'
+item_index: '20'
 item_name: Vampire Lord
 level: 7
 might: 2
@@ -17,24 +18,24 @@ reason: 1
 roles:
   - Leader
 scc:
-  - mcdm.monsters.v1:monster:vampire-lord
+  - mcdm.monsters.v1:monster.undead.statblock:vampire-lord
 scdc:
-  - 1.1.1:2:72
+  - 1.1.1:2.8.1:20
 size: 1M
 source: mcdm.monsters.v1
-speed: 1
+speed: 12
 stability: 3
-stamina: '2200'
-type: monster
+stamina: '200'
+type: monster/undead/statblock
 ---
 
 ###### Vampire Lord
 
-|                  Undead                  |                    -                     |        Level 7        |         Leader          |         EV 36          |
-| :--------------------------------------: | :--------------------------------------: | :-------------------: | :---------------------: | :--------------------: |
-|             **1M**<br/> Size             |             **1**<br/> Speed             | **2200**<br/> Stamina |  **3**<br/> Stability   | **7**<br/> Free Strike |
-| **Corruption 9, poison 9**<br/> Immunity | **Climb, hover, teleport**<br/> Movement |           -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
-|            **+2**<br/> Might             |           **+5**<br/> Agility            |  **+1**<br/> Reason   |  **+1**<br/> Intuition  |  **+2**<br/> Presence  |
+|             Undead, Vampire              |                    -                     |       Level 7        |         Leader          |         EV 36          |
+| :--------------------------------------: | :--------------------------------------: | :------------------: | :---------------------: | :--------------------: |
+|             **1M**<br/> Size             |            **12**<br/> Speed             | **200**<br/> Stamina |  **3**<br/> Stability   | **7**<br/> Free Strike |
+| **Corruption 9, poison 9**<br/> Immunity | **Climb, hover, teleport**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
+|            **+2**<br/> Might             |           **+5**<br/> Agility            |  **+1**<br/> Reason  |  **+1**<br/> Intuition  |  **+2**<br/> Presence  |
 
 <!-- -->
 > 🗡 **Crimson Embrace (Signature Ability)**
@@ -49,7 +50,7 @@ type: monster
 > - **12-16:** 21 corruption damage; M < 4 bleeding (save ends)
 > - **17+:** 24 corruption damage; M < 5 bleeding (save ends)
 >
-> **Effect:** The vampire regains Stamina equal to half the damage dealt, and can end one effect on them that can be ended by a saving throw
+> **Effect:** The vampire regains Stamina equal to half the damage dealt, and can end one effect on them that can be ended by a saving throw.
 >
 > **2+ Malice:** The vampire shifts 3 after striking the last target, and can target one additional creature for every 2 malice spent.
 
@@ -102,22 +103,23 @@ type: monster
 >
 > **Effect:** The vampire turns to mist, filling the area. Until the end of the round, the vampire can't move or be targeted by abilities, but they can use Crimson Embrace against a target in the area. The vampire reforms in an unoccupied space in the area at the end of the round.
 
-☠️ **Sacrifice (Villain Action 3)**
-
-| **Magic, Ranged** |                   **-** |
-| ----------------- | ----------------------: |
-| **📏 Ranged 20**  | **🎯 Each chosen ally** |
-
-**Effect:** Each target is marked for sacrifice. At the end of the round, each target who isn't dead or destroyed takes 50 corruption damage. The vampire then uses the following ability.
-
-**Wave of Blood:**
-
-| **Area, Magic** |                         **-** |
-| --------------- | ----------------------------: |
-| **📏 20 burst** | **🎯 Each enemy in the area** |
-
-**Effect:** Each target makes a **Might test**. This ability deals an extra 5 damage for each creature killed by the Sacrifice villain action
-
-- **≤11:** 11 corruption damage
-- **12-16:** 8 corruption damage
-- **17+:** 2 corruption damage
+<!-- -->
+> ☠️ **Sacrifice (Villain Action 3)**
+>
+> | **Magic, Ranged** |                   **-** |
+> | ----------------- | ----------------------: |
+> | **📏 Ranged 20**  | **🎯 Each chosen ally** |
+>
+> **Effect:** Each target is marked for sacrifice. At the end of the round, each target who isn't dead or destroyed takes 50 corruption damage. The vampire then uses the following ability.
+>
+> **Wave of Blood:**
+>
+> | **Area, Magic** |                         **-** |
+> | --------------- | ----------------------------: |
+> | **📏 20 burst** | **🎯 Each enemy in the area** |
+>
+> **Effect:** Each target makes a **Might test**. This ability deals an extra 5 damage for each creature killed by the Sacrifice villain action.
+>
+> - **≤11:** 11 corruption damage
+> - **12-16:** 8 corruption damage
+> - **17+:** 2 corruption damage

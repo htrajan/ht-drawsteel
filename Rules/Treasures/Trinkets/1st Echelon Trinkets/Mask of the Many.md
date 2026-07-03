@@ -8,7 +8,7 @@ item_name: Mask of the Many
 scc:
   - mcdm.heroes.v1:treasure.trinkets.1st-echelon:mask-of-the-many
 scdc:
-  - 1.1.1:12.4.4:03
+  - 1.1.1:13.4.4:03
 source: mcdm.heroes.v1
 treasure_type: Trinkets
 type: treasure/trinkets/1st-echelon
@@ -16,7 +16,7 @@ type: treasure/trinkets/1st-echelon
 
 ##### Mask of the Many
 
-*A plain white mask is lined with soft black velvet-which smells faintly of blood.*
+*A plain white mask is lined with soft black velvet—which smells faintly of blood.*
 
 **Keywords:** Head, Magic
 

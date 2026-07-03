@@ -10,7 +10,7 @@ file_dpath: Monsters/War Dogs/Statblocks
 free_strike: 9
 intuition: 4
 item_id: war-dog-taxiarch
-item_index: '374'
+item_index: '24'
 item_name: War Dog Taxiarch
 level: 9
 might: 1
@@ -19,15 +19,15 @@ reason: 5
 roles:
   - Leader
 scc:
-  - mcdm.monsters.v1:monster:war-dog-taxiarch
+  - mcdm.monsters.v1:monster.war-dogs.statblock:war-dog-taxiarch
 scdc:
-  - 1.1.1:2:374
+  - 1.1.1:2.51.1:24
 size: 1M
 source: mcdm.monsters.v1
 speed: 7
 stability: 1
 stamina: '240'
-type: monster
+type: monster/war-dogs/statblock
 ---
 
 ###### War Dog Taxiarch
@@ -35,7 +35,7 @@ type: monster
 | Humanoid, Soulless, War Dog |             -              |       Level 9        |         Leader          |         EV 44          |
 | :-------------------------: | :------------------------: | :------------------: | :---------------------: | :--------------------: |
 |      **1M**<br/> Size       |      **7**<br/> Speed      | **240**<br/> Stamina |  **1**<br/> Stability   | **9**<br/> Free Strike |
-|     **-**<br/> Immunity     | **Teleport**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+|     **-**<br/> Immunity     | **Teleport**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |      **+1**<br/> Might      |    **+3**<br/> Agility     |  **+5**<br/> Reason  |  **+4**<br/> Intuition  |  **+3**<br/> Presence  |
 
 <!-- -->

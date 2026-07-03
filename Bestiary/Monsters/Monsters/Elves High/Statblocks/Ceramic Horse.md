@@ -9,7 +9,7 @@ file_dpath: Monsters/Elves High/Statblocks
 free_strike: 3
 intuition: 0
 item_id: ceramic-horse
-item_index: '118'
+item_index: '11'
 item_name: Ceramic Horse
 level: 1
 might: 2
@@ -18,15 +18,15 @@ reason: 0
 roles:
   - Platoon Mount
 scc:
-  - mcdm.monsters.v1:monster:ceramic-horse
+  - mcdm.monsters.v1:monster.elves-high.statblock:ceramic-horse
 scdc:
-  - 1.1.1:2:118
+  - 1.1.1:2.14.1:11
 size: '2'
 source: mcdm.monsters.v1
 speed: 10
 stability: 2
 stamina: '30'
-type: monster
+type: monster/elves-high/statblock
 ---
 
 ###### Ceramic Horse
@@ -34,7 +34,7 @@ type: monster
 | Elemental, High Elf |          -          |       Level 1       |      Platoon Mount      |          EV 6          |
 | :-----------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |   **2**<br/> Size   |  **10**<br/> Speed  | **30**<br/> Stamina |  **2**<br/> Stability   | **3**<br/> Free Strike |
-| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |  **+2**<br/> Might  | **+2**<br/> Agility |  **0**<br/> Reason  |  **0**<br/> Intuition   |  **+1**<br/> Presence  |
 
 <!-- -->

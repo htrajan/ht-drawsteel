@@ -14,11 +14,11 @@ type: monster/section
 
 ## Count Rhodar Von Glauer
 
-After falling to a vampiric curse in his early twenties, Count Rhodar the last Lord of Glauer-ruled his tiny, heavily forested mountainous county in eastern Rhöl for three hundred years. There were worse overlords, the people said. After all, Rhodar took his pact with the people and the land seriously. He aggressively defended the villages in his demesne against constant incursions from rival counts and barons. He believed his power waxed and waned with the prosperity of the people and the vitality of the land.
+After falling to a vampiric curse in his early twenties, Count Rhodar—the last Lord of Glauer—ruled his tiny, heavily forested mountainous county in eastern Rhöl for three hundred years. There were worse overlords, the people said. After all, Rhodar took his pact with the people and the land seriously. He aggressively defended the villages in his demesne against constant incursions from rival counts and barons. He believed his power waxed and waned with the prosperity of the people and the vitality of the land.
 
 Each new moon, when the Red Tax came due, the count would visit a young candidate, then emerge with renewed vitality. Across the land, folk feared their Dragon Count, but the witches of the wood wove a prophecy: "The land's darkest hour shall be the redemption of House von Glauer."
 
-Eventually, the conquering force of Emperor Gaius VIII came for Rhodar-not because he was a vampire, but because the empire wanted his land and people. Count von Glauer was staked, and his body burned to ash. The emperor kept the Rod of Count Rhodar von Glauer as a trophy, and with this symbol of authority, he sealed his claim to the land.
+Eventually, the conquering force of Emperor Gaius VIII came for Rhodar—not because he was a vampire, but because the empire wanted his land and people. Count von Glauer was staked, and his body burned to ash. The emperor kept the Rod of Count Rhodar von Glauer as a trophy, and with this symbol of authority, he sealed his claim to the land.
 
 Under new rule, Rhodar's people lament the absence of their lord, recalling the time before the coming of the empire as a golden age. But the witches' whispers can still be heard. For as long as the people of Glauer persist, they continue believing their Dragon Count will return in their darkest hour to deliver them from tyranny.
 
@@ -84,13 +84,13 @@ At the start of Rhodar's turn, you can spend Malice to activate one of the follo
 |              Undead, Vampire               |                   -                    |       Level 10       |          Solo           |         EV 144          |
 | :----------------------------------------: | :------------------------------------: | :------------------: | :---------------------: | :---------------------: |
 |              **1M**<br/> Size              |           **12**<br/> Speed            | **650**<br/> Stamina |  **3**<br/> Stability   | **10**<br/> Free Strike |
-| **Corruption 10, poison 10**<br/> Immunity | **Fly, hover, teleport**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weaknesses  |
+| **Corruption 10, poison 10**<br/> Immunity | **Fly, hover, teleport**<br/> Movement |          -           | **-**<br/> With Captain |   **-**<br/> Weakness   |
 |             **+3**<br/> Might              |          **+5**<br/> Agility           |  **+2**<br/> Reason  |  **+2**<br/> Intuition  |  **+3**<br/> Presence   |
 
 <!-- -->
 > ☠️ **Solo Monster**
 >
-> **End Effect:** At the end of each of his turns, Rhodar can take 20 dam- age to end one effect on him that can be ended by a saving throw. This damage can't be reduced in any way.
+> **End Effect:** At the end of each of his turns, Rhodar can take 20 damage to end one effect on him that can be ended by a saving throw. This damage can't be reduced in any way.
 >
 > **Solo Turns:** Rhodar can take two turns each round. He can't take turns consecutively.
 
@@ -162,7 +162,7 @@ At the start of Rhodar's turn, you can spend Malice to activate one of the follo
 > - **12-16:** 6 damage, 7 corruption damage; push 5; M < 5 bleeding (save ends)
 > - **17+:** 6 damage, 10 corruption damage; push 7; M < 6 bleeding (save ends)
 >
-> **Effect:** Rhodar shifts up to his speed before or after using this ability He regains Stamina equal to half the total corruption damage dealt.
+> **Effect:** Rhodar shifts up to his speed before or after using this ability. He regains Stamina equal to half the total corruption damage dealt.
 
 <!-- -->
 > 🔳 **Vengeance of Rhöl (2 Malice)**

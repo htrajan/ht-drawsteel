@@ -9,7 +9,7 @@ file_dpath: Monsters/Ajax the Invincible/Statblocks
 free_strike: 11
 intuition: 5
 item_id: ajax-the-invincible
-item_index: '138'
+item_index: '01'
 item_name: Ajax the Invincible
 level: 11
 might: 5
@@ -18,15 +18,15 @@ reason: 5
 roles:
   - Solo
 scc:
-  - mcdm.monsters.v1:monster:ajax-the-invincible
+  - mcdm.monsters.v1:monster.ajax-the-invincible.statblock:ajax-the-invincible
 scdc:
-  - 1.1.1:2:138
+  - 1.1.1:2.17.1:01
 size: 1L
 source: mcdm.monsters.v1
 speed: 7
 stability: 2
 stamina: '700'
-type: monster
+type: monster/ajax-the-invincible/statblock
 ---
 
 ###### Ajax the Invincible
@@ -34,7 +34,7 @@ type: monster
 |    Human, Humanoid    |              -               |       Level 11       |          Solo           |         EV 156          |
 | :-------------------: | :--------------------------: | :------------------: | :---------------------: | :---------------------: |
 |   **1L**<br/> Size    |       **7**<br/> Speed       | **700**<br/> Stamina |  **2**<br/> Stability   | **11**<br/> Free Strike |
-| **-**<br/> Immunities | **Fly, hover**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weaknesses  |
+| **-**<br/> Immunities | **Fly, hover**<br/> Movement |          -           | **-**<br/> With Captain |   **-**<br/> Weakness   |
 |   **+5**<br/> Might   |     **+4**<br/> Agility      |  **+5**<br/> Reason  |  **+5**<br/> Intuition  |  **+4**<br/> Presence   |
 
 <!-- -->
@@ -81,9 +81,9 @@ type: monster
 <!-- -->
 > 🏹 **Divine Vine**
 >
-> | **Magic, Ranged, Weapon** |                    **Maneuver** |
-> | ------------------------- | ------------------------------: |
-> | **📏 Ranged 5**           | **🎯 One creature or object 1** |
+> | **Magic, Ranged, Weapon** |                  **Maneuver** |
+> | ------------------------- | ----------------------------: |
+> | **📏 Ranged 5**           | **🎯 One creature or object** |
 >
 > **Power Roll + 5:**
 >

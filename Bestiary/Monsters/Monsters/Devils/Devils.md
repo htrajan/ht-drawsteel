@@ -14,7 +14,7 @@ type: monster/section
 
 ## Devils
 
-In the lower plane of Hell, devils of the Seven Cities vie unceasingly for power and control-a conflict fought foremostly through cunning and schemes. Devils are distinguished from other humanoids by skin in shades of azure and crimson, as well as their hellmarks: horns, tails, hooves, wings, and other infernal features.
+In the lower plane of Hell, devils of the Seven Cities vie unceasingly for power and control—a conflict fought foremostly through cunning and schemes. Devils are distinguished from other humanoids by skin in shades of azure and crimson, as well as their hellmarks: horns, tails, hooves, wings, and other infernal features.
 
 ### Precarious Pyramids
 
@@ -38,7 +38,7 @@ Winsome devils can acquire significant influence by bargaining for the souls of 
 
 ### True Names
 
-All devils have two names: one by which they're commonly known, and another secret true name. Each devil zealously safeguards the latter, as their true name can be spoken aloud to aid in summoning them-or in stripping them of their power.
+All devils have two names: one by which they're commonly known, and another secret true name. Each devil zealously safeguards the latter, as their true name can be spoken aloud to aid in summoning them—or in stripping them of their power.
 
 ### Hell's Defectors
 
@@ -47,6 +47,25 @@ Not every devil in the Seven Cities wants to ruthlessly ascend the hierarchy. So
 ### Devil Languages
 
 Most devils speak Anjal and Caelian, among other languages. The more powerful a devil, the more languages they learn in order to more easily make ironclad contracts with a wide variety of people and cultures. Outside of rare circumstances, devils are always willing to negotiate, ever desiring to twist a situation in their favor.
+
+<!-- -->
+> **Devil Temptations**
+>
+> Although some devils enjoy comfort and opulence for their own sake, they primarily use treasure as bargaining chips in fiendish compacts: bait on the devils' infernal barbs.
+>
+> Even more sinister than a prize won in a devil's hard bargain is a gift freely given by a devil. The advantages of such a gift are conditional, lasting only until the devil revokes it at some inconvenient time.
+>
+> The following are samples of the wonders that a devil can offer—to only the most discriminating customers, of course. A devil might only have two or three of these items available for trade, but others (such as an archdevil's wing) can be won by force. See *Draw Steel: Heroes* for more information about how these items can be used by heroes.
+>
+> **Components:** An archdevil's wing, archdevil's blood, soul chalk, a wide selection of true names
+>
+> **Project Sources:** Notes in Anjali for the Devil's Bargain armor enhancement or a Hellcharger Helm, notes in Hyrallic for a Mediator's Charm
+>
+> **Titles:** Diabolist, Maestro
+>
+> **Treasures:** G'Allios Visiting Card, Thief of Joy
+>
+> **Wealth:** Each hero can earn 1 wealth in exchange for a small favor
 
 ###### Devil Malice (Malice Features)
 
@@ -67,31 +86,12 @@ At the start of any devil's turn, you can spend Malice to activate one of the fo
 >
 > Each enemy in the encounter is subject to a bad deal proposed by the devils. An enemy must choose between having damage weakness 5 or taking a bane on power rolls. The bad deal lasts until the end of the encounter.
 
-<!-- -->
-> **Devil Temptations**
->
-> Although some devils enjoy comfort and opulence for their own sake, they primarily use treasure as bargaining chips in fiendish compacts: bait on the devils' infernal barbs.
->
-> Even more sinister than a prize won in a devil's hard bargain is a gift freely given by a devil. The advantages of such a gift are conditional, lasting only until the devil revokes it at some inconvenient time.
->
-> The following are samples of the wonders that a devil can offer-to only the most discriminating customers, of course. A devil might only have two or three of these items available for trade, but others (such as an archdevil's wing) can be won by force. See *Draw Steel: Heroes* for more information about how these items can be used by heroes.
->
-> **Components:** An archdevil's wing, archdevil's blood, soul chalk, a wide selection of true names
->
-> **Project Sources:** Notes in Anjali for the Devil's Bargain armor enhancement or a Hellcharger Helm, notes in Hyrallic for a Mediator's Charm
->
-> **Titles:** Diabolist, Maestro
->
-> **Treasures:** G'Allios Visiting Card, Thief of Joy
->
-> **Wealth:** Each hero can earn 1 wealth in exchange for a small favor
-
 ###### Devil Clerk
 
 |     Devil, Infernal      |          -          |       Level 5       |                   Minion Brute                   | EV 7 for four minions  |
 | :----------------------: | :-----------------: | :-----------------: | :----------------------------------------------: | :--------------------: |
 |     **1M**<br/> Size     |  **6**<br/> Speed   | **10**<br/> Stamina |               **0**<br/> Stability               | **3**<br/> Free Strike |
-| **Fire 5**<br/> Immunity | **-**<br/> Movement |          -          | **+2 damage bonus to strikes**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Fire 5**<br/> Immunity | **-**<br/> Movement |          -          | **+2 damage bonus to strikes**<br/> With Captain |  **-**<br/> Weakness   |
 |    **+3**<br/> Might     | **+0**<br/> Agility | **+1**<br/> Reason  |              **+1**<br/> Intuition               |  **+2**<br/> Presence  |
 
 <!-- -->
@@ -119,7 +119,7 @@ At the start of any devil's turn, you can spend Malice to activate one of the fo
 |     Devil, Infernal      |          -          |      Level 5       |                   Minion Hexer                    | EV 7 for four minions  |
 | :----------------------: | :-----------------: | :----------------: | :-----------------------------------------------: | :--------------------: |
 |     **1M**<br/> Size     |  **6**<br/> Speed   | **8**<br/> Stamina |               **0**<br/> Stability                | **3**<br/> Free Strike |
-| **Fire 5**<br/> Immunity | **-**<br/> Movement |         -          | **+5 bonus to ranged distance**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Fire 5**<br/> Immunity | **-**<br/> Movement |         -          | **+5 bonus to ranged distance**<br/> With Captain |  **-**<br/> Weakness   |
 |    **+0**<br/> Might     | **+1**<br/> Agility | **+3**<br/> Reason |               **+1**<br/> Intuition               |  **+2**<br/> Presence  |
 
 <!-- -->
@@ -147,7 +147,7 @@ At the start of any devil's turn, you can spend Malice to activate one of the fo
 |     Devil, Infernal      |           -           |      Level 5       |             Minion Harrier              | EV 7 for four minions  |
 | :----------------------: | :-------------------: | :----------------: | :-------------------------------------: | :--------------------: |
 |     **1M**<br/> Size     |   **6**<br/> Speed    | **9**<br/> Stamina |          **0**<br/> Stability           | **3**<br/> Free Strike |
-| **Fire 5**<br/> Immunity | **Fly**<br/> Movement |         -          | **+3 bonus to speed**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Fire 5**<br/> Immunity | **Fly**<br/> Movement |         -          | **+3 bonus to speed**<br/> With Captain |  **-**<br/> Weakness   |
 |    **+0**<br/> Might     |  **+3**<br/> Agility  | **+1**<br/> Reason |          **+1**<br/> Intuition          |  **+2**<br/> Presence  |
 
 <!-- -->
@@ -175,7 +175,7 @@ At the start of any devil's turn, you can spend Malice to activate one of the fo
 |     Devil, Infernal      |           -           |       Level 6        |    Elite Controller     |         EV 32          |
 | :----------------------: | :-------------------: | :------------------: | :---------------------: | :--------------------: |
 |     **1M**<br/> Size     |   **6**<br/> Speed    | **140**<br/> Stamina |  **1**<br/> Stability   | **7**<br/> Free Strike |
-| **Fire 5**<br/> Immunity | **Fly**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Fire 5**<br/> Immunity | **Fly**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |    **+0**<br/> Might     |  **+1**<br/> Agility  |  **+2**<br/> Reason  |  **+1**<br/> Intuition  |  **+3**<br/> Presence  |
 
 <!-- -->
@@ -200,7 +200,7 @@ At the start of any devil's turn, you can spend Malice to activate one of the fo
 > | ----------------- | ------------------: |
 > | **📏 Ranged 10**  | **🎯 One creature** |
 >
-> **Effect:** The target makes a Presence test
+> **Effect:** The target makes a Presence test.
 >
 > - **≤11:** The target is slowed, takes a bane on power rolls, and can't regain Stamina (save ends).
 > - **12-16:** The target is slowed and takes a bane on power rolls (save ends).
@@ -224,11 +224,11 @@ At the start of any devil's turn, you can spend Malice to activate one of the fo
 >
 > **Trigger:** A creature targets the adjudicator with a strike.
 >
-> **Effect:** The target makes a Presence test
-
-- **≤11:** The adjudicator chooses a new target for the strike.
-- **12-16:** The adjudicator halves the triggering damage.
-- **17+:** The target takes a bane on the strike.
+> **Effect:** The target makes a Presence test.
+>
+> - **≤11:** The adjudicator chooses a new target for the strike.
+> - **12-16:** The adjudicator halves the triggering damage.
+> - **17+:** The target takes a bane on the strike.
 
 <!-- -->
 > ⭐️ **Vexatious Litigation**
@@ -245,7 +245,7 @@ At the start of any devil's turn, you can spend Malice to activate one of the fo
 |     Devil, Infernal      |           -           |       Level 5        |     Elite Artillery     |         EV 28          |
 | :----------------------: | :-------------------: | :------------------: | :---------------------: | :--------------------: |
 |     **1M**<br/> Size     |   **6**<br/> Speed    | **120**<br/> Stamina |  **0**<br/> Stability   | **7**<br/> Free Strike |
-| **Fire 5**<br/> Immunity | **Fly**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Fire 5**<br/> Immunity | **Fly**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |    **+0**<br/> Might     |  **+2**<br/> Agility  |  **+1**<br/> Reason  |  **+1**<br/> Intuition  |  **+3**<br/> Presence  |
 
 <!-- -->
@@ -277,7 +277,7 @@ At the start of any devil's turn, you can spend Malice to activate one of the fo
 > | --------------- | ----------------------------: |
 > | **📏 2 burst**  | **🎯 Each enemy in the area** |
 >
-> **Power Roll + 3**
+> **Power Roll + 3:**
 >
 > - **≤11:** 6 damage; slide 1
 > - **12-16:** 10 damage; slide 3
@@ -292,7 +292,7 @@ At the start of any devil's turn, you can spend Malice to activate one of the fo
 > | ----------------- | ------------------: |
 > | **📏 Ranged 12**  | **🎯 One creature** |
 >
-> If the target is burning (see Fire and Brimstone), they take 6 fire damage.
+> **Effect:** If the target is burning (see Fire and Brimstone), they take 6 fire damage.
 
 <!-- -->
 > ❗️ **Devilish Charm (2 Malice)**
@@ -303,7 +303,7 @@ At the start of any devil's turn, you can spend Malice to activate one of the fo
 >
 > **Trigger:** A creature targets the jurist with a strike.
 >
-> **Effect:** The target makes a Presence test
+> **Effect:** The target makes a Presence test.
 >
 > - **≤11:** The jurist chooses a new target for the strike.
 > - **12-16:** The jurist halves the triggering damage.
@@ -319,7 +319,7 @@ At the start of any devil's turn, you can spend Malice to activate one of the fo
 |     Devil, Infernal      |          -          |       Level 5        |     Elite Defender      |         EV 28          |
 | :----------------------: | :-----------------: | :------------------: | :---------------------: | :--------------------: |
 |     **1M**<br/> Size     |  **6**<br/> Speed   | **160**<br/> Stamina |  **2**<br/> Stability   | **6**<br/> Free Strike |
-| **Fire 5**<br/> Immunity | **-**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Fire 5**<br/> Immunity | **-**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |    **+3**<br/> Might     | **+1**<br/> Agility |  **+0**<br/> Reason  |  **+1**<br/> Intuition  |  **+2**<br/> Presence  |
 
 <!-- -->
@@ -333,7 +333,7 @@ At the start of any devil's turn, you can spend Malice to activate one of the fo
 >
 > - **≤11:** 9 damage
 > - **12-16:** 14 damage; A < 2 slowed (save ends)
-> - \*\*17+:\*\*17 damage; A < 3 slowed (save ends)
+> - **17+:** 17 damage; A < 3 slowed (save ends)
 >
 > **Effect:** If the targets are adjacent to each other, this ability deals an extra 3 damage.
 
@@ -344,11 +344,11 @@ At the start of any devil's turn, you can spend Malice to activate one of the fo
 > | --------------------------------- | ------------------------------: |
 > | **📏 Melee 2**                    | **🎯 Two creatures or objects** |
 >
-> **Power Roll + 3**
+> **Power Roll + 3:**
 >
 > - **≤11:** 6 damage; M < 1 prone
 > - **12-16:** 11 damage; M < 2 prone and can't stand (save ends)
-> - \*\*17+:\*\*14 damage; M < 3 prone and can't stand (save ends)
+> - **17+:** 14 damage; M < 3 prone and can't stand (save ends)
 >
 > **Effect:** If this ability is used as part of the Charge main action, the legate ignores difficult terrain during the charge. Each creature and object whose space the legate moves through takes the damage from this ability, but not its additional effects.
 
@@ -370,7 +370,7 @@ At the start of any devil's turn, you can spend Malice to activate one of the fo
 >
 > **Trigger:** A creature targets the legate with a strike.
 >
-> **Effect:** The target makes a Presence test
+> **Effect:** The target makes a Presence test.
 >
 > - **≤11:** The legate chooses a new target for the strike.
 > - **12-16:** The legate halves the triggering damage.
@@ -391,7 +391,7 @@ At the start of any devil's turn, you can spend Malice to activate one of the fo
 |     Devil, Infernal      |          -          |       Level 6        |      Elite Harrier      |         EV 32          |
 | :----------------------: | :-----------------: | :------------------: | :---------------------: | :--------------------: |
 |     **1M**<br/> Size     |  **7**<br/> Speed   | **160**<br/> Stamina |  **0**<br/> Stability   | **7**<br/> Free Strike |
-| **Fire 5**<br/> Immunity | **-**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Fire 5**<br/> Immunity | **-**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |    **+1**<br/> Might     | **+3**<br/> Agility |  **+0**<br/> Reason  |  **+1**<br/> Intuition  |  **+2**<br/> Presence  |
 
 <!-- -->
@@ -416,7 +416,7 @@ At the start of any devil's turn, you can spend Malice to activate one of the fo
 > | ------------------------- | ------------------: |
 > | **📏 Melee 1**            | **🎯 One creature** |
 >
-> **Power Roll + 3**
+> **Power Roll + 3:**
 >
 > - **≤11:** 11 damage
 > - **12-16:** 17 damage
@@ -442,7 +442,7 @@ At the start of any devil's turn, you can spend Malice to activate one of the fo
 >
 > **Trigger:** A creature targets the magistrate with a strike.
 >
-> **Effect:** The target makes a Presence test
+> **Effect:** The target makes a Presence test.
 >
 > - **≤11:** The magistrate chooses a new target for the strike.
 > - **12-16:** The magistrate halves the triggering damage.
@@ -463,7 +463,7 @@ At the start of any devil's turn, you can spend Malice to activate one of the fo
 |     Devil, Infernal      |           -           |       Level 6        |         Leader          |         EV 32          |
 | :----------------------: | :-------------------: | :------------------: | :---------------------: | :--------------------: |
 |     **1M**<br/> Size     |   **7**<br/> Speed    | **181**<br/> Stamina |  **2**<br/> Stability   | **6**<br/> Free Strike |
-| **Fire 5**<br/> Immunity | **Fly**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Fire 5**<br/> Immunity | **Fly**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |    **+1**<br/> Might     |  **+3**<br/> Agility  |  **+0**<br/> Reason  |  **+1**<br/> Intuition  |  **+2**<br/> Presence  |
 
 <!-- -->
@@ -488,7 +488,7 @@ At the start of any devil's turn, you can spend Malice to activate one of the fo
 > | ------------------------- | -------------------: |
 > | **📏 Ranged 12**          | **🎯 Two creatures** |
 >
-> **Power Roll + 4**
+> **Power Roll + 4:**
 >
 > - **≤11:** I < 2 the target is charmed (save ends)
 > - **12-16:** I < 3 the target is charmed (save ends)

@@ -3,13 +3,13 @@ agility: -1
 ancestry:
   - Horror
   - Olothec
-ev: '84'
+ev: '96'
 file_basename: Olothec
 file_dpath: Monsters/Olothec/Statblocks
 free_strike: 7
 intuition: 2
 item_id: olothec
-item_index: '107'
+item_index: '01'
 item_name: Olothec
 level: 6
 might: 4
@@ -18,23 +18,23 @@ reason: 4
 roles:
   - Solo
 scc:
-  - mcdm.monsters.v1:monster:olothec
+  - mcdm.monsters.v1:monster.olothec.statblock:olothec
 scdc:
-  - 1.1.1:2:107
+  - 1.1.1:2.12.1:01
 size: '2'
 source: mcdm.monsters.v1
 speed: 7
 stability: 0
 stamina: '450'
-type: monster
+type: monster/olothec/statblock
 ---
 
 ###### Olothec
 
-|       Horror, Olothec       |              -              |       Level 6        |          Solo           |         EV 84          |
+|       Horror, Olothec       |              -              |       Level 6        |          Solo           |         EV 96          |
 | :-------------------------: | :-------------------------: | :------------------: | :---------------------: | :--------------------: |
 |       **2**<br/> Size       |      **7**<br/> Speed       | **450**<br/> Stamina |  **0**<br/> Stability   | **7**<br/> Free Strike |
-| **Psychic 6**<br/> Immunity | **Fly, swim**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Psychic 6**<br/> Immunity | **Fly, swim**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |      **+4**<br/> Might      |     **-1**<br/> Agility     |  **+4**<br/> Reason  |  **+2**<br/> Intuition  |  **+3**<br/> Presence  |
 
 <!-- -->
@@ -145,7 +145,7 @@ type: monster
 > - **12-16:** 14 psychic damage; P < 3 frightened (save ends)
 > - **17+:** 17 psychic damage; P < 4 frightened (save ends)
 >
-> **Effect:** While frightened this way, a target can't make saving throws to end any other effects
+> **Effect:** While frightened this way, a target can't make saving throws to end any other effects.
 
 <!-- -->
 > ☠️ **Psychic Pulse (Villain Action 2)**

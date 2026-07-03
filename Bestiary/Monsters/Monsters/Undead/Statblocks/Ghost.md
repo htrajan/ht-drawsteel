@@ -8,7 +8,7 @@ file_dpath: Monsters/Undead/Statblocks
 free_strike: 4
 intuition: 0
 item_id: ghost
-item_index: '80'
+item_index: '28'
 item_name: Ghost
 level: 1
 might: -2
@@ -17,15 +17,15 @@ reason: 0
 roles:
   - Leader
 scc:
-  - mcdm.monsters.v1:monster:ghost
+  - mcdm.monsters.v1:monster.undead.statblock:ghost
 scdc:
-  - 1.1.1:2:80
+  - 1.1.1:2.8.1:28
 size: 1M
 source: mcdm.monsters.v1
 speed: 6
 stability: 1
 stamina: '80'
-type: monster
+type: monster/undead/statblock
 ---
 
 ###### Ghost
@@ -33,7 +33,7 @@ type: monster
 |                  Undead                  |              -               |       Level 1       |         Leader          |         EV 12          |
 | :--------------------------------------: | :--------------------------: | :-----------------: | :---------------------: | :--------------------: |
 |             **1M**<br/> Size             |       **6**<br/> Speed       | **80**<br/> Stamina |  **1**<br/> Stability   | **4**<br/> Free Strike |
-| **Corruption 3, poison 3**<br/> Immunity | **Fly, hover**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Corruption 3, poison 3**<br/> Immunity | **Fly, hover**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |            **-2**<br/> Might             |     **+2**<br/> Agility      |  **0**<br/> Reason  |  **0**<br/> Intuition   |  **+3**<br/> Presence  |
 
 <!-- -->
@@ -58,7 +58,7 @@ type: monster
 > | --------------- | -------------------------------------------: |
 > | **📏 Ranged 8** | **🎯 Self or one ally with a Phasing trait** |
 >
-> **Effect:** The target shifts up to their speed
+> **Effect:** The target shifts up to their speed.
 >
 > **2 Malice:** The ghost chooses one additional target.
 
@@ -100,7 +100,7 @@ type: monster
 > - **12-16:** P < 2 the target is levitated (EoT)
 > - **17+:** P < 3 the target is levitated until the end of the encounter
 >
-> **Effect:** A levitated target floats 1 square off the ground when first affected, then rises 1 square at the end of each of their turns. If a levitated target can't already fly, they can fly but are slowed and weakened while flying this way
+> **Effect:** A levitated target floats 1 square off the ground when first affected, then rises 1 square at the end of each of their turns. If a levitated target can't already fly, they can fly but are slowed and weakened while flying this way.
 
 <!-- -->
 > ☠️ **Awful Wail (Villain Action 3)**

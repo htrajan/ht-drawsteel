@@ -14,11 +14,11 @@ type: monster/section
 
 ## Manticore
 
-A weary traveler hears a call through the forest or friendly voices from a rocky shelter, and their heart leaps at the promise of refuge-only to find themself at the mercy of serrated teeth and poisonous spikes. In a manticore's territory, people go missing without a trace. These fearsome creatures carve out their hunting grounds in forests near small villages, mountain passes where caravans travel, and other locations with plentiful wildlife. Though manticores can subsist on a carnivorous diet of any nearby prey, their choicest meal is humanoid flesh.
+A weary traveler hears a call through the forest or friendly voices from a rocky shelter, and their heart leaps at the promise of refuge—only to find themself at the mercy of serrated teeth and poisonous spikes. In a manticore's territory, people go missing without a trace. These fearsome creatures carve out their hunting grounds in forests near small villages, mountain passes where caravans travel, and other locations with plentiful wildlife. Though manticores can subsist on a carnivorous diet of any nearby prey, their choicest meal is humanoid flesh.
 
 #### Uncanny Appearances
 
-A manticore has a lion's body, a dragon's wings, and a scorpion's tail barbed with spines, but their most unnerving trait is their humanoid face. Owing to a quirk of magical evolution, manticores develop the features of common ancestries that populate their region of birth. For example, a manticore in an area densely populated by devils inherits fiendish eyes and devilish horns. Manticores are born with an inherent understanding of a regional language, but they can speak only through mimicking that which they've heard-a talent manticores use to lure in prey.
+A manticore has a lion's body, a dragon's wings, and a scorpion's tail barbed with spines, but their most unnerving trait is their humanoid face. Owing to a quirk of magical evolution, manticores develop the features of common ancestries that populate their region of birth. For example, a manticore in an area densely populated by devils inherits fiendish eyes and devilish horns. Manticores are born with an inherent understanding of a regional language, but they can speak only through mimicking that which they've heard—a talent manticores use to lure in prey.
 
 #### Heralds of Death
 
@@ -62,11 +62,11 @@ At the start of any manticore's turn, you can spend Malice to activate one of th
 
 ###### Manticore
 
-|  Beast, Manticore   |           -           |        Level 4        |          Solo           |         EV 72          |
-| :-----------------: | :-------------------: | :-------------------: | :---------------------: | :--------------------: |
-|   **2**<br/> Size   |   **1**<br/> Speed    | **0350**<br/> Stamina |  **2**<br/> Stability   | **6**<br/> Free Strike |
-| **-**<br/> Immunity | **Fly**<br/> Movement |           -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
-|  **+4**<br/> Might  |  **+3**<br/> Agility  |   **0**<br/> Reason   |  **0**<br/> Intuition   |  **-1**<br/> Presence  |
+|  Beast, Manticore   |           -           |       Level 4        |          Solo           |         EV 72          |
+| :-----------------: | :-------------------: | :------------------: | :---------------------: | :--------------------: |
+|   **2**<br/> Size   |   **10**<br/> Speed   | **350**<br/> Stamina |  **2**<br/> Stability   | **6**<br/> Free Strike |
+| **-**<br/> Immunity | **Fly**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
+|  **+4**<br/> Might  |  **+3**<br/> Agility  |  **0**<br/> Reason   |  **0**<br/> Intuition   |  **-1**<br/> Presence  |
 
 <!-- -->
 > ☠️ **Solo Monster**
@@ -108,7 +108,7 @@ At the start of any manticore's turn, you can spend Malice to activate one of th
 > - **12-16:** 11 damage; M < 3 4 poison damage, weakened (save ends)
 > - **17+:** 14 damage; M < 4 8 poison damage, weakened (save ends)
 >
-> **1 Malice:** While weakened this way, a target takes 1d6 poison dam- age at the start of each of their turns.
+> **1 Malice:** While weakened this way, a target takes 1d6 poison damage at the start of each of their turns.
 
 <!-- -->
 > 🗡 **Harrying Claws**
@@ -116,6 +116,8 @@ At the start of any manticore's turn, you can spend Malice to activate one of th
 > | **Melee, Strike, Weapon** |                    **Maneuver** |
 > | ------------------------- | ------------------------------: |
 > | **📏 Melee 1**            | **🎯 Two creatures or objects** |
+>
+> **Power Roll + 4:**
 >
 > - **≤11:** Slide 1; A < 2 3 damage
 > - **12-16:** Slide 2; A < 3 5 damage
@@ -138,6 +140,8 @@ At the start of any manticore's turn, you can spend Malice to activate one of th
 > | **Area, Magic** |                            **-** |
 > | --------------- | -------------------------------: |
 > | **📏 5 burst**  | **🎯 Each creature in the area** |
+>
+> **Power Roll + 4:**
 >
 > - **≤11:** Frightened (EoT); if the target has I < 2 they are instead frightened (save ends)
 > - **12-16:** Frightened (EoT); if the target has I < 3 they are instead frightened (save ends)
@@ -166,7 +170,7 @@ At the start of any manticore's turn, you can spend Malice to activate one of th
 <!-- -->
 > **Manticore Treasures**
 >
-> Although manticores have no earthly use for treasure, they tend to collect a lot of it-it comes attached to the humanoids they prey on. Since manticores drag their victims back to their cave lairs to feed, a manticore's cave is typically strewn with bones, broken weapons, coins, and other relics of unfortunate travelers. After a while, a manticore abandons its cluttered lair in favor of a fresh one, leaving unguarded treasure for anyone willing to explore manticore-infested wastes.
+> Although manticores have no earthly use for treasure, they tend to collect a lot of it—it comes attached to the humanoids they prey on. Since manticores drag their victims back to their cave lairs to feed, a manticore's cave is typically strewn with bones, broken weapons, coins, and other relics of unfortunate travelers. After a while, a manticore abandons its cluttered lair in favor of a fresh one, leaving unguarded treasure for anyone willing to explore manticore-infested wastes.
 >
 > The following are sample treasures from a manticore's cave, of which a manticore might have one or two. These items can be found in Draw Steel: Heroes.
 >

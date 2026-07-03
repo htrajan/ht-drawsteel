@@ -9,7 +9,7 @@ file_dpath: Monsters/Humans/Statblocks
 free_strike: 2
 intuition: 0
 item_id: human-guard
-item_index: '170'
+item_index: '14'
 item_name: Human Guard
 level: 1
 might: 2
@@ -18,15 +18,15 @@ reason: 0
 roles:
   - Minion Brute
 scc:
-  - mcdm.monsters.v1:monster:human-guard
+  - mcdm.monsters.v1:monster.humans.statblock:human-guard
 scdc:
-  - 1.1.1:2:170
+  - 1.1.1:2.20.1:14
 size: 1M
 source: mcdm.monsters.v1
 speed: 5
 stability: 0
 stamina: '5'
-type: monster
+type: monster/humans/statblock
 ---
 
 ###### Human Guard
@@ -34,7 +34,7 @@ type: monster
 |              Human, Humanoid              |          -          |      Level 1       |              Minion Brute               | EV 3 for four minions  |
 | :---------------------------------------: | :-----------------: | :----------------: | :-------------------------------------: | :--------------------: |
 |             **1M**<br/> Size              |  **5**<br/> Speed   | **5**<br/> Stamina |          **0**<br/> Stability           | **2**<br/> Free Strike |
-| **Corruption 1, psychic 1**<br/> Immunity | **-**<br/> Movement |         -          | **+5 bonus to speed**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Corruption 1, psychic 1**<br/> Immunity | **-**<br/> Movement |         -          | **+2 bonus to speed**<br/> With Captain |  **-**<br/> Weakness   |
 |             **+2**<br/> Might             | **0**<br/> Agility  | **0**<br/> Reason  |          **0**<br/> Intuition           |  **0**<br/> Presence   |
 
 <!-- -->

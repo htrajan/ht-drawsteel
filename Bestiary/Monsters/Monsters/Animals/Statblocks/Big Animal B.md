@@ -8,7 +8,7 @@ file_dpath: Monsters/Animals/Statblocks
 free_strike: 5
 intuition: 1
 item_id: big-animal-b
-item_index: '253'
+item_index: '06'
 item_name: Big Animal B
 level: 2
 might: 2
@@ -17,15 +17,15 @@ reason: -1
 roles:
   - Elite Mount
 scc:
-  - mcdm.monsters.v1:monster:big-animal-b
+  - mcdm.monsters.v1:monster.animals.statblock:big-animal-b
 scdc:
-  - 1.1.1:2:253
+  - 1.1.1:2.34.1:06
 size: '3'
 source: mcdm.monsters.v1
 speed: 6
 stability: 3
 stamina: '80'
-type: monster
+type: monster/animals/statblock
 ---
 
 ###### Big Animal B
@@ -33,7 +33,7 @@ type: monster
 |       Animal        |          -          |       Level 2       |       Elite Mount       |         EV 16          |
 | :-----------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |   **3**<br/> Size   |  **6**<br/> Speed   | **80**<br/> Stamina |  **3**<br/> Stability   | **5**<br/> Free Strike |
-| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |  **+2**<br/> Might  | **+1**<br/> Agility | **-1**<br/> Reason  |  **+1**<br/> Intuition  |  **+0**<br/> Presence  |
 
 <!-- -->

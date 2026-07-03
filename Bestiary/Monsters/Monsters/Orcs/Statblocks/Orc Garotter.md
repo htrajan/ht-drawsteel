@@ -9,7 +9,7 @@ file_dpath: Monsters/Orcs/Statblocks
 free_strike: 4
 intuition: 1
 item_id: orc-garotter
-item_index: '135'
+item_index: '13'
 item_name: Orc Garotter
 level: 1
 might: 1
@@ -18,15 +18,15 @@ reason: 0
 roles:
   - Platoon Ambusher
 scc:
-  - mcdm.monsters.v1:monster:orc-garotter
+  - mcdm.monsters.v1:monster.orcs.statblock:orc-garotter
 scdc:
-  - 1.1.1:2:135
+  - 1.1.1:2.16.1:13
 size: 1L
 source: mcdm.monsters.v1
 speed: 5
 stability: 0
 stamina: '30'
-type: monster
+type: monster/orcs/statblock
 ---
 
 ###### Orc Garotter
@@ -34,7 +34,7 @@ type: monster
 |    Humanoid, Orc    |          -          |       Level 1       |    Platoon Ambusher     |          EV 6          |
 | :-----------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |  **1L**<br/> Size   |  **5**<br/> Speed   | **30**<br/> Stamina |  **0**<br/> Stability   | **4**<br/> Free Strike |
-| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |  **+1**<br/> Might  | **+2**<br/> Agility | **+0**<br/> Reason  |  **+1**<br/> Intuition  |  **-1**<br/> Presence  |
 
 <!-- -->
@@ -70,9 +70,9 @@ type: monster
 <!-- -->
 > 👤 **Chroma Cloak (1 Malice)**
 >
-> | **-**          |        **Maneuver** |
-> | -------------- | ------------------: |
-> | **📏 Melee 1** | **🎯 One creature** |
+> | **-**    | **Maneuver** |
+> | -------- | -----------: |
+> | **📏 -** |     **🎯 -** |
 >
 > The garroter turns invisible until the end of their turn. This invisibility ends early if they take damage or use an ability.
 

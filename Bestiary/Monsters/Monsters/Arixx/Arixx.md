@@ -20,7 +20,7 @@ An arixx is a chitinous burrowing insectoid beast who stands taller than a horse
 
 #### Pastoral Pest
 
-Although arixxi can be found anywhere, they are a particular plague in settled lands. An arixx hunts alone, lurking a few feet below roadways and pastures. When their sensitive antennae detect movement above, they burst from the earth, dragging living prey into their tunnels to be devoured. These hit-and-run tactics make the arixx virtually impossible to eradicate-unless they have the bad luck to ambush a party of well-armed adventurers. Many communities pay a handsome bounty for a slain arixx.
+Although arixxi can be found anywhere, they are a particular plague in settled lands. An arixx hunts alone, lurking a few feet below roadways and pastures. When their sensitive antennae detect movement above, they burst from the earth, dragging living prey into their tunnels to be devoured. These hit-and-run tactics make the arixx virtually impossible to eradicate—unless they have the bad luck to ambush a party of well-armed adventurers. Many communities pay a handsome bounty for a slain arixx.
 
 #### Terror of the Thaw
 
@@ -59,7 +59,7 @@ At the start of an arixx's turn, you can spend Malice to activate one of the fol
 |    Arixx, Beast     |            -             |       Level 1        |          Solo           |         EV 36          |
 | :-----------------: | :----------------------: | :------------------: | :---------------------: | :--------------------: |
 |   **2**<br/> Size   |     **5**<br/> Speed     | **200**<br/> Stamina |  **2**<br/> Stability   | **5**<br/> Free Strike |
-| **-**<br/> Immunity | **Burrow**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **Burrow**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |  **+3**<br/> Might  |   **+1**<br/> Agility    |  **-3**<br/> Reason  |  **+1**<br/> Intuition  |  **-4**<br/> Presence  |
 
 <!-- -->

@@ -11,7 +11,7 @@ file_dpath: Monsters/Valok/Statblocks
 free_strike: 9
 intuition: 1
 item_id: multivok-bodyguard
-item_index: '328'
+item_index: '01'
 item_name: Multivok Bodyguard
 level: 9
 might: 4
@@ -20,15 +20,15 @@ reason: -2
 roles:
   - Elite Defender
 scc:
-  - mcdm.monsters.v1:monster:multivok-bodyguard
+  - mcdm.monsters.v1:monster.valok.statblock:multivok-bodyguard
 scdc:
-  - 1.1.1:2:328
+  - 1.1.1:2.43.1:01
 size: '2'
 source: mcdm.monsters.v1
 speed: 5
 stability: 5
 stamina: '240'
-type: monster
+type: monster/valok/statblock
 ---
 
 ###### Multivok Bodyguard
@@ -36,7 +36,7 @@ type: monster
 | Construct, Multivok, Soulless, Valok |          -          |       Level 9        |     Elite Defender      |         EV 44          |
 | :----------------------------------: | :-----------------: | :------------------: | :---------------------: | :--------------------: |
 |           **2**<br/> Size            |  **5**<br/> Speed   | **240**<br/> Stamina |  **5**<br/> Stability   | **9**<br/> Free Strike |
-|         **-**<br/> Immunity          | **-**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+|         **-**<br/> Immunity          | **-**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |          **+4**<br/> Might           | **0**<br/> Agility  |  **-2**<br/> Reason  |  **+1**<br/> Intuition  |  **-4**<br/> Presence  |
 
 <!-- -->
@@ -97,7 +97,7 @@ type: monster
 <!-- -->
 > ⭐️ **Crafted to Perfection**
 >
-> The bodyguard's shape can't be changed by any external effect
+> The bodyguard's shape can't be changed by any external effect.
 
 <!-- -->
 > ⭐️ **Valiar Might**

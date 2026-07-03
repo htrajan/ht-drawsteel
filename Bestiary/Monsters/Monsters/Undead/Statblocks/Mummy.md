@@ -9,7 +9,7 @@ file_dpath: Monsters/Undead/Statblocks
 free_strike: 3
 intuition: 3
 item_id: mummy
-item_index: '61'
+item_index: 09
 item_name: Mummy
 level: 4
 might: 3
@@ -18,24 +18,24 @@ reason: 1
 roles:
   - Horde Brute
 scc:
-  - mcdm.monsters.v1:monster:mummy
+  - mcdm.monsters.v1:monster.undead.statblock:mummy
 scdc:
-  - 1.1.1:2:61
+  - 1.1.1:2.8.1:09
 size: 1M
 source: mcdm.monsters.v1
 speed: 5
 stability: 2
 stamina: '50'
-type: monster
+type: monster/undead/statblock
 ---
 
 ###### Mummy
 
-|              Mummy, Undead               |          -          |       Level 4       |       Horde Brute       |            EV 6            |
-| :--------------------------------------: | :-----------------: | :-----------------: | :---------------------: | :------------------------: |
-|             **1M**<br/> Size             |  **5**<br/> Speed   | **50**<br/> Stamina |  **2**<br/> Stability   |   **3**<br/> Free Strike   |
-| **Corruption 4, poison 4**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **Fire 5**<br/> Weaknesses |
-|            **+3**<br/> Might             | **-1**<br/> Agility | **+1**<br/> Reason  |  **+3**<br/> Intuition  |    **0**<br/> Presence     |
+|              Mummy, Undead               |          -          |       Level 4       |       Horde Brute       |           EV 6           |
+| :--------------------------------------: | :-----------------: | :-----------------: | :---------------------: | :----------------------: |
+|             **1M**<br/> Size             |  **5**<br/> Speed   | **50**<br/> Stamina |  **2**<br/> Stability   |  **3**<br/> Free Strike  |
+| **Corruption 4, poison 4**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **Fire 5**<br/> Weakness |
+|            **+3**<br/> Might             | **-1**<br/> Agility | **+1**<br/> Reason  |  **+3**<br/> Intuition  |   **0**<br/> Presence    |
 
 <!-- -->
 > 🗡 **Accursed Bindings (Signature Ability)**
@@ -76,4 +76,4 @@ type: monster
 >
 > **Trigger:** The mummy comes within distance of a restrained creature or starts their turn within distance of one.
 >
-> **Effect:** The target takes 8 poison damage
+> **Effect:** The target takes 8 poison damage.

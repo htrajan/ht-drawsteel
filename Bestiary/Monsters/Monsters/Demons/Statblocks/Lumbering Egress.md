@@ -9,7 +9,7 @@ file_dpath: Monsters/Demons/Statblocks
 free_strike: 7
 intuition: 2
 item_id: lumbering-egress
-item_index: '266'
+item_index: '13'
 item_name: Lumbering Egress
 level: 6
 might: 4
@@ -18,24 +18,24 @@ reason: 1
 roles:
   - Leader
 scc:
-  - mcdm.monsters.v1:monster:lumbering-egress
+  - mcdm.monsters.v1:monster.demons.statblock:lumbering-egress
 scdc:
-  - 1.1.1:2:266
+  - 1.1.1:2.35.1:13
 size: '3'
 source: mcdm.monsters.v1
 speed: 6
 stability: 3
 stamina: '180'
-type: monster
+type: monster/demons/statblock
 ---
 
 ###### Lumbering Egress
 
-|   Abyssal, Demon    |          -          |       Level 6        |         Leader          |           EV 32            |
-| :-----------------: | :-----------------: | :------------------: | :---------------------: | :------------------------: |
-|   **3**<br/> Size   |  **6**<br/> Speed   | **180**<br/> Stamina |  **3**<br/> Stability   |   **7**<br/> Free Strike   |
-| **-**<br/> Immunity | **-**<br/> Movement |          -           | **-**<br/> With Captain | **Holy 5**<br/> Weaknesses |
-|  **+4**<br/> Might  | **-1**<br/> Agility |  **+1**<br/> Reason  |  **+2**<br/> Intuition  |    **+2**<br/> Presence    |
+|   Abyssal, Demon    |          -          |       Level 6        |         Leader          |          EV 32           |
+| :-----------------: | :-----------------: | :------------------: | :---------------------: | :----------------------: |
+|   **3**<br/> Size   |  **6**<br/> Speed   | **180**<br/> Stamina |  **3**<br/> Stability   |  **7**<br/> Free Strike  |
+| **-**<br/> Immunity | **-**<br/> Movement |          -           | **-**<br/> With Captain | **Holy 5**<br/> Weakness |
+|  **+4**<br/> Might  | **-1**<br/> Agility |  **+1**<br/> Reason  |  **+2**<br/> Intuition  |   **+2**<br/> Presence   |
 
 <!-- -->
 > 🏹 **Ensnarer Cannon (Signature Ability)**
@@ -89,8 +89,8 @@ type: monster
 > **Power Roll + 4:**
 >
 > - **≤11:** 7 corruption damage
-> - **12-16:** 2 12 corruption damage
-> - **17+:** 3 15 corruption damage; two frenzieds appear in unoccupied spaces adjacent to each target
+> - **12-16:** 12 corruption damage
+> - **17+:** 15 corruption damage; two frenzieds appear in unoccupied spaces adjacent to each target
 
 <!-- -->
 > ☠️ **Fold Space (Villain Action 2)**
@@ -99,7 +99,7 @@ type: monster
 > | ---------------- | ----------: |
 > | **📏 Ranged 20** | **🎯 Self** |
 >
-> **Effect:** The egress folds into their own portal and teleports to an un occupied space within distance. Four level 4 demon minions (most commonly orliq, grulqins, and wobalas) appear in squares in the egress's former space.
+> **Effect:** The egress folds into their own portal and teleports to an unoccupied space within distance. Four level 4 demon minions (most commonly orliq, grulqins, and wobalas) appear in squares in the egress's former space.
 
 <!-- -->
 > ☠️ **Blood of the Abyss (Villain Action 3)**
@@ -111,7 +111,7 @@ type: monster
 > **Power Roll + 4:**
 >
 > - **≤11:** 6 corruption damage; R < 2 weakened (save ends)
-> - **12-16:** 2 11 corruption damage; R < 3 weakened (save ends)
-> - **17+:** 3 14 corruption damage; R < 4 weakened (save ends)
+> - **12-16:** 11 corruption damage; R < 3 weakened (save ends)
+> - **17+:** 14 corruption damage; R < 4 weakened (save ends)
 >
 > **Effect:** The egress recalls and instantly destroys any minion allies on the encounter map. A torrent of churned-up minion bodies, blood, and ichor erupts from the egress, dealing an extra 1 damage for each minion destroyed this way.

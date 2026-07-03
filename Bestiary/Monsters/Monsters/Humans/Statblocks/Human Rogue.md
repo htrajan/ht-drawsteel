@@ -9,7 +9,7 @@ file_dpath: Monsters/Humans/Statblocks
 free_strike: 2
 intuition: 0
 item_id: human-rogue
-item_index: '157'
+item_index: '01'
 item_name: Human Rogue
 level: 1
 might: 0
@@ -18,15 +18,15 @@ reason: 0
 roles:
   - Minion Ambusher
 scc:
-  - mcdm.monsters.v1:monster:human-rogue
+  - mcdm.monsters.v1:monster.humans.statblock:human-rogue
 scdc:
-  - 1.1.1:2:157
+  - 1.1.1:2.20.1:01
 size: 1M
 source: mcdm.monsters.v1
 speed: 7
 stability: 0
 stamina: '4'
-type: monster
+type: monster/humans/statblock
 ---
 
 ###### Human Rogue
@@ -34,7 +34,7 @@ type: monster
 |              Human, Humanoid              |          -          |      Level 1       |                Minion Ambusher                | EV 3 for four minions  |
 | :---------------------------------------: | :-----------------: | :----------------: | :-------------------------------------------: | :--------------------: |
 |             **1M**<br/> Size              |  **7**<br/> Speed   | **4**<br/> Stamina |             **0**<br/> Stability              | **2**<br/> Free Strike |
-| **Corruption 1, psychic 1**<br/> Immunity | **-**<br/> Movement |         -          | **Gain an edge on strikes**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Corruption 1, psychic 1**<br/> Immunity | **-**<br/> Movement |         -          | **Gain an edge on strikes**<br/> With Captain |  **-**<br/> Weakness   |
 |             **0**<br/> Might              | **+2**<br/> Agility | **0**<br/> Reason  |             **0**<br/> Intuition              |  **+1**<br/> Presence  |
 
 <!-- -->

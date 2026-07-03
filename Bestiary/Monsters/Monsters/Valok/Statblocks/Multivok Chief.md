@@ -11,7 +11,7 @@ file_dpath: Monsters/Valok/Statblocks
 free_strike: 9
 intuition: 1
 item_id: multivok-chief
-item_index: '332'
+item_index: '05'
 item_name: Multivok Chief
 level: 9
 might: 4
@@ -20,15 +20,15 @@ reason: -2
 roles:
   - Elite Support
 scc:
-  - mcdm.monsters.v1:monster:multivok-chief
+  - mcdm.monsters.v1:monster.valok.statblock:multivok-chief
 scdc:
-  - 1.1.1:2:332
+  - 1.1.1:2.43.1:05
 size: 1L
 source: mcdm.monsters.v1
 speed: 5
 stability: 3
 stamina: '220'
-type: monster
+type: monster/valok/statblock
 ---
 
 ###### Multivok Chief
@@ -36,7 +36,7 @@ type: monster
 | Construct, Multivok, Soulless, Valok |          -          |       Level 9        |      Elite Support      |         EV 44          |
 | :----------------------------------: | :-----------------: | :------------------: | :---------------------: | :--------------------: |
 |           **1L**<br/> Size           |  **5**<br/> Speed   | **220**<br/> Stamina |  **3**<br/> Stability   | **9**<br/> Free Strike |
-|         **-**<br/> Immunity          | **-**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+|         **-**<br/> Immunity          | **-**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |          **+4**<br/> Might           | **+1**<br/> Agility |  **-2**<br/> Reason  |  **+1**<br/> Intuition  |  **-3**<br/> Presence  |
 
 <!-- -->
@@ -74,7 +74,7 @@ type: monster
 > | --------------- | --------------: |
 > | **📏 Ranged 5** | **🎯 One ally** |
 >
-> **Effect:** The target shifts up to their speed and can use a main action
+> **Effect:** The target shifts up to their speed and can use a main action.
 
 <!-- -->
 > ❗️ **Quick Shield**
@@ -95,7 +95,7 @@ type: monster
 <!-- -->
 > ⭐️ **Crafted to Perfection**
 >
-> The chief's shape can't be changed by any external effect
+> The chief's shape can't be changed by any external effect.
 
 <!-- -->
 > ⭐️ **Valiar Might**

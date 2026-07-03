@@ -10,7 +10,7 @@ file_dpath: Monsters/War Dogs/Statblocks
 free_strike: 3
 intuition: 4
 item_id: war-dog-iron-priest
-item_index: '351'
+item_index: '01'
 item_name: War Dog Iron Priest
 level: 8
 might: 2
@@ -19,15 +19,15 @@ reason: 1
 roles:
   - Horde Support
 scc:
-  - mcdm.monsters.v1:monster:war-dog-iron-priest
+  - mcdm.monsters.v1:monster.war-dogs.statblock:war-dog-iron-priest
 scdc:
-  - 1.1.1:2:351
+  - 1.1.1:2.51.1:01
 size: 1M
 source: mcdm.monsters.v1
 speed: 5
 stability: 0
 stamina: '50'
-type: monster
+type: monster/war-dogs/statblock
 ---
 
 ###### War Dog Iron Priest
@@ -35,7 +35,7 @@ type: monster
 | Humanoid, Soulless, War Dog |          -          |       Level 8       |      Horde Support      |         EV 10          |
 | :-------------------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |      **1M**<br/> Size       |  **5**<br/> Speed   | **50**<br/> Stamina |  **0**<br/> Stability   | **3**<br/> Free Strike |
-|     **-**<br/> Immunity     | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+|     **-**<br/> Immunity     | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |      **+2**<br/> Might      | **+1**<br/> Agility | **+1**<br/> Reason  |  **+4**<br/> Intuition  |  **+4**<br/> Presence  |
 
 <!-- -->
@@ -60,7 +60,7 @@ type: monster
 > | --------------- | ------------------------------: |
 > | **📏 4 aura**   | **🎯 Each war dog in the area** |
 >
-> **Effect:** For every 2 Malice spent, each target gains one of the following effects until the start of the iron priest's next turn
+> **Effect:** For every 2 Malice spent, each target gains one of the following effects until the start of the iron priest's next turn.
 >
 > - The target has damage immunity 2.
 > - The target's strikes deal an extra 3 holy damage.

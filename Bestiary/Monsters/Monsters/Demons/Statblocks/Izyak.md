@@ -9,7 +9,7 @@ file_dpath: Monsters/Demons/Statblocks
 free_strike: 4
 intuition: 2
 item_id: izyak
-item_index: '271'
+item_index: '18'
 item_name: Izyak
 level: 10
 might: 0
@@ -18,24 +18,24 @@ reason: 5
 roles:
   - Horde Controller
 scc:
-  - mcdm.monsters.v1:monster:izyak
+  - mcdm.monsters.v1:monster.demons.statblock:izyak
 scdc:
-  - 1.1.1:2:271
+  - 1.1.1:2.35.1:18
 size: '2'
 source: mcdm.monsters.v1
 speed: 6
 stability: 0
 stamina: '55'
-type: monster
+type: monster/demons/statblock
 ---
 
 ###### Izyak
 
-|   Abyssal, Demon    |             -              |      Level 10       |    Horde Controller     |           EV 12            |
-| :-----------------: | :------------------------: | :-----------------: | :---------------------: | :------------------------: |
-|   **2**<br/> Size   |      **6**<br/> Speed      | **55**<br/> Stamina |  **0**<br/> Stability   |   **4**<br/> Free Strike   |
-| **-**<br/> Immunity | **Teleport**<br/> Movement |          -          | **-**<br/> With Captain | **Holy 5**<br/> Weaknesses |
-|  **+0**<br/> Might  |    **+0**<br/> Agility     | **+5**<br/> Reason  |  **+2**<br/> Intuition  |    **+4**<br/> Presence    |
+|   Abyssal, Demon    |             -              |      Level 10       |    Horde Controller     |          EV 12           |
+| :-----------------: | :------------------------: | :-----------------: | :---------------------: | :----------------------: |
+|   **2**<br/> Size   |      **6**<br/> Speed      | **55**<br/> Stamina |  **0**<br/> Stability   |  **4**<br/> Free Strike  |
+| **-**<br/> Immunity | **Teleport**<br/> Movement |          -          | **-**<br/> With Captain | **Holy 5**<br/> Weakness |
+|  **+0**<br/> Might  |    **+0**<br/> Agility     | **+5**<br/> Reason  |  **+2**<br/> Intuition  |   **+4**<br/> Presence   |
 
 <!-- -->
 > 🏹 **Nostalgic Wanderlust (Signature Ability)**

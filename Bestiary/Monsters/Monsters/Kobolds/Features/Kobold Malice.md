@@ -2,12 +2,12 @@
 file_basename: Kobold Malice
 file_dpath: Monsters/Kobolds/Features
 item_id: kobold-malice-malice-features
-item_index: 08
+item_index: '11'
 item_name: Kobold Malice (Malice Features)
 scc:
   - mcdm.monsters.v1:monster.feature:kobold-malice-malice-features
 scdc:
-  - 1.1.1:2.2:08
+  - 1.1.1:2.2:11
 source: mcdm.monsters.v1
 type: monster/feature
 ---
@@ -29,4 +29,4 @@ At the start of any kobolds's turn, you can spend Malice to activate one of the 
 <!-- -->
 > ⭐️ **Shield Wall (7 Malice)**
 >
-> Until the end of the round, all kobolds with Shield? Shield! Impose an additional bane on incoming strikes and abilities.
+> Until the end of the round, all kobolds with Shield? Shield! impose an additional bane on incoming strikes and abilities.

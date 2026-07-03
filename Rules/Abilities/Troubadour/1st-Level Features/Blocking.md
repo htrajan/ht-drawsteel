@@ -4,7 +4,7 @@ class: troubadour
 distance: 2 aura
 feature_type: ability
 file_basename: Blocking
-file_dpath: Troubadour/1st-Level Features
+file_dpath: Abilities/Troubadour/1st-Level Features
 flavor: No, no, no, you lose the audience that way. Try it like this...
 item_id: blocking
 item_index: '03'
@@ -17,8 +17,9 @@ level: 1
 scc:
   - mcdm.heroes.v1:feature.ability.troubadour.1st-level-feature:blocking
 scdc:
-  - 1.1.1:13.2.3.1:03
+  - 1.1.1:11.2.3.1:03
 source: mcdm.heroes.v1
+subclass: Auteur
 target: Each creature in the area
 type: feature/ability/troubadour/1st-level-feature
 ---

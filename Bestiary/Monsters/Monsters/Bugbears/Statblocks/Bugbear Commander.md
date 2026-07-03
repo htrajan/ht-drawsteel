@@ -11,7 +11,7 @@ file_dpath: Monsters/Bugbears/Statblocks
 free_strike: 5
 intuition: 0
 item_id: bugbear-commander
-item_index: '292'
+item_index: '05'
 item_name: Bugbear Commander
 level: 2
 might: 2
@@ -20,15 +20,15 @@ reason: 2
 roles:
   - Elite Support
 scc:
-  - mcdm.monsters.v1:monster:bugbear-commander
+  - mcdm.monsters.v1:monster.bugbears.statblock:bugbear-commander
 scdc:
-  - 1.1.1:2:292
+  - 1.1.1:2.37.1:05
 size: 1L
 source: mcdm.monsters.v1
 speed: 5
 stability: 0
 stamina: '80'
-type: monster
+type: monster/bugbears/statblock
 ---
 
 ###### Bugbear Commander
@@ -36,7 +36,7 @@ type: monster
 | Bugbear, Fey, Goblin, Humanoid |          -          |       Level 2       |      Elite Support      |         EV 16          |
 | :----------------------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |        **1L**<br/> Size        |  **5**<br/> Speed   | **80**<br/> Stamina |  **0**<br/> Stability   | **5**<br/> Free Strike |
-|      **-**<br/> Immunity       | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+|      **-**<br/> Immunity       | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |       **+2**<br/> Might        | **+1**<br/> Agility | **+2**<br/> Reason  |  **+0**<br/> Intuition  |  **+0**<br/> Presence  |
 
 <!-- -->

@@ -11,7 +11,7 @@ file_dpath: Monsters/Hobgoblins/Statblocks
 free_strike: 6
 intuition: 2
 item_id: hobgoblin-war-mage
-item_index: '184'
+item_index: 08
 item_name: Hobgoblin War Mage
 level: 5
 might: 0
@@ -20,15 +20,15 @@ reason: 3
 roles:
   - Elite Controller
 scc:
-  - mcdm.monsters.v1:monster:hobgoblin-war-mage
+  - mcdm.monsters.v1:monster.hobgoblins.statblock:hobgoblin-war-mage
 scdc:
-  - 1.1.1:2:184
+  - 1.1.1:2.22.1:08
 size: 1M
 source: mcdm.monsters.v1
 speed: 5
 stability: 0
 stamina: '120'
-type: monster
+type: monster/hobgoblins/statblock
 ---
 
 ###### Hobgoblin War Mage
@@ -36,7 +36,7 @@ type: monster
 | Goblin, Hobgoblin, Humanoid, Infernal |                 -                 |       Level 5        |    Elite Controller     |         EV 28          |
 | :-----------------------------------: | :-------------------------------: | :------------------: | :---------------------: | :--------------------: |
 |           **1M**<br/> Size            |         **5**<br/> Speed          | **120**<br/> Stamina |  **0**<br/> Stability   | **6**<br/> Free Strike |
-|       **Fire 5**<br/> Immunity        | **Hover, teleport**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+|       **Fire 5**<br/> Immunity        | **Hover, teleport**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |           **0**<br/> Might            |        **+2**<br/> Agility        |  **+3**<br/> Reason  |  **+2**<br/> Intuition  |  **+2**<br/> Presence  |
 
 <!-- -->

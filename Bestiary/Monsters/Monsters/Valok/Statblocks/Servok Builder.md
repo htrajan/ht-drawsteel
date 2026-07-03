@@ -8,10 +8,10 @@ ancestry:
 ev: '44'
 file_basename: Servok Builder
 file_dpath: Monsters/Valok/Statblocks
-free_strike: 0
+free_strike: 10
 intuition: -1
 item_id: servok-builder
-item_index: '330'
+item_index: '03'
 item_name: Servok Builder
 level: 9
 might: 4
@@ -20,24 +20,24 @@ reason: -4
 roles:
   - Elite Brute
 scc:
-  - mcdm.monsters.v1:monster:servok-builder
+  - mcdm.monsters.v1:monster.valok.statblock:servok-builder
 scdc:
-  - 1.1.1:2:330
+  - 1.1.1:2.43.1:03
 size: '3'
 source: mcdm.monsters.v1
 speed: 5
-stability: 1
-stamina: '2408'
-type: monster
+stability: 8
+stamina: '240'
+type: monster/valok/statblock
 ---
 
 ###### Servok Builder
 
-| Construct, Servok, Soulless, Valok |          -          |        Level 9        |       Elite Brute       |         EV 44          |
-| :--------------------------------: | :-----------------: | :-------------------: | :---------------------: | :--------------------: |
-|          **3**<br/> Size           |  **5**<br/> Speed   | **2408**<br/> Stamina |  **1**<br/> Stability   | **0**<br/> Free Strike |
-|        **-**<br/> Immunity         | **-**<br/> Movement |           -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
-|         **+4**<br/> Might          | **-2**<br/> Agility |  **-4**<br/> Reason   |  **-1**<br/> Intuition  |  **-5**<br/> Presence  |
+| Construct, Servok, Soulless, Valok |          -          |       Level 9        |       Elite Brute       |          EV 44          |
+| :--------------------------------: | :-----------------: | :------------------: | :---------------------: | :---------------------: |
+|          **3**<br/> Size           |  **5**<br/> Speed   | **240**<br/> Stamina |  **8**<br/> Stability   | **10**<br/> Free Strike |
+|        **-**<br/> Immunity         | **-**<br/> Movement |          -           | **-**<br/> With Captain |   **-**<br/> Weakness   |
+|         **+4**<br/> Might          | **-2**<br/> Agility |  **-4**<br/> Reason  |  **-1**<br/> Intuition  |  **-5**<br/> Presence   |
 
 <!-- -->
 > 🔳 **Wrecking Ball (Signature Ability)**
@@ -112,7 +112,7 @@ type: monster
 <!-- -->
 > ⭐️ **Crafted to Perfection**
 >
-> The builder's shape can't be changed by any external effect
+> The builder's shape can't be changed by any external effect.
 
 <!-- -->
 > ⭐️ **Valiar Might**

@@ -9,7 +9,7 @@ file_dpath: Monsters/Voiceless Talkers/Statblocks
 free_strike: 7
 intuition: 2
 item_id: voiceless-talker-artillerist
-item_index: '342'
+item_index: '07'
 item_name: Voiceless Talker Artillerist
 level: 6
 might: 0
@@ -18,15 +18,15 @@ reason: 3
 roles:
   - Elite Artillery
 scc:
-  - mcdm.monsters.v1:monster:voiceless-talker-artillerist
+  - mcdm.monsters.v1:monster.voiceless-talkers.statblock:voiceless-talker-artillerist
 scdc:
-  - 1.1.1:2:342
+  - 1.1.1:2.46.1:07
 size: 1M
 source: mcdm.monsters.v1
 speed: 5
 stability: 2
 stamina: '140'
-type: monster
+type: monster/voiceless-talkers/statblock
 ---
 
 ###### Voiceless Talker Artillerist
@@ -34,7 +34,7 @@ type: monster
 |  Horror, Voiceless Talker   |                 -                 |       Level 6        |     Elite Artillery     |         EV 32          |
 | :-------------------------: | :-------------------------------: | :------------------: | :---------------------: | :--------------------: |
 |      **1M**<br/> Size       |         **5**<br/> Speed          | **140**<br/> Stamina |  **2**<br/> Stability   | **7**<br/> Free Strike |
-| **Psychic 6**<br/> Immunity | **Hover, teleport**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Psychic 6**<br/> Immunity | **Hover, teleport**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |      **0**<br/> Might       |        **+3**<br/> Agility        |  **+3**<br/> Reason  |  **+2**<br/> Intuition  |  **+1**<br/> Presence  |
 
 <!-- -->
@@ -85,7 +85,7 @@ type: monster
 >
 > **Trigger:** The artillerist takes damage.
 >
-> **Effect:** The artillerist can teleport up to 5 squares and ignores any effects associated with the damage
+> **Effect:** The artillerist can teleport up to 5 squares and ignores any effects associated with the damage.
 
 <!-- -->
 > ⭐️ **Psionic Conductor**

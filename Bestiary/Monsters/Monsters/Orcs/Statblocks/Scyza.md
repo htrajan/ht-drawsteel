@@ -9,7 +9,7 @@ file_dpath: Monsters/Orcs/Statblocks
 free_strike: 5
 intuition: 0
 item_id: scyza
-item_index: '131'
+item_index: 09
 item_name: Scyza
 level: 3
 might: 2
@@ -18,15 +18,15 @@ reason: -4
 roles:
   - Elite Mount
 scc:
-  - mcdm.monsters.v1:monster:scyza
+  - mcdm.monsters.v1:monster.orcs.statblock:scyza
 scdc:
-  - 1.1.1:2:131
+  - 1.1.1:2.16.1:09
 size: '4'
 source: mcdm.monsters.v1
 speed: 6
 stability: 3
 stamina: '100'
-type: monster
+type: monster/orcs/statblock
 ---
 
 ###### Scyza
@@ -34,7 +34,7 @@ type: monster
 |     Animal, Orc     |          -          |       Level 3        |       Elite Mount       |         EV 20          |
 | :-----------------: | :-----------------: | :------------------: | :---------------------: | :--------------------: |
 |   **4**<br/> Size   |  **6**<br/> Speed   | **100**<br/> Stamina |  **3**<br/> Stability   | **5**<br/> Free Strike |
-| **-**<br/> Immunity | **-**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **-**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |  **+2**<br/> Might  | **-1**<br/> Agility |  **-4**<br/> Reason  |  **+0**<br/> Intuition  |  **-1**<br/> Presence  |
 
 <!-- -->

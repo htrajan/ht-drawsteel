@@ -18,7 +18,7 @@ Genetic rebels, the space punks known as the time raiders (called the *kuran'zoi
 
 ### Veterans of the Psychic Wars
 
-Thousands of years ago, the synlirii-those powerful and evil psionic horrors more commonly known as voiceless talkers-created the kuran'zoi as soldiers. But as the synlirii experimented with and enhanced these warriors' psionic potential, the kuran'zoi came to understand the true nature of their progenitors. They rebelled against the synlirii and fled to the Sea of Stars, becoming nomads of the timescape.
+Thousands of years ago, the synlirii—those powerful and evil psionic horrors more commonly known as voiceless talkers—created the kuran'zoi as soldiers. But as the synlirii experimented with and enhanced these warriors' psionic potential, the kuran'zoi came to understand the true nature of their progenitors. They rebelled against the synlirii and fled to the Sea of Stars, becoming nomads of the timescape.
 
 ### Hardened-Vision Hexapods
 
@@ -78,7 +78,7 @@ At the start of any time raider's turn, you can spend Malice to activate one of 
 |    Humanoid, Time Raider    |          -          |      Level 3       |                  Minion Harrier                  | EV 5 for four minions  |
 | :-------------------------: | :-----------------: | :----------------: | :----------------------------------------------: | :--------------------: |
 |      **1M**<br/> Size       |  **7**<br/> Speed   | **7**<br/> Stamina |               **0**<br/> Stability               | **2**<br/> Free Strike |
-| **Psychic 3**<br/> Immunity | **-**<br/> Movement |         -          | **+1 damage bonus to strikes**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Psychic 3**<br/> Immunity | **-**<br/> Movement |         -          | **+1 damage bonus to strikes**<br/> With Captain |  **-**<br/> Weakness   |
 |      **+2**<br/> Might      | **+2**<br/> Agility | **+2**<br/> Reason |              **+1**<br/> Intuition               |  **-1**<br/> Presence  |
 
 <!-- -->
@@ -104,7 +104,7 @@ At the start of any time raider's turn, you can spend Malice to activate one of 
 |    Humanoid, Time Raider    |          -          |      Level 3       |                   Minion Brute                   | EV 5 for four minions  |
 | :-------------------------: | :-----------------: | :----------------: | :----------------------------------------------: | :--------------------: |
 |      **1M**<br/> Size       |  **5**<br/> Speed   | **8**<br/> Stamina |               **0**<br/> Stability               | **3**<br/> Free Strike |
-| **Psychic 3**<br/> Immunity | **-**<br/> Movement |         -          | **+1 damage bonus to strikes**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Psychic 3**<br/> Immunity | **-**<br/> Movement |         -          | **+1 damage bonus to strikes**<br/> With Captain |  **-**<br/> Weakness   |
 |      **+2**<br/> Might      | **+1**<br/> Agility | **+2**<br/> Reason |              **+1**<br/> Intuition               |  **+1**<br/> Presence  |
 
 <!-- -->
@@ -130,7 +130,7 @@ At the start of any time raider's turn, you can spend Malice to activate one of 
 |    Humanoid, Time Raider    |          -          |       Level 3       |    Platoon Defender     |         EV 10          |
 | :-------------------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |      **1M**<br/> Size       |  **5**<br/> Speed   | **60**<br/> Stamina |  **0**<br/> Stability   | **5**<br/> Free Strike |
-| **Psychic 3**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Psychic 3**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |      **0**<br/> Might       | **+2**<br/> Agility | **+2**<br/> Reason  |  **+2**<br/> Intuition  |  **0**<br/> Presence   |
 
 <!-- -->
@@ -155,7 +155,7 @@ At the start of any time raider's turn, you can spend Malice to activate one of 
 > | ------------------- | -----------------------------: |
 > | **📏 Ranged 20**    | **🎯 The triggering creature** |
 >
-> **Trigger:** A creature deals damage to any ally of the armiger who the armiger has line of effect to
+> **Trigger:** A creature deals damage to any ally of the armiger who the armiger has line of effect to.
 >
 > **Power Roll + 2:**
 >
@@ -178,7 +178,7 @@ At the start of any time raider's turn, you can spend Malice to activate one of 
 |    Humanoid, Time Raider    |          -          |       Level 3       |    Platoon Artillery    |         EV 10          |
 | :-------------------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |      **1L**<br/> Size       |  **5**<br/> Speed   | **40**<br/> Stamina |  **3**<br/> Stability   | **5**<br/> Free Strike |
-| **Psychic 3**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Psychic 3**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |      **0**<br/> Might       | **+2**<br/> Agility | **+2**<br/> Reason  |  **+2**<br/> Intuition  |  **0**<br/> Presence   |
 
 <!-- -->
@@ -205,7 +205,7 @@ At the start of any time raider's turn, you can spend Malice to activate one of 
 >
 > **Trigger:** A creature damages the cannonfall with a ranged or area ability.
 >
-> **Effect:** The damage is halved for the cannonfall and each target also affected by the triggering ability
+> **Effect:** The damage is halved for the cannonfall and each target also affected by the triggering ability.
 
 <!-- -->
 > ⭐️ **Foresight Squared**
@@ -217,7 +217,7 @@ At the start of any time raider's turn, you can spend Malice to activate one of 
 |    Humanoid, Time Raider    |           -           |       Level 3       |   Platoon Controller    |         EV 10          |
 | :-------------------------: | :-------------------: | :-----------------: | :---------------------: | :--------------------: |
 |      **1M**<br/> Size       |   **5**<br/> Speed    | **40**<br/> Stamina |  **0**<br/> Stability   | **5**<br/> Free Strike |
-| **Psychic 3**<br/> Immunity | **Fly**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Psychic 3**<br/> Immunity | **Fly**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |      **0**<br/> Might       |  **+2**<br/> Agility  | **+2**<br/> Reason  |  **+2**<br/> Intuition  |  **+2**<br/> Presence  |
 
 <!-- -->
@@ -240,7 +240,7 @@ At the start of any time raider's turn, you can spend Malice to activate one of 
 > | --------------------------- | -------------: |
 > | **📏 4 x 2 line within 10** | **🎯 Special** |
 >
-> **Effect:** The area is a psionically charged treadmill that pushes creatures and objects at high speed in one direction of the helix's choice. Any creature who enters the area or starts their turn there slides 3 squares toward the end of the area in the chosen direction. Each enemy in the area when it first appears takes 3 damage before they slide
+> **Effect:** The area is a psionically charged treadmill that pushes creatures and objects at high speed in one direction of the helix's choice. Any creature who enters the area or starts their turn there slides 3 squares toward the end of the area in the chosen direction. Each enemy in the area when it first appears takes 3 damage before they slide.
 >
 > **3 Malice:** The helix creates a second kinetic lane.
 
@@ -254,7 +254,7 @@ At the start of any time raider's turn, you can spend Malice to activate one of 
 |    Humanoid, Time Raider    |          -          |       Level 3       |    Platoon Ambusher     |         EV 10          |
 | :-------------------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |      **1M**<br/> Size       |  **6**<br/> Speed   | **50**<br/> Stamina |  **0**<br/> Stability   | **5**<br/> Free Strike |
-| **Psychic 3**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Psychic 3**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |      **0**<br/> Might       | **+2**<br/> Agility | **+2**<br/> Reason  |  **+2**<br/> Intuition  |  **+1**<br/> Presence  |
 
 <!-- -->
@@ -291,7 +291,7 @@ At the start of any time raider's turn, you can spend Malice to activate one of 
 |    Humanoid, Time Raider    |          -          |       Level 3       |      Platoon Hexer      |         EV 10          |
 | :-------------------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |       **2**<br/> Size       |  **5**<br/> Speed   | **40**<br/> Stamina |  **2**<br/> Stability   | **5**<br/> Free Strike |
-| **Psychic 3**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Psychic 3**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |      **+2**<br/> Might      | **0**<br/> Agility  | **+2**<br/> Reason  |  **+2**<br/> Intuition  |  **+1**<br/> Presence  |
 
 <!-- -->
@@ -332,7 +332,7 @@ At the start of any time raider's turn, you can spend Malice to activate one of 
 |    Humanoid, Time Raider    |           -           |       Level 3       |     Platoon Harrier     |         EV 10          |
 | :-------------------------: | :-------------------: | :-----------------: | :---------------------: | :--------------------: |
 |      **1M**<br/> Size       |   **7**<br/> Speed    | **50**<br/> Stamina |  **0**<br/> Stability   | **5**<br/> Free Strike |
-| **Psychic 3**<br/> Immunity | **Fly**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Psychic 3**<br/> Immunity | **Fly**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |      **+1**<br/> Might      |  **+2**<br/> Agility  | **+2**<br/> Reason  |  **+1**<br/> Intuition  |  **0**<br/> Presence   |
 
 <!-- -->
@@ -340,7 +340,7 @@ At the start of any time raider's turn, you can spend Malice to activate one of 
 >
 > | **Melee, Psionic, Strike, Weapon** |               **Main action** |
 > | ---------------------------------- | ----------------------------: |
-> | **📏 Ranged 10**                   | **🎯 One creature or object** |
+> | **📏 Melee 2**                     | **🎯 One creature or object** |
 >
 > **Power Roll + 2:**
 >
@@ -375,7 +375,7 @@ At the start of any time raider's turn, you can spend Malice to activate one of 
 |    Humanoid, Time Raider    |              -               |       Level 3       |     Platoon Support     |         EV 10          |
 | :-------------------------: | :--------------------------: | :-----------------: | :---------------------: | :--------------------: |
 |       **2**<br/> Size       |       **5**<br/> Speed       | **62**<br/> Stamina |  **2**<br/> Stability   | **5**<br/> Free Strike |
-| **Psychic 3**<br/> Immunity | **Fly, hover**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Psychic 3**<br/> Immunity | **Fly, hover**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |      **+1**<br/> Might      |     **+1**<br/> Agility      | **+2**<br/> Reason  |  **+1**<br/> Intuition  |  **0**<br/> Presence   |
 
 <!-- -->
@@ -418,11 +418,11 @@ At the start of any time raider's turn, you can spend Malice to activate one of 
 
 ###### Time Raider Tyrannis
 
-|    Humanoid, Time Raider    |                 -                 |        Level 3        |         Leader          |         EV 20          |
-| :-------------------------: | :-------------------------------: | :-------------------: | :---------------------: | :--------------------: |
-|       **2**<br/> Size       |         **1**<br/> Speed          | **0120**<br/> Stamina |  **2**<br/> Stability   | **5**<br/> Free Strike |
-| **Psychic 5**<br/> Immunity | **Hover, teleport**<br/> Movement |           -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
-|      **0**<br/> Might       |        **+3**<br/> Agility        |  **+3**<br/> Reason   |  **+1**<br/> Intuition  |  **0**<br/> Presence   |
+|    Humanoid, Time Raider    |                 -                 |       Level 3        |         Leader          |         EV 20          |
+| :-------------------------: | :-------------------------------: | :------------------: | :---------------------: | :--------------------: |
+|       **2**<br/> Size       |         **10**<br/> Speed         | **120**<br/> Stamina |  **2**<br/> Stability   | **5**<br/> Free Strike |
+| **Psychic 5**<br/> Immunity | **Hover, teleport**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
+|      **0**<br/> Might       |        **+3**<br/> Agility        |  **+3**<br/> Reason  |  **+1**<br/> Intuition  |  **0**<br/> Presence   |
 
 <!-- -->
 > ⚔️ **Gatling Blaster (Signature Ability)**

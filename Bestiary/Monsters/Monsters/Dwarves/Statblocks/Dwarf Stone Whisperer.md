@@ -9,7 +9,7 @@ file_dpath: Monsters/Dwarves/Statblocks
 free_strike: 5
 intuition: 2
 item_id: dwarf-stone-whisperer
-item_index: '402'
+item_index: '07'
 item_name: Dwarf Stone Whisperer
 level: 3
 might: 1
@@ -18,15 +18,15 @@ reason: 2
 roles:
   - Platoon Controller
 scc:
-  - mcdm.monsters.v1:monster:dwarf-stone-whisperer
+  - mcdm.monsters.v1:monster.dwarves.statblock:dwarf-stone-whisperer
 scdc:
-  - 1.1.1:2:402
+  - 1.1.1:2.52.1:07
 size: 1M
 source: mcdm.monsters.v1
 speed: 5
 stability: 2
 stamina: '52'
-type: monster
+type: monster/dwarves/statblock
 ---
 
 ###### Dwarf Stone Whisperer
@@ -34,7 +34,7 @@ type: monster
 |   Dwarf, Humanoid   |            -             |       Level 3       |   Platoon Controller    |         EV 10          |
 | :-----------------: | :----------------------: | :-----------------: | :---------------------: | :--------------------: |
 |  **1M**<br/> Size   |     **5**<br/> Speed     | **52**<br/> Stamina |  **2**<br/> Stability   | **5**<br/> Free Strike |
-| **-**<br/> Immunity | **Burrow**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **Burrow**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |  **+1**<br/> Might  |   **+0**<br/> Agility    | **+2**<br/> Reason  |  **+2**<br/> Intuition  |  **+0**<br/> Presence  |
 
 <!-- -->

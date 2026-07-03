@@ -8,7 +8,7 @@ file_dpath: Monsters/Undead/Statblocks
 free_strike: 3
 intuition: 0
 item_id: haunt
-item_index: '62'
+item_index: '10'
 item_name: Haunt
 level: 7
 might: -2
@@ -17,15 +17,15 @@ reason: -1
 roles:
   - Horde Controller
 scc:
-  - mcdm.monsters.v1:monster:haunt
+  - mcdm.monsters.v1:monster.undead.statblock:haunt
 scdc:
-  - 1.1.1:2:62
+  - 1.1.1:2.8.1:10
 size: '2'
 source: mcdm.monsters.v1
 speed: 6
 stability: 1
 stamina: '40'
-type: monster
+type: monster/undead/statblock
 ---
 
 ###### Haunt
@@ -33,7 +33,7 @@ type: monster
 |                  Undead                  |              -               |       Level 7       |    Horde Controller     |          EV 9          |
 | :--------------------------------------: | :--------------------------: | :-----------------: | :---------------------: | :--------------------: |
 |             **2**<br/> Size              |       **6**<br/> Speed       | **40**<br/> Stamina |  **1**<br/> Stability   | **3**<br/> Free Strike |
-| **Corruption 7, poison 7**<br/> Immunity | **Fly, hover**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Corruption 7, poison 7**<br/> Immunity | **Fly, hover**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |            **-2**<br/> Might             |     **+4**<br/> Agility      | **-1**<br/> Reason  |  **0**<br/> Intuition   |  **0**<br/> Presence   |
 
 <!-- -->

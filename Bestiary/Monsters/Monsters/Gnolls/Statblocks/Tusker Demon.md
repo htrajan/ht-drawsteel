@@ -10,7 +10,7 @@ file_dpath: Monsters/Gnolls/Statblocks
 free_strike: 5
 intuition: 0
 item_id: tusker-demon
-item_index: '41'
+item_index: 08
 item_name: Tusker Demon
 level: 2
 might: 2
@@ -19,15 +19,15 @@ reason: -3
 roles:
   - Elite Brute
 scc:
-  - mcdm.monsters.v1:monster:tusker-demon
+  - mcdm.monsters.v1:monster.gnolls.statblock:tusker-demon
 scdc:
-  - 1.1.1:2:41
+  - 1.1.1:2.6.1:08
 size: '3'
 source: mcdm.monsters.v1
 speed: 7
 stability: 3
 stamina: '100'
-type: monster
+type: monster/gnolls/statblock
 ---
 
 ###### Tusker Demon
@@ -35,7 +35,7 @@ type: monster
 | Abyssal, Demon, Gnoll |          -          |       Level 2        |       Elite Brute       |         EV 16          |
 | :-------------------: | :-----------------: | :------------------: | :---------------------: | :--------------------: |
 |    **3**<br/> Size    |  **7**<br/> Speed   | **100**<br/> Stamina |  **3**<br/> Stability   | **5**<br/> Free Strike |
-|  **-**<br/> Immunity  | **-**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+|  **-**<br/> Immunity  | **-**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |   **+2**<br/> Might   | **-1**<br/> Agility |  **-3**<br/> Reason  |  **0**<br/> Intuition   |  **-1**<br/> Presence  |
 
 <!-- -->
@@ -72,4 +72,4 @@ type: monster
 <!-- -->
 > ⭐️ **Lethe**
 >
-> While the tusker demon is winded, they gain an edge on strikes, and any strike made against them gains an edge
+> While the tusker demon is winded, they gain an edge on strikes, and any strike made against them gains an edge.

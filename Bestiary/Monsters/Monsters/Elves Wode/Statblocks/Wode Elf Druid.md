@@ -10,7 +10,7 @@ file_dpath: Monsters/Elves Wode/Statblocks
 free_strike: 3
 intuition: 0
 item_id: wode-elf-druid
-item_index: '229'
+item_index: '07'
 item_name: Wode Elf Druid
 level: 2
 might: 0
@@ -19,15 +19,15 @@ reason: 0
 roles:
   - Platoon Controller
 scc:
-  - mcdm.monsters.v1:monster:wode-elf-druid
+  - mcdm.monsters.v1:monster.elves-wode.statblock:wode-elf-druid
 scdc:
-  - 1.1.1:2:229
+  - 1.1.1:2.28.1:07
 size: 1M
 source: mcdm.monsters.v1
 speed: 7
 stability: 0
 stamina: '30'
-type: monster
+type: monster/elves-wode/statblock
 ---
 
 ###### Wode Elf Druid
@@ -35,7 +35,7 @@ type: monster
 | Fey, Humanoid, Wode Elf |            -            |       Level 2       |   Platoon Controller    |          EV 8          |
 | :---------------------: | :---------------------: | :-----------------: | :---------------------: | :--------------------: |
 |    **1M**<br/> Size     |    **7**<br/> Speed     | **30**<br/> Stamina |  **0**<br/> Stability   | **3**<br/> Free Strike |
-|   **-**<br/> Immunity   | **Climb**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+|   **-**<br/> Immunity   | **Climb**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |    **0**<br/> Might     |   **+1**<br/> Agility   |  **0**<br/> Reason  |  **0**<br/> Intuition   |  **+2**<br/> Presence  |
 
 <!-- -->

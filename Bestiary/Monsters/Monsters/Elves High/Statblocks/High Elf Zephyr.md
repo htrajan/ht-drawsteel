@@ -10,7 +10,7 @@ file_dpath: Monsters/Elves High/Statblocks
 free_strike: 3
 intuition: 0
 item_id: high-elf-zephyr
-item_index: '119'
+item_index: '12'
 item_name: High Elf Zephyr
 level: 1
 might: 0
@@ -19,15 +19,15 @@ reason: 0
 roles:
   - Platoon Harrier
 scc:
-  - mcdm.monsters.v1:monster:high-elf-zephyr
+  - mcdm.monsters.v1:monster.elves-high.statblock:high-elf-zephyr
 scdc:
-  - 1.1.1:2:119
+  - 1.1.1:2.14.1:12
 size: 1M
 source: mcdm.monsters.v1
 speed: 7
 stability: 0
 stamina: '30'
-type: monster
+type: monster/elves-high/statblock
 ---
 
 ###### High Elf Zephyr
@@ -35,7 +35,7 @@ type: monster
 | Fey, High Elf, Humanoid |          -          |       Level 1       |     Platoon Harrier     |          EV 6          |
 | :---------------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |    **1M**<br/> Size     |  **7**<br/> Speed   | **30**<br/> Stamina |  **0**<br/> Stability   | **3**<br/> Free Strike |
-|   **-**<br/> Immunity   | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+|   **-**<br/> Immunity   | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |    **0**<br/> Might     | **+2**<br/> Agility |  **0**<br/> Reason  |  **0**<br/> Intuition   |  **+1**<br/> Presence  |
 
 <!-- -->
@@ -51,7 +51,7 @@ type: monster
 > - **12-16:** 7 damage
 > - **17+:** 9 damage
 >
-> **Effect:** On a tier 3 outcome, the zephyr can make a free strike against a creature adjacent to the target. If they do so and that creature and the target both have A < 2, the creature and the target are both prone. On any tier outcome, the zephyr can then shift up to 2 squares
+> **Effect:** On a tier 3 outcome, the zephyr can make a free strike against a creature adjacent to the target. If they do so and that creature and the target both have A < 2, the creature and the target are both prone. On any tier outcome, the zephyr can then shift up to 2 squares.
 
 <!-- -->
 > 👤 **Windwalk**

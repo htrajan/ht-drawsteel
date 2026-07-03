@@ -34,7 +34,7 @@ Many high elves can also summon magical wisps called elemental motes. These spri
 
 #### Surround and Suppress
 
-Foes who threaten high elf armies are dealt with quickly and entirely. High elves take advantage of each other's magic to corral enemies together and throw huge waves of destruction upon them. The more exposure a victim has to high elf magic, the more effective that magic is in destroying them. High elf wyrds ensure there's no escape, warping the environment into treacherous pits-and eventually, graveyards.
+Foes who threaten high elf armies are dealt with quickly and entirely. High elves take advantage of each other's magic to corral enemies together and throw huge waves of destruction upon them. The more exposure a victim has to high elf magic, the more effective that magic is in destroying them. High elf wyrds ensure there's no escape, warping the environment into treacherous pits—and eventually, graveyards.
 
 #### Magical Manipulation
 
@@ -69,7 +69,7 @@ At the start of any high elf's turn, you can spend Malice to activate one of the
 > Until the end of the round, whenever a high elf uses a magic ability, they can use it as if they were occupying the square of another high elf on the encounter map to whom they have line of effect.
 
 <!-- -->
-> 🔳 \*\*Gift From an Accursed Tome (5 Malice)
+> 🔳 **Gift From an Accursed Tome (5 Malice)**
 >
 > | **Area, Magic**            |               **Main action** |
 > | -------------------------- | ----------------------------: |
@@ -95,7 +95,7 @@ At the start of any high elf's turn, you can spend Malice to activate one of the
 | Elemental, High Elf, Soulless |           -           |      Level 1       |              Minion Hexer               | EV 3 for four minions  |
 | :---------------------------: | :-------------------: | :----------------: | :-------------------------------------: | :--------------------: |
 |       **1T**<br/> Size        |   **5**<br/> Speed    | **3**<br/> Stamina |          **0**<br/> Stability           | **1**<br/> Free Strike |
-|      **-**<br/> Immunity      | **Fly**<br/> Movement |         -          | **+2 bonus to speed**<br/> With Captain | **-**<br/> Weaknesses  |
+|      **-**<br/> Immunity      | **Fly**<br/> Movement |         -          | **+2 bonus to speed**<br/> With Captain |  **-**<br/> Weakness   |
 |       **0**<br/> Might        |  **0**<br/> Agility   | **0**<br/> Reason  |          **0**<br/> Intuition           |  **+2**<br/> Presence  |
 
 <!-- -->
@@ -121,7 +121,7 @@ At the start of any high elf's turn, you can spend Malice to activate one of the
 | Fey, High Elf, Humanoid |          -          |      Level 1       |                 Minion Controller                 | EV 3 for four minions  |
 | :---------------------: | :-----------------: | :----------------: | :-----------------------------------------------: | :--------------------: |
 |    **1M**<br/> Size     |  **5**<br/> Speed   | **3**<br/> Stamina |               **0**<br/> Stability                | **1**<br/> Free Strike |
-|   **-**<br/> Immunity   | **-**<br/> Movement |         -          | **+5 bonus to ranged distance**<br/> With Captain | **-**<br/> Weaknesses  |
+|   **-**<br/> Immunity   | **-**<br/> Movement |         -          | **+5 bonus to ranged distance**<br/> With Captain |  **-**<br/> Weakness   |
 |    **0**<br/> Might     | **0**<br/> Agility  | **+2**<br/> Reason |               **-1**<br/> Intuition               |  **+1**<br/> Presence  |
 
 <!-- -->
@@ -149,7 +149,7 @@ At the start of any high elf's turn, you can spend Malice to activate one of the
 | Fey, High Elf, Humanoid |          -          |      Level 1       |                 Minion Artillery                  | EV 3 for four minions  |
 | :---------------------: | :-----------------: | :----------------: | :-----------------------------------------------: | :--------------------: |
 |    **1M**<br/> Size     |  **5**<br/> Speed   | **3**<br/> Stamina |               **0**<br/> Stability                | **2**<br/> Free Strike |
-|   **-**<br/> Immunity   | **-**<br/> Movement |         -          | **+5 bonus to ranged distance**<br/> With Captain | **-**<br/> Weaknesses  |
+|   **-**<br/> Immunity   | **-**<br/> Movement |         -          | **+5 bonus to ranged distance**<br/> With Captain |  **-**<br/> Weakness   |
 |    **0**<br/> Might     | **+2**<br/> Agility | **+1**<br/> Reason |               **0**<br/> Intuition                |  **0**<br/> Presence   |
 
 <!-- -->
@@ -165,7 +165,7 @@ At the start of any high elf's turn, you can spend Malice to activate one of the
 > - **12-16:** 4 damage
 > - **17+:** 5 damage
 >
-> **Effect:** Each ally adjacent to the target shifts up to 2 squares
+> **Effect:** Each ally adjacent to the target shifts up to 2 squares.
 
 <!-- -->
 > ⭐️ **Otherworldly Grace**
@@ -177,7 +177,7 @@ At the start of any high elf's turn, you can spend Malice to activate one of the
 | Elemental, High Elf |           -           |      Level 1       |                Minion Harrier                 | EV 3 for four minions  |
 | :-----------------: | :-------------------: | :----------------: | :-------------------------------------------: | :--------------------: |
 |  **1T**<br/> Size   |   **7**<br/> Speed    | **4**<br/> Stamina |             **0**<br/> Stability              | **1**<br/> Free Strike |
-| **-**<br/> Immunity | **Fly**<br/> Movement |         -          | **Gain an edge on strikes**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **Fly**<br/> Movement |         -          | **Gain an edge on strikes**<br/> With Captain |  **-**<br/> Weakness   |
 |  **0**<br/> Might   |  **+2**<br/> Agility  | **0**<br/> Reason  |             **0**<br/> Intuition              |  **+1**<br/> Presence  |
 
 <!-- -->
@@ -200,7 +200,7 @@ At the start of any high elf's turn, you can spend Malice to activate one of the
 | Elemental, High Elf |          -          |       Level 2       |    Platoon Defender     |          EV 8          |
 | :-----------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |   **2**<br/> Size   |  **4**<br/> Speed   | **59**<br/> Stamina |  **3**<br/> Stability   | **4**<br/> Free Strike |
-| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |  **+2**<br/> Might  | **0**<br/> Agility  |  **0**<br/> Reason  |  **0**<br/> Intuition   |  **+2**<br/> Presence  |
 
 <!-- -->
@@ -228,14 +228,14 @@ At the start of any high elf's turn, you can spend Malice to activate one of the
 <!-- -->
 > ⭐️ **Thicket and Thorns**
 >
-> The brambleguard blocks line of effect for enemies. Each enemy who starts their turn adjacent to a brambleguard takes 4 damage
+> The brambleguard blocks line of effect for enemies. Each enemy who starts their turn adjacent to a brambleguard takes 4 damage.
 
 ###### High Elf Bloodletter
 
 | Fey, High Elf, Humanoid |          -          |       Level 1       |    Platoon Ambusher     |          EV 6          |
 | :---------------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |    **1M**<br/> Size     |  **7**<br/> Speed   | **30**<br/> Stamina |  **0**<br/> Stability   | **4**<br/> Free Strike |
-|   **-**<br/> Immunity   | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+|   **-**<br/> Immunity   | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |    **0**<br/> Might     | **+2**<br/> Agility |  **0**<br/> Reason  |  **+1**<br/> Intuition  |  **0**<br/> Presence   |
 
 <!-- -->
@@ -272,7 +272,7 @@ At the start of any high elf's turn, you can spend Malice to activate one of the
 | Fey, High Elf, Humanoid |          -          |       Level 2       |    Platoon Artillery    |          EV 8          |
 | :---------------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |    **1M**<br/> Size     |  **5**<br/> Speed   | **30**<br/> Stamina |  **0**<br/> Stability   | **5**<br/> Free Strike |
-|   **-**<br/> Immunity   | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+|   **-**<br/> Immunity   | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |    **+2**<br/> Might    | **0**<br/> Agility  | **+1**<br/> Reason  |  **0**<br/> Intuition   |  **+1**<br/> Presence  |
 
 <!-- -->
@@ -309,7 +309,7 @@ At the start of any high elf's turn, you can spend Malice to activate one of the
 | Fey, High Elf, Humanoid |          -          |       Level 3       |      Platoon Hexer      |         EV 10          |
 | :---------------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |    **1M**<br/> Size     |  **5**<br/> Speed   | **40**<br/> Stamina |  **0**<br/> Stability   | **5**<br/> Free Strike |
-|   **-**<br/> Immunity   | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+|   **-**<br/> Immunity   | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |    **0**<br/> Might     | **0**<br/> Agility  | **+2**<br/> Reason  |  **+2**<br/> Intuition  |  **+2**<br/> Presence  |
 
 <!-- -->
@@ -350,7 +350,7 @@ At the start of any high elf's turn, you can spend Malice to activate one of the
 |   Fey, High Elf, Humanoid   |          -          |       Level 1       |     Platoon Support     |          EV 6          |
 | :-------------------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |      **1M**<br/> Size       |  **5**<br/> Speed   | **30**<br/> Stamina |  **0**<br/> Stability   | **3**<br/> Free Strike |
-| **Psychic 5**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Psychic 5**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |      **0**<br/> Might       | **0**<br/> Agility  |  **0**<br/> Reason  |  **+2**<br/> Intuition  |  **+1**<br/> Presence  |
 
 <!-- -->
@@ -387,7 +387,7 @@ At the start of any high elf's turn, you can spend Malice to activate one of the
 <!-- -->
 > **High Elf Deployments**
 >
-> High elves are obsessed with knowledge: discovering it, documenting it, and protecting it. While this means that many of them are cloistered in towers with noses buried firmly in ancient tomes, lost knowledge is often found in dangerous ruins or in the collections of powerful individuals with no intent to share. When this happens, strike teams of like- minded high elves deploy to infiltrate and "forcefully acquire" such knowledge.
+> High elves are obsessed with knowledge: discovering it, documenting it, and protecting it. While this means that many of them are cloistered in towers with noses buried firmly in ancient tomes, lost knowledge is often found in dangerous ruins or in the collections of powerful individuals with no intent to share. When this happens, strike teams of like-minded high elves deploy to infiltrate and "forcefully acquire" such knowledge.
 >
 > Many high elves also consider themselves guardians of dangerous or forbidden lore and are ready to defend it with their lives. Many illusory groves and glamoured ruins conceal repositories and powerful warriors sworn to keep these secrets out of the hands of those who would use them for ill.
 >
@@ -403,7 +403,7 @@ At the start of any high elf's turn, you can spend Malice to activate one of the
 |   Fey, High Elf, Humanoid   |          -          |       Level 3       |   Platoon Controller    |         EV 10          |
 | :-------------------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |      **1M**<br/> Size       |  **5**<br/> Speed   | **40**<br/> Stamina |  **0**<br/> Stability   | **5**<br/> Free Strike |
-| **Psychic 5**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Psychic 5**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |      **0**<br/> Might       | **+1**<br/> Agility | **+2**<br/> Reason  |  **-1**<br/> Intuition  |  **+2**<br/> Presence  |
 
 <!-- -->
@@ -449,7 +449,7 @@ At the start of any high elf's turn, you can spend Malice to activate one of the
 | Fey, High Elf, Humanoid |          -          |       Level 1       |     Platoon Harrier     |          EV 6          |
 | :---------------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |    **1M**<br/> Size     |  **7**<br/> Speed   | **30**<br/> Stamina |  **0**<br/> Stability   | **3**<br/> Free Strike |
-|   **-**<br/> Immunity   | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+|   **-**<br/> Immunity   | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |    **0**<br/> Might     | **+2**<br/> Agility |  **0**<br/> Reason  |  **0**<br/> Intuition   |  **+1**<br/> Presence  |
 
 <!-- -->
@@ -465,7 +465,7 @@ At the start of any high elf's turn, you can spend Malice to activate one of the
 > - **12-16:** 7 damage
 > - **17+:** 9 damage
 >
-> **Effect:** On a tier 3 outcome, the zephyr can make a free strike against a creature adjacent to the target. If they do so and that creature and the target both have A < 2, the creature and the target are both prone. On any tier outcome, the zephyr can then shift up to 2 squares
+> **Effect:** On a tier 3 outcome, the zephyr can make a free strike against a creature adjacent to the target. If they do so and that creature and the target both have A < 2, the creature and the target are both prone. On any tier outcome, the zephyr can then shift up to 2 squares.
 
 <!-- -->
 > 👤 **Windwalk**
@@ -491,7 +491,7 @@ At the start of any high elf's turn, you can spend Malice to activate one of the
 | Fey, High Elf, Humanoid |           -           |       Level 3        |         Leader          |         EV 20          |
 | :---------------------: | :-------------------: | :------------------: | :---------------------: | :--------------------: |
 |    **1M**<br/> Size     |   **5**<br/> Speed    | **120**<br/> Stamina |  **0**<br/> Stability   | **5**<br/> Free Strike |
-|   **-**<br/> Immunity   | **Fly**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+|   **-**<br/> Immunity   | **Fly**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |    **0**<br/> Might     |  **+2**<br/> Agility  |  **+3**<br/> Reason  |  **+2**<br/> Intuition  |  **+3**<br/> Presence  |
 
 <!-- -->
@@ -543,7 +543,7 @@ At the start of any high elf's turn, you can spend Malice to activate one of the
 <!-- -->
 > ⭐️ **Otherworldly Blessing**
 >
-> At the start of each of their turns, the ordinator can choose one or more effects on them that can be ended by a saving throw. The effects instead end at the end of the ordinator's turn
+> At the start of each of their turns, the ordinator can choose one or more effects on them that can be ended by a saving throw. The effects instead end at the end of the ordinator's turn.
 
 <!-- -->
 > ☠️ **Fountains Roar, Now Free From the Earth (Villain Action 1)**
@@ -583,7 +583,7 @@ At the start of any high elf's turn, you can spend Malice to activate one of the
 | Elemental, High Elf |          -          |       Level 1       |      Platoon Mount      |          EV 6          |
 | :-----------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |   **2**<br/> Size   |  **10**<br/> Speed  | **30**<br/> Stamina |  **2**<br/> Stability   | **3**<br/> Free Strike |
-| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |  **+2**<br/> Might  | **+2**<br/> Agility |  **0**<br/> Reason  |  **0**<br/> Intuition   |  **+1**<br/> Presence  |
 
 <!-- -->

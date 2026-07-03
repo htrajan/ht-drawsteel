@@ -9,7 +9,7 @@ file_dpath: Monsters/Demons/Statblocks
 free_strike: 2
 intuition: 2
 item_id: gunge
-item_index: '272'
+item_index: '19'
 item_name: Gunge
 level: 4
 might: 3
@@ -18,24 +18,24 @@ reason: 1
 roles:
   - Horde Controller
 scc:
-  - mcdm.monsters.v1:monster:gunge
+  - mcdm.monsters.v1:monster.demons.statblock:gunge
 scdc:
-  - 1.1.1:2:272
+  - 1.1.1:2.35.1:19
 size: '3'
 source: mcdm.monsters.v1
 speed: 6
 stability: 0
 stamina: '25'
-type: monster
+type: monster/demons/statblock
 ---
 
 ###### Gunge
 
-|   Abyssal, Demon    |          -          |       Level 4       |    Horde Controller     |            EV 6            |
-| :-----------------: | :-----------------: | :-----------------: | :---------------------: | :------------------------: |
-|   **3**<br/> Size   |  **6**<br/> Speed   | **25**<br/> Stamina |  **0**<br/> Stability   |   **2**<br/> Free Strike   |
-| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **Holy 5**<br/> Weaknesses |
-|  **+3**<br/> Might  | **+2**<br/> Agility | **+1**<br/> Reason  |  **+2**<br/> Intuition  |    **-1**<br/> Presence    |
+|   Abyssal, Demon    |          -          |       Level 4       |    Horde Controller     |           EV 6           |
+| :-----------------: | :-----------------: | :-----------------: | :---------------------: | :----------------------: |
+|   **3**<br/> Size   |  **6**<br/> Speed   | **25**<br/> Stamina |  **0**<br/> Stability   |  **2**<br/> Free Strike  |
+| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **Holy 5**<br/> Weakness |
+|  **+3**<br/> Might  | **+2**<br/> Agility | **+1**<br/> Reason  |  **+2**<br/> Intuition  |   **-1**<br/> Presence   |
 
 <!-- -->
 > 🔳 **Bilious Expulsion (Signature Ability)**

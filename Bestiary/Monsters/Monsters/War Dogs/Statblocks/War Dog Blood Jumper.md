@@ -10,7 +10,7 @@ file_dpath: Monsters/War Dogs/Statblocks
 free_strike: 4
 intuition: 3
 item_id: war-dog-blood-jumper
-item_index: '358'
+item_index: 08
 item_name: War Dog Blood Jumper
 level: 10
 might: 5
@@ -19,15 +19,15 @@ reason: 2
 roles:
   - Minion Harrier
 scc:
-  - mcdm.monsters.v1:monster:war-dog-blood-jumper
+  - mcdm.monsters.v1:monster.war-dogs.statblock:war-dog-blood-jumper
 scdc:
-  - 1.1.1:2:358
+  - 1.1.1:2.51.1:08
 size: 1M
 source: mcdm.monsters.v1
 speed: 7
 stability: 2
 stamina: '15'
-type: monster
+type: monster/war-dogs/statblock
 ---
 
 ###### War Dog Blood Jumper
@@ -35,7 +35,7 @@ type: monster
 | Humanoid, Soulless, War Dog |           -           |      Level 10       |             Minion Harrier              | EV 12 for four minions |
 | :-------------------------: | :-------------------: | :-----------------: | :-------------------------------------: | :--------------------: |
 |      **1M**<br/> Size       |   **7**<br/> Speed    | **15**<br/> Stamina |          **2**<br/> Stability           | **4**<br/> Free Strike |
-|     **-**<br/> Immunity     | **Fly**<br/> Movement |          -          | **+3 bonus to speed**<br/> With Captain | **-**<br/> Weaknesses  |
+|     **-**<br/> Immunity     | **Fly**<br/> Movement |          -          | **+3 bonus to speed**<br/> With Captain |  **-**<br/> Weakness   |
 |      **+5**<br/> Might      |  **+4**<br/> Agility  | **+2**<br/> Reason  |          **+3**<br/> Intuition          |  **+2**<br/> Presence  |
 
 <!-- -->

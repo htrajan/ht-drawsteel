@@ -34,7 +34,7 @@ A wyvern's infamous temper is easily provoked, particularly if their eggs or hat
 
 Wyverns are unable to speak. However, a clever hero carrying a feast of fresh meat might be able to reason with one.
 
-###### Wyvern Malice Malice Features
+###### Wyvern Malice (Malice Features)
 
 At the start of any wyvern's turn, you can spend Malice to activate one of the following features.
 
@@ -62,7 +62,7 @@ At the start of any wyvern's turn, you can spend Malice to activate one of the f
 |      Beast, Wyvern       |           -           |       Level 4        |     Elite Ambusher      |         EV 24          |
 | :----------------------: | :-------------------: | :------------------: | :---------------------: | :--------------------: |
 |     **2**<br/> Size      |   **9**<br/> Speed    | **120**<br/> Stamina |  **2**<br/> Stability   | **6**<br/> Free Strike |
-| **Acid 5**<br/> Immunity | **Fly**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Acid 5**<br/> Immunity | **Fly**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |    **+2**<br/> Might     |  **+3**<br/> Agility  |  **-1**<br/> Reason  |  **+1**<br/> Intuition  |  **0**<br/> Presence   |
 
 <!-- -->
@@ -130,7 +130,7 @@ At the start of any wyvern's turn, you can spend Malice to activate one of the f
 |      Beast, Wyvern       |           -           |       Level 4        |       Elite Brute       |         EV 24          |
 | :----------------------: | :-------------------: | :------------------: | :---------------------: | :--------------------: |
 |     **3**<br/> Size      |   **7**<br/> Speed    | **140**<br/> Stamina |  **3**<br/> Stability   | **6**<br/> Free Strike |
-| **Acid 5**<br/> Immunity | **Fly**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Acid 5**<br/> Immunity | **Fly**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |    **+3**<br/> Might     |  **+2**<br/> Agility  |  **-1**<br/> Reason  |  **+1**<br/> Intuition  |  **0**<br/> Presence   |
 
 <!-- -->
@@ -185,7 +185,7 @@ At the start of any wyvern's turn, you can spend Malice to activate one of the f
 >
 > **Trigger:** A creature within distance deals damage to the predator with a melee ability.
 >
-> **Effect:** The predator uses Sedating Stinger against the target, then shifts up to 3 squares
+> **Effect:** The predator uses Sedating Stinger against the target, then shifts up to 3 squares.
 
 <!-- -->
 > ⭐️ **Stubborn Rage**

@@ -9,7 +9,7 @@ file_dpath: Monsters/Dragons/Statblocks
 free_strike: 9
 intuition: 3
 item_id: omen-dragon
-item_index: '343'
+item_index: '01'
 item_name: Omen Dragon
 level: 8
 might: 3
@@ -18,15 +18,15 @@ reason: 2
 roles:
   - Solo
 scc:
-  - mcdm.monsters.v1:monster:omen-dragon
+  - mcdm.monsters.v1:monster.dragons.statblock:omen-dragon
 scdc:
-  - 1.1.1:2:343
+  - 1.1.1:2.47.1:01
 size: '5'
 source: mcdm.monsters.v1
 speed: 10
 stability: 6
 stamina: '550'
-type: monster
+type: monster/dragons/statblock
 ---
 
 ###### Omen Dragon
@@ -34,7 +34,7 @@ type: monster
 |       Dragon, Elemental        |           -           |       Level 8        |          Solo           |         EV 120         |
 | :----------------------------: | :-------------------: | :------------------: | :---------------------: | :--------------------: |
 |        **5**<br/> Size         |   **10**<br/> Speed   | **550**<br/> Stamina |  **6**<br/> Stability   | **9**<br/> Free Strike |
-| **Corruption 6**<br/> Immunity | **Fly**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Corruption 6**<br/> Immunity | **Fly**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |       **+3**<br/> Might        |  **+4**<br/> Agility  |  **+2**<br/> Reason  |  **+3**<br/> Intuition  |  **+5**<br/> Presence  |
 
 <!-- -->

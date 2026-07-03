@@ -8,10 +8,10 @@ ancestry:
 ev: '48'
 file_basename: Servok War Engine
 file_dpath: Monsters/Valok/Statblocks
-free_strike: 0
+free_strike: 10
 intuition: -1
 item_id: servok-war-engine
-item_index: '329'
+item_index: '02'
 item_name: Servok War Engine
 level: 10
 might: 5
@@ -20,24 +20,24 @@ reason: -4
 roles:
   - Elite Brute
 scc:
-  - mcdm.monsters.v1:monster:servok-war-engine
+  - mcdm.monsters.v1:monster.valok.statblock:servok-war-engine
 scdc:
-  - 1.1.1:2:329
+  - 1.1.1:2.43.1:02
 size: '3'
 source: mcdm.monsters.v1
 speed: 5
-stability: 1
-stamina: '2608'
-type: monster
+stability: 8
+stamina: '260'
+type: monster/valok/statblock
 ---
 
 ###### Servok War Engine
 
-| Construct, Servok, Soulless, Valok |          -          |       Level 10        |       Elite Brute       |         EV 48          |
-| :--------------------------------: | :-----------------: | :-------------------: | :---------------------: | :--------------------: |
-|          **3**<br/> Size           |  **5**<br/> Speed   | **2608**<br/> Stamina |  **1**<br/> Stability   | **0**<br/> Free Strike |
-|        **-**<br/> Immunity         | **-**<br/> Movement |           -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
-|         **+5**<br/> Might          | **-2**<br/> Agility |  **-4**<br/> Reason   |  **-1**<br/> Intuition  |  **-5**<br/> Presence  |
+| Construct, Servok, Soulless, Valok |          -          |       Level 10       |       Elite Brute       |          EV 48          |
+| :--------------------------------: | :-----------------: | :------------------: | :---------------------: | :---------------------: |
+|          **3**<br/> Size           |  **5**<br/> Speed   | **260**<br/> Stamina |  **8**<br/> Stability   | **10**<br/> Free Strike |
+|        **-**<br/> Immunity         | **-**<br/> Movement |          -           | **-**<br/> With Captain |   **-**<br/> Weakness   |
+|         **+5**<br/> Might          | **-2**<br/> Agility |  **-4**<br/> Reason  |  **-1**<br/> Intuition  |  **-5**<br/> Presence   |
 
 <!-- -->
 > 🗡 **Blade Rake (Signature Ability)**
@@ -85,8 +85,8 @@ type: monster
 >
 > **Effect:** Each target makes an Agility test.
 >
-> - **≤11:** 16 fire damage; the target is burning (save ends
-> - **12-16:** 12 fire damage; the target is burning (EoT
+> - **≤11:** 16 fire damage; the target is burning (save ends)
+> - **12-16:** 12 fire damage; the target is burning (EoT)
 > - **17+:** 8 fire damage
 >
 > A burning creature takes 1d6 fire damage at the start of each of their turns. A burning object takes 1d6 fire damage at the end of each round. Additionally, the area is burning until the end of the encounter. While the area is burning, it is difficult terrain and any enemy takes 3 fire damage for each square of the area they enter.
@@ -116,7 +116,7 @@ type: monster
 <!-- -->
 > ⭐️ **Crafted to Perfection**
 >
-> The war engine's shape can't be changed by any external effect
+> The war engine's shape can't be changed by any external effect.
 
 <!-- -->
 > ⭐️ **Valiar Might**

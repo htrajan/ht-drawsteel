@@ -14,7 +14,7 @@ type: monster/section
 
 ## Ashen Hoarder
 
-Grave robbing is a dangerous business, but necromancers need bodies for their experiments. To procure supplies and stay out of danger, these mages build ashen hoarders-hulking constructs made of magically reinforced humanoid bones.
+Grave robbing is a dangerous business, but necromancers need bodies for their experiments. To procure supplies and stay out of danger, these mages build ashen hoarders—hulking constructs made of magically reinforced humanoid bones.
 
 ### Appendages and Spikes
 
@@ -28,7 +28,7 @@ These automatons are equipped to protect their cargo. If enemies corner an ashen
 
 ### Soul Shackle
 
-Creating and powering an ashen hoarder requires a vast amount of necromantic energy. Along with an entire ossuary worth of bones to construct its body, powering the construct requires a soul. That soul is divided between the hoarder and an object known as a Soul Shackle usually a ring or an amulet-that is used to command the construct. Destroying the Soul Shackle can free the trapped soul, but doing so sends an ashen hoarder into an indiscriminate unshackled rage as they feel part of their stolen soul shredded into oblivion. The construct lashes out against any living creature they can before collapsing in on themself. Freeing the soul still trapped inside the ashen hoarder's remains requires completing the Find a Cure downtime project in *[Draw Steel: Heroes](https://mcdm.gg/DS-Heroes)* and the assistance of a powerful holy figure.
+Creating and powering an ashen hoarder requires a vast amount of necromantic energy. Along with an entire ossuary worth of bones to construct its body, powering the construct requires a soul. That soul is divided between the hoarder and an object known as a Soul Shackle usually a ring or an amulet—that is used to command the construct. Destroying the Soul Shackle can free the trapped soul, but doing so sends an ashen hoarder into an indiscriminate unshackled rage as they feel part of their stolen soul shredded into oblivion. The construct lashes out against any living creature they can before collapsing in on themself. Freeing the soul still trapped inside the ashen hoarder's remains requires completing the Find a Cure downtime project in *[Draw Steel: Heroes](https://mcdm.gg/DS-Heroes)* and the assistance of a powerful holy figure.
 
 ###### Ashen Hoarder Malice (Malice Features)
 
@@ -60,11 +60,11 @@ At the start of an ashen hoarder's turn, you can spend Malice to activate one of
 
 ###### Ashen Hoarder
 
-|  Construct, Undead  |            -             |       Level 4        |          Solo           |           EV 72            |
-| :-----------------: | :----------------------: | :------------------: | :---------------------: | :------------------------: |
-|   **3**<br/> Size   |     **8**<br/> Speed     | **350**<br/> Stamina |  **3**<br/> Stability   |   **6**<br/> Free Strike   |
-| **-**<br/> Immunity | **Burrow**<br/> Movement |          -           | **-**<br/> With Captain | **Holy 5**<br/> Weaknesses |
-|  **+4**<br/> Might  |   **-1**<br/> Agility    |  **-2**<br/> Reason  |  **+0**<br/> Intuition  |    **-5**<br/> Presence    |
+|  Construct, Undead  |            -             |       Level 4        |          Solo           |          EV 72           |
+| :-----------------: | :----------------------: | :------------------: | :---------------------: | :----------------------: |
+|   **3**<br/> Size   |     **8**<br/> Speed     | **350**<br/> Stamina |  **3**<br/> Stability   |  **6**<br/> Free Strike  |
+| **-**<br/> Immunity | **Burrow**<br/> Movement |          -           | **-**<br/> With Captain | **Holy 5**<br/> Weakness |
+|  **+4**<br/> Might  |   **-1**<br/> Agility    |  **-2**<br/> Reason  |  **+0**<br/> Intuition  |   **-5**<br/> Presence   |
 
 <!-- -->
 > ☠️ **Solo Monster**
@@ -114,7 +114,9 @@ At the start of an ashen hoarder's turn, you can spend Malice to activate one of
 >
 > **Power Roll + 4:**
 >
-> 6 corruption damage; M < 2 the target is impaled (save ends) 11 corruption damage; M < 3 the target is impaled (save ends) 14 corruption damage; M < 4 the target is impaled (save ends)
+> - **≤11:** 6 corruption damage; M < 2 the target is impaled (save ends)
+> - **12-16:** 11 corruption damage; M < 3 the target is impaled (save ends)
+> - **17+:** 14 corruption damage; M < 4 the target is impaled (save ends)
 >
 > **Effect:** An impaled creature is restrained and bleeding, and moves with the ashen hoarder. The ashen hoarder can have three creatures impaled with this ability at a time.
 

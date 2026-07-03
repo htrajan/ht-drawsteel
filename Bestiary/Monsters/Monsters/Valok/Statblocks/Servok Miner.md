@@ -11,7 +11,7 @@ file_dpath: Monsters/Valok/Statblocks
 free_strike: 9
 intuition: -1
 item_id: servok-miner
-item_index: '331'
+item_index: '04'
 item_name: Servok Miner
 level: 9
 might: 4
@@ -20,15 +20,15 @@ reason: -4
 roles:
   - Elite Controller
 scc:
-  - mcdm.monsters.v1:monster:servok-miner
+  - mcdm.monsters.v1:monster.valok.statblock:servok-miner
 scdc:
-  - 1.1.1:2:331
+  - 1.1.1:2.43.1:04
 size: '2'
 source: mcdm.monsters.v1
 speed: 5
 stability: 6
 stamina: '200'
-type: monster
+type: monster/valok/statblock
 ---
 
 ###### Servok Miner
@@ -36,7 +36,7 @@ type: monster
 | Construct, Servok, Soulless, Valok |                -                |       Level 9        |    Elite Controller     |         EV 44          |
 | :--------------------------------: | :-----------------------------: | :------------------: | :---------------------: | :--------------------: |
 |          **2**<br/> Size           |        **5**<br/> Speed         | **200**<br/> Stamina |  **6**<br/> Stability   | **9**<br/> Free Strike |
-|        **-**<br/> Immunity         | **Burrow, climb**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+|        **-**<br/> Immunity         | **Burrow, climb**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |         **+4**<br/> Might          |       **-2**<br/> Agility       |  **-4**<br/> Reason  |  **-1**<br/> Intuition  |  **-5**<br/> Presence  |
 
 <!-- -->
@@ -67,7 +67,7 @@ type: monster
 > - **12-16:** 11 damage; slide 2
 > - **17+:** 7 damage
 >
-> The area is difficult terrain
+> The area is difficult terrain.
 
 <!-- -->
 > 🔳 **Break Ground (5 Malice)**
@@ -106,7 +106,7 @@ type: monster
 <!-- -->
 > ⭐️ **Crafted to Perfection**
 >
-> The miner's shape can't be changed by any external effect
+> The miner's shape can't be changed by any external effect.
 
 <!-- -->
 > ⭐️ **Valiar Might**

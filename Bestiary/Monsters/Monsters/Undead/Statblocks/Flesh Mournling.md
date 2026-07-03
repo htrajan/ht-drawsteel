@@ -8,7 +8,7 @@ file_dpath: Monsters/Undead/Statblocks
 free_strike: 2
 intuition: 2
 item_id: flesh-mournling
-item_index: '83'
+item_index: '31'
 item_name: Flesh Mournling
 level: 4
 might: 3
@@ -17,15 +17,15 @@ reason: 0
 roles:
   - Horde Defender
 scc:
-  - mcdm.monsters.v1:monster:flesh-mournling
+  - mcdm.monsters.v1:monster.undead.statblock:flesh-mournling
 scdc:
-  - 1.1.1:2:83
+  - 1.1.1:2.8.1:31
 size: '2'
 source: mcdm.monsters.v1
 speed: 6
 stability: 2
 stamina: '35'
-type: monster
+type: monster/undead/statblock
 ---
 
 ###### Flesh Mournling
@@ -33,7 +33,7 @@ type: monster
 |                  Undead                  |          -          |       Level 4       |     Horde Defender      |          EV 6          |
 | :--------------------------------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |             **2**<br/> Size              |  **6**<br/> Speed   | **35**<br/> Stamina |  **2**<br/> Stability   | **2**<br/> Free Strike |
-| **Corruption 4, poison 4**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Corruption 4, poison 4**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |            **+3**<br/> Might             | **+1**<br/> Agility |  **0**<br/> Reason  |  **+2**<br/> Intuition  |  **-1**<br/> Presence  |
 
 <!-- -->
@@ -49,7 +49,7 @@ type: monster
 > - **12-16:** 7 damage
 > - **17+:** 9 damage
 >
-> **Effect:** The target can't shift until the end of their next turn
+> **Effect:** The target can't shift until the end of their next turn.
 >
 > **1 Malice:** This ability targets one additional target.
 

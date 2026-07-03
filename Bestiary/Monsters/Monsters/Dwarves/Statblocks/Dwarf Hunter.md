@@ -9,7 +9,7 @@ file_dpath: Monsters/Dwarves/Statblocks
 free_strike: 1
 intuition: 0
 item_id: dwarf-hunter
-item_index: '405'
+item_index: '10'
 item_name: Dwarf Hunter
 level: 1
 might: 1
@@ -18,15 +18,15 @@ reason: 0
 roles:
   - Minion Support
 scc:
-  - mcdm.monsters.v1:monster:dwarf-hunter
+  - mcdm.monsters.v1:monster.dwarves.statblock:dwarf-hunter
 scdc:
-  - 1.1.1:2:405
+  - 1.1.1:2.52.1:10
 size: 1M
 source: mcdm.monsters.v1
 speed: 5
 stability: 1
 stamina: '6'
-type: monster
+type: monster/dwarves/statblock
 ---
 
 ###### Dwarf Hunter
@@ -34,7 +34,7 @@ type: monster
 |   Dwarf, Humanoid   |          -          |      Level 1       |              Minion Support               |   EV 3 for 4 minions   |
 | :-----------------: | :-----------------: | :----------------: | :---------------------------------------: | :--------------------: |
 |  **1M**<br/> Size   |  **5**<br/> Speed   | **6**<br/> Stamina |           **1**<br/> Stability            | **1**<br/> Free Strike |
-| **-**<br/> Immunity | **-**<br/> Movement |         -          | **+2 bonus to Stamina**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **-**<br/> Movement |         -          | **+2 bonus to Stamina**<br/> With Captain |  **-**<br/> Weakness   |
 |  **+1**<br/> Might  | **+2**<br/> Agility | **+0**<br/> Reason |           **+0**<br/> Intuition           |  **+0**<br/> Presence  |
 
 <!-- -->

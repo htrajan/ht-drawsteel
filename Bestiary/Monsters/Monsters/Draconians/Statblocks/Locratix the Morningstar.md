@@ -10,7 +10,7 @@ file_dpath: Monsters/Draconians/Statblocks
 free_strike: 7
 intuition: 2
 item_id: locratix-the-morningstar
-item_index: '105'
+item_index: '05'
 item_name: Locratix the Morningstar
 level: 6
 might: 1
@@ -19,15 +19,15 @@ reason: 1
 roles:
   - Elite Harrier
 scc:
-  - mcdm.monsters.v1:monster:locratix-the-morningstar
+  - mcdm.monsters.v1:monster.draconians.statblock:locratix-the-morningstar
 scdc:
-  - 1.1.1:2:105
+  - 1.1.1:2.11.1:05
 size: 1M
 source: mcdm.monsters.v1
 speed: 8
 stability: 2
 stamina: '160'
-type: monster
+type: monster/draconians/statblock
 ---
 
 ###### Locratix the Morningstar
@@ -35,7 +35,7 @@ type: monster
 | Draconian, Dragon, Humanoid |           -           |       Level 6        |      Elite Harrier      |         EV 32          |
 | :-------------------------: | :-------------------: | :------------------: | :---------------------: | :--------------------: |
 |      **1M**<br/> Size       |   **8**<br/> Speed    | **160**<br/> Stamina |  **2**<br/> Stability   | **7**<br/> Free Strike |
-|  **Acid 6**<br/> Immunity   | **Fly**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+|  **Acid 6**<br/> Immunity   | **Fly**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |      **+1**<br/> Might      |  **+3**<br/> Agility  |  **+1**<br/> Reason  |  **+2**<br/> Intuition  |  **+2**<br/> Presence  |
 
 <!-- -->
@@ -47,9 +47,9 @@ type: monster
 >
 > **Power Roll + 3:**
 >
-> - **≤11:** 1 10 damage
-> - **12-16:** 2 15 damage; M < 1 slowed (save ends)
-> - **17+:** 3 18 damage; M < 2 slowed (save ends)
+> - **≤11:** 10 damage
+> - **12-16:** 15 damage; M < 1 slowed (save ends)
+> - **17+:** 18 damage; M < 2 slowed (save ends)
 >
 > **Effect:** Locratix deals 6 damage to each creature or object in a 2 x 1 line behind the target.
 

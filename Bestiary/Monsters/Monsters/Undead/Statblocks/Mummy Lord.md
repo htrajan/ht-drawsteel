@@ -9,7 +9,7 @@ file_dpath: Monsters/Undead/Statblocks
 free_strike: 6
 intuition: 4
 item_id: mummy-lord
-item_index: '78'
+item_index: '26'
 item_name: Mummy Lord
 level: 4
 might: 4
@@ -18,24 +18,24 @@ reason: 2
 roles:
   - Leader
 scc:
-  - mcdm.monsters.v1:monster:mummy-lord
+  - mcdm.monsters.v1:monster.undead.statblock:mummy-lord
 scdc:
-  - 1.1.1:2:78
+  - 1.1.1:2.8.1:26
 size: 1M
 source: mcdm.monsters.v1
 speed: 6
 stability: 4
 stamina: '155'
-type: monster
+type: monster/undead/statblock
 ---
 
 ###### Mummy Lord
 
-|              Mummy, Undead               |          -          |       Level 4        |         Leader          |           EV 24            |
-| :--------------------------------------: | :-----------------: | :------------------: | :---------------------: | :------------------------: |
-|             **1M**<br/> Size             |  **6**<br/> Speed   | **155**<br/> Stamina |  **4**<br/> Stability   |   **6**<br/> Free Strike   |
-| **Corruption 6, poison 6**<br/> Immunity | **-**<br/> Movement |          -           | **-**<br/> With Captain | **Fire 5**<br/> Weaknesses |
-|            **+4**<br/> Might             | **0**<br/> Agility  |  **+2**<br/> Reason  |  **+4**<br/> Intuition  |    **+2**<br/> Presence    |
+|              Mummy, Undead               |          -          |       Level 4        |         Leader          |          EV 24           |
+| :--------------------------------------: | :-----------------: | :------------------: | :---------------------: | :----------------------: |
+|             **1M**<br/> Size             |  **6**<br/> Speed   | **155**<br/> Stamina |  **4**<br/> Stability   |  **6**<br/> Free Strike  |
+| **Corruption 6, poison 6**<br/> Immunity | **-**<br/> Movement |          -           | **-**<br/> With Captain | **Fire 5**<br/> Weakness |
+|            **+4**<br/> Might             | **0**<br/> Agility  |  **+2**<br/> Reason  |  **+4**<br/> Intuition  |   **+2**<br/> Presence   |
 
 <!-- -->
 > 🗡 **Accursed Slam (Signature Ability)**

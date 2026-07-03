@@ -11,7 +11,7 @@ file_dpath: Monsters/Hobgoblins/Statblocks
 free_strike: 6
 intuition: 0
 item_id: hobgoblin-grandguard
-item_index: '183'
+item_index: '07'
 item_name: Hobgoblin Grandguard
 level: 6
 might: 3
@@ -20,15 +20,15 @@ reason: 3
 roles:
   - Platoon Defender
 scc:
-  - mcdm.monsters.v1:monster:hobgoblin-grandguard
+  - mcdm.monsters.v1:monster.hobgoblins.statblock:hobgoblin-grandguard
 scdc:
-  - 1.1.1:2:183
+  - 1.1.1:2.22.1:07
 size: '2'
 source: mcdm.monsters.v1
 speed: 4
 stability: 4
 stamina: '111'
-type: monster
+type: monster/hobgoblins/statblock
 ---
 
 ###### Hobgoblin Grandguard
@@ -36,7 +36,7 @@ type: monster
 | Goblin, Hobgoblin, Humanoid, Infernal |          -          |       Level 6        |    Platoon Defender     |         EV 16          |
 | :-----------------------------------: | :-----------------: | :------------------: | :---------------------: | :--------------------: |
 |            **2**<br/> Size            |  **4**<br/> Speed   | **111**<br/> Stamina |  **4**<br/> Stability   | **6**<br/> Free Strike |
-|       **Fire 6**<br/> Immunity        | **-**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+|       **Fire 6**<br/> Immunity        | **-**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |           **+3**<br/> Might           | **+2**<br/> Agility |  **+3**<br/> Reason  |  **0**<br/> Intuition   |  **+2**<br/> Presence  |
 
 <!-- -->
@@ -77,4 +77,4 @@ type: monster
 <!-- -->
 > ⭐️ **Infernal Ichor**
 >
-> When the grandguard is reduced to 0 Stamina, they spray burning blood. Each creature adjacent to the grandguard takes 3 fire damage
+> When the grandguard is reduced to 0 Stamina, they spray burning blood. Each creature adjacent to the grandguard takes 3 fire damage.

@@ -9,7 +9,7 @@ file_dpath: Monsters/Orcs/Statblocks
 free_strike: 2
 intuition: 0
 item_id: orc-razor
-item_index: '132'
+item_index: '10'
 item_name: Orc Razor
 level: 1
 might: 2
@@ -18,15 +18,15 @@ reason: 0
 roles:
   - Minion Brute
 scc:
-  - mcdm.monsters.v1:monster:orc-razor
+  - mcdm.monsters.v1:monster.orcs.statblock:orc-razor
 scdc:
-  - 1.1.1:2:132
+  - 1.1.1:2.16.1:10
 size: 1L
 source: mcdm.monsters.v1
 speed: 6
 stability: 0
 stamina: '5'
-type: monster
+type: monster/orcs/statblock
 ---
 
 ###### Orc Razor
@@ -34,7 +34,7 @@ type: monster
 |    Humanoid, Orc    |          -          |      Level 1       |                   Minion Brute                   | EV 3 for four minions  |
 | :-----------------: | :-----------------: | :----------------: | :----------------------------------------------: | :--------------------: |
 |  **1L**<br/> Size   |  **6**<br/> Speed   | **5**<br/> Stamina |               **0**<br/> Stability               | **2**<br/> Free Strike |
-| **-**<br/> Immunity | **-**<br/> Movement |         -          | **+1 damage bonus to strikes**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **-**<br/> Movement |         -          | **+1 damage bonus to strikes**<br/> With Captain |  **-**<br/> Weakness   |
 |  **+2**<br/> Might  | **+1**<br/> Agility | **0**<br/> Reason  |               **0**<br/> Intuition               |  **0**<br/> Presence   |
 
 <!-- -->
@@ -46,7 +46,7 @@ type: monster
 >
 > **Power Roll + 2:**
 >
-> - **≤11:** 2 damage;
+> - **≤11:** 2 damage
 > - **12-16:** 4 damage; push 3
 > - **17+:** 5 damage; push 3 or prone
 >

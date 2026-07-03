@@ -10,7 +10,7 @@ file_dpath: Monsters/War Dogs/Statblocks
 free_strike: 4
 intuition: -1
 item_id: war-dog-draconite
-item_index: '364'
+item_index: '14'
 item_name: War Dog Draconite
 level: 7
 might: 4
@@ -19,15 +19,15 @@ reason: -2
 roles:
   - Minion Brute
 scc:
-  - mcdm.monsters.v1:monster:war-dog-draconite
+  - mcdm.monsters.v1:monster.war-dogs.statblock:war-dog-draconite
 scdc:
-  - 1.1.1:2:364
+  - 1.1.1:2.51.1:14
 size: '2'
 source: mcdm.monsters.v1
 speed: 5
 stability: 2
 stamina: '13'
-type: monster
+type: monster/war-dogs/statblock
 ---
 
 ###### War Dog Draconite
@@ -35,7 +35,7 @@ type: monster
 | Humanoid, Soulless, War Dog |          -          |       Level 7       |                   Minion Brute                   | EV 9 for four minions  |
 | :-------------------------: | :-----------------: | :-----------------: | :----------------------------------------------: | :--------------------: |
 |       **2**<br/> Size       |  **5**<br/> Speed   | **13**<br/> Stamina |               **2**<br/> Stability               | **4**<br/> Free Strike |
-|     **-**<br/> Immunity     | **-**<br/> Movement |          -          | **+3 damage bonus to strikes**<br/> With Captain | **-**<br/> Weaknesses  |
+|     **-**<br/> Immunity     | **-**<br/> Movement |          -          | **+3 damage bonus to strikes**<br/> With Captain |  **-**<br/> Weakness   |
 |      **+4**<br/> Might      | **+1**<br/> Agility | **-2**<br/> Reason  |              **-1**<br/> Intuition               |  **+2**<br/> Presence  |
 
 <!-- -->

@@ -9,7 +9,7 @@ file_dpath: Monsters/Devils/Statblocks
 free_strike: 6
 intuition: 1
 item_id: devil-high-judge
-item_index: '298'
+item_index: '03'
 item_name: Devil High Judge
 level: 6
 might: 1
@@ -18,15 +18,15 @@ reason: 0
 roles:
   - Leader
 scc:
-  - mcdm.monsters.v1:monster:devil-high-judge
+  - mcdm.monsters.v1:monster.devils.statblock:devil-high-judge
 scdc:
-  - 1.1.1:2:298
+  - 1.1.1:2.39.1:03
 size: 1M
 source: mcdm.monsters.v1
 speed: 7
 stability: 2
 stamina: '181'
-type: monster
+type: monster/devils/statblock
 ---
 
 ###### Devil High Judge
@@ -34,7 +34,7 @@ type: monster
 |     Devil, Infernal      |           -           |       Level 6        |         Leader          |         EV 32          |
 | :----------------------: | :-------------------: | :------------------: | :---------------------: | :--------------------: |
 |     **1M**<br/> Size     |   **7**<br/> Speed    | **181**<br/> Stamina |  **2**<br/> Stability   | **6**<br/> Free Strike |
-| **Fire 5**<br/> Immunity | **Fly**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Fire 5**<br/> Immunity | **Fly**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |    **+1**<br/> Might     |  **+3**<br/> Agility  |  **+0**<br/> Reason  |  **+1**<br/> Intuition  |  **+2**<br/> Presence  |
 
 <!-- -->
@@ -59,7 +59,7 @@ type: monster
 > | ------------------------- | -------------------: |
 > | **📏 Ranged 12**          | **🎯 Two creatures** |
 >
-> **Power Roll + 4**
+> **Power Roll + 4:**
 >
 > - **≤11:** I < 2 the target is charmed (save ends)
 > - **12-16:** I < 3 the target is charmed (save ends)

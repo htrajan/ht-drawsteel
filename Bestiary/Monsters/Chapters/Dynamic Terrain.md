@@ -39,7 +39,7 @@ Some terrain objects have a defined direction indicating how they are placed, su
 
 #### Deactivate
 
-Most terrain objects can be deactivated under certain circumstances. The Sabotage skill is generally applicable for tests made to deactivate mechanisms and siege engines, while traps might allow different skills to be used depending on their setup-Alchemy to deactivate a pool of flammable oil, Nature to deactivate a spiked pit trap in a forest, Magic or Psionics to deactivate a supernatural object, and so forth. Disabling a supernatural object requires a more intricate process detailed in each object's stat block.
+Most terrain objects can be deactivated under certain circumstances. The Sabotage skill is generally applicable for tests made to deactivate mechanisms and siege engines, while traps might allow different skills to be used depending on their setup—Alchemy to deactivate a pool of flammable oil, Nature to deactivate a spiked pit trap in a forest, Magic or Psionics to deactivate a supernatural object, and so forth. Disabling a supernatural object requires a more intricate process detailed in each object's stat block.
 
 Once a terrain object is deactivated, the Director determines what must be done to reset it and how long it takes to do so.
 
@@ -57,7 +57,7 @@ Each terrain object's effect entry defines what happens when the object is trigg
 
 #### Upgrades
 
-Some terrain objects can be upgraded to create additional effects. If a terrain object has a size in squares, the upgrade cost is paid on a squareby-square basis unless otherwise noted.
+Some terrain objects can be upgraded to create additional effects. If a terrain object has a size in squares, the upgrade cost is paid on a square-by-square basis unless otherwise noted.
 
 ### Hidden Terrain Objects
 
@@ -277,7 +277,7 @@ A patch of blisteringly hot molten rock wells up from the ground, threatening an
 
 ###### Quicksand (Level 3 Hazard Hexer)
 
-When this patch of sand is stepped on, it is revealed to be a slurry saturated by water-and ready to draw creatures down to their doom.
+When this patch of sand is stepped on, it is revealed to be a slurry saturated by water—and ready to draw creatures down to their doom.
 
 - **EV:** 3 per 10 x 10 patch
 - **Stamina:** -
@@ -341,8 +341,6 @@ Colorful mushrooms or lovely flowering plants release a cloud of spores or polle
 > | **Magic, Melee, Strike** |      **Free triggered action** |
 > | ------------------------ | -----------------------------: |
 > | **📏 Melee 0**           | **🎯 The triggering creature** |
->
-> Magic, Melee, Strike Free triggered action
 >
 > **Trigger:** A creature starts their turn in the area of the toxic plants, or enters a square of toxic plants without shifting.
 >
@@ -536,20 +534,21 @@ A reinforced metal shield embedded in the ground acts as cover for the creature 
 - **Stamina:** 9
 - **Size:** 1M
 
-🌀 **Deactivate**
-
-As a maneuver, a creature adjacent to a pavise shield controlled by another creature can make a **Might test**.
-
-- **≤11:** The creature controlling the shield retains control of it and can make an opportunity attack against the creature making the test.
-- **12-16:** The creature controlling the shield retains control of it.
-- **17+:** The creature making the test grabs the shield and takes control of it.
+<!-- -->
+> 🌀 **Deactivate**
+>
+> As a maneuver, a creature adjacent to a pavise shield controlled by another creature can make a **Might test**.
+>
+> - **≤11:** The creature controlling the shield retains control of it and can make an opportunity attack against the creature making the test.
+> - **12-16:** The creature controlling the shield retains control of it.
+> - **17+:** The creature making the test grabs the shield and takes control of it.
 
 <!-- -->
-> ❕ **Activate**
+> ⭐️ **Controlling the Shield**
 >
-> **Effect:** While a creature has the pavise shield grabbed, they have cover and take half damage from abilities whose line of effect extends through the shield. The pavise shield takes the other half of the damage.
+> While a creature has the pavise shield grabbed, they have cover and take half damage from abilities whose line of effect extends through the shield. The pavise shield takes the other half of the damage.
 >
-> **Movement:** While a creature has a pavise shield grabbed, their speed is halved and they move the shield like a grabbed creature.
+> While a creature has a pavise shield grabbed, their speed is halved and they move the shield like a grabbed creature.
 
 ###### Snare Trap (Level 1 Trap Ambusher)
 
@@ -1077,9 +1076,9 @@ A massive humming crystal makes the air around it feel thick.
 <!-- -->
 > ❗️ **Psionic Pulse**
 >
-> | **-**    | **Free triggered action** |
-> | -------- | ------------------------: |
-> | **📏 -** |                  **🎯 -** |
+> | **-**          | **Free triggered action** |
+> | -------------- | ------------------------: |
+> | **📏 Special** |            **🎯 Special** |
 >
 > **Trigger:** The shard is destroyed.
 >
@@ -1192,11 +1191,11 @@ A small wooden cart uses alchemical rockets to launch up to a hundred arrows at 
 > | ------------------------ | ------------------------------------------: |
 > | **📏 5 cube within 20**  | **🎯 Each creature and object in the area** |
 >
+> **Power Roll + 2:**
+>
 > - **≤11:** 5 damage; R < 0 dazed (save ends)
 > - **12-16:** 8 damage; R < 1 dazed (save ends)
 > - **17+:** 11 damage; R < 2 frightened (save ends)
->
-> **Effect:** This ability can't be used again until the arrow
 >
 > **Effect:** This ability can't be used again until the arrow launcher is reloaded.
 
@@ -1426,7 +1425,7 @@ A massive crossbow fires thick metal bolts with devastating effect.
 >
 > **Penetrating Bolt (+2 EV)** The field ballista targets the nearest two additional creatures or objects in a straight line beyond the initial target.
 >
-> **Chain Bolt (+2EV)** The field ballista's bolts are set with heavy chains that wrap around targets. The **Chain Bolt** ability replaces **Release Bolt**, and the field ballista gains the **Crank the Chain** ability.
+> **Chain Bolt (+2 EV)** The field ballista's bolts are set with heavy chains that wrap around targets. The **Chain Bolt** ability replaces **Release Bolt**, and the field ballista gains the **Crank the Chain** ability.
 >
 > 🏹 **Chain Bolt**
 >
@@ -1484,9 +1483,9 @@ A massive metal device uses a bellows system and liquid fuel to shoot out gouts 
 >
 > **Power Roll + 2:**
 >
-> - **≤11:** 6 damage; A < 0 the target is burning (save ends)
-> - **12-16:** 10 damage; A < 1 the target is burning (save ends)
-> - **17+:** 13 damage; A < 2 the target is burning (save ends)
+> - **≤11:** 6 fire damage; A < 0 the target is burning (save ends)
+> - **12-16:** 10 fire damage; A < 1 the target is burning (save ends)
+> - **17+:** 13 fire damage; A < 2 the target is burning (save ends)
 >
 > **Effect:** A burning creature takes 1d6 fire damage at the start of each of their turns. A burning object takes 1d6 fire damage at the end of each round. This ability can't be used again until the iron dragon is reloaded.
 
@@ -1515,7 +1514,7 @@ A massive metal device uses a bellows system and liquid fuel to shoot out gouts 
 > | -------- | ----------------------------------: |
 > | **📏 -** |                            **🎯 -** |
 >
-> **Effect:** The iron dragon and the creature using this action move together up to 2 squares
+> **Effect:** The iron dragon and the creature using this action move together up to 2 squares.
 
 ###### Watchtower (Level 2 Fortification Defender)
 
@@ -1636,7 +1635,7 @@ This unnatural object twists space around it in a reflection of its own unnatura
 
 ###### The Throne of A'An (Level 4 Relic Controller)
 
-The throne of A'An, sun god of the Antical Protectorate in what is now Vanigar, retains some of her power from the age before she was slain to end the Age of Suns-and plunge the region into eternal winter.
+The throne of A'An, sun god of the Antical Protectorate in what is now Vanigar, retains some of her power from the age before she was slain to end the Age of Suns—and plunge the region into eternal winter.
 
 - **EV:** 24
 - **Stamina:** 140
@@ -1683,7 +1682,7 @@ The throne of A'An, sun god of the Antical Protectorate in what is now Vanigar, 
 > | ------------------------- | ----------------------------: |
 > | **📏 Ranged 20**          | **🎯 One creature or object** |
 >
-> **Power Roll + 2:**
+> **Power Roll + 3:**
 >
 > - **≤11:** 6 fire damage
 > - **12-16:** 11 fire damage
@@ -1726,6 +1725,6 @@ The throne of A'An, sun god of the Antical Protectorate in what is now Vanigar, 
 >
 > **Drawback:** You have cold weakness 5. Whenever you finish a respite and you have not recruited a new disciple of A'An since your last respite, make a **Presence test**.
 >
-> - **≤11:** A'An possesses your body until your next respite. You now must roleplay A'An trapped in your form, prioritiz- ing earning new disciples.
+> - **≤11:** A'An possesses your body until your next respite. You now must roleplay A'An trapped in your form, prioritizing earning new disciples.
 > - **12-16:** You lose a Recovery.
 > - **17+:** You suffer no effect

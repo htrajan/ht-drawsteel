@@ -9,7 +9,7 @@ file_dpath: Monsters/Rivals/3rd Echelon/Statblocks
 free_strike: 9
 intuition: 0
 item_id: rival-shadow
-item_index: '27'
+item_index: '07'
 item_name: Rival Shadow
 level: 8
 might: 0
@@ -18,15 +18,15 @@ reason: 2
 roles:
   - Elite Ambusher
 scc:
-  - mcdm.monsters.v1:monster:rival-shadow
+  - mcdm.monsters.v1:monster.rivals.3rd echelon.statblock:rival-shadow
 scdc:
-  - 1.1.1:2:27
+  - 1.1.1:2.5.3.1:07
 size: 1M
 source: mcdm.monsters.v1
 speed: 7
 stability: 1
 stamina: '200'
-type: monster
+type: monster/rivals/3rd echelon/statblock
 ---
 
 ###### Rival Shadow
@@ -34,7 +34,7 @@ type: monster
 |   Humanoid, Rival   |          -          |       Level 8        |     Elite Ambusher      |         EV 40          |
 | :-----------------: | :-----------------: | :------------------: | :---------------------: | :--------------------: |
 |  **1M**<br/> Size   |  **7**<br/> Speed   | **200**<br/> Stamina |  **1**<br/> Stability   | **9**<br/> Free Strike |
-| **-**<br/> Immunity | **-**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **-**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |  **0**<br/> Might   | **+4**<br/> Agility |  **+2**<br/> Reason  |  **0**<br/> Intuition   |  **+3**<br/> Presence  |
 
 <!-- -->

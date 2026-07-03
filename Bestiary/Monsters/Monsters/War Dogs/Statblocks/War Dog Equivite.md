@@ -9,7 +9,7 @@ file_dpath: Monsters/War Dogs/Statblocks
 free_strike: 3
 intuition: -2
 item_id: war-dog-equivite
-item_index: '362'
+item_index: '12'
 item_name: War Dog Equivite
 level: 4
 might: 3
@@ -18,15 +18,15 @@ reason: -1
 roles:
   - Horde Brute
 scc:
-  - mcdm.monsters.v1:monster:war-dog-equivite
+  - mcdm.monsters.v1:monster.war-dogs.statblock:war-dog-equivite
 scdc:
-  - 1.1.1:2:362
+  - 1.1.1:2.51.1:12
 size: '2'
 source: mcdm.monsters.v1
 speed: 8
 stability: 2
 stamina: '53'
-type: monster
+type: monster/war-dogs/statblock
 ---
 
 ###### War Dog Equivite
@@ -34,7 +34,7 @@ type: monster
 |  Soulless, War Dog  |          -          |       Level 4       |       Horde Brute       |          EV 6          |
 | :-----------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |   **2**<br/> Size   |  **8**<br/> Speed   | **53**<br/> Stamina |  **2**<br/> Stability   | **3**<br/> Free Strike |
-| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |  **+3**<br/> Might  | **+3**<br/> Agility | **-1**<br/> Reason  |  **-2**<br/> Intuition  |  **0**<br/> Presence   |
 
 <!-- -->
@@ -61,7 +61,7 @@ type: monster
 > | ------------------------- | -------------: |
 > | **📏 Special; see below** | **🎯 Special** |
 >
-> **Effect:** The equivite moves up to their speed and ignores difficult terrain. Any mundane size 1 object whose space they move through is destroyed. The equivite makes one power roll against each enemy whose space they move through for the first time
+> **Effect:** The equivite moves up to their speed and ignores difficult terrain. Any mundane size 1 object whose space they move through is destroyed. The equivite makes one power roll against each enemy whose space they move through for the first time.
 >
 > **Power Roll + 3:**
 >

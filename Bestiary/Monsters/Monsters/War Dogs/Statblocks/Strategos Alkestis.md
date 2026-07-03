@@ -7,10 +7,10 @@ ancestry:
 ev: '48'
 file_basename: Strategos Alkestis
 file_dpath: Monsters/War Dogs/Statblocks
-free_strike: 0
+free_strike: 10
 intuition: 5
 item_id: strategos-alkestis
-item_index: '359'
+item_index: 09
 item_name: Strategos Alkestis
 level: 10
 might: 4
@@ -19,24 +19,24 @@ reason: 5
 roles:
   - Leader
 scc:
-  - mcdm.monsters.v1:monster:strategos-alkestis
+  - mcdm.monsters.v1:monster.war-dogs.statblock:strategos-alkestis
 scdc:
-  - 1.1.1:2:359
+  - 1.1.1:2.51.1:09
 size: 1M
 source: mcdm.monsters.v1
 speed: 5
-stability: 1
-stamina: '2602'
-type: monster
+stability: 2
+stamina: '260'
+type: monster/war-dogs/statblock
 ---
 
 ###### Strategos Alkestis
 
-| Humanoid, Soulless, War Dog |          -          |       Level 10        |         Leader          |         EV 48          |
-| :-------------------------: | :-----------------: | :-------------------: | :---------------------: | :--------------------: |
-|      **1M**<br/> Size       |  **5**<br/> Speed   | **2602**<br/> Stamina |  **1**<br/> Stability   | **0**<br/> Free Strike |
-|     **-**<br/> Immunity     | **-**<br/> Movement |           -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
-|      **+4**<br/> Might      | **+4**<br/> Agility |  **+5**<br/> Reason   |  **+5**<br/> Intuition  |  **+5**<br/> Presence  |
+| Humanoid, Soulless, War Dog |          -          |       Level 10       |         Leader          |          EV 48          |
+| :-------------------------: | :-----------------: | :------------------: | :---------------------: | :---------------------: |
+|      **1M**<br/> Size       |  **5**<br/> Speed   | **260**<br/> Stamina |  **2**<br/> Stability   | **10**<br/> Free Strike |
+|     **-**<br/> Immunity     | **-**<br/> Movement |          -           | **-**<br/> With Captain |   **-**<br/> Weakness   |
+|      **+4**<br/> Might      | **+4**<br/> Agility |  **+5**<br/> Reason  |  **+5**<br/> Intuition  |  **+5**<br/> Presence   |
 
 <!-- -->
 > ⚔️ **Houndgun and Houndblade (Signature Ability)**
@@ -62,7 +62,7 @@ type: monster
 > | ---------------- | ----------------------------: |
 > | **📏 Ranged 15** | **🎯 One creature or object** |
 >
-> **Effect:** Until the start of Alkestis's next turn, any effect that reduces the damage taken by the target has no effect
+> **Effect:** Until the start of Alkestis's next turn, any effect that reduces the damage taken by the target has no effect.
 
 <!-- -->
 > ❗️ **Artillery Enfilade (2 Malice)**
@@ -79,7 +79,7 @@ type: monster
 > - **12-16:** 13 damage; A < 5 slowed (save ends)
 > - **17+:** 16 damage; A < 6 slowed (save ends)
 >
-> **Effect:** The area is difficult terrain until the start of the next round
+> **Effect:** The area is difficult terrain until the start of the next round.
 
 <!-- -->
 > ⭐️ **End Effect**

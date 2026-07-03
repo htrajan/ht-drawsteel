@@ -9,7 +9,7 @@ file_dpath: Monsters/Giants/Statblocks
 free_strike: 9
 intuition: 0
 item_id: frost-giant-storm-hurler
-item_index: '200'
+item_index: 09
 item_name: Frost Giant Storm Hurler
 level: 8
 might: 4
@@ -18,15 +18,15 @@ reason: 0
 roles:
   - Elite Artillery
 scc:
-  - mcdm.monsters.v1:monster:frost-giant-storm-hurler
+  - mcdm.monsters.v1:monster.giants.statblock:frost-giant-storm-hurler
 scdc:
-  - 1.1.1:2:200
+  - 1.1.1:2.23.1:09
 size: '4'
 source: mcdm.monsters.v1
 speed: 7
 stability: 5
 stamina: '180'
-type: monster
+type: monster/giants/statblock
 ---
 
 ###### Frost Giant Storm Hurler
@@ -34,7 +34,7 @@ type: monster
 |    Frost Giant, Giant    |          -          |       Level 8        |     Elite Artillery     |         EV 40          |
 | :----------------------: | :-----------------: | :------------------: | :---------------------: | :--------------------: |
 |     **4**<br/> Size      |  **7**<br/> Speed   | **180**<br/> Stamina |  **5**<br/> Stability   | **9**<br/> Free Strike |
-| **Cold 8**<br/> Immunity | **-**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Cold 8**<br/> Immunity | **-**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |    **+4**<br/> Might     | **-1**<br/> Agility |  **0**<br/> Reason   |  **0**<br/> Intuition   |  **0**<br/> Presence   |
 
 <!-- -->

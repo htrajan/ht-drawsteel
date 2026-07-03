@@ -25,11 +25,11 @@ stamina: '57'
 
 ###### Troll Mercenary
 
-|    Giant, Troll     |          -          |       Level 5       |     Brute Retainer      |               EV -               |
-| :-----------------: | :-----------------: | :-----------------: | :---------------------: | :------------------------------: |
-|   **2**<br/> Size   |  **6**<br/> Speed   | **57**<br/> Stamina |  **4**<br/> Stability   |      **6**<br/> Free Strike      |
-| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **Acid 5, fire**<br/> Weaknesses |
-|  **+3**<br/> Might  | **+1**<br/> Agility | **-1**<br/> Reason  |  **0**<br/> Intuition   |       **+1**<br/> Presence       |
+|    Giant, Troll     |          -          |       Level 5       |     Brute Retainer      |              EV -              |
+| :-----------------: | :-----------------: | :-----------------: | :---------------------: | :----------------------------: |
+|   **2**<br/> Size   |  **6**<br/> Speed   | **57**<br/> Stamina |  **4**<br/> Stability   |     **6**<br/> Free Strike     |
+| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **Acid 5, fire**<br/> Weakness |
+|  **+3**<br/> Might  | **+1**<br/> Agility | **-1**<br/> Reason  |  **0**<br/> Intuition   |      **+1**<br/> Presence      |
 
 <!-- -->
 > 🗡 **Big Bite (Signature Ability)**
@@ -53,6 +53,8 @@ stamina: '57'
 > | -------------- | ----------------------------: |
 > | **📏 3 burst** | **🎯 Each enemy in the area** |
 >
+> **Power Roll + highest characteristic:**
+>
 > - **≤11:** P < WEAK frightened (save ends)
 > - **12-16:** P < AVERAGE frightened (save ends)
 > - **17+:** P < STRONG frightened (save ends), push 3, prone
@@ -60,7 +62,7 @@ stamina: '57'
 <!-- -->
 > ⭐️ **Relentless Hunger**
 >
-> The mercenary dies only if they are reduced to 0 Stamina by acid or fire damage, if they end their turn with 0 Stamina, or if they take acid or fire damage while at 0 Stamina
+> The mercenary dies only if they are reduced to 0 Stamina by acid or fire damage, if they end their turn with 0 Stamina, or if they take acid or fire damage while at 0 Stamina.
 
 ###### Level 7 Retainer Advancement Ability
 
@@ -82,6 +84,6 @@ stamina: '57'
 > | ----------- | -------------------: |
 > | **📏 Self** |          **🎯 Self** |
 >
-> **Trigger:** An ability deals acid or fire damage to the mercenary
+> **Trigger:** An ability deals acid or fire damage to the mercenary.
 >
-> **Effect:** The mercenary moves up to their speed. If this movement takes them beyond the distance of the triggering ability, the ability has no effect on them
+> **Effect:** The mercenary moves up to their speed. If this movement takes them beyond the distance of the triggering ability, the ability has no effect on them.

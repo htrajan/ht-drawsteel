@@ -22,7 +22,7 @@ The kingfissure worm eats indiscriminately, swallowing creatures, structures, an
 
 #### Home Renovators
 
-Most worms build a den of tunnels and fissures, remaining in that lair for as long as the pickings on the surface are good and they aren't disturbed. When a kingfissure worm seeks a new home, they target areas with abundant food-occasionally leading to villagers waking up to find their surrounding lands have been terraformed overnight. Residents of such lands generally have two choices: pack up and leave or prepare for battle. If a worm is somehow defeated, all manner of creatures and communities try to lay claim to the worm's underground structures. These empty dens make wonderful war bunkers, isolated workshops, and even highly defensible villages.
+Most worms build a den of tunnels and fissures, remaining in that lair for as long as the pickings on the surface are good and they aren't disturbed. When a kingfissure worm seeks a new home, they target areas with abundant food—occasionally leading to villagers waking up to find their surrounding lands have been terraformed overnight. Residents of such lands generally have two choices: pack up and leave or prepare for battle. If a worm is somehow defeated, all manner of creatures and communities try to lay claim to the worm's underground structures. These empty dens make wonderful war bunkers, isolated workshops, and even highly defensible villages.
 
 #### Unstoppable Force
 
@@ -30,11 +30,11 @@ The kingfissure worm is a species determined to outrun, outlast, and out-eat eve
 
 #### Unclear Origins
 
-Kingfissure worms have no identifiable sexual characteristics and are extremely territorial. If two kingfissure worms encounter each other, the result is always a cataclysmic duel that ends in one devouring the other. Because of this, most scholars theorize that these creatures reproduce asexually-and that when a kingfissure worm dies, their tongues detach and grow into full-fledged worms. While this has yet to be confirmed, juvenile kingfissure worms have been seen in the wild, most often spotted following animal herds or traveling communities, feeding off of stragglers, refuse, remains, and vermin.
+Kingfissure worms have no identifiable sexual characteristics and are extremely territorial. If two kingfissure worms encounter each other, the result is always a cataclysmic duel that ends in one devouring the other. Because of this, most scholars theorize that these creatures reproduce asexually—and that when a kingfissure worm dies, their tongues detach and grow into full-fledged worms. While this has yet to be confirmed, juvenile kingfissure worms have been seen in the wild, most often spotted following animal herds or traveling communities, feeding off of stragglers, refuse, remains, and vermin.
 
 #### Swallowed Survivors
 
-Kingfissure worms never stop growing, and the oldest are truly immense, easily mistaken in the distance for a strangely mobile mountain range. Deep within the bowels of these behemoths, unusual biomes and oversized gut fauna may flourish. In fact, some people who have survived their trip down the gargantuan gullet of one of the great worms have been able to eke out a life-and even form thriving communities-safe inside the spacious lower abdomen of their living quarters.
+Kingfissure worms never stop growing, and the oldest are truly immense, easily mistaken in the distance for a strangely mobile mountain range. Deep within the bowels of these behemoths, unusual biomes and oversized gut fauna may flourish. In fact, some people who have survived their trip down the gargantuan gullet of one of the great worms have been able to eke out a life—and even form thriving communities—safe inside the spacious lower abdomen of their living quarters.
 
 #### Sensitive Giant
 
@@ -74,9 +74,9 @@ At the start of a kingfissure worm's turn or when an action's trigger occurs, yo
 >
 > **Power Roll + 5:**
 >
-> - 1 8 damage; M < 3 slide 5
-> - 2 13 damage; M < 4 slide 5
-> - 3 17 damage; M < 5 slide 5
+> - **≤11:** 8 damage; M < 3 slide 5
+> - **12-16:** 13 damage; M < 4 slide 5
+> - **17+:** 17 damage; M < 5 slide 5
 >
 > **Effect:** Until the end of the next round, each target takes a −3 penalty to stability, treats all terrain as difficult terrain, and takes 10 damage whenever they are knocked prone.
 
@@ -85,7 +85,7 @@ At the start of a kingfissure worm's turn or when an action's trigger occurs, yo
 |     Beast, Worm     |            -             |       Level 7        |          Solo           |         EV 108         |
 | :-----------------: | :----------------------: | :------------------: | :---------------------: | :--------------------: |
 |   **5**<br/> Size   |    **10**<br/> Speed     | **420**<br/> Stamina |  **5**<br/> Stability   | **8**<br/> Free Strike |
-| **-**<br/> Immunity | **Burrow**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **Burrow**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |  **+5**<br/> Might  |   **+1**<br/> Agility    |  **-5**<br/> Reason  |  **+2**<br/> Intuition  |  **-3**<br/> Presence  |
 
 <!-- -->
@@ -167,7 +167,7 @@ At the start of a kingfissure worm's turn or when an action's trigger occurs, yo
 <!-- -->
 > ⭐️ **Swallowed**
 >
-> A creature swallowed by the kingfissure worm is restrained and takes 1d6 acid damage at the start of every turn. If the worm takes 25 or more damage in a single round from swallowed creatures, they immediately regurgitate all creatures they have swallowed, who land prone in unoccupied spaces within 3 squares of the kingfissure worm
+> A creature swallowed by the kingfissure worm is restrained and takes 1d6 acid damage at the start of every turn. If the worm takes 25 or more damage in a single round from swallowed creatures, they immediately regurgitate all creatures they have swallowed, who land prone in unoccupied spaces within 3 squares of the kingfissure worm.
 
 <!-- -->
 > ⭐️ **Titanic Tunneler**

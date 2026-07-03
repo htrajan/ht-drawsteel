@@ -9,7 +9,7 @@ file_dpath: Monsters/Rivals/2nd Echelon/Statblocks
 free_strike: 7
 intuition: 0
 item_id: rival-tactician
-item_index: '19'
+item_index: '06'
 item_name: Rival Tactician
 level: 5
 might: 3
@@ -18,15 +18,15 @@ reason: 2
 roles:
   - Elite Artillery
 scc:
-  - mcdm.monsters.v1:monster:rival-tactician
+  - mcdm.monsters.v1:monster.rivals.2nd echelon.statblock:rival-tactician
 scdc:
-  - 1.1.1:2:19
+  - 1.1.1:2.5.2.1:06
 size: 1M
 source: mcdm.monsters.v1
 speed: 5
 stability: 2
 stamina: '120'
-type: monster
+type: monster/rivals/2nd echelon/statblock
 ---
 
 ###### Rival Tactician
@@ -34,7 +34,7 @@ type: monster
 |   Humanoid, Rival   |          -          |       Level 5        |     Elite Artillery     |         EV 28          |
 | :-----------------: | :-----------------: | :------------------: | :---------------------: | :--------------------: |
 |  **1M**<br/> Size   |  **5**<br/> Speed   | **120**<br/> Stamina |  **2**<br/> Stability   | **7**<br/> Free Strike |
-| **-**<br/> Immunity | **-**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **-**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |  **+3**<br/> Might  | **0**<br/> Agility  |  **+2**<br/> Reason  |  **0**<br/> Intuition   |  **+1**<br/> Presence  |
 
 <!-- -->

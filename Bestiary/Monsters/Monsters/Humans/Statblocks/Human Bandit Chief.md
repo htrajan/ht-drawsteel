@@ -9,7 +9,7 @@ file_dpath: Monsters/Humans/Statblocks
 free_strike: 5
 intuition: 3
 item_id: human-bandit-chief
-item_index: '165'
+item_index: 09
 item_name: Human Bandit Chief
 level: 3
 might: 2
@@ -18,15 +18,15 @@ reason: 2
 roles:
   - Leader
 scc:
-  - mcdm.monsters.v1:monster:human-bandit-chief
+  - mcdm.monsters.v1:monster.humans.statblock:human-bandit-chief
 scdc:
-  - 1.1.1:2:165
+  - 1.1.1:2.20.1:09
 size: 1M
 source: mcdm.monsters.v1
 speed: 5
 stability: 2
 stamina: '120'
-type: monster
+type: monster/humans/statblock
 ---
 
 ###### Human Bandit Chief
@@ -34,7 +34,7 @@ type: monster
 |              Human, Humanoid              |          -          |       Level 3        |         Leader          |         EV 20          |
 | :---------------------------------------: | :-----------------: | :------------------: | :---------------------: | :--------------------: |
 |             **1M**<br/> Size              |  **5**<br/> Speed   | **120**<br/> Stamina |  **2**<br/> Stability   | **5**<br/> Free Strike |
-| **Corruption 4, psychic 4**<br/> Immunity | **-**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Corruption 4, psychic 4**<br/> Immunity | **-**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |             **+2**<br/> Might             | **+3**<br/> Agility |  **+2**<br/> Reason  |  **+3**<br/> Intuition  |  **+2**<br/> Presence  |
 
 <!-- -->
@@ -44,7 +44,7 @@ type: monster
 > | -------------------------------- | ----------------------------: |
 > | **📏 Melee 2**                   | **🎯 Two enemies or objects** |
 >
-> **Power Roll + 2:**
+> **Power Roll + 3:**
 >
 > - **≤11:** 8 damage; pull 1
 > - **12-16:** 12 damage; pull 2
@@ -60,6 +60,8 @@ type: monster
 > | **Melee**      |     **Maneuver** |
 > | -------------- | ---------------: |
 > | **📏 Melee 1** | **🎯 One enemy** |
+>
+> **Power Roll + 3:**
 >
 > - **≤11:** Push 1; M < 1 prone
 > - **12-16:** Push 2; M < 2 prone
@@ -86,7 +88,7 @@ type: monster
 <!-- -->
 > ⭐️ **Supernatural Insight**
 >
-> The bandit chief ignores concealment if it's granted by a supernatural effect
+> The bandit chief ignores concealment if it's granted by a supernatural effect.
 
 <!-- -->
 > ☠️ **Shoot! (Villain Action 1)**

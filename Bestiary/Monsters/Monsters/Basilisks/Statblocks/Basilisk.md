@@ -9,7 +9,7 @@ file_dpath: Monsters/Basilisks/Statblocks
 free_strike: 5
 intuition: -1
 item_id: basilisk
-item_index: '333'
+item_index: '01'
 item_name: Basilisk
 level: 1
 might: 2
@@ -18,15 +18,15 @@ reason: -3
 roles:
   - Elite Brute
 scc:
-  - mcdm.monsters.v1:monster:basilisk
+  - mcdm.monsters.v1:monster.basilisks.statblock:basilisk
 scdc:
-  - 1.1.1:2:333
+  - 1.1.1:2.44.1:01
 size: '2'
 source: mcdm.monsters.v1
 speed: 8
 stability: 2
 stamina: '80'
-type: monster
+type: monster/basilisks/statblock
 ---
 
 ###### Basilisk
@@ -34,7 +34,7 @@ type: monster
 |      Basilisk, Beast       |          -          |       Level 1       |       Elite Brute       |         EV 12          |
 | :------------------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |      **2**<br/> Size       |  **8**<br/> Speed   | **80**<br/> Stamina |  **2**<br/> Stability   | **5**<br/> Free Strike |
-| **Poison 4**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Poison 4**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |     **+2**<br/> Might      | **+0**<br/> Agility | **-3**<br/> Reason  |  **-1**<br/> Intuition  |  **-1**<br/> Presence  |
 
 <!-- -->
@@ -57,7 +57,7 @@ type: monster
 >
 > | **Area, Magic**            |   **Maneuver** |
 > | -------------------------- | -------------: |
-> | **📏 5 × 2 line within 1** | **🎯 Special** |
+> | **📏 5 x 2 line within 1** | **🎯 Special** |
 >
 > **Special:** The area extends from both the basilisk's eyes, and this ability targets the first creature without cover on either side of the area.
 >

@@ -9,7 +9,7 @@ file_dpath: Monsters/Arixx/Statblocks
 free_strike: 5
 intuition: 1
 item_id: arixx
-item_index: '237'
+item_index: '01'
 item_name: Arixx
 level: 1
 might: 3
@@ -18,15 +18,15 @@ reason: -3
 roles:
   - Solo
 scc:
-  - mcdm.monsters.v1:monster:arixx
+  - mcdm.monsters.v1:monster.arixx.statblock:arixx
 scdc:
-  - 1.1.1:2:237
+  - 1.1.1:2.30.1:01
 size: '2'
 source: mcdm.monsters.v1
 speed: 5
 stability: 2
 stamina: '200'
-type: monster
+type: monster/arixx/statblock
 ---
 
 ###### Arixx
@@ -34,7 +34,7 @@ type: monster
 |    Arixx, Beast     |            -             |       Level 1        |          Solo           |         EV 36          |
 | :-----------------: | :----------------------: | :------------------: | :---------------------: | :--------------------: |
 |   **2**<br/> Size   |     **5**<br/> Speed     | **200**<br/> Stamina |  **2**<br/> Stability   | **5**<br/> Free Strike |
-| **-**<br/> Immunity | **Burrow**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **Burrow**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |  **+3**<br/> Might  |   **+1**<br/> Agility    |  **-3**<br/> Reason  |  **+1**<br/> Intuition  |  **-4**<br/> Presence  |
 
 <!-- -->

@@ -9,7 +9,7 @@ file_dpath: Monsters/Rivals/4th Echelon/Statblocks
 free_strike: 10
 intuition: 5
 item_id: rival-conduit
-item_index: '31'
+item_index: '04'
 item_name: Rival Conduit
 level: 10
 might: 4
@@ -18,15 +18,15 @@ reason: 1
 roles:
   - Elite Support
 scc:
-  - mcdm.monsters.v1:monster:rival-conduit
+  - mcdm.monsters.v1:monster.rivals.4th echelon.statblock:rival-conduit
 scdc:
-  - 1.1.1:2:31
+  - 1.1.1:2.5.4.1:04
 size: 1M
 source: mcdm.monsters.v1
 speed: 5
 stability: 1
 stamina: '240'
-type: monster
+type: monster/rivals/4th echelon/statblock
 ---
 
 ###### Rival Conduit
@@ -34,7 +34,7 @@ type: monster
 |   Humanoid, Rival   |          -          |       Level 10       |      Elite Support      |          EV 48          |
 | :-----------------: | :-----------------: | :------------------: | :---------------------: | :---------------------: |
 |  **1M**<br/> Size   |  **5**<br/> Speed   | **240**<br/> Stamina |  **1**<br/> Stability   | **10**<br/> Free Strike |
-| **-**<br/> Immunity | **-**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **-**<br/> Movement |          -           | **-**<br/> With Captain |   **-**<br/> Weakness   |
 |  **+4**<br/> Might  | **+1**<br/> Agility |  **+1**<br/> Reason  |  **+5**<br/> Intuition  |  **+3**<br/> Presence   |
 
 <!-- -->
@@ -57,9 +57,9 @@ type: monster
 <!-- -->
 > 🏹 **Empyrean Boon (5 Malice)**
 >
-> | **Magic, Ranged** |               **Maneuver** |
-> | ----------------- | -------------------------: |
-> | **📏 Ranged 10**  | **🎯 Self and five allie** |
+> | **Magic, Ranged** |                **Maneuver** |
+> | ----------------- | --------------------------: |
+> | **📏 Ranged 10**  | **🎯 Self and five allies** |
 >
 > **Effect:** Each target has a double edge on their next strike, and that strike deals an extra 10 holy damage. Additionally, they can vertical slide each creature targeted by the strike up to 2 squares.
 

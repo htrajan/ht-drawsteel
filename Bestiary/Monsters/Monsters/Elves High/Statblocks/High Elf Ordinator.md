@@ -10,7 +10,7 @@ file_dpath: Monsters/Elves High/Statblocks
 free_strike: 5
 intuition: 2
 item_id: high-elf-ordinator
-item_index: '114'
+item_index: '07'
 item_name: High Elf Ordinator
 level: 3
 might: 0
@@ -19,15 +19,15 @@ reason: 3
 roles:
   - Leader
 scc:
-  - mcdm.monsters.v1:monster:high-elf-ordinator
+  - mcdm.monsters.v1:monster.elves-high.statblock:high-elf-ordinator
 scdc:
-  - 1.1.1:2:114
+  - 1.1.1:2.14.1:07
 size: 1M
 source: mcdm.monsters.v1
 speed: 5
 stability: 0
 stamina: '120'
-type: monster
+type: monster/elves-high/statblock
 ---
 
 ###### High Elf Ordinator
@@ -35,7 +35,7 @@ type: monster
 | Fey, High Elf, Humanoid |           -           |       Level 3        |         Leader          |         EV 20          |
 | :---------------------: | :-------------------: | :------------------: | :---------------------: | :--------------------: |
 |    **1M**<br/> Size     |   **5**<br/> Speed    | **120**<br/> Stamina |  **0**<br/> Stability   | **5**<br/> Free Strike |
-|   **-**<br/> Immunity   | **Fly**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+|   **-**<br/> Immunity   | **Fly**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |    **0**<br/> Might     |  **+2**<br/> Agility  |  **+3**<br/> Reason  |  **+2**<br/> Intuition  |  **+3**<br/> Presence  |
 
 <!-- -->
@@ -87,7 +87,7 @@ type: monster
 <!-- -->
 > ⭐️ **Otherworldly Blessing**
 >
-> At the start of each of their turns, the ordinator can choose one or more effects on them that can be ended by a saving throw. The effects instead end at the end of the ordinator's turn
+> At the start of each of their turns, the ordinator can choose one or more effects on them that can be ended by a saving throw. The effects instead end at the end of the ordinator's turn.
 
 <!-- -->
 > ☠️ **Fountains Roar, Now Free From the Earth (Villain Action 1)**

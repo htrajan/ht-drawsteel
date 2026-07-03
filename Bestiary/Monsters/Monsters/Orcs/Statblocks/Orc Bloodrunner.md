@@ -9,7 +9,7 @@ file_dpath: Monsters/Orcs/Statblocks
 free_strike: 5
 intuition: 1
 item_id: orc-bloodrunner
-item_index: '126'
+item_index: '04'
 item_name: Orc Bloodrunner
 level: 3
 might: 2
@@ -18,15 +18,15 @@ reason: 0
 roles:
   - Platoon Harrier
 scc:
-  - mcdm.monsters.v1:monster:orc-bloodrunner
+  - mcdm.monsters.v1:monster.orcs.statblock:orc-bloodrunner
 scdc:
-  - 1.1.1:2:126
+  - 1.1.1:2.16.1:04
 size: 1M
 source: mcdm.monsters.v1
 speed: 8
 stability: 0
 stamina: '50'
-type: monster
+type: monster/orcs/statblock
 ---
 
 ###### Orc Bloodrunner
@@ -34,7 +34,7 @@ type: monster
 |    Humanoid, Orc    |          -          |       Level 3       |     Platoon Harrier     |         EV 10          |
 | :-----------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |  **1M**<br/> Size   |  **8**<br/> Speed   | **50**<br/> Stamina |  **0**<br/> Stability   | **5**<br/> Free Strike |
-| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |  **+2**<br/> Might  | **+2**<br/> Agility |  **0**<br/> Reason  |  **+1**<br/> Intuition  |  **+1**<br/> Presence  |
 
 <!-- -->

@@ -11,7 +11,7 @@ file_dpath: Monsters/Hobgoblins/Statblocks
 free_strike: 5
 intuition: 0
 item_id: hobgoblin-death-captain
-item_index: '189'
+item_index: '13'
 item_name: Hobgoblin Death Captain
 level: 4
 might: 3
@@ -20,15 +20,15 @@ reason: 1
 roles:
   - Platoon Support
 scc:
-  - mcdm.monsters.v1:monster:hobgoblin-death-captain
+  - mcdm.monsters.v1:monster.hobgoblins.statblock:hobgoblin-death-captain
 scdc:
-  - 1.1.1:2:189
+  - 1.1.1:2.22.1:13
 size: 1M
 source: mcdm.monsters.v1
 speed: 5
 stability: 2
 stamina: '60'
-type: monster
+type: monster/hobgoblins/statblock
 ---
 
 ###### Hobgoblin Death Captain
@@ -36,7 +36,7 @@ type: monster
 | Goblin, Hobgoblin, Humanoid, Infernal |          -          |       Level 4       |     Platoon Support     |         EV 12          |
 | :-----------------------------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |           **1M**<br/> Size            |  **5**<br/> Speed   | **60**<br/> Stamina |  **2**<br/> Stability   | **5**<br/> Free Strike |
-|       **Fire 4**<br/> Immunity        | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+|       **Fire 4**<br/> Immunity        | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |           **+3**<br/> Might           | **0**<br/> Agility  | **+1**<br/> Reason  |  **0**<br/> Intuition   |  **+2**<br/> Presence  |
 
 <!-- -->

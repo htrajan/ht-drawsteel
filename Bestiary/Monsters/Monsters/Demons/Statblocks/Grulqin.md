@@ -9,7 +9,7 @@ file_dpath: Monsters/Demons/Statblocks
 free_strike: 3
 intuition: -1
 item_id: grulqin
-item_index: '269'
+item_index: '16'
 item_name: Grulqin
 level: 4
 might: 3
@@ -18,24 +18,24 @@ reason: -1
 roles:
   - Minion Brute
 scc:
-  - mcdm.monsters.v1:monster:grulqin
+  - mcdm.monsters.v1:monster.demons.statblock:grulqin
 scdc:
-  - 1.1.1:2:269
+  - 1.1.1:2.35.1:16
 size: 1L
 source: mcdm.monsters.v1
 speed: 8
 stability: 1
 stamina: '9'
-type: monster
+type: monster/demons/statblock
 ---
 
 ###### Grulqin
 
-|   Abyssal, Demon    |          -          |      Level 4       |                   Minion Brute                   |   EV 6 for four minions    |
-| :-----------------: | :-----------------: | :----------------: | :----------------------------------------------: | :------------------------: |
-|  **1L**<br/> Size   |  **8**<br/> Speed   | **9**<br/> Stamina |               **1**<br/> Stability               |   **3**<br/> Free Strike   |
-| **-**<br/> Immunity | **-**<br/> Movement |         -          | **+2 damage bonus to strikes**<br/> With Captain | **Holy 5**<br/> Weaknesses |
-|  **+3**<br/> Might  | **+2**<br/> Agility | **-1**<br/> Reason |              **-1**<br/> Intuition               |    **-1**<br/> Presence    |
+|   Abyssal, Demon    |          -          |      Level 4       |                   Minion Brute                   |  EV 6 for four minions   |
+| :-----------------: | :-----------------: | :----------------: | :----------------------------------------------: | :----------------------: |
+|  **1L**<br/> Size   |  **8**<br/> Speed   | **9**<br/> Stamina |               **1**<br/> Stability               |  **3**<br/> Free Strike  |
+| **-**<br/> Immunity | **-**<br/> Movement |         -          | **+2 damage bonus to strikes**<br/> With Captain | **Holy 5**<br/> Weakness |
+|  **+3**<br/> Might  | **+2**<br/> Agility | **-1**<br/> Reason |              **-1**<br/> Intuition               |   **-1**<br/> Presence   |
 
 <!-- -->
 > 🗡 **Spinning Bone Blade (Signature Ability)**

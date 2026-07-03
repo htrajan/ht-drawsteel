@@ -9,7 +9,7 @@ file_dpath: Monsters/Time Raiders/Statblocks
 free_strike: 5
 intuition: 2
 item_id: time-raider-mind-punk
-item_index: '148'
+item_index: '10'
 item_name: Time Raider Mind Punk
 level: 3
 might: 2
@@ -18,15 +18,15 @@ reason: 2
 roles:
   - Platoon Hexer
 scc:
-  - mcdm.monsters.v1:monster:time-raider-mind-punk
+  - mcdm.monsters.v1:monster.time-raiders.statblock:time-raider-mind-punk
 scdc:
-  - 1.1.1:2:148
+  - 1.1.1:2.18.1:10
 size: '2'
 source: mcdm.monsters.v1
 speed: 5
 stability: 2
 stamina: '40'
-type: monster
+type: monster/time-raiders/statblock
 ---
 
 ###### Time Raider Mind Punk
@@ -34,7 +34,7 @@ type: monster
 |    Humanoid, Time Raider    |          -          |       Level 3       |      Platoon Hexer      |         EV 10          |
 | :-------------------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |       **2**<br/> Size       |  **5**<br/> Speed   | **40**<br/> Stamina |  **2**<br/> Stability   | **5**<br/> Free Strike |
-| **Psychic 3**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Psychic 3**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |      **+2**<br/> Might      | **0**<br/> Agility  | **+2**<br/> Reason  |  **+2**<br/> Intuition  |  **+1**<br/> Presence  |
 
 <!-- -->

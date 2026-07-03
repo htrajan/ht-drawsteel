@@ -9,7 +9,7 @@ file_dpath: Monsters/Rivals/1st Echelon/Statblocks
 free_strike: 5
 intuition: 2
 item_id: rival-conduit
-item_index: '10'
+item_index: '04'
 item_name: Rival Conduit
 level: 2
 might: 1
@@ -18,15 +18,15 @@ reason: 0
 roles:
   - Elite Support
 scc:
-  - mcdm.monsters.v1:monster:rival-conduit
+  - mcdm.monsters.v1:monster.rivals.1st echelon.statblock:rival-conduit
 scdc:
-  - 1.1.1:2:10
+  - 1.1.1:2.5.1.1:04
 size: 1M
 source: mcdm.monsters.v1
 speed: 5
 stability: 1
 stamina: '80'
-type: monster
+type: monster/rivals/1st echelon/statblock
 ---
 
 ###### Rival Conduit
@@ -34,7 +34,7 @@ type: monster
 |   Humanoid, Rival   |          -          |       Level 2       |      Elite Support      |         EV 16          |
 | :-----------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |  **1M**<br/> Size   |  **5**<br/> Speed   | **80**<br/> Stamina |  **1**<br/> Stability   | **5**<br/> Free Strike |
-| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |  **+1**<br/> Might  | **+0**<br/> Agility | **+0**<br/> Reason  |  **+2**<br/> Intuition  |  **+0**<br/> Presence  |
 
 <!-- -->
@@ -55,9 +55,9 @@ type: monster
 <!-- -->
 > 🏹 **Imbue with Might (2 Malice)**
 >
-> | **Magic, Ranged** |               **Maneuver** |
-> | ----------------- | -------------------------: |
-> | **📏 Ranged 10**  | **🎯 Self and five allie** |
+> | **Magic, Ranged** |                **Maneuver** |
+> | ----------------- | --------------------------: |
+> | **📏 Ranged 10**  | **🎯 Self and five allies** |
 >
 > **Effect:** Each target gains an edge on their next strike.
 

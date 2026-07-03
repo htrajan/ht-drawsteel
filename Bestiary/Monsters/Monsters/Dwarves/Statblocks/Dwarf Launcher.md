@@ -9,7 +9,7 @@ file_dpath: Monsters/Dwarves/Statblocks
 free_strike: 4
 intuition: 2
 item_id: dwarf-launcher
-item_index: '398'
+item_index: '03'
 item_name: Dwarf Launcher
 level: 1
 might: 1
@@ -18,15 +18,15 @@ reason: 0
 roles:
   - Platoon Hexer
 scc:
-  - mcdm.monsters.v1:monster:dwarf-launcher
+  - mcdm.monsters.v1:monster.dwarves.statblock:dwarf-launcher
 scdc:
-  - 1.1.1:2:398
+  - 1.1.1:2.52.1:03
 size: 1M
 source: mcdm.monsters.v1
 speed: 5
 stability: 3
 stamina: '39'
-type: monster
+type: monster/dwarves/statblock
 ---
 
 ###### Dwarf Launcher
@@ -34,7 +34,7 @@ type: monster
 |   Dwarf, Humanoid   |          -          |       Level 1       |      Platoon Hexer      |          EV 8          |
 | :-----------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |  **1M**<br/> Size   |  **5**<br/> Speed   | **39**<br/> Stamina |  **3**<br/> Stability   | **4**<br/> Free Strike |
-| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |  **+1**<br/> Might  | **+0**<br/> Agility | **+0**<br/> Reason  |  **+2**<br/> Intuition  |  **+0**<br/> Presence  |
 
 <!-- -->

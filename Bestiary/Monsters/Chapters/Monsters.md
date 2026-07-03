@@ -115,7 +115,7 @@ type: chapter
 
 "Thank you, sir. Lord Alvaro, what we just heard on the topic of Ajax's strategy was pretty chilling. In your opinion, as someone who knew him, how serious is he with his stance on non-humans in Orden? And how should we reconcile this with the treaties he signed with the elves and dwarves of Vasloria? Thank you for your time, my lord."
 
-"Ah, yes," Alvaro said, eyebrows raised theatrically. "Jack's famous 'pro-human' rhetoric." And there was a susurration among the students. For the last hour, Lord Alvaro had only referred to the subject of his lecture as "Ajax." Everyone in the city knew Ajax and Alvaro attended university together, but for the first time, the students in the lecture hall understood-they had been *friends*.
+"Ah, yes," Alvaro said, eyebrows raised theatrically. "Jack's famous 'pro-human' rhetoric." And there was a susurration among the students. For the last hour, Lord Alvaro had only referred to the subject of his lecture as "Ajax." Everyone in the city knew Ajax and Alvaro attended university together, but for the first time, the students in the lecture hall understood—they had been *friends*.
 
 "The short answer is: no. I don't believe Jack is a raving ah... 'human supremacist,' as the broadsheets put it. That's Mortum. But he does find the idea *useful*.
 
@@ -143,13 +143,13 @@ type: chapter
 
 ### On Ajax
 
-He bestrides the land like one of history's great conquerors. A combination of ambition, courage, and study created a master tactician in command of a massive army collecting countless priceless treasures-and no one to stand in his way.
+He bestrides the land like one of history's great conquerors. A combination of ambition, courage, and study created a master tactician in command of a massive army collecting countless priceless treasures—and no one to stand in his way.
 
 #### By Might and Merit
 
 Ajax the Invincible has earned his title. He graduated top of his class at Capital's military academy, and then immediately launched into a campaign across his homeland of Phaedros. At his side was his advisor Mortum, a nefarious wizard who guided Ajax in the footsteps of the Caelian Empire's conquests before them.
 
-Together, Ajax and Mortum went on to subjugate and enlist hamlet after town after city after territory with little standing in their way. When they successfully returned the Chrysopolis-an ancient flying sky-elf city-to the sky, and their accomplishments literally rose above the country-no one could ignore their might any longer.
+Together, Ajax and Mortum went on to subjugate and enlist hamlet after town after city after territory with little standing in their way. When they successfully returned the Chrysopolis—an ancient flying sky-elf city—to the sky, and their accomplishments literally rose above the country—no one could ignore their might any longer.
 
 #### Treasures Abound
 
@@ -246,7 +246,7 @@ At the start of Ajax's turn, you can spend Malice to activate one of the followi
 |    Human, Humanoid    |              -               |       Level 11       |          Solo           |         EV 156          |
 | :-------------------: | :--------------------------: | :------------------: | :---------------------: | :---------------------: |
 |   **1L**<br/> Size    |       **7**<br/> Speed       | **700**<br/> Stamina |  **2**<br/> Stability   | **11**<br/> Free Strike |
-| **-**<br/> Immunities | **Fly, hover**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weaknesses  |
+| **-**<br/> Immunities | **Fly, hover**<br/> Movement |          -           | **-**<br/> With Captain |   **-**<br/> Weakness   |
 |   **+5**<br/> Might   |     **+4**<br/> Agility      |  **+5**<br/> Reason  |  **+5**<br/> Intuition  |  **+4**<br/> Presence   |
 
 <!-- -->
@@ -293,9 +293,9 @@ At the start of Ajax's turn, you can spend Malice to activate one of the followi
 <!-- -->
 > 🏹 **Divine Vine**
 >
-> | **Magic, Ranged, Weapon** |                    **Maneuver** |
-> | ------------------------- | ------------------------------: |
-> | **📏 Ranged 5**           | **🎯 One creature or object 1** |
+> | **Magic, Ranged, Weapon** |                  **Maneuver** |
+> | ------------------------- | ----------------------------: |
+> | **📏 Ranged 5**           | **🎯 One creature or object** |
 >
 > **Power Roll + 5:**
 >
@@ -417,11 +417,11 @@ Found in freshwater swamps, rivers, and rainforests, angulotls (angwa-LAH-tuls) 
 
 #### Deadly Toxins
 
-Angulotls are poisonous creatures, which suits their preference to avoid aggression-because they don't need it! The contact toxin secreted by their skin gives them an edge in close combat, and they also distill this toxin into more potent forms for coating blades and tipping darts.
+Angulotls are poisonous creatures, which suits their preference to avoid aggression—because they don't need it! The contact toxin secreted by their skin gives them an edge in close combat, and they also distill this toxin into more potent forms for coating blades and tipping darts.
 
 #### Indicator Species
 
-Angulotl physiology is delicately balanced, and it doesn't take much to upset that balance. While toxins don't kill them, they are still affected by pollutants in their waters. Ongoing contamination of their environment can corrupt angulotls, making them aggressive, confused, and angry. Most pollution-corrupted angulotls eventually attack any creature who crosses their path-even other angulotls! Runoff from magical experimentation seems to affect them the most-and sometimes grants them strange abilities.
+Angulotl physiology is delicately balanced, and it doesn't take much to upset that balance. While toxins don't kill them, they are still affected by pollutants in their waters. Ongoing contamination of their environment can corrupt angulotls, making them aggressive, confused, and angry. Most pollution-corrupted angulotls eventually attack any creature who crosses their path—even other angulotls! Runoff from magical experimentation seems to affect them the most—and sometimes grants them strange abilities.
 
 #### Moisture Dependent
 
@@ -474,7 +474,7 @@ At the start of any angulotl's turn, you can spend Malice to activate one of the
 |     Angulotl, Humanoid     |               -               |      Level 1       |                 Minion Ambusher                  |   EV 3 for 4 minions   |
 | :------------------------: | :---------------------------: | :----------------: | :----------------------------------------------: | :--------------------: |
 |      **1S**<br/> Size      |       **6**<br/> Speed        | **4**<br/> Stamina |               **0**<br/> Stability               | **2**<br/> Free Strike |
-| **Poison 2**<br/> Immunity | **Climb, swim**<br/> Movement |         -          | **+1 damage bonus to strikes**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Poison 2**<br/> Immunity | **Climb, swim**<br/> Movement |         -          | **+1 damage bonus to strikes**<br/> With Captain |  **-**<br/> Weakness   |
 |      **0**<br/> Might      |      **+2**<br/> Agility      | **+0**<br/> Reason |              **+1**<br/> Intuition               |  **+0**<br/> Presence  |
 
 <!-- -->
@@ -502,7 +502,7 @@ At the start of any angulotl's turn, you can spend Malice to activate one of the
 |     Angulotl, Humanoid     |               -               |      Level 1       |                 Minion Artillery                  |   EV 3 for 4 minions   |
 | :------------------------: | :---------------------------: | :----------------: | :-----------------------------------------------: | :--------------------: |
 |      **1S**<br/> Size      |       **5**<br/> Speed        | **3**<br/> Stamina |               **0**<br/> Stability                | **2**<br/> Free Strike |
-| **Poison 2**<br/> Immunity | **Climb, swim**<br/> Movement |         -          | **+4 bonus to ranged distance**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Poison 2**<br/> Immunity | **Climb, swim**<br/> Movement |         -          | **+4 bonus to ranged distance**<br/> With Captain |  **-**<br/> Weakness   |
 |      **0**<br/> Might      |      **+2**<br/> Agility      | **+1**<br/> Reason |               **+0**<br/> Intuition               |  **+0**<br/> Presence  |
 
 <!-- -->
@@ -530,7 +530,7 @@ At the start of any angulotl's turn, you can spend Malice to activate one of the
 |          Angulotl          |               -               |      Level 1       |             Minion Harrier              |   EV 3 for 4 minions   |
 | :------------------------: | :---------------------------: | :----------------: | :-------------------------------------: | :--------------------: |
 |      **1S**<br/> Size      |       **6**<br/> Speed        | **4**<br/> Stamina |          **0**<br/> Stability           | **1**<br/> Free Strike |
-| **Poison 2**<br/> Immunity | **Climb, swim**<br/> Movement |         -          | **+2 bonus to speed**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Poison 2**<br/> Immunity | **Climb, swim**<br/> Movement |         -          | **+2 bonus to speed**<br/> With Captain |  **-**<br/> Weakness   |
 |     **+0**<br/> Might      |      **+2**<br/> Agility      | **-2**<br/> Reason |          **-2**<br/> Intuition          |  **+0**<br/> Presence  |
 
 <!-- -->
@@ -556,7 +556,7 @@ At the start of any angulotl's turn, you can spend Malice to activate one of the
 |            Angulotl, Animal             |               -               |      Level 1       |                 Minion Brute                  |   EV 3 for 4 minions   |
 | :-------------------------------------: | :---------------------------: | :----------------: | :-------------------------------------------: | :--------------------: |
 |            **1S**<br/> Size             |       **5**<br/> Speed        | **5**<br/> Stamina |             **0**<br/> Stability              | **2**<br/> Free Strike |
-| **Lightning 3, Poison 2**<br/> Immunity | **Climb, swim**<br/> Movement |         -          | **Gain an edge on strikes**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Lightning 3, Poison 2**<br/> Immunity | **Climb, swim**<br/> Movement |         -          | **Gain an edge on strikes**<br/> With Captain |  **-**<br/> Weakness   |
 |            **+0**<br/> Might            |      **+2**<br/> Agility      | **-3**<br/> Reason |             **-2**<br/> Intuition             |  **+1**<br/> Presence  |
 
 <!-- -->
@@ -584,7 +584,7 @@ At the start of any angulotl's turn, you can spend Malice to activate one of the
 |     Angulotl, Humanoid     |               -               |       Level 1       |     Horde Artillery     |          EV 3          |
 | :------------------------: | :---------------------------: | :-----------------: | :---------------------: | :--------------------: |
 |      **1S**<br/> Size      |       **5**<br/> Speed        | **10**<br/> Stamina |  **0**<br/> Stability   | **2**<br/> Free Strike |
-| **Poison 2**<br/> Immunity | **Climb, swim**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Poison 2**<br/> Immunity | **Climb, swim**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |     **+0**<br/> Might      |      **+2**<br/> Agility      | **+1**<br/> Reason  |  **0**<br/> Intuition   |  **-1**<br/> Presence  |
 
 <!-- -->
@@ -612,7 +612,7 @@ At the start of any angulotl's turn, you can spend Malice to activate one of the
 |     Angulotl, Humanoid     |               -               |       Level 1       |     Horde Ambusher      |          EV 3          |
 | :------------------------: | :---------------------------: | :-----------------: | :---------------------: | :--------------------: |
 |      **1S**<br/> Size      |       **5**<br/> Speed        | **15**<br/> Stamina |  **0**<br/> Stability   | **2**<br/> Free Strike |
-| **Poison 2**<br/> Immunity | **Climb, swim**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Poison 2**<br/> Immunity | **Climb, swim**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |     **+1**<br/> Might      |      **+2**<br/> Agility      | **+0**<br/> Reason  |  **+0**<br/> Intuition  |  **+0**<br/> Presence  |
 
 <!-- -->
@@ -654,7 +654,7 @@ At the start of any angulotl's turn, you can spend Malice to activate one of the
 |     Angulotl, Humanoid     |               -               |       Level 1       |    Horde Controller     |          EV 3          |
 | :------------------------: | :---------------------------: | :-----------------: | :---------------------: | :--------------------: |
 |      **1S**<br/> Size      |       **5**<br/> Speed        | **10**<br/> Stamina |  **0**<br/> Stability   | **1**<br/> Free Strike |
-| **Poison 2**<br/> Immunity | **Climb, swim**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Poison 2**<br/> Immunity | **Climb, swim**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |     **+0**<br/> Might      |      **+0**<br/> Agility      | **+0**<br/> Reason  |  **+2**<br/> Intuition  |  **+2**<br/> Presence  |
 
 <!-- -->
@@ -702,7 +702,7 @@ At the start of any angulotl's turn, you can spend Malice to activate one of the
 > **Angulotl Sample Encounters**
 >
 > - **Clawfish Ranchers, 18 EV:** Twelve clawfish, four pollywogs, two needlers
-> - **Homeguard Scouts, 24 EV:** Sixteen cleavers, eight darts, one needler, two slinks
+> - **Homeguard Scouts, 27 EV:** Sixteen cleavers, eight darts, one needler, two slinks
 > - **Corrupted Clutch, 34 EV:** Eight clawfish, twelve cleavers, eight pollywogs, one needler, two slinks, one wave
 > - **Angulotl Assault Squad, 48 EV:** Eight clawfish, twelve cleavers, twelve darts, two needlers, two slinks, one daybringer
 
@@ -711,7 +711,7 @@ At the start of any angulotl's turn, you can spend Malice to activate one of the
 |     Angulotl, Humanoid     |               -               |       Level 1       |         Leader          |         EV 12          |
 | :------------------------: | :---------------------------: | :-----------------: | :---------------------: | :--------------------: |
 |      **1M**<br/> Size      |       **5**<br/> Speed        | **80**<br/> Stamina |  **1**<br/> Stability   | **4**<br/> Free Strike |
-| **Poison 3**<br/> Immunity | **Climb, swim**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Poison 3**<br/> Immunity | **Climb, swim**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |     **+3**<br/> Might      |      **+2**<br/> Agility      | **+0**<br/> Reason  |  **+2**<br/> Intuition  |  **+0**<br/> Presence  |
 
 <!-- -->
@@ -788,11 +788,11 @@ At the start of any angulotl's turn, you can spend Malice to activate one of the
 <!-- -->
 > ⭐️ **Toxiferous**
 >
-> Whenever an adjacent enemy grabs the daybringer or uses a me lee ability against them, that enemy takes 3 poison damage.
+> Whenever an adjacent enemy grabs the daybringer or uses a melee ability against them, that enemy takes 3 poison damage.
 
 ## Animals
 
-The natural denizens of every world, animals ferocious, atrocious, and precocious roam the lands between and among settlements of humanoids and other folk. Whether they graze or hunt, stay solitary or move in packs, fight danger or fly from it, all animals share a singular goal-to live. Most animals are not monsters, but some are twisted by magic and malice to *become* monsters. A hero wouldn't mercilessly kill a pack of hungry wolves-but they'll slay rot-magic dire wolves created by vampires. In many cases, animals are more likely to be bystanders than threats in an encounter.
+The natural denizens of every world, animals ferocious, atrocious, and precocious roam the lands between and among settlements of humanoids and other folk. Whether they graze or hunt, stay solitary or move in packs, fight danger or fly from it, all animals share a singular goal—to live. Most animals are not monsters, but some are twisted by magic and malice to *become* monsters. A hero wouldn't mercilessly kill a pack of hungry wolves—but they'll slay rot-magic dire wolves created by vampires. In many cases, animals are more likely to be bystanders than threats in an encounter.
 
 ### Animal Traits
 
@@ -855,7 +855,7 @@ The animal can automatically swim at full speed while moving.
 
 #### Defensive Traits
 
-Defensive traits help animals stay out of danger-or to set ambushes for unwary prey.
+Defensive traits help animals stay out of danger—or to set ambushes for unwary prey.
 
 ###### Camouflage (1 Point)
 
@@ -998,6 +998,8 @@ The animal gains the following ability.
 > | ---------------------- | -------------------------------: |
 > | **📏 3 cube within 1** | **🎯 Each creature in the area** |
 >
+> **Power Roll + highest characteristic:**
+>
 > - **≤11:** A < 0 restrained (save ends)
 > - **12-16:** A < 1 restrained (save ends)
 > - **17+:** A < 2 restrained (save ends)
@@ -1062,7 +1064,7 @@ The following stat blocks can be used to describe everyday animals capable of ac
 
 When building an animal by adding traits to a stat block, you can use a shorthand to describe the animal. For example, a dire wolf might be denoted as "Predator B: Swiftness, Pack, Hunter" to indicate that you're using the Predator B stat block with the Swiftness, Pack, and Hunter traits.
 
-The Example Animals table breaks out a number of animals using this notation. Selected traits are listed in order by category-mobility, defensive, offensive, and supernatural.
+The Example Animals table breaks out a number of animals using this notation. Selected traits are listed in order by category—mobility, defensive, offensive, and supernatural.
 
 <!-- -->
 > **Can I Make a Harmless Animal?**
@@ -1074,7 +1076,7 @@ The Example Animals table breaks out a number of animals using this notation. Se
 |       Animal        |          -          |       Level 1       |      Elite Harrier      |         EV 12          |
 | :-----------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |  **1M**<br/> Size   |  **6**<br/> Speed   | **60**<br/> Stamina |  **0**<br/> Stability   | **4**<br/> Free Strike |
-| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |  **+0**<br/> Might  | **+2**<br/> Agility | **-2**<br/> Reason  |  **+1**<br/> Intuition  |  **-2**<br/> Presence  |
 
 <!-- -->
@@ -1111,7 +1113,7 @@ The Example Animals table breaks out a number of animals using this notation. Se
 |    Animal, Swarm    |          -          |       Level 1       |       Elite Hexer       |         EV 12          |
 | :-----------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |   **2**<br/> Size   |  **5**<br/> Speed   | **40**<br/> Stamina |  **1**<br/> Stability   | **4**<br/> Free Strike |
-| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |  **-2**<br/> Might  | **+1**<br/> Agility | **-3**<br/> Reason  |  **+2**<br/> Intuition  |  **-3**<br/> Presence  |
 
 <!-- -->
@@ -1153,7 +1155,7 @@ The Example Animals table breaks out a number of animals using this notation. Se
 |       Animal        |          -          |       Level 1       |       Elite Mount       |         EV 12          |
 | :-----------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |   **2**<br/> Size   |  **6**<br/> Speed   | **60**<br/> Stamina |  **1**<br/> Stability   | **4**<br/> Free Strike |
-| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |  **+1**<br/> Might  | **+2**<br/> Agility | **-2**<br/> Reason  |  **+1**<br/> Intuition  |  **-2**<br/> Presence  |
 
 <!-- -->
@@ -1181,7 +1183,7 @@ The Example Animals table breaks out a number of animals using this notation. Se
 > **Effect:** The target vertical slides up to 3 squares. If the target is an ally, they can make a free strike at the end of the forced movement, then fall without taking damage.
 
 <!-- -->
-> ❗️**Juke**
+> ❗️ **Juke**
 >
 > | **-**       | **Triggered action** |
 > | ----------- | -------------------: |
@@ -1201,7 +1203,7 @@ The Example Animals table breaks out a number of animals using this notation. Se
 |       Animal        |          -          |       Level 2       |       Elite Mount       |         EV 16          |
 | :-----------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |   **3**<br/> Size   |  **6**<br/> Speed   | **80**<br/> Stamina |  **3**<br/> Stability   | **5**<br/> Free Strike |
-| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |  **+2**<br/> Might  | **+1**<br/> Agility | **-1**<br/> Reason  |  **+1**<br/> Intuition  |  **+0**<br/> Presence  |
 
 <!-- -->
@@ -1269,7 +1271,7 @@ The Example Animals table breaks out a number of animals using this notation. Se
 |       Animal        |          -          |       Level 1       |       Elite Brute       |         EV 12          |
 | :-----------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |   **2**<br/> Size   |  **5**<br/> Speed   | **80**<br/> Stamina |  **0**<br/> Stability   | **5**<br/> Free Strike |
-| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |  **+1**<br/> Might  | **+2**<br/> Agility | **-2**<br/> Reason  |  **+1**<br/> Intuition  |  **+1**<br/> Presence  |
 
 <!-- -->
@@ -1315,7 +1317,7 @@ The Example Animals table breaks out a number of animals using this notation. Se
 |       Animal        |          -          |       Level 3        |       Elite Brute       |         EV 16          |
 | :-----------------: | :-----------------: | :------------------: | :---------------------: | :--------------------: |
 |   **3**<br/> Size   |  **5**<br/> Speed   | **100**<br/> Stamina |  **2**<br/> Stability   | **5**<br/> Free Strike |
-| **-**<br/> Immunity | **-**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **-**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |  **+2**<br/> Might  | **+1**<br/> Agility |  **-1**<br/> Reason  |  **+1**<br/> Intuition  |  **+0**<br/> Presence  |
 
 <!-- -->
@@ -1337,6 +1339,8 @@ The Example Animals table breaks out a number of animals using this notation. Se
 > | **Area, Weapon** |                         **Main action** |
 > | ---------------- | --------------------------------------: |
 > | **📏 1 burst**   | **🎯 Each enemy or object in the area** |
+>
+> **Power Roll + 2:**
 >
 > - **≤11:** 3 damage
 > - **12-16:** 6 damage
@@ -1371,7 +1375,7 @@ An arixx is a chitinous burrowing insectoid beast who stands taller than a horse
 
 #### Pastoral Pest
 
-Although arixxi can be found anywhere, they are a particular plague in settled lands. An arixx hunts alone, lurking a few feet below roadways and pastures. When their sensitive antennae detect movement above, they burst from the earth, dragging living prey into their tunnels to be devoured. These hit-and-run tactics make the arixx virtually impossible to eradicate-unless they have the bad luck to ambush a party of well-armed adventurers. Many communities pay a handsome bounty for a slain arixx.
+Although arixxi can be found anywhere, they are a particular plague in settled lands. An arixx hunts alone, lurking a few feet below roadways and pastures. When their sensitive antennae detect movement above, they burst from the earth, dragging living prey into their tunnels to be devoured. These hit-and-run tactics make the arixx virtually impossible to eradicate—unless they have the bad luck to ambush a party of well-armed adventurers. Many communities pay a handsome bounty for a slain arixx.
 
 #### Terror of the Thaw
 
@@ -1410,7 +1414,7 @@ At the start of an arixx's turn, you can spend Malice to activate one of the fol
 |    Arixx, Beast     |            -             |       Level 1        |          Solo           |         EV 36          |
 | :-----------------: | :----------------------: | :------------------: | :---------------------: | :--------------------: |
 |   **2**<br/> Size   |     **5**<br/> Speed     | **200**<br/> Stamina |  **2**<br/> Stability   | **5**<br/> Free Strike |
-| **-**<br/> Immunity | **Burrow**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **Burrow**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |  **+3**<br/> Might  |   **+1**<br/> Agility    |  **-3**<br/> Reason  |  **+1**<br/> Intuition  |  **-4**<br/> Presence  |
 
 <!-- -->
@@ -1549,7 +1553,7 @@ At the start of an arixx's turn, you can spend Malice to activate one of the fol
 
 ## Ashen Hoarder
 
-Grave robbing is a dangerous business, but necromancers need bodies for their experiments. To procure supplies and stay out of danger, these mages build ashen hoarders-hulking constructs made of magically reinforced humanoid bones.
+Grave robbing is a dangerous business, but necromancers need bodies for their experiments. To procure supplies and stay out of danger, these mages build ashen hoarders—hulking constructs made of magically reinforced humanoid bones.
 
 ### Appendages and Spikes
 
@@ -1563,7 +1567,7 @@ These automatons are equipped to protect their cargo. If enemies corner an ashen
 
 ### Soul Shackle
 
-Creating and powering an ashen hoarder requires a vast amount of necromantic energy. Along with an entire ossuary worth of bones to construct its body, powering the construct requires a soul. That soul is divided between the hoarder and an object known as a Soul Shackle usually a ring or an amulet-that is used to command the construct. Destroying the Soul Shackle can free the trapped soul, but doing so sends an ashen hoarder into an indiscriminate unshackled rage as they feel part of their stolen soul shredded into oblivion. The construct lashes out against any living creature they can before collapsing in on themself. Freeing the soul still trapped inside the ashen hoarder's remains requires completing the Find a Cure downtime project in *[Draw Steel: Heroes](https://mcdm.gg/DS-Heroes)* and the assistance of a powerful holy figure.
+Creating and powering an ashen hoarder requires a vast amount of necromantic energy. Along with an entire ossuary worth of bones to construct its body, powering the construct requires a soul. That soul is divided between the hoarder and an object known as a Soul Shackle usually a ring or an amulet—that is used to command the construct. Destroying the Soul Shackle can free the trapped soul, but doing so sends an ashen hoarder into an indiscriminate unshackled rage as they feel part of their stolen soul shredded into oblivion. The construct lashes out against any living creature they can before collapsing in on themself. Freeing the soul still trapped inside the ashen hoarder's remains requires completing the Find a Cure downtime project in *[Draw Steel: Heroes](https://mcdm.gg/DS-Heroes)* and the assistance of a powerful holy figure.
 
 ###### Ashen Hoarder Malice (Malice Features)
 
@@ -1595,11 +1599,11 @@ At the start of an ashen hoarder's turn, you can spend Malice to activate one of
 
 ###### Ashen Hoarder
 
-|  Construct, Undead  |            -             |       Level 4        |          Solo           |           EV 72            |
-| :-----------------: | :----------------------: | :------------------: | :---------------------: | :------------------------: |
-|   **3**<br/> Size   |     **8**<br/> Speed     | **350**<br/> Stamina |  **3**<br/> Stability   |   **6**<br/> Free Strike   |
-| **-**<br/> Immunity | **Burrow**<br/> Movement |          -           | **-**<br/> With Captain | **Holy 5**<br/> Weaknesses |
-|  **+4**<br/> Might  |   **-1**<br/> Agility    |  **-2**<br/> Reason  |  **+0**<br/> Intuition  |    **-5**<br/> Presence    |
+|  Construct, Undead  |            -             |       Level 4        |          Solo           |          EV 72           |
+| :-----------------: | :----------------------: | :------------------: | :---------------------: | :----------------------: |
+|   **3**<br/> Size   |     **8**<br/> Speed     | **350**<br/> Stamina |  **3**<br/> Stability   |  **6**<br/> Free Strike  |
+| **-**<br/> Immunity | **Burrow**<br/> Movement |          -           | **-**<br/> With Captain | **Holy 5**<br/> Weakness |
+|  **+4**<br/> Might  |   **-1**<br/> Agility    |  **-2**<br/> Reason  |  **+0**<br/> Intuition  |   **-5**<br/> Presence   |
 
 <!-- -->
 > ☠️ **Solo Monster**
@@ -1649,7 +1653,9 @@ At the start of an ashen hoarder's turn, you can spend Malice to activate one of
 >
 > **Power Roll + 4:**
 >
-> 6 corruption damage; M < 2 the target is impaled (save ends) 11 corruption damage; M < 3 the target is impaled (save ends) 14 corruption damage; M < 4 the target is impaled (save ends)
+> - **≤11:** 6 corruption damage; M < 2 the target is impaled (save ends)
+> - **12-16:** 11 corruption damage; M < 3 the target is impaled (save ends)
+> - **17+:** 14 corruption damage; M < 4 the target is impaled (save ends)
 >
 > **Effect:** An impaled creature is restrained and bleeding, and moves with the ashen hoarder. The ashen hoarder can have three creatures impaled with this ability at a time.
 
@@ -1718,7 +1724,7 @@ At the start of an ashen hoarder's turn, you can spend Malice to activate one of
 
 ## Basilisks
 
-With eight legs, a scaled rough hide, and razor-sharp teeth coated in poison, the basilisk is a deadly threat-even aside from their petrifying eye beams. This dreadful creature can fell the mightiest of foes with a look, turning them into an immobilized stone statue who remains thankfully unaware when the basilisk later consumes their petrified form at their leisure.
+With eight legs, a scaled rough hide, and razor-sharp teeth coated in poison, the basilisk is a deadly threat—even aside from their petrifying eye beams. This dreadful creature can fell the mightiest of foes with a look, turning them into an immobilized stone statue who remains thankfully unaware when the basilisk later consumes their petrified form at their leisure.
 
 ### Raising Young
 
@@ -1777,7 +1783,7 @@ At the start of any basilisk's turn, you can spend Malice to activate one of the
 |      Basilisk, Beast       |          -          |       Level 1       |       Elite Brute       |         EV 12          |
 | :------------------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |      **2**<br/> Size       |  **8**<br/> Speed   | **80**<br/> Stamina |  **2**<br/> Stability   | **5**<br/> Free Strike |
-| **Poison 4**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Poison 4**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |     **+2**<br/> Might      | **+0**<br/> Agility | **-3**<br/> Reason  |  **-1**<br/> Intuition  |  **-1**<br/> Presence  |
 
 <!-- -->
@@ -1800,7 +1806,7 @@ At the start of any basilisk's turn, you can spend Malice to activate one of the
 >
 > | **Area, Magic**            |   **Maneuver** |
 > | -------------------------- | -------------: |
-> | **📏 5 × 2 line within 1** | **🎯 Special** |
+> | **📏 5 x 2 line within 1** | **🎯 Special** |
 >
 > **Special:** The area extends from both the basilisk's eyes, and this ability targets the first creature without cover on either side of the area.
 >
@@ -1846,7 +1852,7 @@ At the start of any basilisk's turn, you can spend Malice to activate one of the
 |          Basilisk, Beast           |          -          |       Level 1       |       Elite Hexer       |         EV 12          |
 | :--------------------------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |          **2**<br/> Size           |  **8**<br/> Speed   | **40**<br/> Stamina |  **2**<br/> Stability   | **4**<br/> Free Strike |
-| **Acid 2, Poison 2**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Acid 2, Poison 2**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |         **+1**<br/> Might          | **+2**<br/> Agility | **-3**<br/> Reason  |  **-1**<br/> Intuition  |  **-1**<br/> Presence  |
 
 <!-- -->
@@ -1889,6 +1895,8 @@ At the start of any basilisk's turn, you can spend Malice to activate one of the
 > | **Magic, Melee, Ranged, Strike** |     **Main action** |
 > | -------------------------------- | ------------------: |
 > | **📏 Melee 1 or ranged 10**      | **🎯 One creature** |
+>
+> **Power Roll + 2:**
 >
 > - **≤11:** 8 corruption damage; R < 0 dazed (save ends)
 > - **12-16:** 10 corruption damage; R < 1 dazed (save ends)
@@ -1961,7 +1969,7 @@ At the start of a bredbeddle's turn, you can spend Malice to activate one of the
 |  Bredbeddle, Giant  |          -          |       Level 3        |          Solo           |         EV 60          |
 | :-----------------: | :-----------------: | :------------------: | :---------------------: | :--------------------: |
 |   **2**<br/> Size   |  **5**<br/> Speed   | **300**<br/> Stamina |  **4**<br/> Stability   | **6**<br/> Free Strike |
-| **-**<br/> Immunity | **-**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **-**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |  **+3**<br/> Might  | **+0**<br/> Agility |  **-3**<br/> Reason  |  **+2**<br/> Intuition  |  **+2**<br/> Presence  |
 
 <!-- -->
@@ -1996,7 +2004,7 @@ At the start of a bredbeddle's turn, you can spend Malice to activate one of the
 > - **12-16:** 4 damage; A < 2 bleeding (save ends)
 > - **17+:** 5 damage; A < 3 bleeding (save ends); M < 2 dazed (save ends)
 >
-> **Malice:** The bredbeddle shifts up to 2 squares, and can target additional enemies who come within distance of this ability during the shift.
+> **3 Malice:** The bredbeddle shifts up to 2 squares, and can target additional enemies who come within distance of this ability during the shift.
 
 <!-- -->
 > 🗡 **Lop (3 Malice)**
@@ -2083,6 +2091,8 @@ At the start of a bredbeddle's turn, you can spend Malice to activate one of the
 > | ------------------------- | --------------------: |
 > | **📏 Melee 2**            | **🎯 Four creatures** |
 >
+> **Power Roll + 3:**
+>
 > - **≤11:** 6 damage; bleeding (save ends); or if the target has A < 1 they are beheaded (see Lop).
 > - **12-16:** 7 damage; bleeding (save ends); or if the target has A < 2 they are beheaded
 > - **17+:** 8 damage; bleeding (save ends); or if the target has A < 3 they are beheaded
@@ -2140,13 +2150,13 @@ Most bugbears speak Caelian, Khelt, and Szetch.
 | Bugbear, Fey, Goblin, Humanoid |          -          |       Level 2       |    Elite Controller     |         EV 16          |
 | :----------------------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |        **1L**<br/> Size        |  **5**<br/> Speed   | **60**<br/> Stamina |  **0**<br/> Stability   | **5**<br/> Free Strike |
-|      **-**<br/> Immunity       | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+|      **-**<br/> Immunity       | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |       **+1**<br/> Might        | **+1**<br/> Agility | **+2**<br/> Reason  |  **+2**<br/> Intuition  |  **+2**<br/> Presence  |
 
 <!-- -->
 > 🏹 **Shadow Drag (Signature Ability)**
 >
-> | **Magic, Ranged. Strike** |                 **Main Action** |
+> | **Magic, Ranged, Strike** |                 **Main Action** |
 > | ------------------------- | ------------------------------: |
 > | **📏 Ranged 8**           | **🎯 Two creatures or objects** |
 >
@@ -2226,7 +2236,7 @@ Most bugbears speak Caelian, Khelt, and Szetch.
 | Bugbear, Fey, Goblin, Humanoid |          -          |       Level 2       |      Elite Support      |         EV 16          |
 | :----------------------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |        **1L**<br/> Size        |  **5**<br/> Speed   | **80**<br/> Stamina |  **0**<br/> Stability   | **5**<br/> Free Strike |
-|      **-**<br/> Immunity       | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+|      **-**<br/> Immunity       | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |       **+2**<br/> Might        | **+1**<br/> Agility | **+2**<br/> Reason  |  **+0**<br/> Intuition  |  **+0**<br/> Presence  |
 
 <!-- -->
@@ -2294,7 +2304,7 @@ Most bugbears speak Caelian, Khelt, and Szetch.
 | Bugbear, Fey, Goblin, Humanoid |          -          |       Level 2        |       Elite Brute       |         EV 16          |
 | :----------------------------: | :-----------------: | :------------------: | :---------------------: | :--------------------: |
 |        **1L**<br/> Size        |  **6**<br/> Speed   | **109**<br/> Stamina |  **0**<br/> Stability   | **5**<br/> Free Strike |
-|      **-**<br/> Immunity       | **-**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+|      **-**<br/> Immunity       | **-**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |       **+2**<br/> Might        | **+2**<br/> Agility |  **+0**<br/> Reason  |  **+0**<br/> Intuition  |  **+0**<br/> Presence  |
 
 <!-- -->
@@ -2376,7 +2386,7 @@ Most bugbears speak Caelian, Khelt, and Szetch.
 | Bugbear, Fey, Goblin, Humanoid |          -          |       Level 2       |     Elite Ambusher      |         EV 16          |
 | :----------------------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |        **1L**<br/> Size        |  **7**<br/> Speed   | **80**<br/> Stamina |  **0**<br/> Stability   | **5**<br/> Free Strike |
-|      **-**<br/> Immunity       | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+|      **-**<br/> Immunity       | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |       **+2**<br/> Might        | **+2**<br/> Agility | **+0**<br/> Reason  |  **+0**<br/> Intuition  |  **+0**<br/> Presence  |
 
 <!-- -->
@@ -2462,7 +2472,7 @@ Most bugbears speak Caelian, Khelt, and Szetch.
 | Bugbear, Fey, Goblin, Humanoid |          -          |       Level 8       |                 Minion Hexer                  | EV 10 for four minions |
 | :----------------------------: | :-----------------: | :-----------------: | :-------------------------------------------: | :--------------------: |
 |        **1L**<br/> Size        |  **5**<br/> Speed   | **12**<br/> Stamina |             **2**<br/> Stability              | **3**<br/> Free Strike |
-|      **-**<br/> Immunity       | **-**<br/> Movement |          -          | **Gain an edge on strikes**<br/> With Captain | **-**<br/> Weaknesses  |
+|      **-**<br/> Immunity       | **-**<br/> Movement |          -          | **Gain an edge on strikes**<br/> With Captain |  **-**<br/> Weakness   |
 |       **+4**<br/> Might        | **+3**<br/> Agility | **+1**<br/> Reason  |             **+1**<br/> Intuition             |  **+4**<br/> Presence  |
 
 <!-- -->
@@ -2495,7 +2505,7 @@ Most bugbears speak Caelian, Khelt, and Szetch.
 | Bugbear, Fey, Goblin, Humanoid |          -          |       Level 5       |                   Minion Brute                   | EV 7 for four minions  |
 | :----------------------------: | :-----------------: | :-----------------: | :----------------------------------------------: | :--------------------: |
 |        **3**<br/> Size         |  **6**<br/> Speed   | **10**<br/> Stamina |               **2**<br/> Stability               | **3**<br/> Free Strike |
-|      **-**<br/> Immunity       | **-**<br/> Movement |          -          | **+2 damage bonus to strikes**<br/> With Captain | **-**<br/> Weaknesses  |
+|      **-**<br/> Immunity       | **-**<br/> Movement |          -          | **+2 damage bonus to strikes**<br/> With Captain |  **-**<br/> Weakness   |
 |       **+3**<br/> Might        | **-1**<br/> Agility | **+0**<br/> Reason  |              **+1**<br/> Intuition               |  **+0**<br/> Presence  |
 
 <!-- -->
@@ -2523,11 +2533,11 @@ Most bugbears speak Caelian, Khelt, and Szetch.
 | Bugbear, Fey, Goblin, Humanoid |          -          |      Level 5       |             Minion Ambusher             | EV 7 for four minions  |
 | :----------------------------: | :-----------------: | :----------------: | :-------------------------------------: | :--------------------: |
 |        **1L**<br/> Size        |  **6**<br/> Speed   | **9**<br/> Stamina |          **2**<br/> Stability           | **3**<br/> Free Strike |
-|      **-**<br/> Immunity       | **-**<br/> Movement |         -          | **+3 bonus to speed**<br/> With Captain | **-**<br/> Weaknesses  |
+|      **-**<br/> Immunity       | **-**<br/> Movement |         -          | **+3 bonus to speed**<br/> With Captain |  **-**<br/> Weakness   |
 |       **+2**<br/> Might        | **+3**<br/> Agility | **+0**<br/> Reason |          **+0**<br/> Intuition          |  **+1**<br/> Presence  |
 
 <!-- -->
-> 🗡 **Cut 'Em Low! Signature Ability**
+> 🗡 **Cut 'Em Low! (Signature Ability)**
 >
 > | **Charge, Melee, Strike, Weapon** |                          **Main action** |
 > | --------------------------------- | ---------------------------------------: |
@@ -2543,11 +2553,11 @@ Most bugbears speak Caelian, Khelt, and Szetch.
 
 ## Chimera
 
-Massive flexing claws. Lashing draconic tail. Nimble leathery wings. And not one, but three menacing heads: a snarling lion, a helix-horned ram, and a dragon with fire sparking in their throat. Many see the chimera as an aggressor-but few know this creature's origins as a divine guardian.
+Massive flexing claws. Lashing draconic tail. Nimble leathery wings. And not one, but three menacing heads: a snarling lion, a helix-horned ram, and a dragon with fire sparking in their throat. Many see the chimera as an aggressor—but few know this creature's origins as a divine guardian.
 
 ### The First Chimera
 
-The first chimera was a gift. A deity gave a devout queen this young guardian-one with a dragon's cunning, a lion's bravery, and a ram's tenacity. The queen raised the chimera to be a strong protector not just for herself but also her people, who loved the chimera and their ruler. But neighboring lands feared the beast. As a conquering force swept into the land, slaughtering the chimera was their fell goal.
+The first chimera was a gift. A deity gave a devout queen this young guardian—one with a dragon's cunning, a lion's bravery, and a ram's tenacity. The queen raised the chimera to be a strong protector not just for herself but also her people, who loved the chimera and their ruler. But neighboring lands feared the beast. As a conquering force swept into the land, slaughtering the chimera was their fell goal.
 
 The queen's resulting fury was said to be felt by the gods. As she screamed, a nearby volcano erupted, spewing basalt and chimeras over the land. With fiery might, the chimeras destroyed the opposing army, then dispersed. Each found a new territory and claimed the role of divine protector over that place, its inhabitants, and its treasures.
 
@@ -2588,7 +2598,7 @@ At the start of a chimera's turn, you can spend Malice to activate one of the fo
 |      Beast, Chimera      |           -           |       Level 3        |          Solo           |         EV 60          |
 | :----------------------: | :-------------------: | :------------------: | :---------------------: | :--------------------: |
 |     **2**<br/> Size      |   **10**<br/> Speed   | **300**<br/> Stamina |  **1**<br/> Stability   | **6**<br/> Free Strike |
-| **Fire 6**<br/> Immunity | **Fly**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Fire 6**<br/> Immunity | **Fly**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |    **+3**<br/> Might     |  **+2**<br/> Agility  |  **-2**<br/> Reason  |  **+1**<br/> Intuition  |  **+0**<br/> Presence  |
 
 <!-- -->
@@ -2668,7 +2678,7 @@ At the start of a chimera's turn, you can spend Malice to activate one of the fo
 >
 > **Effect:** The chimera shifts up to 5 squares. If they end this shift within distance of the target, make a power roll.
 >
-> **Power Roll + 3**
+> **Power Roll + 3:**
 >
 > - **≤11:** 6 damage; M < 1 slowed (save ends)
 > - **12-16:** 8 damage; prone; M < 2 slowed (save ends)
@@ -2755,13 +2765,13 @@ Demons feast not on food or liquids, but on souls. Souls fuel their anarchic pow
 
 ### Lethe
 
-When a demon's soul energy begins to flag, they fall into a state known as lethe-a violent hunger wherein they can only lash out in a desperate search for sustenance. Demons who have fallen into lethe become single-minded and violent, seeking only to consume.
+When a demon's soul energy begins to flag, they fall into a state known as lethe—a violent hunger wherein they can only lash out in a desperate search for sustenance. Demons who have fallen into lethe become single-minded and violent, seeking only to consume.
 
 ### Demonic Hierarchy
 
 Mortal scholars have classified demons into ten categories, each increasingly more powerful. Though demons don't use these classifications themselves, this system reflects their hierarchy, as stronger demons bully the weak into service.
 
-Each time a demon consumes a soul, there's a chance they might evolve into a more powerful demon. The evolution from one category to the next can be instantaneous, or it can take years. This inconsistency has led to much scholarly debate on whether all souls are equal, or whether demonic evolution is aided by the consumption of souls that are especially corrupt-or heroic.
+Each time a demon consumes a soul, there's a chance they might evolve into a more powerful demon. The evolution from one category to the next can be instantaneous, or it can take years. This inconsistency has led to much scholarly debate on whether all souls are equal, or whether demonic evolution is aided by the consumption of souls that are especially corrupt—or heroic.
 
 ### Demon Languages
 
@@ -2814,11 +2824,11 @@ At the start of any demon's turn, you can spend Malice to activate one of the fo
 
 ###### Ensnarer
 
-|   Abyssal, Demon    |          -          |      Level 1       |                   Minion Brute                   |   EV 3 for four minions    |
-| :-----------------: | :-----------------: | :----------------: | :----------------------------------------------: | :------------------------: |
-|  **1M**<br/> Size   |  **5**<br/> Speed   | **5**<br/> Stamina |               **0**<br/> Stability               |   **2**<br/> Free Strike   |
-| **-**<br/> Immunity | **-**<br/> Movement |         -          | **+2 bonus to melee distance**<br/> With Captain | **Holy 3**<br/> Weaknesses |
-|  **+2**<br/> Might  | **+0**<br/> Agility | **-1**<br/> Reason |              **-1**<br/> Intuition               |    **-1**<br/> Presence    |
+|   Abyssal, Demon    |          -          |      Level 1       |                   Minion Brute                   |  EV 3 for four minions   |
+| :-----------------: | :-----------------: | :----------------: | :----------------------------------------------: | :----------------------: |
+|  **1M**<br/> Size   |  **5**<br/> Speed   | **5**<br/> Stamina |               **0**<br/> Stability               |  **2**<br/> Free Strike  |
+| **-**<br/> Immunity | **-**<br/> Movement |         -          | **+2 bonus to melee distance**<br/> With Captain | **Holy 3**<br/> Weakness |
+|  **+2**<br/> Might  | **+0**<br/> Agility | **-1**<br/> Reason |              **-1**<br/> Intuition               |   **-1**<br/> Presence   |
 
 <!-- -->
 > 🗡 **Barbed Tongues (Signature Ability)**
@@ -2842,11 +2852,11 @@ At the start of any demon's turn, you can spend Malice to activate one of the fo
 
 ###### Frenzied
 
-|   Abyssal, Demon    |          -          |      Level 1       |             Minion Harrier              |   EV 3 for four minions    |
-| :-----------------: | :-----------------: | :----------------: | :-------------------------------------: | :------------------------: |
-|  **1M**<br/> Size   |  **6**<br/> Speed   | **4**<br/> Stamina |          **0**<br/> Stability           |   **1**<br/> Free Strike   |
-| **-**<br/> Immunity | **-**<br/> Movement |         -          | **+2 bonus to speed**<br/> With Captain | **Holy 3**<br/> Weaknesses |
-|  **+0**<br/> Might  | **+2**<br/> Agility | **-1**<br/> Reason |          **-1**<br/> Intuition          |    **-1**<br/> Presence    |
+|   Abyssal, Demon    |          -          |      Level 1       |             Minion Harrier              |  EV 3 for four minions   |
+| :-----------------: | :-----------------: | :----------------: | :-------------------------------------: | :----------------------: |
+|  **1M**<br/> Size   |  **6**<br/> Speed   | **4**<br/> Stamina |          **0**<br/> Stability           |  **1**<br/> Free Strike  |
+| **-**<br/> Immunity | **-**<br/> Movement |         -          | **+2 bonus to speed**<br/> With Captain | **Holy 3**<br/> Weakness |
+|  **+0**<br/> Might  | **+2**<br/> Agility | **-1**<br/> Reason |          **-1**<br/> Intuition          |   **-1**<br/> Presence   |
 
 <!-- -->
 > 🗡 **Rip and Tear (Signature Ability)**
@@ -2868,11 +2878,11 @@ At the start of any demon's turn, you can spend Malice to activate one of the fo
 
 ###### Pitling
 
-|   Abyssal, Demon    |           -           |      Level 1       |            Minion Artillery             |   EV 3 for four minions    |
-| :-----------------: | :-------------------: | :----------------: | :-------------------------------------: | :------------------------: |
-|  **1T**<br/> Size   |   **5**<br/> Speed    | **3**<br/> Stamina |          **0**<br/> Stability           |   **2**<br/> Free Strike   |
-| **-**<br/> Immunity | **Fly**<br/> Movement |         -          | **+2 bonus to speed**<br/> With Captain | **Holy 3**<br/> Weaknesses |
-|  **-2**<br/> Might  |  **+2**<br/> Agility  | **-2**<br/> Reason |          **-2**<br/> Intuition          |    **-2**<br/> Presence    |
+|   Abyssal, Demon    |           -           |      Level 1       |            Minion Artillery             |  EV 3 for four minions   |
+| :-----------------: | :-------------------: | :----------------: | :-------------------------------------: | :----------------------: |
+|  **1T**<br/> Size   |   **5**<br/> Speed    | **3**<br/> Stamina |          **0**<br/> Stability           |  **2**<br/> Free Strike  |
+| **-**<br/> Immunity | **Fly**<br/> Movement |         -          | **+2 bonus to speed**<br/> With Captain | **Holy 3**<br/> Weakness |
+|  **-2**<br/> Might  |  **+2**<br/> Agility  | **-2**<br/> Reason |          **-2**<br/> Intuition          |   **-2**<br/> Presence   |
 
 <!-- -->
 > 🏹 **Spit (Signature Ability)**
@@ -2899,11 +2909,11 @@ At the start of any demon's turn, you can spend Malice to activate one of the fo
 
 ###### Bendrak
 
-|   Abyssal, Demon    |          -          |       Level 2       |       Horde Hexer       |            EV 4            |
-| :-----------------: | :-----------------: | :-----------------: | :---------------------: | :------------------------: |
-|  **1L**<br/> Size   |  **5**<br/> Speed   | **15**<br/> Stamina |  **0**<br/> Stability   |   **2**<br/> Free Strike   |
-| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **Holy 3**<br/> Weaknesses |
-|  **+0**<br/> Might  | **+1**<br/> Agility | **+0**<br/> Reason  |  **+0**<br/> Intuition  |    **+2**<br/> Presence    |
+|   Abyssal, Demon    |          -          |       Level 2       |       Horde Hexer       |           EV 4           |
+| :-----------------: | :-----------------: | :-----------------: | :---------------------: | :----------------------: |
+|  **1L**<br/> Size   |  **5**<br/> Speed   | **15**<br/> Stamina |  **0**<br/> Stability   |  **2**<br/> Free Strike  |
+| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **Holy 3**<br/> Weakness |
+|  **+0**<br/> Might  | **+1**<br/> Agility | **+0**<br/> Reason  |  **+0**<br/> Intuition  |   **+2**<br/> Presence   |
 
 <!-- -->
 > 🏹 **Warp Perceptions (Signature Ability)**
@@ -2941,11 +2951,11 @@ At the start of any demon's turn, you can spend Malice to activate one of the fo
 
 ###### Muceron
 
-|   Abyssal, Demon    |          -          |       Level 3       |       Horde Brute       |            EV 5            |
-| :-----------------: | :-----------------: | :-----------------: | :---------------------: | :------------------------: |
-|  **1M**<br/> Size   |  **5**<br/> Speed   | **30**<br/> Stamina |  **0**<br/> Stability   |   **3**<br/> Free Strike   |
-| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **Holy 3**<br/> Weaknesses |
-|  **+2**<br/> Might  | **+2**<br/> Agility | **+0**<br/> Reason  |  **+0**<br/> Intuition  |    **+1**<br/> Presence    |
+|   Abyssal, Demon    |          -          |       Level 3       |       Horde Brute       |           EV 5           |
+| :-----------------: | :-----------------: | :-----------------: | :---------------------: | :----------------------: |
+|  **1M**<br/> Size   |  **5**<br/> Speed   | **30**<br/> Stamina |  **0**<br/> Stability   |  **3**<br/> Free Strike  |
+| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **Holy 3**<br/> Weakness |
+|  **+2**<br/> Might  | **+2**<br/> Agility | **+0**<br/> Reason  |  **+0**<br/> Intuition  |   **+1**<br/> Presence   |
 
 <!-- -->
 > 🗡 **Barbed Tongues (Signature Ability)**
@@ -2983,11 +2993,11 @@ At the start of any demon's turn, you can spend Malice to activate one of the fo
 
 ###### Remasch
 
-|   Abyssal, Demon    |             -              |       Level 2       |     Horde Ambusher      |            EV 4            |
-| :-----------------: | :------------------------: | :-----------------: | :---------------------: | :------------------------: |
-|  **1S**<br/> Size   |      **5**<br/> Speed      | **20**<br/> Stamina |  **0**<br/> Stability   |   **3**<br/> Free Strike   |
-| **-**<br/> Immunity | **Teleport**<br/> Movement |          -          | **-**<br/> With Captain | **Holy 3**<br/> Weaknesses |
-|  **+0**<br/> Might  |    **+2**<br/> Agility     | **+0**<br/> Reason  |  **+0**<br/> Intuition  |    **+2**<br/> Presence    |
+|   Abyssal, Demon    |             -              |       Level 2       |     Horde Ambusher      |           EV 4           |
+| :-----------------: | :------------------------: | :-----------------: | :---------------------: | :----------------------: |
+|  **1S**<br/> Size   |      **5**<br/> Speed      | **20**<br/> Stamina |  **0**<br/> Stability   |  **3**<br/> Free Strike  |
+| **-**<br/> Immunity | **Teleport**<br/> Movement |          -          | **-**<br/> With Captain | **Holy 3**<br/> Weakness |
+|  **+0**<br/> Might  |    **+2**<br/> Agility     | **+0**<br/> Reason  |  **+0**<br/> Intuition  |   **+2**<br/> Presence   |
 
 <!-- -->
 > 🗡 **Abyssal Strike (Signature Ability)**
@@ -3025,11 +3035,11 @@ At the start of any demon's turn, you can spend Malice to activate one of the fo
 
 ###### Ruinant
 
-|   Abyssal, Demon    |          -          |       Level 1       |      Horde Harrier      |            EV 3            |
-| :-----------------: | :-----------------: | :-----------------: | :---------------------: | :------------------------: |
-|  **1M**<br/> Size   |  **6**<br/> Speed   | **15**<br/> Stamina |  **0**<br/> Stability   |   **1**<br/> Free Strike   |
-| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **Holy 3**<br/> Weaknesses |
-|  **+0**<br/> Might  | **+2**<br/> Agility | **+0**<br/> Reason  |  **+0**<br/> Intuition  |    **+1**<br/> Presence    |
+|   Abyssal, Demon    |          -          |       Level 1       |      Horde Harrier      |           EV 3           |
+| :-----------------: | :-----------------: | :-----------------: | :---------------------: | :----------------------: |
+|  **1M**<br/> Size   |  **6**<br/> Speed   | **15**<br/> Stamina |  **0**<br/> Stability   |  **1**<br/> Free Strike  |
+| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **Holy 3**<br/> Weakness |
+|  **+0**<br/> Might  | **+2**<br/> Agility | **+0**<br/> Reason  |  **+0**<br/> Intuition  |   **+1**<br/> Presence   |
 
 <!-- -->
 > 🗡 **Bloodletting Claws (Signature Ability)**
@@ -3071,11 +3081,11 @@ At the start of any demon's turn, you can spend Malice to activate one of the fo
 
 ###### Torlas
 
-|   Abyssal, Demon    |          -          |       Level 1       |    Horde Controller     |            EV 3            |
-| :-----------------: | :-----------------: | :-----------------: | :---------------------: | :------------------------: |
-|  **1S**<br/> Size   |  **5**<br/> Speed   | **10**<br/> Stamina |  **0**<br/> Stability   |   **1**<br/> Free Strike   |
-| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **Holy 3**<br/> Weaknesses |
-|  **+0**<br/> Might  | **+1**<br/> Agility | **+0**<br/> Reason  |  **+0**<br/> Intuition  |    **+2**<br/> Presence    |
+|   Abyssal, Demon    |          -          |       Level 1       |    Horde Controller     |           EV 3           |
+| :-----------------: | :-----------------: | :-----------------: | :---------------------: | :----------------------: |
+|  **1S**<br/> Size   |  **5**<br/> Speed   | **10**<br/> Stamina |  **0**<br/> Stability   |  **1**<br/> Free Strike  |
+| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **Holy 3**<br/> Weakness |
+|  **+0**<br/> Might  | **+1**<br/> Agility | **+0**<br/> Reason  |  **+0**<br/> Intuition  |   **+2**<br/> Presence   |
 
 <!-- -->
 > 🔳 **Floor to Flesh (Signature Ability)**
@@ -3113,11 +3123,11 @@ At the start of any demon's turn, you can spend Malice to activate one of the fo
 
 ###### Chorogaunt
 
-|   Abyssal, Demon    |          -          |       Level 3        |         Leader          |           EV 20            |
-| :-----------------: | :-----------------: | :------------------: | :---------------------: | :------------------------: |
-|  **1L**<br/> Size   |  **5**<br/> Speed   | **120**<br/> Stamina |  **2**<br/> Stability   |   **5**<br/> Free Strike   |
-| **-**<br/> Immunity | **-**<br/> Movement |          -           | **-**<br/> With Captain | **Holy 5**<br/> Weaknesses |
-|  **+2**<br/> Might  | **+2**<br/> Agility |  **+2**<br/> Reason  |  **+2**<br/> Intuition  |    **+3**<br/> Presence    |
+|   Abyssal, Demon    |          -          |       Level 3        |         Leader          |          EV 20           |
+| :-----------------: | :-----------------: | :------------------: | :---------------------: | :----------------------: |
+|  **1L**<br/> Size   |  **5**<br/> Speed   | **120**<br/> Stamina |  **2**<br/> Stability   |  **5**<br/> Free Strike  |
+| **-**<br/> Immunity | **-**<br/> Movement |          -           | **-**<br/> With Captain | **Holy 5**<br/> Weakness |
+|  **+2**<br/> Might  | **+2**<br/> Agility |  **+2**<br/> Reason  |  **+2**<br/> Intuition  |   **+3**<br/> Presence   |
 
 <!-- -->
 > ❇️ **Agonizing Harmony (Signature Ability)**
@@ -3198,7 +3208,7 @@ At the start of any demon's turn, you can spend Malice to activate one of the fo
 
 ### Demons-2nd Echelon
 
-As demons consume more souls and their mercurial forms shift into more powerful ones, they begin to evolve more distinct personalities, desires, and intelligence-often based on the souls consumed. Across categories 4 to 6, demons develop a particular taste for certain types of souls, which eventually come to define them should they survive long enough.
+As demons consume more souls and their mercurial forms shift into more powerful ones, they begin to evolve more distinct personalities, desires, and intelligence—often based on the souls consumed. Across categories 4 to 6, demons develop a particular taste for certain types of souls, which eventually come to define them should they survive long enough.
 
 **Grulqins** (GRUHL-kinz) consist of a bulbous head, two powerful arms, and a circular serrated blade of bone that runs down the middle of their head.
 
@@ -3234,11 +3244,11 @@ At the start of any level 4 or higher demon's turn, you can spend Malice to acti
 
 ###### Grulqin
 
-|   Abyssal, Demon    |          -          |      Level 4       |                   Minion Brute                   |   EV 6 for four minions    |
-| :-----------------: | :-----------------: | :----------------: | :----------------------------------------------: | :------------------------: |
-|  **1L**<br/> Size   |  **8**<br/> Speed   | **9**<br/> Stamina |               **1**<br/> Stability               |   **3**<br/> Free Strike   |
-| **-**<br/> Immunity | **-**<br/> Movement |         -          | **+2 damage bonus to strikes**<br/> With Captain | **Holy 5**<br/> Weaknesses |
-|  **+3**<br/> Might  | **+2**<br/> Agility | **-1**<br/> Reason |              **-1**<br/> Intuition               |    **-1**<br/> Presence    |
+|   Abyssal, Demon    |          -          |      Level 4       |                   Minion Brute                   |  EV 6 for four minions   |
+| :-----------------: | :-----------------: | :----------------: | :----------------------------------------------: | :----------------------: |
+|  **1L**<br/> Size   |  **8**<br/> Speed   | **9**<br/> Stamina |               **1**<br/> Stability               |  **3**<br/> Free Strike  |
+| **-**<br/> Immunity | **-**<br/> Movement |         -          | **+2 damage bonus to strikes**<br/> With Captain | **Holy 5**<br/> Weakness |
+|  **+3**<br/> Might  | **+2**<br/> Agility | **-1**<br/> Reason |              **-1**<br/> Intuition               |   **-1**<br/> Presence   |
 
 <!-- -->
 > 🗡 **Spinning Bone Blade (Signature Ability)**
@@ -3262,11 +3272,11 @@ At the start of any level 4 or higher demon's turn, you can spend Malice to acti
 
 ###### Orliq
 
-|   Abyssal, Demon    |           -           |      Level 4       |             Minion Harrier              |   EV 6 for four minions    |
-| :-----------------: | :-------------------: | :----------------: | :-------------------------------------: | :------------------------: |
-|  **1T**<br/> Size   |   **6**<br/> Speed    | **8**<br/> Stamina |          **0**<br/> Stability           |   **2**<br/> Free Strike   |
-| **-**<br/> Immunity | **Fly**<br/> Movement |         -          | **+2 bonus to speed**<br/> With Captain | **Holy 5**<br/> Weaknesses |
-|  **-1**<br/> Might  |  **+3**<br/> Agility  | **+1**<br/> Reason |          **+0**<br/> Intuition          |    **-1**<br/> Presence    |
+|   Abyssal, Demon    |           -           |      Level 4       |             Minion Harrier              |  EV 6 for four minions   |
+| :-----------------: | :-------------------: | :----------------: | :-------------------------------------: | :----------------------: |
+|  **1T**<br/> Size   |   **6**<br/> Speed    | **8**<br/> Stamina |          **0**<br/> Stability           |  **2**<br/> Free Strike  |
+| **-**<br/> Immunity | **Fly**<br/> Movement |         -          | **+2 bonus to speed**<br/> With Captain | **Holy 5**<br/> Weakness |
+|  **-1**<br/> Might  |  **+3**<br/> Agility  | **+1**<br/> Reason |          **+0**<br/> Intuition          |   **-1**<br/> Presence   |
 
 <!-- -->
 > 🗡 **Soul Prism (Signature Ability)**
@@ -3293,11 +3303,11 @@ At the start of any level 4 or higher demon's turn, you can spend Malice to acti
 
 ###### Wobalas
 
-|   Abyssal, Demon    |          -          |      Level 4       |                 Minion Artillery                 |   EV 6 for four minions    |
-| :-----------------: | :-----------------: | :----------------: | :----------------------------------------------: | :------------------------: |
-|  **1M**<br/> Size   |  **6**<br/> Speed   | **7**<br/> Stamina |               **0**<br/> Stability               |   **3**<br/> Free Strike   |
-| **-**<br/> Immunity | **-**<br/> Movement |         -          | **+2 damage bonus to strikes**<br/> With Captain | **Holy 5**<br/> Weaknesses |
-|  **+1**<br/> Might  | **+3**<br/> Agility | **+1**<br/> Reason |              **+2**<br/> Intuition               |    **+1**<br/> Presence    |
+|   Abyssal, Demon    |          -          |      Level 4       |                 Minion Artillery                 |  EV 6 for four minions   |
+| :-----------------: | :-----------------: | :----------------: | :----------------------------------------------: | :----------------------: |
+|  **1M**<br/> Size   |  **6**<br/> Speed   | **7**<br/> Stamina |               **0**<br/> Stability               |  **3**<br/> Free Strike  |
+| **-**<br/> Immunity | **-**<br/> Movement |         -          | **+2 damage bonus to strikes**<br/> With Captain | **Holy 5**<br/> Weakness |
+|  **+1**<br/> Might  | **+3**<br/> Agility | **+1**<br/> Reason |              **+2**<br/> Intuition               |   **+1**<br/> Presence   |
 
 <!-- -->
 > 🏹 **Despair Bolt (Signature Ability)**
@@ -3316,11 +3326,11 @@ At the start of any level 4 or higher demon's turn, you can spend Malice to acti
 
 ###### Bale Eye
 
-|   Abyssal, Demon    |           -           |       Level 5       |       Horde Hexer       |            EV 7            |
-| :-----------------: | :-------------------: | :-----------------: | :---------------------: | :------------------------: |
-|   **4**<br/> Size   |   **6**<br/> Speed    | **30**<br/> Stamina |  **2**<br/> Stability   |   **3**<br/> Free Strike   |
-| **-**<br/> Immunity | **Fly**<br/> Movement |          -          | **-**<br/> With Captain | **Holy 5**<br/> Weaknesses |
-|  **+0**<br/> Might  |  **+0**<br/> Agility  | **+3**<br/> Reason  |  **+3**<br/> Intuition  |    **+3**<br/> Presence    |
+|   Abyssal, Demon    |           -           |       Level 5       |       Horde Hexer       |           EV 7           |
+| :-----------------: | :-------------------: | :-----------------: | :---------------------: | :----------------------: |
+|   **4**<br/> Size   |   **6**<br/> Speed    | **30**<br/> Stamina |  **2**<br/> Stability   |  **3**<br/> Free Strike  |
+| **-**<br/> Immunity | **Fly**<br/> Movement |          -          | **-**<br/> With Captain | **Holy 5**<br/> Weakness |
+|  **+0**<br/> Might  |  **+0**<br/> Agility  | **+3**<br/> Reason  |  **+3**<br/> Intuition  |   **+3**<br/> Presence   |
 
 <!-- -->
 > 🏹 **Wilting Visions (Signature Ability)**
@@ -3368,11 +3378,11 @@ At the start of any level 4 or higher demon's turn, you can spend Malice to acti
 
 ###### Fangling
 
-|   Abyssal, Demon    |          -          |       Level 4       |      Horde Harrier      |            EV 6            |
-| :-----------------: | :-----------------: | :-----------------: | :---------------------: | :------------------------: |
-|  **1L**<br/> Size   |  **8**<br/> Speed   | **30**<br/> Stamina |  **0**<br/> Stability   |   **2**<br/> Free Strike   |
-| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **Holy 5**<br/> Weaknesses |
-|  **+3**<br/> Might  | **+2**<br/> Agility | **+0**<br/> Reason  |  **+0**<br/> Intuition  |    **+0**<br/> Presence    |
+|   Abyssal, Demon    |          -          |       Level 4       |      Horde Harrier      |           EV 6           |
+| :-----------------: | :-----------------: | :-----------------: | :---------------------: | :----------------------: |
+|  **1L**<br/> Size   |  **8**<br/> Speed   | **30**<br/> Stamina |  **0**<br/> Stability   |  **2**<br/> Free Strike  |
+| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **Holy 5**<br/> Weakness |
+|  **+3**<br/> Might  | **+2**<br/> Agility | **+0**<br/> Reason  |  **+0**<br/> Intuition  |   **+0**<br/> Presence   |
 
 <!-- -->
 > 🗡 **Tooth! Tusk! Claw! (Signature Ability)**
@@ -3396,8 +3406,6 @@ At the start of any level 4 or higher demon's turn, you can spend Malice to acti
 > | -------------------------- | ----------------------------: |
 > | **📏 8 x 3 line within 1** | **🎯 Each enemy in the area** |
 >
-> e 8 x 3 line within 1 x Each enemy in the area
->
 > **Power Roll + 2:**
 >
 > - **≤11:** 2 damage; pull 1; A < 1 bleeding (save ends)
@@ -3417,15 +3425,15 @@ At the start of any level 4 or higher demon's turn, you can spend Malice to acti
 <!-- -->
 > ⭐️ **Soulsight**
 >
-> Any creature within 2 squares of the fangling can't be hidden from them
+> Any creature within 2 squares of the fangling can't be hidden from them.
 
 ###### Fiktin
 
-|   Abyssal, Demon    |          -          |       Level 5       |     Horde Ambusher      |            EV 7            |
-| :-----------------: | :-----------------: | :-----------------: | :---------------------: | :------------------------: |
-|  **1M**<br/> Size   |  **6**<br/> Speed   | **35**<br/> Stamina |  **0**<br/> Stability   |   **3**<br/> Free Strike   |
-| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **Holy 5**<br/> Weaknesses |
-|  **+2**<br/> Might  | **+2**<br/> Agility | **+2**<br/> Reason  |  **+1**<br/> Intuition  |    **+3**<br/> Presence    |
+|   Abyssal, Demon    |          -          |       Level 5       |     Horde Ambusher      |           EV 7           |
+| :-----------------: | :-----------------: | :-----------------: | :---------------------: | :----------------------: |
+|  **1M**<br/> Size   |  **6**<br/> Speed   | **35**<br/> Stamina |  **0**<br/> Stability   |  **3**<br/> Free Strike  |
+| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **Holy 5**<br/> Weakness |
+|  **+2**<br/> Might  | **+2**<br/> Agility | **+2**<br/> Reason  |  **+1**<br/> Intuition  |   **+3**<br/> Presence   |
 
 <!-- -->
 > ❇️ **Violent Transformation (Signature Ability)**
@@ -3463,11 +3471,11 @@ At the start of any level 4 or higher demon's turn, you can spend Malice to acti
 
 ###### Gunge
 
-|   Abyssal, Demon    |          -          |       Level 4       |    Horde Controller     |            EV 6            |
-| :-----------------: | :-----------------: | :-----------------: | :---------------------: | :------------------------: |
-|   **3**<br/> Size   |  **6**<br/> Speed   | **25**<br/> Stamina |  **0**<br/> Stability   |   **2**<br/> Free Strike   |
-| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **Holy 5**<br/> Weaknesses |
-|  **+3**<br/> Might  | **+2**<br/> Agility | **+1**<br/> Reason  |  **+2**<br/> Intuition  |    **-1**<br/> Presence    |
+|   Abyssal, Demon    |          -          |       Level 4       |    Horde Controller     |           EV 6           |
+| :-----------------: | :-----------------: | :-----------------: | :---------------------: | :----------------------: |
+|   **3**<br/> Size   |  **6**<br/> Speed   | **25**<br/> Stamina |  **0**<br/> Stability   |  **2**<br/> Free Strike  |
+| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **Holy 5**<br/> Weakness |
+|  **+3**<br/> Might  | **+2**<br/> Agility | **+1**<br/> Reason  |  **+2**<br/> Intuition  |   **-1**<br/> Presence   |
 
 <!-- -->
 > 🔳 **Bilious Expulsion (Signature Ability)**
@@ -3507,11 +3515,11 @@ At the start of any level 4 or higher demon's turn, you can spend Malice to acti
 
 ###### Tormenauk
 
-|   Abyssal, Demon    |          -          |       Level 6       |       Horde Brute       |            EV 8            |
-| :-----------------: | :-----------------: | :-----------------: | :---------------------: | :------------------------: |
-|   **2**<br/> Size   |  **6**<br/> Speed   | **45**<br/> Stamina |  **2**<br/> Stability   |   **4**<br/> Free Strike   |
-| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **Holy 5**<br/> Weaknesses |
-|  **+3**<br/> Might  | **+0**<br/> Agility | **+2**<br/> Reason  |  **+1**<br/> Intuition  |    **+2**<br/> Presence    |
+|   Abyssal, Demon    |          -          |       Level 6       |       Horde Brute       |           EV 8           |
+| :-----------------: | :-----------------: | :-----------------: | :---------------------: | :----------------------: |
+|   **2**<br/> Size   |  **6**<br/> Speed   | **45**<br/> Stamina |  **2**<br/> Stability   |  **4**<br/> Free Strike  |
+| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **Holy 5**<br/> Weakness |
+|  **+3**<br/> Might  | **+0**<br/> Agility | **+2**<br/> Reason  |  **+1**<br/> Intuition  |   **+2**<br/> Presence   |
 
 <!-- -->
 > 🗡 **Many Maws (Signature Ability)**
@@ -3555,11 +3563,11 @@ At the start of any level 4 or higher demon's turn, you can spend Malice to acti
 
 ###### Lumbering Egress
 
-|   Abyssal, Demon    |          -          |       Level 6        |         Leader          |           EV 32            |
-| :-----------------: | :-----------------: | :------------------: | :---------------------: | :------------------------: |
-|   **3**<br/> Size   |  **6**<br/> Speed   | **180**<br/> Stamina |  **3**<br/> Stability   |   **7**<br/> Free Strike   |
-| **-**<br/> Immunity | **-**<br/> Movement |          -           | **-**<br/> With Captain | **Holy 5**<br/> Weaknesses |
-|  **+4**<br/> Might  | **-1**<br/> Agility |  **+1**<br/> Reason  |  **+2**<br/> Intuition  |    **+2**<br/> Presence    |
+|   Abyssal, Demon    |          -          |       Level 6        |         Leader          |          EV 32           |
+| :-----------------: | :-----------------: | :------------------: | :---------------------: | :----------------------: |
+|   **3**<br/> Size   |  **6**<br/> Speed   | **180**<br/> Stamina |  **3**<br/> Stability   |  **7**<br/> Free Strike  |
+| **-**<br/> Immunity | **-**<br/> Movement |          -           | **-**<br/> With Captain | **Holy 5**<br/> Weakness |
+|  **+4**<br/> Might  | **-1**<br/> Agility |  **+1**<br/> Reason  |  **+2**<br/> Intuition  |   **+2**<br/> Presence   |
 
 <!-- -->
 > 🏹 **Ensnarer Cannon (Signature Ability)**
@@ -3613,8 +3621,8 @@ At the start of any level 4 or higher demon's turn, you can spend Malice to acti
 > **Power Roll + 4:**
 >
 > - **≤11:** 7 corruption damage
-> - **12-16:** 2 12 corruption damage
-> - **17+:** 3 15 corruption damage; two frenzieds appear in unoccupied spaces adjacent to each target
+> - **12-16:** 12 corruption damage
+> - **17+:** 15 corruption damage; two frenzieds appear in unoccupied spaces adjacent to each target
 
 <!-- -->
 > ☠️ **Fold Space (Villain Action 2)**
@@ -3623,7 +3631,7 @@ At the start of any level 4 or higher demon's turn, you can spend Malice to acti
 > | ---------------- | ----------: |
 > | **📏 Ranged 20** | **🎯 Self** |
 >
-> **Effect:** The egress folds into their own portal and teleports to an un occupied space within distance. Four level 4 demon minions (most commonly orliq, grulqins, and wobalas) appear in squares in the egress's former space.
+> **Effect:** The egress folds into their own portal and teleports to an unoccupied space within distance. Four level 4 demon minions (most commonly orliq, grulqins, and wobalas) appear in squares in the egress's former space.
 
 <!-- -->
 > ☠️ **Blood of the Abyss (Villain Action 3)**
@@ -3635,8 +3643,8 @@ At the start of any level 4 or higher demon's turn, you can spend Malice to acti
 > **Power Roll + 4:**
 >
 > - **≤11:** 6 corruption damage; R < 2 weakened (save ends)
-> - **12-16:** 2 11 corruption damage; R < 3 weakened (save ends)
-> - **17+:** 3 14 corruption damage; R < 4 weakened (save ends)
+> - **12-16:** 11 corruption damage; R < 3 weakened (save ends)
+> - **17+:** 14 corruption damage; R < 4 weakened (save ends)
 >
 > **Effect:** The egress recalls and instantly destroys any minion allies on the encounter map. A torrent of churned-up minion bodies, blood, and ichor erupts from the egress, dealing an extra 1 damage for each minion destroyed this way.
 
@@ -3674,15 +3682,15 @@ At the start of any level 7 or higher demon's turn, you can spend Malice to acti
 <!-- -->
 > ❇️ **Seeping Blight (5 Malice)**
 >
-> One demon acting this turn expels blight-digested soul juice onto the ground around them in a 3 burst that lingers until the start of their next turn. Any enemy who enters the area or starts their turn there takes 6 corruption damage, and has a double bane on power rolls until the start of their next turn.
+> One demon acting this turn expels blight—digested soul juice—onto the ground around them in a 3 burst that lingers until the start of their next turn. Any enemy who enters the area or starts their turn there takes 6 corruption damage, and has a double bane on power rolls until the start of their next turn.
 
 ###### Soulraker Scout
 
-| Abyssal, Demon, Soulraker |           -           |       Level 7       |                Minion Harrier                 |   EV 9 for four minions    |
-| :-----------------------: | :-------------------: | :-----------------: | :-------------------------------------------: | :------------------------: |
-|     **1M**<br/> Size      |   **7**<br/> Speed    | **12**<br/> Stamina |             **0**<br/> Stability              |   **3**<br/> Free Strike   |
-|    **-**<br/> Immunity    | **Fly**<br/> Movement |          -          | **Gain an edge on strikes**<br/> With Captain | **Holy 5**<br/> Weaknesses |
-|     **+2**<br/> Might     |  **+4**<br/> Agility  | **+1**<br/> Reason  |             **+0**<br/> Intuition             |    **-1**<br/> Presence    |
+| Abyssal, Demon, Soulraker |           -           |       Level 7       |                Minion Harrier                 |  EV 9 for four minions   |
+| :-----------------------: | :-------------------: | :-----------------: | :-------------------------------------------: | :----------------------: |
+|     **1M**<br/> Size      |   **7**<br/> Speed    | **12**<br/> Stamina |             **0**<br/> Stability              |  **3**<br/> Free Strike  |
+|    **-**<br/> Immunity    | **Fly**<br/> Movement |          -          | **Gain an edge on strikes**<br/> With Captain | **Holy 5**<br/> Weakness |
+|     **+2**<br/> Might     |  **+4**<br/> Agility  | **+1**<br/> Reason  |             **+0**<br/> Intuition             |   **-1**<br/> Presence   |
 
 <!-- -->
 > 🗡 **Soul Stinger (Signature Ability)**
@@ -3704,11 +3712,11 @@ At the start of any level 7 or higher demon's turn, you can spend Malice to acti
 
 ###### Soulraker Soldier
 
-| Abyssal, Demon, Soulraker |          -          |       Level 7       |                 Minion Brute                  |   EV 9 for four minions    |
-| :-----------------------: | :-----------------: | :-----------------: | :-------------------------------------------: | :------------------------: |
-|      **2**<br/> Size      |  **6**<br/> Speed   | **13**<br/> Stamina |             **2**<br/> Stability              |   **4**<br/> Free Strike   |
-|    **-**<br/> Immunity    | **-**<br/> Movement |          -          | **Gain an edge on strikes**<br/> With Captain | **Holy 5**<br/> Weaknesses |
-|     **+4**<br/> Might     | **+2**<br/> Agility | **-1**<br/> Reason  |             **-1**<br/> Intuition             |    **-1**<br/> Presence    |
+| Abyssal, Demon, Soulraker |          -          |       Level 7       |                 Minion Brute                  |  EV 9 for four minions   |
+| :-----------------------: | :-----------------: | :-----------------: | :-------------------------------------------: | :----------------------: |
+|      **2**<br/> Size      |  **6**<br/> Speed   | **13**<br/> Stamina |             **2**<br/> Stability              |  **4**<br/> Free Strike  |
+|    **-**<br/> Immunity    | **-**<br/> Movement |          -          | **Gain an edge on strikes**<br/> With Captain | **Holy 5**<br/> Weakness |
+|     **+4**<br/> Might     | **+2**<br/> Agility | **-1**<br/> Reason  |             **-1**<br/> Intuition             |   **-1**<br/> Presence   |
 
 <!-- -->
 > 🗡 **Chitin Bash (Signature Ability)**
@@ -3730,11 +3738,11 @@ At the start of any level 7 or higher demon's turn, you can spend Malice to acti
 
 ###### Soulraker Stinger
 
-| Abyssal, Demon, Soulraker |            -            |       Level 7       |               Minion Artillery                |   EV 9 for four minions    |
-| :-----------------------: | :---------------------: | :-----------------: | :-------------------------------------------: | :------------------------: |
-|     **1M**<br/> Size      |    **6**<br/> Speed     | **10**<br/> Stamina |             **0**<br/> Stability              |   **4**<br/> Free Strike   |
-|    **-**<br/> Immunity    | **Climb**<br/> Movement |          -          | **Gain an edge on strikes**<br/> With Captain | **Holy 5**<br/> Weaknesses |
-|     **+0**<br/> Might     |   **-1**<br/> Agility   | **+4**<br/> Reason  |             **+4**<br/> Intuition             |    **+0**<br/> Presence    |
+| Abyssal, Demon, Soulraker |            -            |       Level 7       |               Minion Artillery                |  EV 9 for four minions   |
+| :-----------------------: | :---------------------: | :-----------------: | :-------------------------------------------: | :----------------------: |
+|     **1M**<br/> Size      |    **6**<br/> Speed     | **10**<br/> Stamina |             **0**<br/> Stability              |  **4**<br/> Free Strike  |
+|    **-**<br/> Immunity    | **Climb**<br/> Movement |          -          | **Gain an edge on strikes**<br/> With Captain | **Holy 5**<br/> Weakness |
+|     **+0**<br/> Might     |   **-1**<br/> Agility   | **+4**<br/> Reason  |             **+4**<br/> Intuition             |   **+0**<br/> Presence   |
 
 <!-- -->
 > 🏹 **Barb Launch (Signature Ability)**
@@ -3758,11 +3766,11 @@ At the start of any level 7 or higher demon's turn, you can spend Malice to acti
 
 ###### Blight Phage
 
-|   Abyssal, Demon    |          -          |       Level 7       |    Horde Controller     |            EV 9            |
-| :-----------------: | :-----------------: | :-----------------: | :---------------------: | :------------------------: |
-|   **3**<br/> Size   |  **6**<br/> Speed   | **40**<br/> Stamina |  **0**<br/> Stability   |   **3**<br/> Free Strike   |
-| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **Holy 5**<br/> Weaknesses |
-|  **+0**<br/> Might  | **+0**<br/> Agility | **+4**<br/> Reason  |  **+2**<br/> Intuition  |    **+4**<br/> Presence    |
+|   Abyssal, Demon    |          -          |       Level 7       |    Horde Controller     |           EV 9           |
+| :-----------------: | :-----------------: | :-----------------: | :---------------------: | :----------------------: |
+|   **3**<br/> Size   |  **6**<br/> Speed   | **40**<br/> Stamina |  **0**<br/> Stability   |  **3**<br/> Free Strike  |
+| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **Holy 5**<br/> Weakness |
+|  **+0**<br/> Might  | **+0**<br/> Agility | **+4**<br/> Reason  |  **+2**<br/> Intuition  |   **+4**<br/> Presence   |
 
 <!-- -->
 > 🏹 **Blight Pus (Signature Ability)**
@@ -3777,7 +3785,7 @@ At the start of any level 7 or higher demon's turn, you can spend Malice to acti
 > - **12-16:** 10 corruption damage
 > - **17+:** 11 corruption damage
 >
-> **Effect:** A puddle of blight-digested soul juice-covers the ground in the target's square, which is affected as if by Seeping Blight (see the Level 7+ Demon Malice feature).
+> **Effect:** A puddle of blight—digested soul juice—covers the ground in the target's square, which is affected as if by Seeping Blight (see the Level 7+ Demon Malice feature).
 
 <!-- -->
 > 🔳 **Blight Rain (3 Malice)**
@@ -3804,11 +3812,11 @@ At the start of any level 7 or higher demon's turn, you can spend Malice to acti
 
 ###### Chimeron
 
-|   Abyssal, Demon    |          -          |       Level 9       |       Horde Brute       |            EV 9            |
-| :-----------------: | :-----------------: | :-----------------: | :---------------------: | :------------------------: |
-|   **3**<br/> Size   |  **6**<br/> Speed   | **90**<br/> Stamina |  **2**<br/> Stability   |   **5**<br/> Free Strike   |
-| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **Holy 5**<br/> Weaknesses |
-|  **+4**<br/> Might  | **+0**<br/> Agility | **+2**<br/> Reason  |  **+1**<br/> Intuition  |    **+2**<br/> Presence    |
+|   Abyssal, Demon    |          -          |       Level 9       |       Horde Brute       |           EV 9           |
+| :-----------------: | :-----------------: | :-----------------: | :---------------------: | :----------------------: |
+|   **3**<br/> Size   |  **6**<br/> Speed   | **90**<br/> Stamina |  **2**<br/> Stability   |  **5**<br/> Free Strike  |
+| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **Holy 5**<br/> Weakness |
+|  **+4**<br/> Might  | **+0**<br/> Agility | **+2**<br/> Reason  |  **+1**<br/> Intuition  |   **+2**<br/> Presence   |
 
 <!-- -->
 > 🗡 **Flux Gnash (Signature Ability)**
@@ -3848,11 +3856,11 @@ At the start of any level 7 or higher demon's turn, you can spend Malice to acti
 
 ###### Styrich
 
-|   Abyssal, Demon    |          -          |       Level 8       |       Horde Hexer       |           EV 10            |
-| :-----------------: | :-----------------: | :-----------------: | :---------------------: | :------------------------: |
-|  **1L**<br/> Size   |  **6**<br/> Speed   | **45**<br/> Stamina |  **1**<br/> Stability   |   **3**<br/> Free Strike   |
-| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **Holy 5**<br/> Weaknesses |
-|  **+2**<br/> Might  | **+4**<br/> Agility | **+0**<br/> Reason  |  **+2**<br/> Intuition  |    **+0**<br/> Presence    |
+|   Abyssal, Demon    |          -          |       Level 8       |       Horde Hexer       |          EV 10           |
+| :-----------------: | :-----------------: | :-----------------: | :---------------------: | :----------------------: |
+|  **1L**<br/> Size   |  **6**<br/> Speed   | **45**<br/> Stamina |  **1**<br/> Stability   |  **3**<br/> Free Strike  |
+| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **Holy 5**<br/> Weakness |
+|  **+2**<br/> Might  | **+4**<br/> Agility | **+0**<br/> Reason  |  **+2**<br/> Intuition  |   **+0**<br/> Presence   |
 
 <!-- -->
 > 🗡 **Hair Whip (Signature Ability)**
@@ -3894,11 +3902,11 @@ At the start of any level 7 or higher demon's turn, you can spend Malice to acti
 
 ###### Soulraker Praetorian
 
-| Abyssal, Demon, Soulraker |          -          |       Level 7       |      Horde Harrier      |            EV 9            |
-| :-----------------------: | :-----------------: | :-----------------: | :---------------------: | :------------------------: |
-|     **1L**<br/> Size      |  **8**<br/> Speed   | **45**<br/> Stamina |  **0**<br/> Stability   |   **3**<br/> Free Strike   |
-|    **-**<br/> Immunity    | **-**<br/> Movement |          -          | **-**<br/> With Captain | **Holy 5**<br/> Weaknesses |
-|     **+2**<br/> Might     | **+4**<br/> Agility | **+0**<br/> Reason  |  **+2**<br/> Intuition  |    **+0**<br/> Presence    |
+| Abyssal, Demon, Soulraker |          -          |       Level 7       |      Horde Harrier      |           EV 9           |
+| :-----------------------: | :-----------------: | :-----------------: | :---------------------: | :----------------------: |
+|     **1L**<br/> Size      |  **8**<br/> Speed   | **45**<br/> Stamina |  **0**<br/> Stability   |  **3**<br/> Free Strike  |
+|    **-**<br/> Immunity    | **-**<br/> Movement |          -          | **-**<br/> With Captain | **Holy 5**<br/> Weakness |
+|     **+2**<br/> Might     | **+4**<br/> Agility | **+0**<br/> Reason  |  **+2**<br/> Intuition  |   **+0**<br/> Presence   |
 
 <!-- -->
 > 🗡 **Barbed Stinger (Signature Ability)**
@@ -3938,11 +3946,11 @@ At the start of any level 7 or higher demon's turn, you can spend Malice to acti
 
 ###### Soulraker Handmaiden
 
-| Abyssal, Demon, Soulraker |          -          |       Level 8       |     Horde Ambusher      |           EV 10            |
-| :-----------------------: | :-----------------: | :-----------------: | :---------------------: | :------------------------: |
-|     **1M**<br/> Size      |  **0**<br/> Speed   | **50**<br/> Stamina |  **0**<br/> Stability   |   **4**<br/> Free Strike   |
-|    **-**<br/> Immunity    | **-**<br/> Movement |          -          | **-**<br/> With Captain | **Holy 5**<br/> Weaknesses |
-|     **+3**<br/> Might     | **+0**<br/> Agility | **+2**<br/> Reason  |  **+2**<br/> Intuition  |    **+4**<br/> Presence    |
+| Abyssal, Demon, Soulraker |          -          |       Level 8       |     Horde Ambusher      |          EV 10           |
+| :-----------------------: | :-----------------: | :-----------------: | :---------------------: | :----------------------: |
+|     **1M**<br/> Size      |  **0**<br/> Speed   | **50**<br/> Stamina |  **0**<br/> Stability   |  **4**<br/> Free Strike  |
+|    **-**<br/> Immunity    | **-**<br/> Movement |          -          | **-**<br/> With Captain | **Holy 5**<br/> Weakness |
+|     **+3**<br/> Might     | **+0**<br/> Agility | **+2**<br/> Reason  |  **+2**<br/> Intuition  |   **+4**<br/> Presence   |
 
 <!-- -->
 > ⭐️ **Implanted Parasite**
@@ -3975,11 +3983,11 @@ At the start of any level 7 or higher demon's turn, you can spend Malice to acti
 
 ###### Soulraker Hivequeen
 
-| Abyssal, Demon, Soulraker |           -           |       Level 9        |         Leader          |           EV 44            |
-| :-----------------------: | :-------------------: | :------------------: | :---------------------: | :------------------------: |
-|      **5**<br/> Size      |   **6**<br/> Speed    | **240**<br/> Stamina |  **2**<br/> Stability   |   **9**<br/> Free Strike   |
-|    **-**<br/> Immunity    | **Fly**<br/> Movement |          -           | **-**<br/> With Captain | **Holy 5**<br/> Weaknesses |
-|     **+5**<br/> Might     |  **-1**<br/> Agility  |  **+3**<br/> Reason  |  **+3**<br/> Intuition  |    **+2**<br/> Presence    |
+| Abyssal, Demon, Soulraker |           -           |       Level 9        |         Leader          |          EV 44           |
+| :-----------------------: | :-------------------: | :------------------: | :---------------------: | :----------------------: |
+|      **5**<br/> Size      |   **6**<br/> Speed    | **240**<br/> Stamina |  **2**<br/> Stability   |  **9**<br/> Free Strike  |
+|    **-**<br/> Immunity    | **Fly**<br/> Movement |          -           | **-**<br/> With Captain | **Holy 5**<br/> Weakness |
+|     **+5**<br/> Might     |  **-1**<br/> Agility  |  **+3**<br/> Reason  |  **+3**<br/> Intuition  |   **+2**<br/> Presence   |
 
 <!-- -->
 > ⚔️ **Stinging Ovipositor (Signature Ability)**
@@ -4103,11 +4111,11 @@ At the start of any level 10 or higher demon's turn, you can spend Malice to act
 
 ###### Optacus
 
-|   Abyssal, Demon    |            -            |      Level 10       |            Minion Artillery             |   EV 12 for four minions   |
-| :-----------------: | :---------------------: | :-----------------: | :-------------------------------------: | :------------------------: |
-|  **1S**<br/> Size   |    **6**<br/> Speed     | **14**<br/> Stamina |          **0**<br/> Stability           |   **5**<br/> Free Strike   |
-| **-**<br/> Immunity | **Climb**<br/> Movement |          -          | **+4 bonus to speed**<br/> With Captain | **Holy 5**<br/> Weaknesses |
-|  **+1**<br/> Might  |   **+3**<br/> Agility   | **+1**<br/> Reason  |          **+5**<br/> Intuition          |    **+1**<br/> Presence    |
+|   Abyssal, Demon    |            -            |      Level 10       |            Minion Artillery             |  EV 12 for four minions  |
+| :-----------------: | :---------------------: | :-----------------: | :-------------------------------------: | :----------------------: |
+|  **1S**<br/> Size   |    **6**<br/> Speed     | **14**<br/> Stamina |          **0**<br/> Stability           |  **5**<br/> Free Strike  |
+| **-**<br/> Immunity | **Climb**<br/> Movement |          -          | **+4 bonus to speed**<br/> With Captain | **Holy 5**<br/> Weakness |
+|  **+1**<br/> Might  |   **+3**<br/> Agility   | **+1**<br/> Reason  |          **+5**<br/> Intuition          |   **+1**<br/> Presence   |
 
 <!-- -->
 > 🏹 **Optical Flare (Signature Ability)**
@@ -4126,11 +4134,11 @@ At the start of any level 10 or higher demon's turn, you can spend Malice to act
 
 ###### Tyburaki
 
-|   Abyssal, Demon    |           -            |      Level 10       |                  Minion Harrier                  |   EV 12 for four minions   |
-| :-----------------: | :--------------------: | :-----------------: | :----------------------------------------------: | :------------------------: |
-|   **2**<br/> Size   |    **8**<br/> Speed    | **15**<br/> Stamina |               **0**<br/> Stability               |   **4**<br/> Free Strike   |
-| **-**<br/> Immunity | **Swim**<br/> Movement |          -          | **+4 damage bonus to strikes**<br/> With Captain | **Holy 5**<br/> Weaknesses |
-|  **+2**<br/> Might  |  **+5**<br/> Agility   | **+0**<br/> Reason  |              **+3**<br/> Intuition               |    **-1**<br/> Presence    |
+|   Abyssal, Demon    |           -            |      Level 10       |                  Minion Harrier                  |  EV 12 for four minions  |
+| :-----------------: | :--------------------: | :-----------------: | :----------------------------------------------: | :----------------------: |
+|   **2**<br/> Size   |    **8**<br/> Speed    | **15**<br/> Stamina |               **0**<br/> Stability               |  **4**<br/> Free Strike  |
+| **-**<br/> Immunity | **Swim**<br/> Movement |          -          | **+4 damage bonus to strikes**<br/> With Captain | **Holy 5**<br/> Weakness |
+|  **+2**<br/> Might  |  **+5**<br/> Agility   | **+0**<br/> Reason  |              **+3**<br/> Intuition               |   **-1**<br/> Presence   |
 
 <!-- -->
 > 🗡 **Tail Bite (Signature Ability)**
@@ -4159,11 +4167,11 @@ At the start of any level 10 or higher demon's turn, you can spend Malice to act
 
 ###### Unguloid
 
-|   Abyssal, Demon    |          -          |      Level 10       |                    Minion Brute                     |   EV 12 for four minions   |
-| :-----------------: | :-----------------: | :-----------------: | :-------------------------------------------------: | :------------------------: |
-|   **2**<br/> Size   |  **8**<br/> Speed   | **17**<br/> Stamina |                **3**<br/> Stability                 |   **5**<br/> Free Strike   |
-| **-**<br/> Immunity | **-**<br/> Movement |          -          | **Have a double edge on strikes**<br/> With Captain | **Holy 5**<br/> Weaknesses |
-|  **+5**<br/> Might  | **+5**<br/> Agility | **-1**<br/> Reason  |                **-1**<br/> Intuition                |    **-1**<br/> Presence    |
+|   Abyssal, Demon    |          -          |      Level 10       |                    Minion Brute                     |  EV 12 for four minions  |
+| :-----------------: | :-----------------: | :-----------------: | :-------------------------------------------------: | :----------------------: |
+|   **2**<br/> Size   |  **8**<br/> Speed   | **17**<br/> Stamina |                **3**<br/> Stability                 |  **5**<br/> Free Strike  |
+| **-**<br/> Immunity | **-**<br/> Movement |          -          | **Have a double edge on strikes**<br/> With Captain | **Holy 5**<br/> Weakness |
+|  **+5**<br/> Might  | **+5**<br/> Agility | **-1**<br/> Reason  |                **-1**<br/> Intuition                |   **-1**<br/> Presence   |
 
 <!-- -->
 > 🗡 **Gore Horn (Signature Ability)**
@@ -4187,11 +4195,11 @@ At the start of any level 10 or higher demon's turn, you can spend Malice to act
 
 ###### Izyak
 
-|   Abyssal, Demon    |             -              |      Level 10       |    Horde Controller     |           EV 12            |
-| :-----------------: | :------------------------: | :-----------------: | :---------------------: | :------------------------: |
-|   **2**<br/> Size   |      **6**<br/> Speed      | **55**<br/> Stamina |  **0**<br/> Stability   |   **4**<br/> Free Strike   |
-| **-**<br/> Immunity | **Teleport**<br/> Movement |          -          | **-**<br/> With Captain | **Holy 5**<br/> Weaknesses |
-|  **+0**<br/> Might  |    **+0**<br/> Agility     | **+5**<br/> Reason  |  **+2**<br/> Intuition  |    **+4**<br/> Presence    |
+|   Abyssal, Demon    |             -              |      Level 10       |    Horde Controller     |          EV 12           |
+| :-----------------: | :------------------------: | :-----------------: | :---------------------: | :----------------------: |
+|   **2**<br/> Size   |      **6**<br/> Speed      | **55**<br/> Stamina |  **0**<br/> Stability   |  **4**<br/> Free Strike  |
+| **-**<br/> Immunity | **Teleport**<br/> Movement |          -          | **-**<br/> With Captain | **Holy 5**<br/> Weakness |
+|  **+0**<br/> Might  |    **+0**<br/> Agility     | **+5**<br/> Reason  |  **+2**<br/> Intuition  |   **+4**<br/> Presence   |
 
 <!-- -->
 > 🏹 **Nostalgic Wanderlust (Signature Ability)**
@@ -4239,11 +4247,11 @@ At the start of any level 10 or higher demon's turn, you can spend Malice to act
 
 ###### Vicisitator
 
-|   Abyssal, Demon    |          -          |      Level 10       |      Horde Harrier      |           EV 12            |
-| :-----------------: | :-----------------: | :-----------------: | :---------------------: | :------------------------: |
-|  **1M**<br/> Size   |  **9**<br/> Speed   | **60**<br/> Stamina |  **0**<br/> Stability   |   **4**<br/> Free Strike   |
-| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **Holy 5**<br/> Weaknesses |
-|  **+4**<br/> Might  | **+5**<br/> Agility | **-1**<br/> Reason  |  **-2**<br/> Intuition  |    **-3**<br/> Presence    |
+|   Abyssal, Demon    |          -          |      Level 10       |      Horde Harrier      |          EV 12           |
+| :-----------------: | :-----------------: | :-----------------: | :---------------------: | :----------------------: |
+|  **1M**<br/> Size   |  **9**<br/> Speed   | **60**<br/> Stamina |  **0**<br/> Stability   |  **4**<br/> Free Strike  |
+| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **Holy 5**<br/> Weakness |
+|  **+4**<br/> Might  | **+5**<br/> Agility | **-1**<br/> Reason  |  **-2**<br/> Intuition  |   **-3**<br/> Presence   |
 
 <!-- -->
 > ⚔️ **Warp Touch (Signature Ability)**
@@ -4287,11 +4295,11 @@ At the start of any level 10 or higher demon's turn, you can spend Malice to act
 
 ###### Aurumvas
 
-|   Abyssal, Demon    |           -           |       Level 10       |         Leader          |           EV 48            |
-| :-----------------: | :-------------------: | :------------------: | :---------------------: | :------------------------: |
-|   **3**<br/> Size   |   **8**<br/> Speed    | **260**<br/> Stamina |  **2**<br/> Stability   |  **10**<br/> Free Strike   |
-| **-**<br/> Immunity | **Fly**<br/> Movement |          -           | **-**<br/> With Captain | **Holy 5**<br/> Weaknesses |
-|  **+5**<br/> Might  |  **+2**<br/> Agility  |  **+5**<br/> Reason  |  **+3**<br/> Intuition  |    **+5**<br/> Presence    |
+|   Abyssal, Demon    |           -           |       Level 10       |         Leader          |          EV 48           |
+| :-----------------: | :-------------------: | :------------------: | :---------------------: | :----------------------: |
+|   **3**<br/> Size   |   **8**<br/> Speed    | **260**<br/> Stamina |  **2**<br/> Stability   | **10**<br/> Free Strike  |
+| **-**<br/> Immunity | **Fly**<br/> Movement |          -           | **-**<br/> With Captain | **Holy 5**<br/> Weakness |
+|  **+5**<br/> Might  |  **+2**<br/> Agility  |  **+5**<br/> Reason  |  **+3**<br/> Intuition  |   **+5**<br/> Presence   |
 
 <!-- -->
 > ⭐️ **Absorb Soul**
@@ -4376,13 +4384,13 @@ At the start of any level 10 or higher demon's turn, you can spend Malice to act
 >
 > **Power Roll + 5:**
 >
-> - **≤11:** 1 10 fire damage; push 1
-> - **12-16:** 2 15 fire damage; push 2
-> - **17+:** 3 19 fire damage; push 3
+> - **≤11:** 10 fire damage; push 1
+> - **12-16:** 15 fire damage; push 2
+> - **17+:** 19 fire damage; push 3
 
 ## Devils
 
-In the lower plane of Hell, devils of the Seven Cities vie unceasingly for power and control-a conflict fought foremostly through cunning and schemes. Devils are distinguished from other humanoids by skin in shades of azure and crimson, as well as their hellmarks: horns, tails, hooves, wings, and other infernal features.
+In the lower plane of Hell, devils of the Seven Cities vie unceasingly for power and control—a conflict fought foremostly through cunning and schemes. Devils are distinguished from other humanoids by skin in shades of azure and crimson, as well as their hellmarks: horns, tails, hooves, wings, and other infernal features.
 
 ### Precarious Pyramids
 
@@ -4406,7 +4414,7 @@ Winsome devils can acquire significant influence by bargaining for the souls of 
 
 ### True Names
 
-All devils have two names: one by which they're commonly known, and another secret true name. Each devil zealously safeguards the latter, as their true name can be spoken aloud to aid in summoning them-or in stripping them of their power.
+All devils have two names: one by which they're commonly known, and another secret true name. Each devil zealously safeguards the latter, as their true name can be spoken aloud to aid in summoning them—or in stripping them of their power.
 
 ### Hell's Defectors
 
@@ -4415,6 +4423,25 @@ Not every devil in the Seven Cities wants to ruthlessly ascend the hierarchy. So
 ### Devil Languages
 
 Most devils speak Anjal and Caelian, among other languages. The more powerful a devil, the more languages they learn in order to more easily make ironclad contracts with a wide variety of people and cultures. Outside of rare circumstances, devils are always willing to negotiate, ever desiring to twist a situation in their favor.
+
+<!-- -->
+> **Devil Temptations**
+>
+> Although some devils enjoy comfort and opulence for their own sake, they primarily use treasure as bargaining chips in fiendish compacts: bait on the devils' infernal barbs.
+>
+> Even more sinister than a prize won in a devil's hard bargain is a gift freely given by a devil. The advantages of such a gift are conditional, lasting only until the devil revokes it at some inconvenient time.
+>
+> The following are samples of the wonders that a devil can offer—to only the most discriminating customers, of course. A devil might only have two or three of these items available for trade, but others (such as an archdevil's wing) can be won by force. See *Draw Steel: Heroes* for more information about how these items can be used by heroes.
+>
+> **Components:** An archdevil's wing, archdevil's blood, soul chalk, a wide selection of true names
+>
+> **Project Sources:** Notes in Anjali for the Devil's Bargain armor enhancement or a Hellcharger Helm, notes in Hyrallic for a Mediator's Charm
+>
+> **Titles:** Diabolist, Maestro
+>
+> **Treasures:** G'Allios Visiting Card, Thief of Joy
+>
+> **Wealth:** Each hero can earn 1 wealth in exchange for a small favor
 
 ###### Devil Malice (Malice Features)
 
@@ -4435,31 +4462,12 @@ At the start of any devil's turn, you can spend Malice to activate one of the fo
 >
 > Each enemy in the encounter is subject to a bad deal proposed by the devils. An enemy must choose between having damage weakness 5 or taking a bane on power rolls. The bad deal lasts until the end of the encounter.
 
-<!-- -->
-> **Devil Temptations**
->
-> Although some devils enjoy comfort and opulence for their own sake, they primarily use treasure as bargaining chips in fiendish compacts: bait on the devils' infernal barbs.
->
-> Even more sinister than a prize won in a devil's hard bargain is a gift freely given by a devil. The advantages of such a gift are conditional, lasting only until the devil revokes it at some inconvenient time.
->
-> The following are samples of the wonders that a devil can offer-to only the most discriminating customers, of course. A devil might only have two or three of these items available for trade, but others (such as an archdevil's wing) can be won by force. See *Draw Steel: Heroes* for more information about how these items can be used by heroes.
->
-> **Components:** An archdevil's wing, archdevil's blood, soul chalk, a wide selection of true names
->
-> **Project Sources:** Notes in Anjali for the Devil's Bargain armor enhancement or a Hellcharger Helm, notes in Hyrallic for a Mediator's Charm
->
-> **Titles:** Diabolist, Maestro
->
-> **Treasures:** G'Allios Visiting Card, Thief of Joy
->
-> **Wealth:** Each hero can earn 1 wealth in exchange for a small favor
-
 ###### Devil Clerk
 
 |     Devil, Infernal      |          -          |       Level 5       |                   Minion Brute                   | EV 7 for four minions  |
 | :----------------------: | :-----------------: | :-----------------: | :----------------------------------------------: | :--------------------: |
 |     **1M**<br/> Size     |  **6**<br/> Speed   | **10**<br/> Stamina |               **0**<br/> Stability               | **3**<br/> Free Strike |
-| **Fire 5**<br/> Immunity | **-**<br/> Movement |          -          | **+2 damage bonus to strikes**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Fire 5**<br/> Immunity | **-**<br/> Movement |          -          | **+2 damage bonus to strikes**<br/> With Captain |  **-**<br/> Weakness   |
 |    **+3**<br/> Might     | **+0**<br/> Agility | **+1**<br/> Reason  |              **+1**<br/> Intuition               |  **+2**<br/> Presence  |
 
 <!-- -->
@@ -4487,7 +4495,7 @@ At the start of any devil's turn, you can spend Malice to activate one of the fo
 |     Devil, Infernal      |          -          |      Level 5       |                   Minion Hexer                    | EV 7 for four minions  |
 | :----------------------: | :-----------------: | :----------------: | :-----------------------------------------------: | :--------------------: |
 |     **1M**<br/> Size     |  **6**<br/> Speed   | **8**<br/> Stamina |               **0**<br/> Stability                | **3**<br/> Free Strike |
-| **Fire 5**<br/> Immunity | **-**<br/> Movement |         -          | **+5 bonus to ranged distance**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Fire 5**<br/> Immunity | **-**<br/> Movement |         -          | **+5 bonus to ranged distance**<br/> With Captain |  **-**<br/> Weakness   |
 |    **+0**<br/> Might     | **+1**<br/> Agility | **+3**<br/> Reason |               **+1**<br/> Intuition               |  **+2**<br/> Presence  |
 
 <!-- -->
@@ -4515,7 +4523,7 @@ At the start of any devil's turn, you can spend Malice to activate one of the fo
 |     Devil, Infernal      |           -           |      Level 5       |             Minion Harrier              | EV 7 for four minions  |
 | :----------------------: | :-------------------: | :----------------: | :-------------------------------------: | :--------------------: |
 |     **1M**<br/> Size     |   **6**<br/> Speed    | **9**<br/> Stamina |          **0**<br/> Stability           | **3**<br/> Free Strike |
-| **Fire 5**<br/> Immunity | **Fly**<br/> Movement |         -          | **+3 bonus to speed**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Fire 5**<br/> Immunity | **Fly**<br/> Movement |         -          | **+3 bonus to speed**<br/> With Captain |  **-**<br/> Weakness   |
 |    **+0**<br/> Might     |  **+3**<br/> Agility  | **+1**<br/> Reason |          **+1**<br/> Intuition          |  **+2**<br/> Presence  |
 
 <!-- -->
@@ -4543,7 +4551,7 @@ At the start of any devil's turn, you can spend Malice to activate one of the fo
 |     Devil, Infernal      |           -           |       Level 6        |    Elite Controller     |         EV 32          |
 | :----------------------: | :-------------------: | :------------------: | :---------------------: | :--------------------: |
 |     **1M**<br/> Size     |   **6**<br/> Speed    | **140**<br/> Stamina |  **1**<br/> Stability   | **7**<br/> Free Strike |
-| **Fire 5**<br/> Immunity | **Fly**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Fire 5**<br/> Immunity | **Fly**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |    **+0**<br/> Might     |  **+1**<br/> Agility  |  **+2**<br/> Reason  |  **+1**<br/> Intuition  |  **+3**<br/> Presence  |
 
 <!-- -->
@@ -4568,7 +4576,7 @@ At the start of any devil's turn, you can spend Malice to activate one of the fo
 > | ----------------- | ------------------: |
 > | **📏 Ranged 10**  | **🎯 One creature** |
 >
-> **Effect:** The target makes a Presence test
+> **Effect:** The target makes a Presence test.
 >
 > - **≤11:** The target is slowed, takes a bane on power rolls, and can't regain Stamina (save ends).
 > - **12-16:** The target is slowed and takes a bane on power rolls (save ends).
@@ -4592,11 +4600,11 @@ At the start of any devil's turn, you can spend Malice to activate one of the fo
 >
 > **Trigger:** A creature targets the adjudicator with a strike.
 >
-> **Effect:** The target makes a Presence test
-
-- **≤11:** The adjudicator chooses a new target for the strike.
-- **12-16:** The adjudicator halves the triggering damage.
-- **17+:** The target takes a bane on the strike.
+> **Effect:** The target makes a Presence test.
+>
+> - **≤11:** The adjudicator chooses a new target for the strike.
+> - **12-16:** The adjudicator halves the triggering damage.
+> - **17+:** The target takes a bane on the strike.
 
 <!-- -->
 > ⭐️ **Vexatious Litigation**
@@ -4613,7 +4621,7 @@ At the start of any devil's turn, you can spend Malice to activate one of the fo
 |     Devil, Infernal      |           -           |       Level 5        |     Elite Artillery     |         EV 28          |
 | :----------------------: | :-------------------: | :------------------: | :---------------------: | :--------------------: |
 |     **1M**<br/> Size     |   **6**<br/> Speed    | **120**<br/> Stamina |  **0**<br/> Stability   | **7**<br/> Free Strike |
-| **Fire 5**<br/> Immunity | **Fly**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Fire 5**<br/> Immunity | **Fly**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |    **+0**<br/> Might     |  **+2**<br/> Agility  |  **+1**<br/> Reason  |  **+1**<br/> Intuition  |  **+3**<br/> Presence  |
 
 <!-- -->
@@ -4645,7 +4653,7 @@ At the start of any devil's turn, you can spend Malice to activate one of the fo
 > | --------------- | ----------------------------: |
 > | **📏 2 burst**  | **🎯 Each enemy in the area** |
 >
-> **Power Roll + 3**
+> **Power Roll + 3:**
 >
 > - **≤11:** 6 damage; slide 1
 > - **12-16:** 10 damage; slide 3
@@ -4660,7 +4668,7 @@ At the start of any devil's turn, you can spend Malice to activate one of the fo
 > | ----------------- | ------------------: |
 > | **📏 Ranged 12**  | **🎯 One creature** |
 >
-> If the target is burning (see Fire and Brimstone), they take 6 fire damage.
+> **Effect:** If the target is burning (see Fire and Brimstone), they take 6 fire damage.
 
 <!-- -->
 > ❗️ **Devilish Charm (2 Malice)**
@@ -4671,7 +4679,7 @@ At the start of any devil's turn, you can spend Malice to activate one of the fo
 >
 > **Trigger:** A creature targets the jurist with a strike.
 >
-> **Effect:** The target makes a Presence test
+> **Effect:** The target makes a Presence test.
 >
 > - **≤11:** The jurist chooses a new target for the strike.
 > - **12-16:** The jurist halves the triggering damage.
@@ -4687,7 +4695,7 @@ At the start of any devil's turn, you can spend Malice to activate one of the fo
 |     Devil, Infernal      |          -          |       Level 5        |     Elite Defender      |         EV 28          |
 | :----------------------: | :-----------------: | :------------------: | :---------------------: | :--------------------: |
 |     **1M**<br/> Size     |  **6**<br/> Speed   | **160**<br/> Stamina |  **2**<br/> Stability   | **6**<br/> Free Strike |
-| **Fire 5**<br/> Immunity | **-**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Fire 5**<br/> Immunity | **-**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |    **+3**<br/> Might     | **+1**<br/> Agility |  **+0**<br/> Reason  |  **+1**<br/> Intuition  |  **+2**<br/> Presence  |
 
 <!-- -->
@@ -4701,7 +4709,7 @@ At the start of any devil's turn, you can spend Malice to activate one of the fo
 >
 > - **≤11:** 9 damage
 > - **12-16:** 14 damage; A < 2 slowed (save ends)
-> - \*\*17+:\*\*17 damage; A < 3 slowed (save ends)
+> - **17+:** 17 damage; A < 3 slowed (save ends)
 >
 > **Effect:** If the targets are adjacent to each other, this ability deals an extra 3 damage.
 
@@ -4712,11 +4720,11 @@ At the start of any devil's turn, you can spend Malice to activate one of the fo
 > | --------------------------------- | ------------------------------: |
 > | **📏 Melee 2**                    | **🎯 Two creatures or objects** |
 >
-> **Power Roll + 3**
+> **Power Roll + 3:**
 >
 > - **≤11:** 6 damage; M < 1 prone
 > - **12-16:** 11 damage; M < 2 prone and can't stand (save ends)
-> - \*\*17+:\*\*14 damage; M < 3 prone and can't stand (save ends)
+> - **17+:** 14 damage; M < 3 prone and can't stand (save ends)
 >
 > **Effect:** If this ability is used as part of the Charge main action, the legate ignores difficult terrain during the charge. Each creature and object whose space the legate moves through takes the damage from this ability, but not its additional effects.
 
@@ -4738,7 +4746,7 @@ At the start of any devil's turn, you can spend Malice to activate one of the fo
 >
 > **Trigger:** A creature targets the legate with a strike.
 >
-> **Effect:** The target makes a Presence test
+> **Effect:** The target makes a Presence test.
 >
 > - **≤11:** The legate chooses a new target for the strike.
 > - **12-16:** The legate halves the triggering damage.
@@ -4759,7 +4767,7 @@ At the start of any devil's turn, you can spend Malice to activate one of the fo
 |     Devil, Infernal      |          -          |       Level 6        |      Elite Harrier      |         EV 32          |
 | :----------------------: | :-----------------: | :------------------: | :---------------------: | :--------------------: |
 |     **1M**<br/> Size     |  **7**<br/> Speed   | **160**<br/> Stamina |  **0**<br/> Stability   | **7**<br/> Free Strike |
-| **Fire 5**<br/> Immunity | **-**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Fire 5**<br/> Immunity | **-**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |    **+1**<br/> Might     | **+3**<br/> Agility |  **+0**<br/> Reason  |  **+1**<br/> Intuition  |  **+2**<br/> Presence  |
 
 <!-- -->
@@ -4784,7 +4792,7 @@ At the start of any devil's turn, you can spend Malice to activate one of the fo
 > | ------------------------- | ------------------: |
 > | **📏 Melee 1**            | **🎯 One creature** |
 >
-> **Power Roll + 3**
+> **Power Roll + 3:**
 >
 > - **≤11:** 11 damage
 > - **12-16:** 17 damage
@@ -4810,7 +4818,7 @@ At the start of any devil's turn, you can spend Malice to activate one of the fo
 >
 > **Trigger:** A creature targets the magistrate with a strike.
 >
-> **Effect:** The target makes a Presence test
+> **Effect:** The target makes a Presence test.
 >
 > - **≤11:** The magistrate chooses a new target for the strike.
 > - **12-16:** The magistrate halves the triggering damage.
@@ -4831,7 +4839,7 @@ At the start of any devil's turn, you can spend Malice to activate one of the fo
 |     Devil, Infernal      |           -           |       Level 6        |         Leader          |         EV 32          |
 | :----------------------: | :-------------------: | :------------------: | :---------------------: | :--------------------: |
 |     **1M**<br/> Size     |   **7**<br/> Speed    | **181**<br/> Stamina |  **2**<br/> Stability   | **6**<br/> Free Strike |
-| **Fire 5**<br/> Immunity | **Fly**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Fire 5**<br/> Immunity | **Fly**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |    **+1**<br/> Might     |  **+3**<br/> Agility  |  **+0**<br/> Reason  |  **+1**<br/> Intuition  |  **+2**<br/> Presence  |
 
 <!-- -->
@@ -4856,7 +4864,7 @@ At the start of any devil's turn, you can spend Malice to activate one of the fo
 > | ------------------------- | -------------------: |
 > | **📏 Ranged 12**          | **🎯 Two creatures** |
 >
-> **Power Roll + 4**
+> **Power Roll + 4:**
 >
 > - **≤11:** I < 2 the target is charmed (save ends)
 > - **12-16:** I < 3 the target is charmed (save ends)
@@ -4926,9 +4934,9 @@ At the start of any devil's turn, you can spend Malice to activate one of the fo
 
 ## Draconians
 
-Draconians-wyrmwights as some call them, also known as dragon knights in Orden-are a people created through an obscure ritual known as Dracogenesis. Most draconians have an elemental affinity connected to their draconic scales, which they can change given enough time and training.
+Draconians—wyrmwights as some call them, also known as dragon knights in Orden—are a people created through an obscure ritual known as Dracogenesis. Most draconians have an elemental affinity connected to their draconic scales, which they can change given enough time and training.
 
-Six individual draconians are presented in this section-not an adventuring party, but six warriors whose reputations precede them. All are likely to be found serving in various military forces as high-ranking commanders.
+Six individual draconians are presented in this section—not an adventuring party, but six warriors whose reputations precede them. All are likely to be found serving in various military forces as high-ranking commanders.
 
 ###### Aeolyxria the Uncanny
 
@@ -5002,7 +5010,7 @@ At the start of any draconian's turn, you can spend Malice to activate one of th
 | Draconian, Dragon, Humanoid |           -           |       Level 6        |    Elite Controller     |         EV 32          |
 | :-------------------------: | :-------------------: | :------------------: | :---------------------: | :--------------------: |
 |      **1M**<br/> Size       |   **5**<br/> Speed    | **140**<br/> Stamina |  **2**<br/> Stability   | **7**<br/> Free Strike |
-| **Poison 6**<br/> Immunity  | **Fly**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Poison 6**<br/> Immunity  | **Fly**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |      **-1**<br/> Might      |  **+2**<br/> Agility  |  **+2**<br/> Reason  |  **+3**<br/> Intuition  |  **+1**<br/> Presence  |
 
 <!-- -->
@@ -5021,9 +5029,9 @@ At the start of any draconian's turn, you can spend Malice to activate one of th
 <!-- -->
 > 🏹 **Experimental Treasure**
 >
-> | **Magic, Ranged, Strike** |                **Main action** |
-> | ------------------------- | -----------------------------: |
-> | **📏 Ranged 10**          | **🎯 Two creature or objects** |
+> | **Magic, Ranged, Strike** |                 **Main action** |
+> | ------------------------- | ------------------------------: |
+> | **📏 Ranged 10**          | **🎯 Two creatures or objects** |
 >
 > **Power Roll + 3:**
 >
@@ -5071,7 +5079,7 @@ At the start of any draconian's turn, you can spend Malice to activate one of th
 | Draconian, Dragon, Humanoid |           -           |       Level 6        |      Elite Harrier      |         EV 32          |
 | :-------------------------: | :-------------------: | :------------------: | :---------------------: | :--------------------: |
 |      **1M**<br/> Size       |   **8**<br/> Speed    | **160**<br/> Stamina |  **2**<br/> Stability   | **7**<br/> Free Strike |
-|  **Acid 6**<br/> Immunity   | **Fly**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+|  **Acid 6**<br/> Immunity   | **Fly**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |      **+1**<br/> Might      |  **+3**<br/> Agility  |  **+1**<br/> Reason  |  **+2**<br/> Intuition  |  **+2**<br/> Presence  |
 
 <!-- -->
@@ -5083,9 +5091,9 @@ At the start of any draconian's turn, you can spend Malice to activate one of th
 >
 > **Power Roll + 3:**
 >
-> - **≤11:** 1 10 damage
-> - **12-16:** 2 15 damage; M < 1 slowed (save ends)
-> - **17+:** 3 18 damage; M < 2 slowed (save ends)
+> - **≤11:** 10 damage
+> - **12-16:** 15 damage; M < 1 slowed (save ends)
+> - **17+:** 18 damage; M < 2 slowed (save ends)
 >
 > **Effect:** Locratix deals 6 damage to each creature or object in a 2 x 1 line behind the target.
 
@@ -5143,7 +5151,7 @@ At the start of any draconian's turn, you can spend Malice to activate one of th
 | Draconian, Dragon, Humanoid |           -           |       Level 6        |     Elite Artillery     |         EV 32          |
 | :-------------------------: | :-------------------: | :------------------: | :---------------------: | :--------------------: |
 |      **1M**<br/> Size       |   **5**<br/> Speed    | **140**<br/> Stamina |  **2**<br/> Stability   | **7**<br/> Free Strike |
-|  **Cold 6**<br/> Immunity   | **Fly**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+|  **Cold 6**<br/> Immunity   | **Fly**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |      **-1**<br/> Might      |  **+3**<br/> Agility  |  **+3**<br/> Reason  |  **+3**<br/> Intuition  |  **+1**<br/> Presence  |
 
 <!-- -->
@@ -5202,7 +5210,7 @@ At the start of any draconian's turn, you can spend Malice to activate one of th
 |  Draconian, Dragon, Humanoid   |           -           |       Level 6        |       Elite Hexer       |         EV 32          |
 | :----------------------------: | :-------------------: | :------------------: | :---------------------: | :--------------------: |
 |        **1M**<br/> Size        |   **5**<br/> Speed    | **140**<br/> Stamina |  **2**<br/> Stability   | **7**<br/> Free Strike |
-| **Corruption 6**<br/> Immunity | **Fly**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Corruption 6**<br/> Immunity | **Fly**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |       **-1**<br/> Might        |  **+3**<br/> Agility  |  **+2**<br/> Reason  |  **+2**<br/> Intuition  |  **+1**<br/> Presence  |
 
 <!-- -->
@@ -5263,7 +5271,7 @@ At the start of any draconian's turn, you can spend Malice to activate one of th
 | Draconian, Dragon, Humanoid |           -           |       Level 6        |       Elite Brute       |         EV 32          |
 | :-------------------------: | :-------------------: | :------------------: | :---------------------: | :--------------------: |
 |      **1L**<br/> Size       |   **5**<br/> Speed    | **180**<br/> Stamina |  **3**<br/> Stability   | **7**<br/> Free Strike |
-|  **Fire 6**<br/> Immunity   | **Fly**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+|  **Fire 6**<br/> Immunity   | **Fly**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |      **+3**<br/> Might      |  **+2**<br/> Agility  |  **+0**<br/> Reason  |  **+0**<br/> Intuition  |  **+3**<br/> Presence  |
 
 <!-- -->
@@ -5333,7 +5341,7 @@ At the start of any draconian's turn, you can spend Malice to activate one of th
 |  Draconian, Dragon, Humanoid  |              -               |       Level 6        |         Leader          |         EV 32          |
 | :---------------------------: | :--------------------------: | :------------------: | :---------------------: | :--------------------: |
 |        **2**<br/> Size        |       **5**<br/> Speed       | **180**<br/> Stamina |  **3**<br/> Stability   | **7**<br/> Free Strike |
-| **Lightning 6**<br/> Immunity | **Fly, hover**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Lightning 6**<br/> Immunity | **Fly, hover**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |       **+4**<br/> Might       |     **+1**<br/> Agility      |  **+1**<br/> Reason  |  **+2**<br/> Intuition  |  **+3**<br/> Presence  |
 
 <!-- -->
@@ -5600,7 +5608,7 @@ Thorn dragons cultivate their lairs in lush farmlands or flourishing forests. Th
 
 #### Natural Curators
 
-More intelligent dragons seek all forms of riches for their hoard, but thorn dragons have no eye for worldly treasures. Instead, they amass the wealth of the wild they represent. Thorn dragons stockpile food even food they won't eat-alongside uncut gemstones, minerals and ore, wood, oils, and spices.
+More intelligent dragons seek all forms of riches for their hoard, but thorn dragons have no eye for worldly treasures. Instead, they amass the wealth of the wild they represent. Thorn dragons stockpile food—even food they won't eat—alongside uncut gemstones, minerals and ore, wood, oils, and spices.
 
 #### Bestial Instincts
 
@@ -5622,7 +5630,7 @@ Thorn dragons are highly territorial, and are vigilant against potential threats
 |     Dragon, Elemental      |           -           |       Level 2        |          Solo           |         EV 48          |
 | :------------------------: | :-------------------: | :------------------: | :---------------------: | :--------------------: |
 |      **3**<br/> Size       |   **8**<br/> Speed    | **250**<br/> Stamina |  **6**<br/> Stability   | **5**<br/> Free Strike |
-| **Poison 5**<br/> Immunity | **Fly**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Poison 5**<br/> Immunity | **Fly**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |     **+2**<br/> Might      |  **+3**<br/> Agility  |  **-1**<br/> Reason  |  **+1**<br/> Intuition  |  **+2**<br/> Presence  |
 
 <!-- -->
@@ -5798,7 +5806,7 @@ Eerie myths surround the gloom dragons, for they wield languages they do not the
 |      Dragon, Elemental      |              -               |       Level 4        |          Solo           |         EV 72          |
 | :-------------------------: | :--------------------------: | :------------------: | :---------------------: | :--------------------: |
 |       **4**<br/> Size       |       **8**<br/> Speed       | **350**<br/> Stamina |  **2**<br/> Stability   | **6**<br/> Free Strike |
-| **Psychic 5**<br/> Immunity | **Fly, hover**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Psychic 5**<br/> Immunity | **Fly, hover**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |      **+2**<br/> Might      |     **+4**<br/> Agility      |  **+1**<br/> Reason  |  **+3**<br/> Intuition  |  **+4**<br/> Presence  |
 
 <!-- -->
@@ -5935,7 +5943,7 @@ At the start of a gloom dragon's turn, you can spend Malice to activate one of t
 
 ### Crucible Dragon
 
-Crucible dragons are born from metallic elementals touched by the toxic combination of fiery rage and ice-cold grief-often the result of failure in the pursuit of perfection. Each dragon is a dark forge of abandoned creativity melted down in fires of spite, jealousy, and hate.
+Crucible dragons are born from metallic elementals touched by the toxic combination of fiery rage and ice-cold grief—often the result of failure in the pursuit of perfection. Each dragon is a dark forge of abandoned creativity melted down in fires of spite, jealousy, and hate.
 
 These metallic dragons are massive, heavy creatures requiring an immense release of heat to engage in flight. Their scales range from gleaming silver to blackened iron, depending on how fastidious they are about cleaning, and are occasionally gilded with more-precious metals. Their long tails terminate with a massive, hammer-like tip that can freeze over and instantly cool hot metal.
 
@@ -5967,7 +5975,7 @@ The oldest of crucible dragons are known to speak some Vastariax, though younger
 |    Dragon, Elemental     |          -          |       Level 6        |          Solo           |         EV 96          |
 | :----------------------: | :-----------------: | :------------------: | :---------------------: | :--------------------: |
 |     **4**<br/> Size      |  **8**<br/> Speed   | **450**<br/> Stamina |  **6**<br/> Stability   | **7**<br/> Free Strike |
-| **Fire 6**<br/> Immunity | **-**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Fire 6**<br/> Immunity | **-**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |    **+4**<br/> Might     | **-1**<br/> Agility |  **+3**<br/> Reason  |  **+3**<br/> Intuition  |  **+2**<br/> Presence  |
 
 <!-- -->
@@ -6121,19 +6129,17 @@ At the start of a crucible dragon's turn, you can spend Malice to activate one o
 
 ### Omen Dragon
 
-They have been known by many names: Reaper, Blight, Sorrow, Stillness, Vengeance, Grief. The omen dragons carry as many meanings and interpretations as death itself-for they are death embodied. This dragon is a coalescing of wayward souls, the stench of death solidified, that clings to the last vestiges of this world-to the detriment of their surroundings.
+They have been known by many names: Reaper, Blight, Sorrow, Stillness, Vengeance, Grief. The omen dragons carry as many meanings and interpretations as death itself—for they are death embodied. This dragon is a coalescing of wayward souls, the stench of death solidified, that clings to the last vestiges of this world—to the detriment of their surroundings.
 
 #### Life and Death
 
-The opposite of life isn't death-it's stagnation. When a soul refuses to move on, it lives outside the cycle of life. Souls can have any number of reasons to linger: anger, fear, sadness, a thirst for revenge. One skilled at dealing with the undead might even be able to shepherd such a soul back into its cycle. But when hundreds of souls with hundreds of unique motivations bind themselves to an elemental and form an omen dragon, the only practical way to stop them is to destroy what they've become.
+The opposite of life isn't death—it's stagnation. When a soul refuses to move on, it lives outside the cycle of life. Souls can have any number of reasons to linger: anger, fear, sadness, a thirst for revenge. One skilled at dealing with the undead might even be able to shepherd such a soul back into its cycle. But when hundreds of souls with hundreds of unique motivations bind themselves to an elemental and form an omen dragon, the only practical way to stop them is to destroy what they've become.
 
 As the embodiment of these wayward souls, the omen dragon wields them like weapons. They can send restless souls to grab creatures and pull them in, or to possess their attackers, compelling them to distraction in the middle of a fight. They even wrap themselves in the most durable of souls, creating a stifling aura.
 
 #### Life Outside Life
 
-Just as the omen dragon exists outside the cycle of life, so too does their domain. The omen dragon's dragonseal brings desolation and stagnancy to all living things. Growth does not happen. Living things that grow or creatures who dwell near an omen dragon's domain do not age. One can often find secret societies researching lichdom residing in
-
-such sites, for what better place to study than a stagnant wasteland that grants one infinite time?
+Just as the omen dragon exists outside the cycle of life, so too does their domain. The omen dragon's dragonseal brings desolation and stagnancy to all living things. Growth does not happen. Living things that grow or creatures who dwell near an omen dragon's domain do not age. One can often find secret societies researching lichdom residing in such sites, for what better place to study than a stagnant wasteland that grants one infinite time?
 
 The effects that surround an omen dragon also mean that new life cannot begin. Civilization cannot exist, let alone prosper, without a reliable food source. When living creatures die in these dragons' domains, their bodies do not decompose. Their souls are sucked into the omen dragon, granting the creature ever more power.
 
@@ -6155,7 +6161,7 @@ An omen dragon speaks with the voices of all the souls they have collected. In a
 |       Dragon, Elemental        |           -           |       Level 8        |          Solo           |         EV 120         |
 | :----------------------------: | :-------------------: | :------------------: | :---------------------: | :--------------------: |
 |        **5**<br/> Size         |   **10**<br/> Speed   | **550**<br/> Stamina |  **6**<br/> Stability   | **9**<br/> Free Strike |
-| **Corruption 6**<br/> Immunity | **Fly**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Corruption 6**<br/> Immunity | **Fly**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |       **+3**<br/> Might        |  **+4**<br/> Agility  |  **+2**<br/> Reason  |  **+3**<br/> Intuition  |  **+5**<br/> Presence  |
 
 <!-- -->
@@ -6344,7 +6350,7 @@ Meteor dragons are not known for their conversational habits. When they do deign
 |  Dragon, Elemental  |           -           |       Level 10       |          Solo           |         EV 144          |
 | :-----------------: | :-------------------: | :------------------: | :---------------------: | :---------------------: |
 |   **3**<br/> Size   |   **15**<br/> Speed   | **650**<br/> Stamina |  **6**<br/> Stability   | **10**<br/> Free Strike |
-| **-**<br/> Immunity | **Fly**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **Fly**<br/> Movement |          -           | **-**<br/> With Captain |   **-**<br/> Weakness   |
 |  **+5**<br/> Might  |  **+5**<br/> Agility  |  **+3**<br/> Reason  |  **+3**<br/> Intuition  |  **+5**<br/> Presence   |
 
 <!-- -->
@@ -6496,7 +6502,7 @@ At the start of a meteor dragon's turn, you can spend Malice to activate one of 
 
 ## Dwarves
 
-Possessed of a strength that belies their size, dwarves have flesh infused with stone-a silico-organic hybrid that makes them physically denser than humans or elves. They enjoy a reputation in Orden as savvy engineers and technologists thanks to the lore they inherited from their elder siblings, the long-extinct steel dwarves.
+Possessed of a strength that belies their size, dwarves have flesh infused with stone—a silico-organic hybrid that makes them physically denser than humans or elves. They enjoy a reputation in Orden as savvy engineers and technologists thanks to the lore they inherited from their elder siblings, the long-extinct steel dwarves.
 
 They are the children of the Elder God Ord. A common phrase among the dwarves is "Ord made the world." Their way of saying, "What will be, will be." Dwarves take great pride in knowing that along with Aan, Eth, and Kul, their god created the mundane world, and many dwarves leave their homes to see the world and seek glory in Ord's name.
 
@@ -6572,7 +6578,7 @@ At the start of any dwarf's turn, you can spend Malice to activate one of the fo
 |   Dwarf, Humanoid   |          -          |      Level 1       |              Minion Defender              |   EV 3 for 4 minions   |
 | :-----------------: | :-----------------: | :----------------: | :---------------------------------------: | :--------------------: |
 |  **1M**<br/> Size   |  **5**<br/> Speed   | **7**<br/> Stamina |           **2**<br/> Stability            | **1**<br/> Free Strike |
-| **-**<br/> Immunity | **-**<br/> Movement |         -          | **+2 bonus to Stamina**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **-**<br/> Movement |         -          | **+2 bonus to Stamina**<br/> With Captain |  **-**<br/> Weakness   |
 |  **+1**<br/> Might  | **+0**<br/> Agility | **+0**<br/> Reason |           **+2**<br/> Intuition           |  **+0**<br/> Presence  |
 
 <!-- -->
@@ -6595,7 +6601,7 @@ At the start of any dwarf's turn, you can spend Malice to activate one of the fo
 |   Dwarf, Humanoid   |          -          |      Level 1       |               Minion Brute                |   EV 3 for 4 minions   |
 | :-----------------: | :-----------------: | :----------------: | :---------------------------------------: | :--------------------: |
 |  **1M**<br/> Size   |  **5**<br/> Speed   | **7**<br/> Stamina |           **2**<br/> Stability            | **2**<br/> Free Strike |
-| **-**<br/> Immunity | **-**<br/> Movement |         -          | **+2 bonus to Stamina**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **-**<br/> Movement |         -          | **+2 bonus to Stamina**<br/> With Captain |  **-**<br/> Weakness   |
 |  **+2**<br/> Might  | **+0**<br/> Agility | **+0**<br/> Reason |           **+0**<br/> Intuition           |  **+0**<br/> Presence  |
 
 <!-- -->
@@ -6618,7 +6624,7 @@ At the start of any dwarf's turn, you can spend Malice to activate one of the fo
 |   Dwarf, Humanoid   |          -          |      Level 1       |              Minion Harrier               |   EV 3 for 4 minions   |
 | :-----------------: | :-----------------: | :----------------: | :---------------------------------------: | :--------------------: |
 |  **1M**<br/> Size   |  **7**<br/> Speed   | **6**<br/> Stamina |           **1**<br/> Stability            | **1**<br/> Free Strike |
-| **-**<br/> Immunity | **-**<br/> Movement |         -          | **+2 bonus to Stamina**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **-**<br/> Movement |         -          | **+2 bonus to Stamina**<br/> With Captain |  **-**<br/> Weakness   |
 |  **+2**<br/> Might  | **+1**<br/> Agility | **+0**<br/> Reason |           **+0**<br/> Intuition           |  **+0**<br/> Presence  |
 
 <!-- -->
@@ -6641,7 +6647,7 @@ At the start of any dwarf's turn, you can spend Malice to activate one of the fo
 |   Dwarf, Humanoid   |          -          |      Level 1       |              Minion Support               |   EV 3 for 4 minions   |
 | :-----------------: | :-----------------: | :----------------: | :---------------------------------------: | :--------------------: |
 |  **1M**<br/> Size   |  **5**<br/> Speed   | **6**<br/> Stamina |           **1**<br/> Stability            | **1**<br/> Free Strike |
-| **-**<br/> Immunity | **-**<br/> Movement |         -          | **+2 bonus to Stamina**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **-**<br/> Movement |         -          | **+2 bonus to Stamina**<br/> With Captain |  **-**<br/> Weakness   |
 |  **+1**<br/> Might  | **+2**<br/> Agility | **+0**<br/> Reason |           **+0**<br/> Intuition           |  **+0**<br/> Presence  |
 
 <!-- -->
@@ -6664,7 +6670,7 @@ At the start of any dwarf's turn, you can spend Malice to activate one of the fo
 |   Dwarf, Humanoid   |          -          |       Level 1       |    Platoon Artillery    |          EV 6          |
 | :-----------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |  **1M**<br/> Size   |  **5**<br/> Speed   | **26**<br/> Stamina |  **1**<br/> Stability   | **4**<br/> Free Strike |
-| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |  **+0**<br/> Might  | **+2**<br/> Agility | **+0**<br/> Reason  |  **+1**<br/> Intuition  |  **+0**<br/> Presence  |
 
 <!-- -->
@@ -6703,7 +6709,7 @@ At the start of any dwarf's turn, you can spend Malice to activate one of the fo
 |   Dwarf, Humanoid   |          -          |       Level 1       |      Platoon Hexer      |          EV 8          |
 | :-----------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |  **1M**<br/> Size   |  **5**<br/> Speed   | **39**<br/> Stamina |  **3**<br/> Stability   | **4**<br/> Free Strike |
-| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |  **+1**<br/> Might  | **+0**<br/> Agility | **+0**<br/> Reason  |  **+2**<br/> Intuition  |  **+0**<br/> Presence  |
 
 <!-- -->
@@ -6746,7 +6752,7 @@ At the start of any dwarf's turn, you can spend Malice to activate one of the fo
 |   Dwarf, Humanoid   |          -          |       Level 1       |     Platoon Support     |          EV 6          |
 | :-----------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |  **1M**<br/> Size   |  **5**<br/> Speed   | **36**<br/> Stamina |  **2**<br/> Stability   | **3**<br/> Free Strike |
-| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |  **+0**<br/> Might  | **+2**<br/> Agility | **+0**<br/> Reason  |  **+1**<br/> Intuition  |  **+0**<br/> Presence  |
 
 <!-- -->
@@ -6783,7 +6789,7 @@ At the start of any dwarf's turn, you can spend Malice to activate one of the fo
 |   Dwarf, Humanoid   |          -          |       Level 3       |    Platoon Defender     |         EV 10          |
 | :-----------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |  **1M**<br/> Size   |  **5**<br/> Speed   | **72**<br/> Stamina |  **4**<br/> Stability   | **5**<br/> Free Strike |
-| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |  **+2**<br/> Might  | **+0**<br/> Agility | **+0**<br/> Reason  |  **+0**<br/> Intuition  |  **+1**<br/> Presence  |
 
 <!-- -->
@@ -6824,7 +6830,7 @@ At the start of any dwarf's turn, you can spend Malice to activate one of the fo
 |   Dwarf, Humanoid   |            -             |       Level 3       |   Platoon Controller    |         EV 10          |
 | :-----------------: | :----------------------: | :-----------------: | :---------------------: | :--------------------: |
 |  **1M**<br/> Size   |     **5**<br/> Speed     | **52**<br/> Stamina |  **2**<br/> Stability   | **5**<br/> Free Strike |
-| **-**<br/> Immunity | **Burrow**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **Burrow**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |  **+1**<br/> Might  |   **+0**<br/> Agility    | **+2**<br/> Reason  |  **+2**<br/> Intuition  |  **+0**<br/> Presence  |
 
 <!-- -->
@@ -6867,7 +6873,7 @@ At the start of any dwarf's turn, you can spend Malice to activate one of the fo
 |   Dwarf, Humanoid   |          -          |       Level 1       |     Platoon Harrier     |          EV 6          |
 | :-----------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |  **1M**<br/> Size   |  **7**<br/> Speed   | **36**<br/> Stamina |  **2**<br/> Stability   | **3**<br/> Free Strike |
-| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |  **+0**<br/> Might  | **+2**<br/> Agility | **+0**<br/> Reason  |  **+1**<br/> Intuition  |  **+0**<br/> Presence  |
 
 <!-- -->
@@ -6905,7 +6911,7 @@ At the start of any dwarf's turn, you can spend Malice to activate one of the fo
 |   Dwarf, Humanoid   |          -          |       Level 2       |      Platoon Brute      |          EV 8          |
 | :-----------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |  **1M**<br/> Size   |  **5**<br/> Speed   | **59**<br/> Stamina |  **3**<br/> Stability   | **5**<br/> Free Strike |
-| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |  **+2**<br/> Might  | **+0**<br/> Agility | **+0**<br/> Reason  |  **+1**<br/> Intuition  |  **+0**<br/> Presence  |
 
 <!-- -->
@@ -6948,7 +6954,7 @@ At the start of any dwarf's turn, you can spend Malice to activate one of the fo
 |   Dwarf, Humanoid   |          -          |       Level 3        |         Leader          |         EV 20          |
 | :-----------------: | :-----------------: | :------------------: | :---------------------: | :--------------------: |
 |  **1M**<br/> Size   |  **5**<br/> Speed   | **132**<br/> Stamina |  **4**<br/> Stability   | **5**<br/> Free Strike |
-| **-**<br/> Immunity | **-**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **-**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |  **+3**<br/> Might  | **+0**<br/> Agility |  **+2**<br/> Reason  |  **+1**<br/> Intuition  |  **+0**<br/> Presence  |
 
 <!-- -->
@@ -7027,7 +7033,7 @@ At the start of any dwarf's turn, you can spend Malice to activate one of the fo
 |   Dwarf, Humanoid   |            -            |       Level 1       |       Elite Mount       |         EV 12          |
 | :-----------------: | :---------------------: | :-----------------: | :---------------------: | :--------------------: |
 |   **3**<br/> Size   |    **8**<br/> Speed     | **60**<br/> Stamina |  **2**<br/> Stability   | **4**<br/> Free Strike |
-| **-**<br/> Immunity | **Climb**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **Climb**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |  **+2**<br/> Might  |   **+0**<br/> Agility   | **-2**<br/> Reason  |  **+0**<br/> Intuition  |  **-2**<br/> Presence  |
 
 <!-- -->
@@ -7070,7 +7076,7 @@ At the start of any dwarf's turn, you can spend Malice to activate one of the fo
 
 ## Elementals
 
-When the gods formed the mundane world, they took sparks of creation from the roiling plane of Quintessence and gave sentience to some of the multiverse's most basic elements-air, earth, fire, and water. Many elementals contain just one of these components, but can come to embody multiple reagents as they age.
+When the gods formed the mundane world, they took sparks of creation from the roiling plane of Quintessence and gave sentience to some of the multiverse's most basic elements—air, earth, fire, and water. Many elementals contain just one of these components, but can come to embody multiple reagents as they age.
 
 #### Duality of Form
 
@@ -7084,7 +7090,7 @@ When an elemental dies in the mundane world, their spirit returns to Quintessenc
 
 #### Crux of Fire
 
-Cruxes of fire, often called blazecasters, take the form of fiery lizards. They commonly live in hot zones of planar convergence or areas of volcanic activity. These territorial elementals usually question interlopers from afar-and if they don't like the answers, they rain down fire before their foes can draw near.
+Cruxes of fire, often called blazecasters, take the form of fiery lizards. They commonly live in hot zones of planar convergence or areas of volcanic activity. These territorial elementals usually question interlopers from afar—and if they don't like the answers, they rain down fire before their foes can draw near.
 
 Though many elementals weave their innate gifts into oral storytelling, cruxes of fire are particularly adroit at animating their stories in silhouettes of flame.
 
@@ -7098,7 +7104,7 @@ Galeweavers act as scouts for their handlers or for groups of elementals, and th
 
 An essence of tides looks like a shimmering blue manta ray that glides over land as easily as through water, earning them the common name of tidedrifter. Most common along coastlines, essences of tides enjoy harmless pranks, especially against folk who regularly sail or swim in their waters.
 
-Tidedrifters have a healthy sense of humor that makes it easy to win their friendship-but their relaxed demeanor evaporates if friends or family face threats.
+Tidedrifters have a healthy sense of humor that makes it easy to win their friendship—but their relaxed demeanor evaporates if friends or family face threats.
 
 #### Field of Growth
 
@@ -7145,7 +7151,7 @@ At the start of any elemental's turn, you can spend Malice to activate one of th
 |        Elemental         |          -          |       Level 3       |     Elite Artillery     |         EV 20          |
 | :----------------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |     **1T**<br/> Size     |  **6**<br/> Speed   | **80**<br/> Stamina |  **0**<br/> Stability   | **6**<br/> Free Strike |
-| **Fire 5**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Fire 5**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |    **-1**<br/> Might     | **+2**<br/> Agility | **+0**<br/> Reason  |  **+1**<br/> Intuition  |  **+2**<br/> Presence  |
 
 <!-- -->
@@ -7195,7 +7201,7 @@ At the start of any elemental's turn, you can spend Malice to activate one of th
 |           Elemental           |           -           |       Level 3        |      Elite Harrier      |         EV 20          |
 | :---------------------------: | :-------------------: | :------------------: | :---------------------: | :--------------------: |
 |       **1S**<br/> Size        |   **8**<br/> Speed    | **100**<br/> Stamina |  **0**<br/> Stability   | **5**<br/> Free Strike |
-| **Lightning 5**<br/> Immunity | **Fly**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Lightning 5**<br/> Immunity | **Fly**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |       **+1**<br/> Might       |  **+2**<br/> Agility  |  **-1**<br/> Reason  |  **+0**<br/> Intuition  |  **+2**<br/> Presence  |
 
 <!-- -->
@@ -7245,7 +7251,7 @@ At the start of any elemental's turn, you can spend Malice to activate one of th
 |        Elemental         |           -            |       Level 3       |    Elite Controller     |         EV 20          |
 | :----------------------: | :--------------------: | :-----------------: | :---------------------: | :--------------------: |
 |     **1M**<br/> Size     |    **7**<br/> Speed    | **80**<br/> Stamina |  **1**<br/> Stability   | **5**<br/> Free Strike |
-| **Cold 5**<br/> Immunity | **Swim**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Cold 5**<br/> Immunity | **Swim**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |    **+2**<br/> Might     |  **+0**<br/> Agility   | **+1**<br/> Reason  |  **-1**<br/> Intuition  |  **+2**<br/> Presence  |
 
 <!-- -->
@@ -7300,7 +7306,7 @@ At the start of any elemental's turn, you can spend Malice to activate one of th
 |         Elemental          |            -            |       Level 3        |    Elite Controller     |         EV 28          |
 | :------------------------: | :---------------------: | :------------------: | :---------------------: | :--------------------: |
 |      **3**<br/> Size       |    **8**<br/> Speed     | **120**<br/> Stamina |  **2**<br/> Stability   | **6**<br/> Free Strike |
-| **Poison 5**<br/> Immunity | **Climb**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Poison 5**<br/> Immunity | **Climb**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |     **+2**<br/> Might      |   **+0**<br/> Agility   |  **+0**<br/> Reason  |  **+2**<br/> Intuition  |  **+2**<br/> Presence  |
 
 <!-- -->
@@ -7355,7 +7361,7 @@ At the start of any elemental's turn, you can spend Malice to activate one of th
 |      Elemental      |            -             |       Level 3        |       Elite Brute       |         EV 20          |
 | :-----------------: | :----------------------: | :------------------: | :---------------------: | :--------------------: |
 |   **2**<br/> Size   |     **5**<br/> Speed     | **132**<br/> Stamina |  **2**<br/> Stability   | **6**<br/> Free Strike |
-| **-**<br/> Immunity | **Burrow**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **Burrow**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |  **+2**<br/> Might  |   **-1**<br/> Agility    |  **+0**<br/> Reason  |  **+1**<br/> Intuition  |  **+2**<br/> Presence  |
 
 <!-- -->
@@ -7432,7 +7438,7 @@ Many high elves can also summon magical wisps called elemental motes. These spri
 
 #### Surround and Suppress
 
-Foes who threaten high elf armies are dealt with quickly and entirely. High elves take advantage of each other's magic to corral enemies together and throw huge waves of destruction upon them. The more exposure a victim has to high elf magic, the more effective that magic is in destroying them. High elf wyrds ensure there's no escape, warping the environment into treacherous pits-and eventually, graveyards.
+Foes who threaten high elf armies are dealt with quickly and entirely. High elves take advantage of each other's magic to corral enemies together and throw huge waves of destruction upon them. The more exposure a victim has to high elf magic, the more effective that magic is in destroying them. High elf wyrds ensure there's no escape, warping the environment into treacherous pits—and eventually, graveyards.
 
 #### Magical Manipulation
 
@@ -7467,7 +7473,7 @@ At the start of any high elf's turn, you can spend Malice to activate one of the
 > Until the end of the round, whenever a high elf uses a magic ability, they can use it as if they were occupying the square of another high elf on the encounter map to whom they have line of effect.
 
 <!-- -->
-> 🔳 \*\*Gift From an Accursed Tome (5 Malice)
+> 🔳 **Gift From an Accursed Tome (5 Malice)**
 >
 > | **Area, Magic**            |               **Main action** |
 > | -------------------------- | ----------------------------: |
@@ -7493,7 +7499,7 @@ At the start of any high elf's turn, you can spend Malice to activate one of the
 | Elemental, High Elf, Soulless |           -           |      Level 1       |              Minion Hexer               | EV 3 for four minions  |
 | :---------------------------: | :-------------------: | :----------------: | :-------------------------------------: | :--------------------: |
 |       **1T**<br/> Size        |   **5**<br/> Speed    | **3**<br/> Stamina |          **0**<br/> Stability           | **1**<br/> Free Strike |
-|      **-**<br/> Immunity      | **Fly**<br/> Movement |         -          | **+2 bonus to speed**<br/> With Captain | **-**<br/> Weaknesses  |
+|      **-**<br/> Immunity      | **Fly**<br/> Movement |         -          | **+2 bonus to speed**<br/> With Captain |  **-**<br/> Weakness   |
 |       **0**<br/> Might        |  **0**<br/> Agility   | **0**<br/> Reason  |          **0**<br/> Intuition           |  **+2**<br/> Presence  |
 
 <!-- -->
@@ -7519,7 +7525,7 @@ At the start of any high elf's turn, you can spend Malice to activate one of the
 | Fey, High Elf, Humanoid |          -          |      Level 1       |                 Minion Controller                 | EV 3 for four minions  |
 | :---------------------: | :-----------------: | :----------------: | :-----------------------------------------------: | :--------------------: |
 |    **1M**<br/> Size     |  **5**<br/> Speed   | **3**<br/> Stamina |               **0**<br/> Stability                | **1**<br/> Free Strike |
-|   **-**<br/> Immunity   | **-**<br/> Movement |         -          | **+5 bonus to ranged distance**<br/> With Captain | **-**<br/> Weaknesses  |
+|   **-**<br/> Immunity   | **-**<br/> Movement |         -          | **+5 bonus to ranged distance**<br/> With Captain |  **-**<br/> Weakness   |
 |    **0**<br/> Might     | **0**<br/> Agility  | **+2**<br/> Reason |               **-1**<br/> Intuition               |  **+1**<br/> Presence  |
 
 <!-- -->
@@ -7547,7 +7553,7 @@ At the start of any high elf's turn, you can spend Malice to activate one of the
 | Fey, High Elf, Humanoid |          -          |      Level 1       |                 Minion Artillery                  | EV 3 for four minions  |
 | :---------------------: | :-----------------: | :----------------: | :-----------------------------------------------: | :--------------------: |
 |    **1M**<br/> Size     |  **5**<br/> Speed   | **3**<br/> Stamina |               **0**<br/> Stability                | **2**<br/> Free Strike |
-|   **-**<br/> Immunity   | **-**<br/> Movement |         -          | **+5 bonus to ranged distance**<br/> With Captain | **-**<br/> Weaknesses  |
+|   **-**<br/> Immunity   | **-**<br/> Movement |         -          | **+5 bonus to ranged distance**<br/> With Captain |  **-**<br/> Weakness   |
 |    **0**<br/> Might     | **+2**<br/> Agility | **+1**<br/> Reason |               **0**<br/> Intuition                |  **0**<br/> Presence   |
 
 <!-- -->
@@ -7563,7 +7569,7 @@ At the start of any high elf's turn, you can spend Malice to activate one of the
 > - **12-16:** 4 damage
 > - **17+:** 5 damage
 >
-> **Effect:** Each ally adjacent to the target shifts up to 2 squares
+> **Effect:** Each ally adjacent to the target shifts up to 2 squares.
 
 <!-- -->
 > ⭐️ **Otherworldly Grace**
@@ -7575,7 +7581,7 @@ At the start of any high elf's turn, you can spend Malice to activate one of the
 | Elemental, High Elf |           -           |      Level 1       |                Minion Harrier                 | EV 3 for four minions  |
 | :-----------------: | :-------------------: | :----------------: | :-------------------------------------------: | :--------------------: |
 |  **1T**<br/> Size   |   **7**<br/> Speed    | **4**<br/> Stamina |             **0**<br/> Stability              | **1**<br/> Free Strike |
-| **-**<br/> Immunity | **Fly**<br/> Movement |         -          | **Gain an edge on strikes**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **Fly**<br/> Movement |         -          | **Gain an edge on strikes**<br/> With Captain |  **-**<br/> Weakness   |
 |  **0**<br/> Might   |  **+2**<br/> Agility  | **0**<br/> Reason  |             **0**<br/> Intuition              |  **+1**<br/> Presence  |
 
 <!-- -->
@@ -7598,7 +7604,7 @@ At the start of any high elf's turn, you can spend Malice to activate one of the
 | Elemental, High Elf |          -          |       Level 2       |    Platoon Defender     |          EV 8          |
 | :-----------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |   **2**<br/> Size   |  **4**<br/> Speed   | **59**<br/> Stamina |  **3**<br/> Stability   | **4**<br/> Free Strike |
-| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |  **+2**<br/> Might  | **0**<br/> Agility  |  **0**<br/> Reason  |  **0**<br/> Intuition   |  **+2**<br/> Presence  |
 
 <!-- -->
@@ -7626,14 +7632,14 @@ At the start of any high elf's turn, you can spend Malice to activate one of the
 <!-- -->
 > ⭐️ **Thicket and Thorns**
 >
-> The brambleguard blocks line of effect for enemies. Each enemy who starts their turn adjacent to a brambleguard takes 4 damage
+> The brambleguard blocks line of effect for enemies. Each enemy who starts their turn adjacent to a brambleguard takes 4 damage.
 
 ###### High Elf Bloodletter
 
 | Fey, High Elf, Humanoid |          -          |       Level 1       |    Platoon Ambusher     |          EV 6          |
 | :---------------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |    **1M**<br/> Size     |  **7**<br/> Speed   | **30**<br/> Stamina |  **0**<br/> Stability   | **4**<br/> Free Strike |
-|   **-**<br/> Immunity   | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+|   **-**<br/> Immunity   | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |    **0**<br/> Might     | **+2**<br/> Agility |  **0**<br/> Reason  |  **+1**<br/> Intuition  |  **0**<br/> Presence   |
 
 <!-- -->
@@ -7670,7 +7676,7 @@ At the start of any high elf's turn, you can spend Malice to activate one of the
 | Fey, High Elf, Humanoid |          -          |       Level 2       |    Platoon Artillery    |          EV 8          |
 | :---------------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |    **1M**<br/> Size     |  **5**<br/> Speed   | **30**<br/> Stamina |  **0**<br/> Stability   | **5**<br/> Free Strike |
-|   **-**<br/> Immunity   | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+|   **-**<br/> Immunity   | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |    **+2**<br/> Might    | **0**<br/> Agility  | **+1**<br/> Reason  |  **0**<br/> Intuition   |  **+1**<br/> Presence  |
 
 <!-- -->
@@ -7707,7 +7713,7 @@ At the start of any high elf's turn, you can spend Malice to activate one of the
 | Fey, High Elf, Humanoid |          -          |       Level 3       |      Platoon Hexer      |         EV 10          |
 | :---------------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |    **1M**<br/> Size     |  **5**<br/> Speed   | **40**<br/> Stamina |  **0**<br/> Stability   | **5**<br/> Free Strike |
-|   **-**<br/> Immunity   | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+|   **-**<br/> Immunity   | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |    **0**<br/> Might     | **0**<br/> Agility  | **+2**<br/> Reason  |  **+2**<br/> Intuition  |  **+2**<br/> Presence  |
 
 <!-- -->
@@ -7748,7 +7754,7 @@ At the start of any high elf's turn, you can spend Malice to activate one of the
 |   Fey, High Elf, Humanoid   |          -          |       Level 1       |     Platoon Support     |          EV 6          |
 | :-------------------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |      **1M**<br/> Size       |  **5**<br/> Speed   | **30**<br/> Stamina |  **0**<br/> Stability   | **3**<br/> Free Strike |
-| **Psychic 5**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Psychic 5**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |      **0**<br/> Might       | **0**<br/> Agility  |  **0**<br/> Reason  |  **+2**<br/> Intuition  |  **+1**<br/> Presence  |
 
 <!-- -->
@@ -7785,7 +7791,7 @@ At the start of any high elf's turn, you can spend Malice to activate one of the
 <!-- -->
 > **High Elf Deployments**
 >
-> High elves are obsessed with knowledge: discovering it, documenting it, and protecting it. While this means that many of them are cloistered in towers with noses buried firmly in ancient tomes, lost knowledge is often found in dangerous ruins or in the collections of powerful individuals with no intent to share. When this happens, strike teams of like- minded high elves deploy to infiltrate and "forcefully acquire" such knowledge.
+> High elves are obsessed with knowledge: discovering it, documenting it, and protecting it. While this means that many of them are cloistered in towers with noses buried firmly in ancient tomes, lost knowledge is often found in dangerous ruins or in the collections of powerful individuals with no intent to share. When this happens, strike teams of like-minded high elves deploy to infiltrate and "forcefully acquire" such knowledge.
 >
 > Many high elves also consider themselves guardians of dangerous or forbidden lore and are ready to defend it with their lives. Many illusory groves and glamoured ruins conceal repositories and powerful warriors sworn to keep these secrets out of the hands of those who would use them for ill.
 >
@@ -7801,7 +7807,7 @@ At the start of any high elf's turn, you can spend Malice to activate one of the
 |   Fey, High Elf, Humanoid   |          -          |       Level 3       |   Platoon Controller    |         EV 10          |
 | :-------------------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |      **1M**<br/> Size       |  **5**<br/> Speed   | **40**<br/> Stamina |  **0**<br/> Stability   | **5**<br/> Free Strike |
-| **Psychic 5**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Psychic 5**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |      **0**<br/> Might       | **+1**<br/> Agility | **+2**<br/> Reason  |  **-1**<br/> Intuition  |  **+2**<br/> Presence  |
 
 <!-- -->
@@ -7847,7 +7853,7 @@ At the start of any high elf's turn, you can spend Malice to activate one of the
 | Fey, High Elf, Humanoid |          -          |       Level 1       |     Platoon Harrier     |          EV 6          |
 | :---------------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |    **1M**<br/> Size     |  **7**<br/> Speed   | **30**<br/> Stamina |  **0**<br/> Stability   | **3**<br/> Free Strike |
-|   **-**<br/> Immunity   | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+|   **-**<br/> Immunity   | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |    **0**<br/> Might     | **+2**<br/> Agility |  **0**<br/> Reason  |  **0**<br/> Intuition   |  **+1**<br/> Presence  |
 
 <!-- -->
@@ -7863,7 +7869,7 @@ At the start of any high elf's turn, you can spend Malice to activate one of the
 > - **12-16:** 7 damage
 > - **17+:** 9 damage
 >
-> **Effect:** On a tier 3 outcome, the zephyr can make a free strike against a creature adjacent to the target. If they do so and that creature and the target both have A < 2, the creature and the target are both prone. On any tier outcome, the zephyr can then shift up to 2 squares
+> **Effect:** On a tier 3 outcome, the zephyr can make a free strike against a creature adjacent to the target. If they do so and that creature and the target both have A < 2, the creature and the target are both prone. On any tier outcome, the zephyr can then shift up to 2 squares.
 
 <!-- -->
 > 👤 **Windwalk**
@@ -7889,7 +7895,7 @@ At the start of any high elf's turn, you can spend Malice to activate one of the
 | Fey, High Elf, Humanoid |           -           |       Level 3        |         Leader          |         EV 20          |
 | :---------------------: | :-------------------: | :------------------: | :---------------------: | :--------------------: |
 |    **1M**<br/> Size     |   **5**<br/> Speed    | **120**<br/> Stamina |  **0**<br/> Stability   | **5**<br/> Free Strike |
-|   **-**<br/> Immunity   | **Fly**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+|   **-**<br/> Immunity   | **Fly**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |    **0**<br/> Might     |  **+2**<br/> Agility  |  **+3**<br/> Reason  |  **+2**<br/> Intuition  |  **+3**<br/> Presence  |
 
 <!-- -->
@@ -7941,7 +7947,7 @@ At the start of any high elf's turn, you can spend Malice to activate one of the
 <!-- -->
 > ⭐️ **Otherworldly Blessing**
 >
-> At the start of each of their turns, the ordinator can choose one or more effects on them that can be ended by a saving throw. The effects instead end at the end of the ordinator's turn
+> At the start of each of their turns, the ordinator can choose one or more effects on them that can be ended by a saving throw. The effects instead end at the end of the ordinator's turn.
 
 <!-- -->
 > ☠️ **Fountains Roar, Now Free From the Earth (Villain Action 1)**
@@ -7981,7 +7987,7 @@ At the start of any high elf's turn, you can spend Malice to activate one of the
 | Elemental, High Elf |          -          |       Level 1       |      Platoon Mount      |          EV 6          |
 | :-----------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |   **2**<br/> Size   |  **10**<br/> Speed  | **30**<br/> Stamina |  **2**<br/> Stability   | **3**<br/> Free Strike |
-| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |  **+2**<br/> Might  | **+2**<br/> Agility |  **0**<br/> Reason  |  **0**<br/> Intuition   |  **+1**<br/> Presence  |
 
 <!-- -->
@@ -8042,7 +8048,7 @@ The shadow elves have mastered the art of combining deep, ancient magic with cut
 
 #### Brush Stalkers
 
-When the shadow elves invade Orden, they often ride domesticated dwimmerbeasts known as brush stalkers-quadrupeds who carry entire ecosystems on their rack of antlers. Newly born brush stalkers do not survive translation into Orden, so the ones the shadow elves ride are old: overgrown with bioluminescent moss, cracks on their ancient cloven hooves.
+When the shadow elves invade Orden, they often ride domesticated dwimmerbeasts known as brush stalkers—quadrupeds who carry entire ecosystems on their rack of antlers. Newly born brush stalkers do not survive translation into Orden, so the ones the shadow elves ride are old: overgrown with bioluminescent moss, cracks on their ancient cloven hooves.
 
 A brush stalker's glamor allows them to look like a mundane deer. But when the glamour falls, the creature devours the light around them and plunges their surroundings into darkness.
 
@@ -8090,7 +8096,7 @@ At the start of any shadow elf's turn, you can spend Malice to activate one of t
 | Fey, Humanoid, Shadow Elf |            -            |      Level 4       |             Minion Harrier              | EV 6 for four minions  |
 | :-----------------------: | :---------------------: | :----------------: | :-------------------------------------: | :--------------------: |
 |     **1M**<br/> Size      |    **8**<br/> Speed     | **8**<br/> Stamina |          **0**<br/> Stability           | **2**<br/> Free Strike |
-|    **-**<br/> Immunity    | **Climb**<br/> Movement |         -          | **+2 bonus to speed**<br/> With Captain | **-**<br/> Weaknesses  |
+|    **-**<br/> Immunity    | **Climb**<br/> Movement |         -          | **+2 bonus to speed**<br/> With Captain |  **-**<br/> Weakness   |
 |     **+3**<br/> Might     |   **+1**<br/> Agility   | **0**<br/> Reason  |          **0**<br/> Intuition           |  **0**<br/> Presence   |
 
 <!-- -->
@@ -8106,7 +8112,7 @@ At the start of any shadow elf's turn, you can spend Malice to activate one of t
 > - **12-16:** 4 damage
 > - **17+:** 6 damage
 >
-> **Effect:** The cloak shifts up to 2 squares
+> **Effect:** The cloak shifts up to 2 squares.
 
 <!-- -->
 > ⭐️ **Of the Umbra**
@@ -8118,7 +8124,7 @@ At the start of any shadow elf's turn, you can spend Malice to activate one of t
 | Fey, Humanoid, Shadow Elf |            -            |      Level 4       |                 Minion Hexer                  | EV 6 for four minions  |
 | :-----------------------: | :---------------------: | :----------------: | :-------------------------------------------: | :--------------------: |
 |     **1M**<br/> Size      |    **5**<br/> Speed     | **7**<br/> Stamina |             **0**<br/> Stability              | **2**<br/> Free Strike |
-|    **-**<br/> Immunity    | **Climb**<br/> Movement |         -          | **Gain an edge on strikes**<br/> With Captain | **-**<br/> Weaknesses  |
+|    **-**<br/> Immunity    | **Climb**<br/> Movement |         -          | **Gain an edge on strikes**<br/> With Captain |  **-**<br/> Weakness   |
 |     **0**<br/> Might      |   **+3**<br/> Agility   | **+2**<br/> Reason |             **0**<br/> Intuition              |  **0**<br/> Presence   |
 
 <!-- -->
@@ -8144,7 +8150,7 @@ At the start of any shadow elf's turn, you can spend Malice to activate one of t
 | Fey, Humanoid, Shadow Elf |            -            |      Level 4       |                 Minion Artillery                 | EV 6 for four minions  |
 | :-----------------------: | :---------------------: | :----------------: | :----------------------------------------------: | :--------------------: |
 |     **1M**<br/> Size      |    **5**<br/> Speed     | **7**<br/> Stamina |               **0**<br/> Stability               | **3**<br/> Free Strike |
-|    **-**<br/> Immunity    | **Climb**<br/> Movement |         -          | **+2 damage bonus to strikes**<br/> With Captain | **-**<br/> Weaknesses  |
+|    **-**<br/> Immunity    | **Climb**<br/> Movement |         -          | **+2 damage bonus to strikes**<br/> With Captain |  **-**<br/> Weakness   |
 |     **+1**<br/> Might     |   **+3**<br/> Agility   | **0**<br/> Reason  |               **0**<br/> Intuition               |  **0**<br/> Presence   |
 
 <!-- -->
@@ -8172,7 +8178,7 @@ At the start of any shadow elf's turn, you can spend Malice to activate one of t
 | Fey, Humanoid, Shadow Elf |            -            |      Level 4       |                Minion Ambusher                | EV 6 for four minions  |
 | :-----------------------: | :---------------------: | :----------------: | :-------------------------------------------: | :--------------------: |
 |     **1M**<br/> Size      |    **5**<br/> Speed     | **8**<br/> Stamina |             **0**<br/> Stability              | **3**<br/> Free Strike |
-|    **-**<br/> Immunity    | **Climb**<br/> Movement |         -          | **Gain an edge on strikes**<br/> With Captain | **-**<br/> Weaknesses  |
+|    **-**<br/> Immunity    | **Climb**<br/> Movement |         -          | **Gain an edge on strikes**<br/> With Captain |  **-**<br/> Weakness   |
 |     **+1**<br/> Might     |   **+3**<br/> Agility   | **0**<br/> Reason  |             **+1**<br/> Intuition             |  **0**<br/> Presence   |
 
 <!-- -->
@@ -8200,7 +8206,7 @@ At the start of any shadow elf's turn, you can spend Malice to activate one of t
 | Fey, Humanoid, Shadow Elf |            -            |       Level 6       |    Platoon Artillery    |         EV 16          |
 | :-----------------------: | :---------------------: | :-----------------: | :---------------------: | :--------------------: |
 |     **1M**<br/> Size      |    **5**<br/> Speed     | **70**<br/> Stamina |  **0**<br/> Stability   | **7**<br/> Free Strike |
-|    **-**<br/> Immunity    | **Climb**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+|    **-**<br/> Immunity    | **Climb**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |     **0**<br/> Might      |   **+3**<br/> Agility   | **+2**<br/> Reason  |  **+1**<br/> Intuition  |  **+1**<br/> Presence  |
 
 <!-- -->
@@ -8245,7 +8251,7 @@ At the start of any shadow elf's turn, you can spend Malice to activate one of t
 | Fey, Humanoid, Shadow Elf |            -            |       Level 5       |   Platoon Controller    |         EV 14          |
 | :-----------------------: | :---------------------: | :-----------------: | :---------------------: | :--------------------: |
 |     **1M**<br/> Size      |    **5**<br/> Speed     | **60**<br/> Stamina |  **0**<br/> Stability   | **6**<br/> Free Strike |
-|    **-**<br/> Immunity    | **Climb**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+|    **-**<br/> Immunity    | **Climb**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |     **0**<br/> Might      |   **+3**<br/> Agility   | **+3**<br/> Reason  |  **+2**<br/> Intuition  |  **+1**<br/> Presence  |
 
 <!-- -->
@@ -8284,7 +8290,7 @@ At the start of any shadow elf's turn, you can spend Malice to activate one of t
 | Fey, Humanoid, Shadow Elf |            -            |       Level 4       |    Platoon Defender     |         EV 12          |
 | :-----------------------: | :---------------------: | :-----------------: | :---------------------: | :--------------------: |
 |     **1M**<br/> Size      |    **5**<br/> Speed     | **70**<br/> Stamina |  **0**<br/> Stability   | **5**<br/> Free Strike |
-|    **-**<br/> Immunity    | **Climb**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+|    **-**<br/> Immunity    | **Climb**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |     **0**<br/> Might      |   **+2**<br/> Agility   |  **0**<br/> Reason  |  **+3**<br/> Intuition  |  **+2**<br/> Presence  |
 
 <!-- -->
@@ -8321,7 +8327,7 @@ At the start of any shadow elf's turn, you can spend Malice to activate one of t
 | Fey, Humanoid, Shadow Elf |            -            |       Level 4       |     Platoon Support     |         EV 12          |
 | :-----------------------: | :---------------------: | :-----------------: | :---------------------: | :--------------------: |
 |     **1M**<br/> Size      |    **5**<br/> Speed     | **60**<br/> Stamina |  **0**<br/> Stability   | **5**<br/> Free Strike |
-|    **-**<br/> Immunity    | **Climb**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+|    **-**<br/> Immunity    | **Climb**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |     **0**<br/> Might      |   **+1**<br/> Agility   | **+1**<br/> Reason  |  **+3**<br/> Intuition  |  **+2**<br/> Presence  |
 
 <!-- -->
@@ -8364,7 +8370,7 @@ At the start of any shadow elf's turn, you can spend Malice to activate one of t
 | Fey, Humanoid, Shadow Elf |            -            |       Level 5       |     Platoon Harrier     |         EV 14          |
 | :-----------------------: | :---------------------: | :-----------------: | :---------------------: | :--------------------: |
 |     **1M**<br/> Size      |    **7**<br/> Speed     | **70**<br/> Stamina |  **0**<br/> Stability   | **6**<br/> Free Strike |
-|    **-**<br/> Immunity    | **Climb**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+|    **-**<br/> Immunity    | **Climb**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |     **+1**<br/> Might     |   **+3**<br/> Agility   | **+1**<br/> Reason  |  **+2**<br/> Intuition  |  **0**<br/> Presence   |
 
 <!-- -->
@@ -8403,7 +8409,7 @@ At the start of any shadow elf's turn, you can spend Malice to activate one of t
 | Fey, Humanoid, Shadow Elf |            -            |       Level 6       |    Platoon Ambusher     |         EV 16          |
 | :-----------------------: | :---------------------: | :-----------------: | :---------------------: | :--------------------: |
 |     **1M**<br/> Size      |    **5**<br/> Speed     | **80**<br/> Stamina |  **0**<br/> Stability   | **7**<br/> Free Strike |
-|    **-**<br/> Immunity    | **Climb**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+|    **-**<br/> Immunity    | **Climb**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |     **+2**<br/> Might     |   **+3**<br/> Agility   | **+1**<br/> Reason  |  **+2**<br/> Intuition  |  **0**<br/> Presence   |
 
 <!-- -->
@@ -8440,7 +8446,7 @@ At the start of any shadow elf's turn, you can spend Malice to activate one of t
 | Fey, Humanoid, Shadow Elf |            -            |       Level 6       |      Platoon Hexer      |         EV 16          |
 | :-----------------------: | :---------------------: | :-----------------: | :---------------------: | :--------------------: |
 |     **1M**<br/> Size      |    **5**<br/> Speed     | **70**<br/> Stamina |  **0**<br/> Stability   | **6**<br/> Free Strike |
-|    **-**<br/> Immunity    | **Climb**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+|    **-**<br/> Immunity    | **Climb**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |     **0**<br/> Might      |   **+2**<br/> Agility   | **+3**<br/> Reason  |  **+1**<br/> Intuition  |  **+1**<br/> Presence  |
 
 <!-- -->
@@ -8483,7 +8489,7 @@ At the start of any shadow elf's turn, you can spend Malice to activate one of t
 | Fey, Humanoid, Shadow Elf |            -            |       Level 4       |      Platoon Brute      |         EV 12          |
 | :-----------------------: | :---------------------: | :-----------------: | :---------------------: | :--------------------: |
 |     **1M**<br/> Size      |    **5**<br/> Speed     | **70**<br/> Stamina |  **0**<br/> Stability   | **6**<br/> Free Strike |
-|    **-**<br/> Immunity    | **Climb**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+|    **-**<br/> Immunity    | **Climb**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |     **+3**<br/> Might     |   **+2**<br/> Agility   | **-1**<br/> Reason  |  **+1**<br/> Intuition  |  **+1**<br/> Presence  |
 
 <!-- -->
@@ -8525,7 +8531,7 @@ At the start of any shadow elf's turn, you can spend Malice to activate one of t
 
 **Shadow Elf Deployments**
 
-When under order of the Shadow Queen, shadow elf missions outside of Equinox are usually short, dangerous, and targeted. They rarely last more than a week or two, and the force often appears in Orden not far from their target. Mission goals trend towards the nefarious-kidnapping, assassination, theft, and general skullduggery are the order of the day.
+When under order of the Shadow Queen, shadow elf missions outside of Equinox are usually short, dangerous, and targeted. They rarely last more than a week or two, and the force often appears in Orden not far from their target. Mission goals trend towards the nefarious—kidnapping, assassination, theft, and general skullduggery are the order of the day.
 
 However, not every shadow elf force is affiliate d wit h th queen. Some are exiled rebels plotting their return, others independent groups searching for lost magic to restore their world, and yet others have left Equinox permanently to seek new lives in the caverns and deep woods of Orden. No matter their affiliation, these groups will brook no attempts to thwart their goals and are all deadly warriors.
 
@@ -8541,7 +8547,7 @@ However, not every shadow elf force is affiliate d wit h th queen. Some are exil
 | Fey, Humanoid, Shadow Elf |            -            |       Level 6        |         Leader          |         EV 32          |
 | :-----------------------: | :---------------------: | :------------------: | :---------------------: | :--------------------: |
 |     **1M**<br/> Size      |    **6**<br/> Speed     | **180**<br/> Stamina |  **1**<br/> Stability   | **7**<br/> Free Strike |
-|    **-**<br/> Immunity    | **Climb**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+|    **-**<br/> Immunity    | **Climb**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |     **+4**<br/> Might     |   **+3**<br/> Agility   |  **+2**<br/> Reason  |  **+1**<br/> Intuition  |  **+2**<br/> Presence  |
 
 <!-- -->
@@ -8631,7 +8637,7 @@ However, not every shadow elf force is affiliate d wit h th queen. Some are exil
 | Animal, Fey, Shadow Elf |          -          |       Level 4       |      Platoon Mount      |         EV 12          |
 | :---------------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |     **2**<br/> Size     |  **8**<br/> Speed   | **60**<br/> Stamina |  **3**<br/> Stability   | **5**<br/> Free Strike |
-|   **-**<br/> Immunity   | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+|   **-**<br/> Immunity   | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |    **+3**<br/> Might    | **+2**<br/> Agility | **-1**<br/> Reason  |  **+1**<br/> Intuition  |  **+1**<br/> Presence  |
 
 <!-- -->
@@ -8668,7 +8674,7 @@ However, not every shadow elf force is affiliate d wit h th queen. Some are exil
 <!-- -->
 > ⭐️ **Wyrd Dyr**
 >
-> While they have line of effect to the brush stalker, any animal except another brush stalker is frightened
+> While they have line of effect to the brush stalker, any animal except another brush stalker is frightened.
 
 ## Elves, Wode
 
@@ -8702,7 +8708,7 @@ When wode elves in combat control the terrain, their primary strategy is divide 
 
 #### Warleader
 
-The warleader of a wode elf court is usually their finest tactician. One warleader alone can command dozens of squadrons across miles of forest with such precision that they can appear to predict an enemy's movements without ever laying an eye on them. In times of peace, a warleader's role is primarily that of teacher-a mentor who scouts and soldiers regard almost as an additional parent.
+The warleader of a wode elf court is usually their finest tactician. One warleader alone can command dozens of squadrons across miles of forest with such precision that they can appear to predict an enemy's movements without ever laying an eye on them. In times of peace, a warleader's role is primarily that of teacher—a mentor who scouts and soldiers regard almost as an additional parent.
 
 The wode elves send their warleaders into battle only if the situation is dire. Characters who encounter one should be flattered, for the presence of a warleader means the wode elves consider the heroes a formidable threat.
 
@@ -8714,7 +8720,7 @@ one of the following features.
 
 ###### Wode Elf Malice (Malice Features)
 
-At the start of any wode elf's turn, you can spend Malice to activate
+At the start of any wode elf's turn, you can spend Malice to activate one of the following features.
 
 <!-- -->
 > ⭐️ **Forest Network (3 Malice)**
@@ -8730,17 +8736,17 @@ At the start of any wode elf's turn, you can spend Malice to activate
 > 🌀 **Vines Everywhere (7 Malice)**
 >
 > Vines rapidly grow across the entire encounter map. Each enemy in the encounter makes an **Agility test**.
-
-- **≤11:** 8 damage; restrained (save ends)
-- **12-16:** Restrained (EoT)
-- **17+:** No effect.
+>
+> - **≤11:** 8 damage; restrained (save ends)
+> - **12-16:** Restrained (EoT)
+> - **17+:** No effect.
 
 ###### Wode Elf Lookout
 
 | Fey, Humanoid, Wode Elf |            -            |      Level 1       |             Minion Support              | EV 3 for four minions  |
 | :---------------------: | :---------------------: | :----------------: | :-------------------------------------: | :--------------------: |
 |    **1M**<br/> Size     |    **7**<br/> Speed     | **4**<br/> Stamina |          **0**<br/> Stability           | **1**<br/> Free Strike |
-|   **-**<br/> Immunity   | **Climb**<br/> Movement |         -          | **+2 bonus to speed**<br/> With Captain | **-**<br/> Weaknesses  |
+|   **-**<br/> Immunity   | **Climb**<br/> Movement |         -          | **+2 bonus to speed**<br/> With Captain |  **-**<br/> Weakness   |
 |    **0**<br/> Might     |   **+2**<br/> Agility   | **0**<br/> Reason  |          **0**<br/> Intuition           |  **+1**<br/> Presence  |
 
 <!-- -->
@@ -8771,7 +8777,7 @@ At the start of any wode elf's turn, you can spend Malice to activate
 | Fey, Humanoid, Wode Elf |          -          |      Level 1       |                Minion Harrier                 | EV 3 for four minions  |
 | :---------------------: | :-----------------: | :----------------: | :-------------------------------------------: | :--------------------: |
 |    **1M**<br/> Size     |  **7**<br/> Speed   | **4**<br/> Stamina |             **0**<br/> Stability              | **1**<br/> Free Strike |
-|   **-**<br/> Immunity   | **-**<br/> Movement |         -          | **Gain an edge on strikes**<br/> With Captain | **-**<br/> Weaknesses  |
+|   **-**<br/> Immunity   | **-**<br/> Movement |         -          | **Gain an edge on strikes**<br/> With Captain |  **-**<br/> Weakness   |
 |    **0**<br/> Might     | **+2**<br/> Agility | **0**<br/> Reason  |             **0**<br/> Intuition              |  **+1**<br/> Presence  |
 
 <!-- -->
@@ -8787,7 +8793,7 @@ At the start of any wode elf's turn, you can spend Malice to activate
 > - **12-16:** 2 damage
 > - **17+:** 3 damage
 >
-> **Effect:** If this ability is used as part of the Charge main action, the runner shifts up to 2 squares first
+> **Effect:** If this ability is used as part of the Charge main action, the runner shifts up to 2 squares first.
 
 <!-- -->
 > ⭐️ **Masking Glamor**
@@ -8799,7 +8805,7 @@ At the start of any wode elf's turn, you can spend Malice to activate
 | Fey, Humanoid, Wode Elf |          -          |      Level 1       |                Minion Ambusher                | EV 3 for four minions  |
 | :---------------------: | :-----------------: | :----------------: | :-------------------------------------------: | :--------------------: |
 |    **1M**<br/> Size     |  **10**<br/> Speed  | **4**<br/> Stamina |             **0**<br/> Stability              | **2**<br/> Free Strike |
-|   **-**<br/> Immunity   | **-**<br/> Movement |         -          | **Gain an edge on strikes**<br/> With Captain | **-**<br/> Weaknesses  |
+|   **-**<br/> Immunity   | **-**<br/> Movement |         -          | **Gain an edge on strikes**<br/> With Captain |  **-**<br/> Weakness   |
 |    **0**<br/> Might     | **+2**<br/> Agility | **0**<br/> Reason  |             **0**<br/> Intuition              |  **+1**<br/> Presence  |
 
 <!-- -->
@@ -8830,7 +8836,7 @@ At the start of any wode elf's turn, you can spend Malice to activate
 | Fey, Humanoid, Wode Elf |          -          |      Level 1       |                 Minion Artillery                 | EV 3 for four minions  |
 | :---------------------: | :-----------------: | :----------------: | :----------------------------------------------: | :--------------------: |
 |    **1M**<br/> Size     |  **7**<br/> Speed   | **3**<br/> Stamina |               **0**<br/> Stability               | **2**<br/> Free Strike |
-|   **-**<br/> Immunity   | **-**<br/> Movement |         -          | **+1 damage bonus to strikes**<br/> With Captain | **-**<br/> Weaknesses  |
+|   **-**<br/> Immunity   | **-**<br/> Movement |         -          | **+1 damage bonus to strikes**<br/> With Captain |  **-**<br/> Weakness   |
 |    **0**<br/> Might     | **+2**<br/> Agility | **0**<br/> Reason  |               **0**<br/> Intuition               |  **+1**<br/> Presence  |
 
 <!-- -->
@@ -8856,7 +8862,7 @@ At the start of any wode elf's turn, you can spend Malice to activate
 | Fey, Humanoid, Wode Elf |            -            |       Level 2       |     Platoon Harrier     |          EV 8          |
 | :---------------------: | :---------------------: | :-----------------: | :---------------------: | :--------------------: |
 |    **1M**<br/> Size     |    **7**<br/> Speed     | **40**<br/> Stamina |  **0**<br/> Stability   | **4**<br/> Free Strike |
-|   **-**<br/> Immunity   | **Climb**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+|   **-**<br/> Immunity   | **Climb**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |    **+1**<br/> Might    |   **+2**<br/> Agility   |  **0**<br/> Reason  |  **0**<br/> Intuition   |  **+1**<br/> Presence  |
 
 <!-- -->
@@ -8895,7 +8901,7 @@ At the start of any wode elf's turn, you can spend Malice to activate
 | Fey, Humanoid, Wode Elf |            -            |       Level 2       |   Platoon Controller    |          EV 8          |
 | :---------------------: | :---------------------: | :-----------------: | :---------------------: | :--------------------: |
 |    **1M**<br/> Size     |    **7**<br/> Speed     | **30**<br/> Stamina |  **0**<br/> Stability   | **3**<br/> Free Strike |
-|   **-**<br/> Immunity   | **Climb**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+|   **-**<br/> Immunity   | **Climb**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |    **0**<br/> Might     |   **+1**<br/> Agility   |  **0**<br/> Reason  |  **0**<br/> Intuition   |  **+2**<br/> Presence  |
 
 <!-- -->
@@ -8946,7 +8952,7 @@ Wode elves are highly mobile and adept at hindering their enemies. A common tact
 | Fey, Humanoid, Wode Elf |          -          |       Level 1       |      Platoon Hexer      |          EV 6          |
 | :---------------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |    **1M**<br/> Size     |  **7**<br/> Speed   | **20**<br/> Stamina |  **0**<br/> Stability   | **3**<br/> Free Strike |
-|   **-**<br/> Immunity   | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+|   **-**<br/> Immunity   | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |    **0**<br/> Might     | **+1**<br/> Agility |  **0**<br/> Reason  |  **+2**<br/> Intuition  |  **+1**<br/> Presence  |
 
 <!-- -->
@@ -8997,10 +9003,10 @@ Wode elves are highly mobile and adept at hindering their enemies. A common tact
 
 ###### Wode Elf Greenskeeper
 
-| Fey, Humanoid, Wide Elf |          -          |       Level 1       |    Platoon Defender     |          EV 6          |
+| Fey, Humanoid, Wode Elf |          -          |       Level 1       |    Platoon Defender     |          EV 6          |
 | :---------------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |    **1M**<br/> Size     |  **7**<br/> Speed   | **40**<br/> Stamina |  **0**<br/> Stability   | **3**<br/> Free Strike |
-|   **-**<br/> Immunity   | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+|   **-**<br/> Immunity   | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |    **0**<br/> Might     | **+2**<br/> Agility |  **0**<br/> Reason  |  **0**<br/> Intuition   |  **+1**<br/> Presence  |
 
 <!-- -->
@@ -9016,7 +9022,7 @@ Wode elves are highly mobile and adept at hindering their enemies. A common tact
 > - **12-16:** 7 damage
 > - **17+:** 9 damage
 >
-> **Effect:** The target is taunted until the end of their next turn, and the greenskeeper shifts up to 3 squares
+> **Effect:** The target is taunted until the end of their next turn, and the greenskeeper shifts up to 3 squares.
 >
 > **2 Malice:** The distance increases to Melee 5.
 
@@ -9039,7 +9045,7 @@ Wode elves are highly mobile and adept at hindering their enemies. A common tact
 | Fey, Humanoid, Wode Elf |             -              |       Level 3       |    Platoon Ambusher     |         EV 10          |
 | :---------------------: | :------------------------: | :-----------------: | :---------------------: | :--------------------: |
 |    **1M**<br/> Size     |      **7**<br/> Speed      | **50**<br/> Stamina |  **0**<br/> Stability   | **5**<br/> Free Strike |
-|   **-**<br/> Immunity   | **Teleport**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+|   **-**<br/> Immunity   | **Teleport**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |    **0**<br/> Might     |    **+2**<br/> Agility     |  **0**<br/> Reason  |  **0**<br/> Intuition   |  **+1**<br/> Presence  |
 
 <!-- -->
@@ -9087,7 +9093,7 @@ Wode elves are highly mobile and adept at hindering their enemies. A common tact
 | Fey, Humanoid, Wode Elf |            -            |       Level 3       |    Platoon Artillery    |         EV 10          |
 | :---------------------: | :---------------------: | :-----------------: | :---------------------: | :--------------------: |
 |    **1M**<br/> Size     |    **7**<br/> Speed     | **40**<br/> Stamina |  **0**<br/> Stability   | **5**<br/> Free Strike |
-|   **-**<br/> Immunity   | **Climb**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+|   **-**<br/> Immunity   | **Climb**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |    **0**<br/> Might     |   **+2**<br/> Agility   |  **0**<br/> Reason  |  **+1**<br/> Intuition  |  **0**<br/> Presence   |
 
 <!-- -->
@@ -9103,7 +9109,7 @@ Wode elves are highly mobile and adept at hindering their enemies. A common tact
 > - **12-16:** 11 damage
 > - **17+:** 14 damage; A < 2 restrained (save ends)
 >
-> **Effect:** The gweiadur shifts up to 3 squares
+> **Effect:** The gweiadur shifts up to 3 squares.
 >
 > **3 Malice:** If this ability restrains the target, one enemy adjacent to the target is also restrained (save ends).
 
@@ -9132,7 +9138,7 @@ Wode elves are highly mobile and adept at hindering their enemies. A common tact
 | Fey, Humanoid, Wode Elf |          -          |       Level 1       |     Platoon Support     |          EV 6          |
 | :---------------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |    **1M**<br/> Size     |  **7**<br/> Speed   | **30**<br/> Stamina |  **0**<br/> Stability   | **3**<br/> Free Strike |
-|   **-**<br/> Immunity   | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+|   **-**<br/> Immunity   | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |    **0**<br/> Might     | **+2**<br/> Agility |  **0**<br/> Reason  |  **0**<br/> Intuition   |  **+1**<br/> Presence  |
 
 <!-- -->
@@ -9168,10 +9174,10 @@ Wode elves are highly mobile and adept at hindering their enemies. A common tact
 
 ###### Wode Elf Warleader
 
-| Fey, Humanoid. Wode Elf |             -              |       Level 3        |         Leader          |         EV 20          |
+| Fey, Humanoid, Wode Elf |             -              |       Level 3        |         Leader          |         EV 20          |
 | :---------------------: | :------------------------: | :------------------: | :---------------------: | :--------------------: |
 |    **1M**<br/> Size     |      **7**<br/> Speed      | **120**<br/> Stamina |  **2**<br/> Stability   | **5**<br/> Free Strike |
-|   **-**<br/> Immunity   | **Teleport**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+|   **-**<br/> Immunity   | **Teleport**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |    **+2**<br/> Might    |    **+3**<br/> Agility     |  **+2**<br/> Reason  |  **+2**<br/> Intuition  |  **+2**<br/> Presence  |
 
 <!-- -->
@@ -9258,7 +9264,7 @@ Wode elves are highly mobile and adept at hindering their enemies. A common tact
 |   Plant, Wode Elf   |          -          |       Level 1       |      Platoon Mount      |          EV 6          |
 | :-----------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |   **2**<br/> Size   |  **10**<br/> Speed  | **30**<br/> Stamina |  **1**<br/> Stability   | **3**<br/> Free Strike |
-| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |  **+2**<br/> Might  | **+1**<br/> Agility | **-1**<br/> Reason  |  **0**<br/> Intuition   |  **-1**<br/> Presence  |
 
 <!-- -->
@@ -9302,7 +9308,7 @@ Wode elves are highly mobile and adept at hindering their enemies. A common tact
 
 ## Fossil Cryptic
 
-The cave-diving humans who first found fossil cryptics initially thought they were the fossilized reanimated skeletons of creatures predating recorded history. When the explorers' priest presented a holy symbol and attempted to turn the cryptics, he learned these fossilized bones aren't mindless undead-and seconds later, he wound up crushed to death by a pillar of stone.
+The cave-diving humans who first found fossil cryptics initially thought they were the fossilized reanimated skeletons of creatures predating recorded history. When the explorers' priest presented a holy symbol and attempted to turn the cryptics, he learned these fossilized bones aren't mindless undead—and seconds later, he wound up crushed to death by a pillar of stone.
 
 #### Primal Sentries
 
@@ -9353,7 +9359,7 @@ At the start of a fossil cryptic's turn, you can spend Malice to activate one of
 |      Elemental      |            -             |       Level 2        |          Solo           |         EV 48          |
 | :-----------------: | :----------------------: | :------------------: | :---------------------: | :--------------------: |
 |  **1L**<br/> Size   |     **8**<br/> Speed     | **250**<br/> Stamina |  **3**<br/> Stability   | **5**<br/> Free Strike |
-| **-**<br/> Immunity | **Burrow**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **Burrow**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |  **+3**<br/> Might  |   **+2**<br/> Agility    |  **+1**<br/> Reason  |  **+1**<br/> Intuition  |  **0**<br/> Presence   |
 
 <!-- -->
@@ -9366,7 +9372,7 @@ At the start of a fossil cryptic's turn, you can spend Malice to activate one of
 <!-- -->
 > ⭐️ **Churning Trunk**
 >
-> The cryptic is constantly surrounded by a 1 aura of swirling debris that obscures their form. Ranged abilities that target the cryptic take a bane. Additionally, any enemy who enters the aura for the first time in a round or starts their turn there takes 5 damage
+> The cryptic is constantly surrounded by a 1 aura of swirling debris that obscures their form. Ranged abilities that target the cryptic take a bane. Additionally, any enemy who enters the aura for the first time in a round or starts their turn there takes 5 damage.
 
 <!-- -->
 > ⭐️ **Seismic Step**
@@ -9423,7 +9429,7 @@ At the start of a fossil cryptic's turn, you can spend Malice to activate one of
 >
 > **Trigger:** The cryptic takes damage.
 >
-> **Effect:** The cryptic halves the damage, ignores any nondamaging effects associated with it, and shifts up to 3 squares
+> **Effect:** The cryptic halves the damage, ignores any nondamaging effects associated with it, and shifts up to 3 squares.
 
 <!-- -->
 > ❗️ **Shatterstone (5 Malice)**
@@ -9501,7 +9507,7 @@ Supremely well adapted to harsh environments, giants thrive in extreme condition
 
 #### Adaptable and Elemental
 
-Giants physically resemble the territory they inhabit. A band of frost giants doesn't simply live on a glacial mountain-they're part of that mountain, and it's part of them. Fire giants exude heat like a roaring volcano. Sages have long debated the question, "Does the environment shape a giant, or does the giant shape their environment?"
+Giants physically resemble the territory they inhabit. A band of frost giants doesn't simply live on a glacial mountain—they're part of that mountain, and it's part of them. Fire giants exude heat like a roaring volcano. Sages have long debated the question, "Does the environment shape a giant, or does the giant shape their environment?"
 
 #### Distant Cousins
 
@@ -9529,7 +9535,7 @@ Most hill giants spend so much time in quiet peace that sudden flashy sights and
 
 Fascinated by the act of creation, stone giants carve cities out of ancient caverns, mine precious metals and gems, and craft relics worthy of glory. To many a stone giant, artisanship is the highest calling, and all their creations are crafted with an eye to beauty and longevity.
 
-Stone giants are made of the same kinds of rocks that form their homes-sandstone, marble, granite, and even basalt. Their stone bodies not only protect them from attack, but also provide them with an additional outlet for self-expression. They often carve runes into their skin, which serve a wide variety of artistic and cultural purposes.
+Stone giants are made of the same kinds of rocks that form their homes—sandstone, marble, granite, and even basalt. Their stone bodies not only protect them from attack, but also provide them with an additional outlet for self-expression. They often carve runes into their skin, which serve a wide variety of artistic and cultural purposes.
 
 #### Giant Languages
 
@@ -9571,7 +9577,7 @@ At the start of any giant's turn, you can spend Malice to activate one of the fo
 |    Fire Giant, Giant     |          -          |       Level 9       |             Minion Harrier              | EV 11 for four minions |
 | :----------------------: | :-----------------: | :-----------------: | :-------------------------------------: | :--------------------: |
 |     **4**<br/> Size      |  **7**<br/> Speed   | **13**<br/> Stamina |          **5**<br/> Stability           | **3**<br/> Free Strike |
-| **Fire 9**<br/> Immunity | **-**<br/> Movement |          -          | **+3 bonus to speed**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Fire 9**<br/> Immunity | **-**<br/> Movement |          -          | **+3 bonus to speed**<br/> With Captain |  **-**<br/> Weakness   |
 |    **+4**<br/> Might     | **+2**<br/> Agility |  **0**<br/> Reason  |          **+2**<br/> Intuition          |  **+1**<br/> Presence  |
 
 <!-- -->
@@ -9599,7 +9605,7 @@ At the start of any giant's turn, you can spend Malice to activate one of the fo
 |    Frost Giant, Giant    |          -          |       Level 8       |                 Minion Artillery                 | EV 10 for four minions |
 | :----------------------: | :-----------------: | :-----------------: | :----------------------------------------------: | :--------------------: |
 |     **4**<br/> Size      |  **7**<br/> Speed   | **12**<br/> Stamina |               **5**<br/> Stability               | **4**<br/> Free Strike |
-| **Cold 8**<br/> Immunity | **-**<br/> Movement |          -          | **+3 damage bonus to strikes**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Cold 8**<br/> Immunity | **-**<br/> Movement |          -          | **+3 damage bonus to strikes**<br/> With Captain |  **-**<br/> Weakness   |
 |    **+3**<br/> Might     | **-1**<br/> Agility | **-1**<br/> Reason  |              **+4**<br/> Intuition               |  **+2**<br/> Presence  |
 
 <!-- -->
@@ -9625,7 +9631,7 @@ At the start of any giant's turn, you can spend Malice to activate one of the fo
 |     Giant, Hill Giant      |            -            |       Level 7       |                   Minion Brute                   | EV 9 for four minions  |
 | :------------------------: | :---------------------: | :-----------------: | :----------------------------------------------: | :--------------------: |
 |      **4**<br/> Size       |    **6**<br/> Speed     | **13**<br/> Stamina |               **5**<br/> Stability               | **4**<br/> Free Strike |
-| **Damage 3**<br/> Immunity | **Climb**<br/> Movement |          -          | **+3 damage bonus to strikes**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Damage 3**<br/> Immunity | **Climb**<br/> Movement |          -          | **+3 damage bonus to strikes**<br/> With Captain |  **-**<br/> Weakness   |
 |     **+4**<br/> Might      |   **-1**<br/> Agility   | **-1**<br/> Reason  |              **-1**<br/> Intuition               |  **-1**<br/> Presence  |
 
 <!-- -->
@@ -9653,7 +9659,7 @@ At the start of any giant's turn, you can spend Malice to activate one of the fo
 | Giant, Stone Giant  |            -             |       Level 8       |             Minion Controller             | EV 10 for four minions |
 | :-----------------: | :----------------------: | :-----------------: | :---------------------------------------: | :--------------------: |
 |   **4**<br/> Size   |     **7**<br/> Speed     | **14**<br/> Stamina |           **10**<br/> Stability           | **3**<br/> Free Strike |
-| **-**<br/> Immunity | **Burrow**<br/> Movement |          -          | **+6 bonus to Stamina**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **Burrow**<br/> Movement |          -          | **+6 bonus to Stamina**<br/> With Captain |  **-**<br/> Weakness   |
 |  **+4**<br/> Might  |   **+2**<br/> Agility    |  **0**<br/> Reason  |           **+3**<br/> Intuition           |  **0**<br/> Presence   |
 
 <!-- -->
@@ -9677,7 +9683,7 @@ At the start of any giant's turn, you can spend Malice to activate one of the fo
 <!-- -->
 > ⭐️ **Stone Steps**
 >
-> The sand stone giant ignores difficult terrain
+> The sand stone giant ignores difficult terrain.
 
 <!-- -->
 > ⭐️ **Stone Swim**
@@ -9689,7 +9695,7 @@ At the start of any giant's turn, you can spend Malice to activate one of the fo
 | Giant, Stone Giant  |            -             |       Level 8        |    Elite Controller     |         EV 40          |
 | :-----------------: | :----------------------: | :------------------: | :---------------------: | :--------------------: |
 |   **4**<br/> Size   |     **7**<br/> Speed     | **207**<br/> Stamina |  **10**<br/> Stability  | **8**<br/> Free Strike |
-| **-**<br/> Immunity | **Burrow**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **Burrow**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |  **+4**<br/> Might  |   **+2**<br/> Agility    |  **+1**<br/> Reason  |  **+2**<br/> Intuition  |  **+1**<br/> Presence  |
 
 <!-- -->
@@ -9729,7 +9735,7 @@ At the start of any giant's turn, you can spend Malice to activate one of the fo
 > | ----------- | -----------: |
 > | **📏 Self** |  **🎯 Self** |
 >
-> **Effect:** The basalt stone giant moves up to their speed. Each square that they leave during this move is difficult terrain for enemies Giants ignore this difficult terrain.
+> **Effect:** The basalt stone giant moves up to their speed. Each square that they leave during this move is difficult terrain for enemies. Giants ignore this difficult terrain.
 
 <!-- -->
 > ❗️ **Resonate Rune**
@@ -9750,7 +9756,7 @@ At the start of any giant's turn, you can spend Malice to activate one of the fo
 <!-- -->
 > ⭐️ **Stone Steps**
 >
-> The basalt stone giant ignores difficult terrain
+> The basalt stone giant ignores difficult terrain.
 
 <!-- -->
 > ⭐️ **Stone Swim**
@@ -9762,7 +9768,7 @@ At the start of any giant's turn, you can spend Malice to activate one of the fo
 |    Fire Giant, Giant     |          -          |       Level 9        |      Elite Support      |         EV 44          |
 | :----------------------: | :-----------------: | :------------------: | :---------------------: | :--------------------: |
 |     **4**<br/> Size      |  **8**<br/> Speed   | **200**<br/> Stamina |  **5**<br/> Stability   | **9**<br/> Free Strike |
-| **Fire 9**<br/> Immunity | **-**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Fire 9**<br/> Immunity | **-**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |    **+4**<br/> Might     | **+2**<br/> Agility |  **0**<br/> Reason   |  **+4**<br/> Intuition  |  **+1**<br/> Presence  |
 
 <!-- -->
@@ -9828,7 +9834,7 @@ At the start of any giant's turn, you can spend Malice to activate one of the fo
 |    Fire Giant, Giant     |          -          |       Level 9        |       Elite Brute       |          EV 44          |
 | :----------------------: | :-----------------: | :------------------: | :---------------------: | :---------------------: |
 |     **4**<br/> Size      |  **8**<br/> Speed   | **240**<br/> Stamina |  **5**<br/> Stability   | **10**<br/> Free Strike |
-| **Fire 9**<br/> Immunity | **-**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weaknesses  |
+| **Fire 9**<br/> Immunity | **-**<br/> Movement |          -           | **-**<br/> With Captain |   **-**<br/> Weakness   |
 |    **+4**<br/> Might     | **+2**<br/> Agility |  **0**<br/> Reason   |  **+2**<br/> Intuition  |  **+1**<br/> Presence   |
 
 <!-- -->
@@ -9840,7 +9846,7 @@ At the start of any giant's turn, you can spend Malice to activate one of the fo
 >
 > **Power Roll + 4:**
 >
-> - **≤11:** 14 fire damage; push
+> - **≤11:** 14 fire damage; push 2
 > - **12-16:** 19 fire damage; push 4; A < 3 burning (save ends)
 > - **17+:** 23 fire damage; push 6; A < 4 burning (save ends)
 >
@@ -9906,7 +9912,7 @@ At the start of any giant's turn, you can spend Malice to activate one of the fo
 |    Frost Giant, Giant    |          -          |       Level 8        |     Elite Artillery     |         EV 40          |
 | :----------------------: | :-----------------: | :------------------: | :---------------------: | :--------------------: |
 |     **4**<br/> Size      |  **7**<br/> Speed   | **180**<br/> Stamina |  **5**<br/> Stability   | **9**<br/> Free Strike |
-| **Cold 8**<br/> Immunity | **-**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Cold 8**<br/> Immunity | **-**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |    **+4**<br/> Might     | **-1**<br/> Agility |  **0**<br/> Reason   |  **0**<br/> Intuition   |  **0**<br/> Presence   |
 
 <!-- -->
@@ -9967,7 +9973,7 @@ At the start of any giant's turn, you can spend Malice to activate one of the fo
 |    Frost Giant, Giant    |          -          |       Level 8        |      Elite Harrier      |         EV 40          |
 | :----------------------: | :-----------------: | :------------------: | :---------------------: | :--------------------: |
 |     **4**<br/> Size      |  **10**<br/> Speed  | **200**<br/> Stamina |  **5**<br/> Stability   | **8**<br/> Free Strike |
-| **Cold 8**<br/> Immunity | **-**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Cold 8**<br/> Immunity | **-**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |    **+4**<br/> Might     | **+4**<br/> Agility |  **-1**<br/> Reason  |  **0**<br/> Intuition   |  **0**<br/> Presence   |
 
 <!-- -->
@@ -10029,7 +10035,7 @@ At the start of any giant's turn, you can spend Malice to activate one of the fo
 | Giant, Stone Giant  |            -             |       Level 8        |     Elite Defender      |         EV 40          |
 | :-----------------: | :----------------------: | :------------------: | :---------------------: | :--------------------: |
 |   **4**<br/> Size   |     **7**<br/> Speed     | **247**<br/> Stamina |  **10**<br/> Stability  | **8**<br/> Free Strike |
-| **-**<br/> Immunity | **Burrow**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **Burrow**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |  **+4**<br/> Might  |   **+1**<br/> Agility    |  **+1**<br/> Reason  |  **+2**<br/> Intuition  |  **+1**<br/> Presence  |
 
 <!-- -->
@@ -10102,7 +10108,7 @@ At the start of any giant's turn, you can spend Malice to activate one of the fo
 |     Giant, Hill Giant      |            -            |       Level 7        |       Elite Brute       |         EV 36          |
 | :------------------------: | :---------------------: | :------------------: | :---------------------: | :--------------------: |
 |      **4**<br/> Size       |    **6**<br/> Speed     | **200**<br/> Stamina |  **5**<br/> Stability   | **8**<br/> Free Strike |
-| **Damage 3**<br/> Immunity | **Climb**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Damage 3**<br/> Immunity | **Climb**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |     **+4**<br/> Might      |   **-1**<br/> Agility   |  **-1**<br/> Reason  |  **-1**<br/> Intuition  |  **-1**<br/> Presence  |
 
 <!-- -->
@@ -10175,14 +10181,14 @@ At the start of any giant's turn, you can spend Malice to activate one of the fo
 <!-- -->
 > ⭐️ **Distracted**
 >
-> Whenever the clobberer targets a creature or object with an ability, any enemy within distance of the ability can use a free triggered action to distract the clobberer. The clobberer targets that enemy instead
+> Whenever the clobberer targets a creature or object with an ability, any enemy within distance of the ability can use a free triggered action to distract the clobberer. The clobberer targets that enemy instead.
 
 ###### Marble Stone Giant
 
 | Giant, Stone Giant  |            -             |       Level 8        |       Elite Hexer       |         EV 40          |
 | :-----------------: | :----------------------: | :------------------: | :---------------------: | :--------------------: |
 |   **4**<br/> Size   |     **6**<br/> Speed     | **207**<br/> Stamina |  **10**<br/> Stability  | **8**<br/> Free Strike |
-| **-**<br/> Immunity | **Burrow**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **Burrow**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |  **+4**<br/> Might  |   **+3**<br/> Agility    |  **0**<br/> Reason   |  **+3**<br/> Intuition  |  **0**<br/> Presence   |
 
 <!-- -->
@@ -10255,7 +10261,7 @@ At the start of any giant's turn, you can spend Malice to activate one of the fo
 |     Fire Giant, Giant     |          -          |       Level 9        |         Leader          |         EV 44          |
 | :-----------------------: | :-----------------: | :------------------: | :---------------------: | :--------------------: |
 |      **5**<br/> Size      |  **10**<br/> Speed  | **240**<br/> Stamina |  **10**<br/> Stability  | **9**<br/> Free Strike |
-| **Fire 10**<br/> Immunity | **-**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Fire 10**<br/> Immunity | **-**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |     **+5**<br/> Might     | **+3**<br/> Agility |  **0**<br/> Reason   |  **+2**<br/> Intuition  |  **+3**<br/> Presence  |
 
 <!-- -->
@@ -10280,9 +10286,9 @@ At the start of any giant's turn, you can spend Malice to activate one of the fo
 >
 > **Power Roll + 5:**
 >
-> - **≤11:** 14 damage; push 5; A < 3, 9 fire damage
-> - **12-16:** 19 damage; push 10; A < 4, 9 fire damage
-> - **17+:** 23 damage; push 15; A < 5, 9 fire damage
+> - **≤11:** 14 damage; push 5; A < 3 9 fire damage
+> - **12-16:** 19 damage; push 10; A < 4 9 fire damage
+> - **17+:** 23 damage; push 15; A < 5 9 fire damage
 
 <!-- -->
 > 🔳 **Lava Pillar (3 Malice)**
@@ -10293,9 +10299,9 @@ At the start of any giant's turn, you can spend Malice to activate one of the fo
 >
 > **Power Roll + 5:**
 >
-> - **≤11:** 5 fire damage; M < 3, vertical push 3
-> - **12-16:** 7 fire damage; M < 4, vertical push 4
-> - **17+:** 9 fire damage; M < 5, vertical push 5
+> - **≤11:** 5 fire damage; M < 3 vertical push 3
+> - **12-16:** 7 fire damage; M < 4 vertical push 4
+> - **17+:** 9 fire damage; M < 5 vertical push 5
 
 <!-- -->
 > ❗️ **Fuel the Fire (1 Malice)**
@@ -10329,9 +10335,9 @@ At the start of any giant's turn, you can spend Malice to activate one of the fo
 <!-- -->
 > ☠️ **All to Cinders (Villain Action 3)**
 >
-> | **Area**        |                                           **-** |
-> | --------------- | ----------------------------------------------: |
-> | **📏 10 burst** | **🎯 Self and each fire giant ally in the are** |
+> | **Area**        |                                            **-** |
+> | --------------- | -----------------------------------------------: |
+> | **📏 10 burst** | **🎯 Self and each fire giant ally in the area** |
 >
 > **Effect:** Each target unleashes a wave of fire, and each enemy within 2 squares of any target makes an Agility test. An enemy affected by two targets takes a bane on the test, while an enemy affected by three or more targets has a double bane.
 >
@@ -10350,13 +10356,13 @@ Edacity. The hyena-faced gnolls know only blood and hunger. These fiends carry w
 
 #### Born From Blood
 
-The Abyssal Waste is an alien landscape hostile to most life. Yet amid its desolation, fiendish creatures thrive, including abyssal hyenas-bloodthirsty scavengers who fight with other lesser fiends over the corpses of demons. The first gnolls arose when a pack of those predators lapped at the ichor oozing from the wounds of a dying demon prince, As'sylrak the Warper.
+The Abyssal Waste is an alien landscape hostile to most life. Yet amid its desolation, fiendish creatures thrive, including abyssal hyenas—bloodthirsty scavengers who fight with other lesser fiends over the corpses of demons. The first gnolls arose when a pack of those predators lapped at the ichor oozing from the wounds of a dying demon prince, As'sylrak the Warper.
 
 As his last act, the demon gave the fiendish hyenas a demonic cunning to match their insatiable hunger, bound his evil will to theirs, and turned their paws into hands so they could wield weapons. He called these new fiends "gnoll," an Abyssal word that has many meanings, one of which is "to consume completely." And true to their name, the gnolls immediately devoured their creator.
 
 #### Ceaseless Hunger
 
-The merciless gnolls quickly spread across the timescape in search of new victims to quench their never-ending hunger. Their packs were originally followed by some of the abyssal hyenas who didn't receive As'sylrak's blessing, with those tagalongs enjoying the castoffs of the gnoll packs. Gnolls never forgot the day when they tasted immortal flesh-and they hunger for more, longing for a day when they hunt the gods themselves through heavenly halls.
+The merciless gnolls quickly spread across the timescape in search of new victims to quench their never-ending hunger. Their packs were originally followed by some of the abyssal hyenas who didn't receive As'sylrak's blessing, with those tagalongs enjoying the castoffs of the gnoll packs. Gnolls never forgot the day when they tasted immortal flesh—and they hunger for more, longing for a day when they hunt the gods themselves through heavenly halls.
 
 #### Gnoll War
 
@@ -10368,7 +10374,7 @@ Stronger and smarter than their beastly counterparts, abyssal hyenas crawl out o
 
 #### Tusker Demons
 
-Towering among the gnolls of a war band, the elephantine tusker demon serves as beast of burden and war machine. Tusker demons have no facial features except a twisted crown of tusks that surrounds their ravening maw. Although they usually follow gnoll commands, tuskers in lethe (see the Demons section) are prone to violent outbursts and charge at anything that moves-enemies and allies alike.
+Towering among the gnolls of a war band, the elephantine tusker demon serves as beast of burden and war machine. Tusker demons have no facial features except a twisted crown of tusks that surrounds their ravening maw. Although they usually follow gnoll commands, tuskers in lethe (see the [Demons](#demons) section) are prone to violent outbursts and charge at anything that moves—enemies and allies alike.
 
 #### Gnoll Languages
 
@@ -10412,7 +10418,7 @@ At the start of any gnoll's turn, you can spend Malice to activate one of the fo
 | Abyssal, Animal, Gnoll |          -          |      Level 2       |              Minion Brute               | EV 4 for four minions  |
 | :--------------------: | :-----------------: | :----------------: | :-------------------------------------: | :--------------------: |
 |    **1M**<br/> Size    |  **8**<br/> Speed   | **7**<br/> Stamina |          **1**<br/> Stability           | **3**<br/> Free Strike |
-|  **-**<br/> Immunity   | **-**<br/> Movement |         -          | **+2 bonus to speed**<br/> With Captain | **-**<br/> Weaknesses  |
+|  **-**<br/> Immunity   | **-**<br/> Movement |         -          | **+2 bonus to speed**<br/> With Captain |  **-**<br/> Weakness   |
 |   **+2**<br/> Might    | **+1**<br/> Agility | **-3**<br/> Reason |          **0**<br/> Intuition           |  **-2**<br/> Presence  |
 
 <!-- -->
@@ -10433,12 +10439,12 @@ At the start of any gnoll's turn, you can spend Malice to activate one of the fo
 >
 > When the abyssal hyena is reduced to 0 Stamina, they can make a melee free strike before dying.
 
-###### Gnoll Chainflai
+###### Gnoll Chainflail
 
 |   Abyssal, Gnoll    |          -          |      Level 2       |                 Minion Artillery                 | EV 4 for four minions  |
 | :-----------------: | :-----------------: | :----------------: | :----------------------------------------------: | :--------------------: |
 |  **1M**<br/> Size   |  **5**<br/> Speed   | **4**<br/> Stamina |               **1**<br/> Stability               | **3**<br/> Free Strike |
-| **-**<br/> Immunity | **-**<br/> Movement |         -          | **+1 damage bonus to strikes**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **-**<br/> Movement |         -          | **+1 damage bonus to strikes**<br/> With Captain |  **-**<br/> Weakness   |
 |  **+2**<br/> Might  | **0**<br/> Agility  | **+1**<br/> Reason |               **0**<br/> Intuition               |  **-2**<br/> Presence  |
 
 <!-- -->
@@ -10464,7 +10470,7 @@ At the start of any gnoll's turn, you can spend Malice to activate one of the fo
 |   Abyssal, Gnoll    |          -          |      Level 2       |                   Minion Hexer                   | EV 4 for four minions  |
 | :-----------------: | :-----------------: | :----------------: | :----------------------------------------------: | :--------------------: |
 |  **1M**<br/> Size   |  **5**<br/> Speed   | **4**<br/> Stamina |               **1**<br/> Stability               | **2**<br/> Free Strike |
-| **-**<br/> Immunity | **-**<br/> Movement |         -          | **+2 bonus to melee distance**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **-**<br/> Movement |         -          | **+2 bonus to melee distance**<br/> With Captain |  **-**<br/> Weakness   |
 |  **+2**<br/> Might  | **+1**<br/> Agility | **-1**<br/> Reason |               **0**<br/> Intuition               |  **0**<br/> Presence   |
 
 <!-- -->
@@ -10492,7 +10498,7 @@ At the start of any gnoll's turn, you can spend Malice to activate one of the fo
 |   Abyssal, Gnoll    |          -          |      Level 2       |                Minion Harrier                 | EV 4 for four minions  |
 | :-----------------: | :-----------------: | :----------------: | :-------------------------------------------: | :--------------------: |
 |  **1M**<br/> Size   |  **7**<br/> Speed   | **5**<br/> Stamina |             **1**<br/> Stability              | **2**<br/> Free Strike |
-| **-**<br/> Immunity | **-**<br/> Movement |         -          | **Gain an edge on strikes**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **-**<br/> Movement |         -          | **Gain an edge on strikes**<br/> With Captain |  **-**<br/> Weakness   |
 |  **+1**<br/> Might  | **+2**<br/> Agility | **+0**<br/> Reason |             **+0**<br/> Intuition             |  **-2**<br/> Presence  |
 
 <!-- -->
@@ -10518,7 +10524,7 @@ At the start of any gnoll's turn, you can spend Malice to activate one of the fo
 |   Abyssal, Gnoll    |          -          |       Level 2       |     Horde Artillery     |          EV 4          |
 | :-----------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |  **1M**<br/> Size   |  **5**<br/> Speed   | **15**<br/> Stamina |  **1**<br/> Stability   | **3**<br/> Free Strike |
-| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |  **0**<br/> Might   | **+2**<br/> Agility | **+1**<br/> Reason  |  **0**<br/> Intuition   |  **-1**<br/> Presence  |
 
 <!-- -->
@@ -10560,7 +10566,7 @@ At the start of any gnoll's turn, you can spend Malice to activate one of the fo
 |   Abyssal, Gnoll    |          -          |       Level 2       |      Horde Support      |          EV 4          |
 | :-----------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |  **1M**<br/> Size   |  **5**<br/> Speed   | **20**<br/> Stamina |  **1**<br/> Stability   | **2**<br/> Free Strike |
-| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |  **+1**<br/> Might  | **0**<br/> Agility  |  **0**<br/> Reason  |  **+2**<br/> Intuition  |  **+2**<br/> Presence  |
 
 <!-- -->
@@ -10606,7 +10612,7 @@ At the start of any gnoll's turn, you can spend Malice to activate one of the fo
 |   Abyssal, Gnoll    |          -          |       Level 2       |       Horde Brute       |          EV 4          |
 | :-----------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |  **1L**<br/> Size   |  **5**<br/> Speed   | **25**<br/> Stamina |  **1**<br/> Stability   | **3**<br/> Free Strike |
-| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |  **+2**<br/> Might  | **+1**<br/> Agility |  **0**<br/> Reason  |  **0**<br/> Intuition   |  **+1**<br/> Presence  |
 
 <!-- -->
@@ -10643,7 +10649,7 @@ At the start of any gnoll's turn, you can spend Malice to activate one of the fo
 |   Abyssal, Gnoll    |          -          |       Level 2       |       Horde Hexer       |          EV 4          |
 | :-----------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |  **1S**<br/> Size   |  **5**<br/> Speed   | **15**<br/> Stamina |  **1**<br/> Stability   | **2**<br/> Free Strike |
-| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |  **0**<br/> Might   | **0**<br/> Agility  | **+2**<br/> Reason  |  **+2**<br/> Intuition  |  **+2**<br/> Presence  |
 
 <!-- -->
@@ -10684,7 +10690,7 @@ At the start of any gnoll's turn, you can spend Malice to activate one of the fo
 |   Abyssal, Gnoll    |          -          |       Level 2       |      Horde Harrier      |          EV 4          |
 | :-----------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |  **1M**<br/> Size   |  **7**<br/> Speed   | **20**<br/> Stamina |  **1**<br/> Stability   | **2**<br/> Free Strike |
-| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |  **+1**<br/> Might  | **+1**<br/> Agility |  **0**<br/> Reason  |  **0**<br/> Intuition   |  **+1**<br/> Presence  |
 
 <!-- -->
@@ -10721,7 +10727,7 @@ At the start of any gnoll's turn, you can spend Malice to activate one of the fo
 | Abyssal, Demon, Gnoll |          -          |       Level 2        |       Elite Brute       |         EV 16          |
 | :-------------------: | :-----------------: | :------------------: | :---------------------: | :--------------------: |
 |    **3**<br/> Size    |  **7**<br/> Speed   | **100**<br/> Stamina |  **3**<br/> Stability   | **5**<br/> Free Strike |
-|  **-**<br/> Immunity  | **-**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+|  **-**<br/> Immunity  | **-**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |   **+2**<br/> Might   | **-1**<br/> Agility |  **-3**<br/> Reason  |  **0**<br/> Intuition   |  **-1**<br/> Presence  |
 
 <!-- -->
@@ -10758,14 +10764,14 @@ At the start of any gnoll's turn, you can spend Malice to activate one of the fo
 <!-- -->
 > ⭐️ **Lethe**
 >
-> While the tusker demon is winded, they gain an edge on strikes, and any strike made against them gains an edge
+> While the tusker demon is winded, they gain an edge on strikes, and any strike made against them gains an edge.
 
 ###### Gnoll Carnage
 
 |   Abyssal, Gnoll    |          -          |       Level 2        |         Leader          |         EV 16          |
 | :-----------------: | :-----------------: | :------------------: | :---------------------: | :--------------------: |
 |  **1M**<br/> Size   |  **5**<br/> Speed   | **100**<br/> Stamina |  **1**<br/> Stability   | **5**<br/> Free Strike |
-| **-**<br/> Immunity | **-**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **-**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |  **+3**<br/> Might  | **+3**<br/> Agility |  **0**<br/> Reason   |  **0**<br/> Intuition   |  **+3**<br/> Presence  |
 
 <!-- -->
@@ -10848,7 +10854,7 @@ Their long arms and prehensile toes make goblins particularly well adapted to en
 
 #### Encountered in Groups
 
-Whether within a society or living in exile, goblins survive and thrive because they work together. A single goblin forced into the wild is terrified. A dozen outlaw goblins are supremely confident-perhaps overly so. Such groups often become bandits who ambush travelers crossing through their territory, be it desert, forest, or underground. Larger goblin hordes might become unscrupulous mercenaries serving powerful villains. No matter how they're encountered, goblins prefer to fight as an overwhelming force and to flee when foes outnumber friends.
+Whether within a society or living in exile, goblins survive and thrive because they work together. A single goblin forced into the wild is terrified. A dozen outlaw goblins are supremely confident—perhaps overly so. Such groups often become bandits who ambush travelers crossing through their territory, be it desert, forest, or underground. Larger goblin hordes might become unscrupulous mercenaries serving powerful villains. No matter how they're encountered, goblins prefer to fight as an overwhelming force and to flee when foes outnumber friends.
 
 ###### Goblin Malice (Malice Features)
 
@@ -10891,7 +10897,7 @@ Goblins ride enormous arachnids as mounts in battle. With blades attached to the
 
 #### Worg
 
-Some goblins form a special bond with worgs-canine creatures raised by many goblin communities as mounts, guardians, and companions. A worg stays loyal to the hand that feeds them, and will protect their handler to the bitter end.
+Some goblins form a special bond with worgs—canine creatures raised by many goblin communities as mounts, guardians, and companions. A worg stays loyal to the hand that feeds them, and will protect their handler to the bitter end.
 
 #### Goblin Languages
 
@@ -10902,7 +10908,7 @@ Most goblins speak Caelian and Szetch.
 |  Goblin, Humanoid   |            -            |      Level 1       |                Minion Harrier                 | EV 3 for four minions  |
 | :-----------------: | :---------------------: | :----------------: | :-------------------------------------------: | :--------------------: |
 |  **1S**<br/> Size   |    **6**<br/> Speed     | **4**<br/> Stamina |             **0**<br/> Stability              | **1**<br/> Free Strike |
-| **-**<br/> Immunity | **Climb**<br/> Movement |         -          | **Gain an edge on strikes**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **Climb**<br/> Movement |         -          | **Gain an edge on strikes**<br/> With Captain |  **-**<br/> Weakness   |
 |  **-2**<br/> Might  |   **+2**<br/> Agility   | **0**<br/> Reason  |             **0**<br/> Intuition              |  **-1**<br/> Presence  |
 
 <!-- -->
@@ -10921,14 +10927,14 @@ Most goblins speak Caelian and Szetch.
 <!-- -->
 > ⭐️ **Crafty**
 >
-> The runner doesn't provoke opportunity attacks by moving
+> The runner doesn't provoke opportunity attacks by moving.
 
 ###### Goblin Sniper
 
 |  Goblin, Humanoid   |            -            |      Level 1       |                 Minion Artillery                  | EV 3 for four minions  |
 | :-----------------: | :---------------------: | :----------------: | :-----------------------------------------------: | :--------------------: |
 |  **1S**<br/> Size   |    **5**<br/> Speed     | **3**<br/> Stamina |               **0**<br/> Stability                | **2**<br/> Free Strike |
-| **-**<br/> Immunity | **Climb**<br/> Movement |         -          | **+5 bonus to ranged distance**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **Climb**<br/> Movement |         -          | **+5 bonus to ranged distance**<br/> With Captain |  **-**<br/> Weakness   |
 |  **-2**<br/> Might  |   **+2**<br/> Agility   | **0**<br/> Reason  |               **0**<br/> Intuition                |  **-1**<br/> Presence  |
 
 <!-- -->
@@ -10956,7 +10962,7 @@ Most goblins speak Caelian and Szetch.
 |  Goblin, Humanoid   |            -            |      Level 1       |                   Minion Brute                   | EV 3 for four minions  |
 | :-----------------: | :---------------------: | :----------------: | :----------------------------------------------: | :--------------------: |
 |  **1S**<br/> Size   |    **5**<br/> Speed     | **5**<br/> Stamina |               **0**<br/> Stability               | **2**<br/> Free Strike |
-| **-**<br/> Immunity | **Climb**<br/> Movement |         -          | **+1 damage bonus to strikes**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **Climb**<br/> Movement |         -          | **+1 damage bonus to strikes**<br/> With Captain |  **-**<br/> Weakness   |
 |  **+2**<br/> Might  |   **0**<br/> Agility    | **0**<br/> Reason  |               **0**<br/> Intuition               |  **-1**<br/> Presence  |
 
 <!-- -->
@@ -10975,14 +10981,14 @@ Most goblins speak Caelian and Szetch.
 <!-- -->
 > ⭐️ **Crafty**
 >
-> The spinecleaver doesn't provoke opportunity attacks by moving
+> The spinecleaver doesn't provoke opportunity attacks by moving.
 
 ###### Skitterling
 
 |   Animal, Goblin    |           -           |      Level 1       |              Minion Hexer               | EV 3 for four minions  |
 | :-----------------: | :-------------------: | :----------------: | :-------------------------------------: | :--------------------: |
 |  **1T**<br/> Size   |   **5**<br/> Speed    | **3**<br/> Stamina |          **0**<br/> Stability           | **1**<br/> Free Strike |
-| **-**<br/> Immunity | **Fly**<br/> Movement |         -          | **+3 bonus to speed**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **Fly**<br/> Movement |         -          | **+3 bonus to speed**<br/> With Captain |  **-**<br/> Weakness   |
 |  **-5**<br/> Might  |  **+2**<br/> Agility  | **-4**<br/> Reason |          **0**<br/> Intuition           |  **-2**<br/> Presence  |
 
 <!-- -->
@@ -11005,7 +11011,7 @@ Most goblins speak Caelian and Szetch.
 |  Goblin, Humanoid   |            -            |       Level 1       |     Horde Ambusher      |          EV 3          |
 | :-----------------: | :---------------------: | :-----------------: | :---------------------: | :--------------------: |
 |  **1S**<br/> Size   |    **6**<br/> Speed     | **15**<br/> Stamina |  **0**<br/> Stability   | **2**<br/> Free Strike |
-| **-**<br/> Immunity | **Climb**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **Climb**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |  **-2**<br/> Might  |   **+2**<br/> Agility   |  **0**<br/> Reason  |  **0**<br/> Intuition   |  **-2**<br/> Presence  |
 
 <!-- -->
@@ -11044,14 +11050,14 @@ Most goblins speak Caelian and Szetch.
 <!-- -->
 > ⭐️ **Slip Away**
 >
-> The assassin can attempt to hide even while observed
+> The assassin can attempt to hide even while observed.
 
 ###### Goblin Cursespitter
 
 |  Goblin, Humanoid   |            -            |       Level 1       |       Horde Hexer       |          EV 3          |
 | :-----------------: | :---------------------: | :-----------------: | :---------------------: | :--------------------: |
 |  **1S**<br/> Size   |    **5**<br/> Speed     | **10**<br/> Stamina |  **0**<br/> Stability   | **1**<br/> Free Strike |
-| **-**<br/> Immunity | **Climb**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **Climb**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |  **-2**<br/> Might  |   **+1**<br/> Agility   |  **0**<br/> Reason  |  **+2**<br/> Intuition  |  **0**<br/> Presence   |
 
 <!-- -->
@@ -11065,7 +11071,7 @@ Most goblins speak Caelian and Szetch.
 >
 > - **≤11:** 3 corruption damage; I < 0 weakened (save ends)
 > - **12-16:** 4 corruption damage; I < 1 weakened (save ends)
-> - **12-16:** 5 corruption damage; I < 2 weakened (save ends)
+> - **17+:** 5 corruption damage; I < 2 weakened (save ends)
 
 <!-- -->
 > 🏹 **Dizzying Hex (1 Malice)**
@@ -11090,7 +11096,7 @@ Most goblins speak Caelian and Szetch.
 |  Goblin, Humanoid   |            -            |       Level 1       |    Horde Controller     |          EV 3          |
 | :-----------------: | :---------------------: | :-----------------: | :---------------------: | :--------------------: |
 |  **1S**<br/> Size   |    **5**<br/> Speed     | **10**<br/> Stamina |  **0**<br/> Stability   | **1**<br/> Free Strike |
-| **-**<br/> Immunity | **Climb**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **Climb**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |  **-2**<br/> Might  |   **+1**<br/> Agility   |  **0**<br/> Reason  |  **0**<br/> Intuition   |  **+2**<br/> Presence  |
 
 <!-- -->
@@ -11120,14 +11126,14 @@ Most goblins speak Caelian and Szetch.
 <!-- -->
 > ⭐️ **Crafty**
 >
-> The stinker doesn't provoke opportunity attacks by moving
+> The stinker doesn't provoke opportunity attacks by moving.
 
 ###### Goblin Underboss
 
 |  Goblin, Humanoid   |            -            |       Level 1       |      Horde Support      |          EV 3          |
 | :-----------------: | :---------------------: | :-----------------: | :---------------------: | :--------------------: |
 |  **1S**<br/> Size   |    **5**<br/> Speed     | **15**<br/> Stamina |  **0**<br/> Stability   | **1**<br/> Free Strike |
-| **-**<br/> Immunity | **Climb**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **Climb**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |  **-1**<br/> Might  |   **+2**<br/> Agility   |  **0**<br/> Reason  |  **0**<br/> Intuition   |  **+1**<br/> Presence  |
 
 <!-- -->
@@ -11166,7 +11172,7 @@ Most goblins speak Caelian and Szetch.
 |  Goblin, Humanoid   |            -            |       Level 1       |      Horde Harrier      |          EV 3          |
 | :-----------------: | :---------------------: | :-----------------: | :---------------------: | :--------------------: |
 |  **1S**<br/> Size   |    **6**<br/> Speed     | **15**<br/> Stamina |  **0**<br/> Stability   | **1**<br/> Free Strike |
-| **-**<br/> Immunity | **Climb**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **Climb**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |  **-2**<br/> Might  |   **+2**<br/> Agility   |  **0**<br/> Reason  |  **0**<br/> Intuition   |  **-1**<br/> Presence  |
 
 <!-- -->
@@ -11198,14 +11204,14 @@ Most goblins speak Caelian and Szetch.
 <!-- -->
 > ⭐️ **Crafty**
 >
-> The warrior doesn't provoke opportunity attacks by moving
+> The warrior doesn't provoke opportunity attacks by moving.
 
 ###### Goblin Monarch
 
 |  Goblin, Humanoid   |            -            |       Level 1       |         Leader          |         EV 12          |
 | :-----------------: | :---------------------: | :-----------------: | :---------------------: | :--------------------: |
 |  **1S**<br/> Size   |    **6**<br/> Speed     | **80**<br/> Stamina |  **1**<br/> Stability   | **4**<br/> Free Strike |
-| **-**<br/> Immunity | **Climb**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **Climb**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |  **0**<br/> Might   |   **+3**<br/> Agility   | **+1**<br/> Reason  |  **0**<br/> Intuition   |  **+3**<br/> Presence  |
 
 <!-- -->
@@ -11241,7 +11247,7 @@ Most goblins speak Caelian and Szetch.
 >
 > **Trigger:** A creature targets the monarch with a strike.
 >
-> **Effect:** The ally is the target of the triggering strike instead
+> **Effect:** The ally is the target of the triggering strike instead.
 
 <!-- -->
 > ⭐️ **Crafty**
@@ -11285,7 +11291,7 @@ Most goblins speak Caelian and Szetch.
 |   Animal, Goblin    |            -            |       Level 1       |       Elite Mount       |         EV 12          |
 | :-----------------: | :---------------------: | :-----------------: | :---------------------: | :--------------------: |
 |   **3**<br/> Size   |    **7**<br/> Speed     | **60**<br/> Stamina |  **2**<br/> Stability   | **4**<br/> Free Strike |
-| **-**<br/> Immunity | **Climb**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **Climb**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |  **+2**<br/> Might  |   **+1**<br/> Agility   | **-4**<br/> Reason  |  **0**<br/> Intuition   |  **-3**<br/> Presence  |
 
 <!-- -->
@@ -11349,7 +11355,7 @@ Most goblins speak Caelian and Szetch.
 >
 > **Trigger:** The spider or any ally riding the spider takes damage.
 >
-> **Effect:** The damage is halved, and the spider shifts up to 2 squares after the triggering effect resolve
+> **Effect:** The damage is halved, and the spider shifts up to 2 squares after the triggering effect resolves.
 
 <!-- -->
 > ⭐️ **Ride Launcher**
@@ -11359,14 +11365,14 @@ Most goblins speak Caelian and Szetch.
 <!-- -->
 > ⭐️ **Wide Back**
 >
-> While riding the spider, two size 1 allies can occupy the same space
+> While riding the spider, two size 1 allies can occupy the same space.
 
 ###### Worg
 
 |   Animal, Goblin    |          -          |       Level 1       |       Horde Mount       |          EV 3          |
 | :-----------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |  **1L**<br/> Size   |  **5**<br/> Speed   | **15**<br/> Stamina |  **1**<br/> Stability   | **1**<br/> Free Strike |
-| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |  **+1**<br/> Might  | **+2**<br/> Agility | **-1**<br/> Reason  |  **0**<br/> Intuition   |  **-1**<br/> Presence  |
 
 <!-- -->
@@ -11413,7 +11419,7 @@ Daring poachers sometimes attempt to steal griffon eggs from wild aeries, but su
 
 #### Inaccessible Aeries
 
-Griffons roost alone or in pairs on craggy mountainsides, in forests, or on cliffs overlooking the ocean. They hide their nests in enormous treetops, scrubby thickets clinging to a cliff, or similarly sheltered nooks that are nearly unreachable for creatures who can't fly. Each aerie holds up to three eggs during brooding season, which lasts for three months starting in the early spring. Chicks hatch after forty days of incubation, then remain in or near the nest as their parents feed them. About forty days after hatching, a griffon chick learns to fly-and after that, it's only a matter of days before they set out from their nest into the wider world, generally making their own nest somewhere nearby.
+Griffons roost alone or in pairs on craggy mountainsides, in forests, or on cliffs overlooking the ocean. They hide their nests in enormous treetops, scrubby thickets clinging to a cliff, or similarly sheltered nooks that are nearly unreachable for creatures who can't fly. Each aerie holds up to three eggs during brooding season, which lasts for three months starting in the early spring. Chicks hatch after forty days of incubation, then remain in or near the nest as their parents feed them. About forty days after hatching, a griffon chick learns to fly—and after that, it's only a matter of days before they set out from their nest into the wider world, generally making their own nest somewhere nearby.
 
 #### Rare Breeds
 
@@ -11451,7 +11457,7 @@ At the start of any griffon's turn, you can spend Malice to activate one of the 
 |   Beast, Griffon    |           -           |       Level 2       |       Elite Mount       |         EV 16          |
 | :-----------------: | :-------------------: | :-----------------: | :---------------------: | :--------------------: |
 |   **2**<br/> Size   |   **9**<br/> Speed    | **80**<br/> Stamina |  **2**<br/> Stability   | **5**<br/> Free Strike |
-| **-**<br/> Immunity | **Fly**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **Fly**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |  **+2**<br/> Might  |  **+2**<br/> Agility  | **-1**<br/> Reason  |  **+1**<br/> Intuition  |  **+2**<br/> Presence  |
 
 <!-- -->
@@ -11467,7 +11473,7 @@ At the start of any griffon's turn, you can spend Malice to activate one of the 
 > - **12-16:** 10 damage; the griffon shifts up to 2 squares
 > - **17+:** 13 damage; the griffon shifts up to 3 squares
 >
-> **Effect:** If this ability is used as part of the Charge main action, the griffon can grab one of the targets
+> **Effect:** If this ability is used as part of the Charge main action, the griffon can grab one of the targets.
 
 <!-- -->
 > 🔳 **Crack the Earth**
@@ -11508,9 +11514,9 @@ At the start of any griffon's turn, you can spend Malice to activate one of the 
 > | ----------- | -------------------: |
 > | **📏 Self** |          **🎯 Self** |
 >
-> **Trigger:** The griffon takes damage
+> **Trigger:** The griffon takes damage.
 >
-> **Effect:** The griffon halves the damage, ignores any nondamaging effects associated with it, and shifts up to 2 squares
+> **Effect:** The griffon halves the damage, ignores any nondamaging effects associated with it, and shifts up to 2 squares.
 
 <!-- -->
 > ⭐️ **Beast of Prey**
@@ -11527,7 +11533,7 @@ At the start of any griffon's turn, you can spend Malice to activate one of the 
 |   Beast, Griffon    |           -           |       Level 2        |       Elite Brute       |         EV 16          |
 | :-----------------: | :-------------------: | :------------------: | :---------------------: | :--------------------: |
 |   **3**<br/> Size   |   **7**<br/> Speed    | **100**<br/> Stamina |  **3**<br/> Stability   | **5**<br/> Free Strike |
-| **-**<br/> Immunity | **Fly**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **Fly**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |  **+2**<br/> Might  |  **+2**<br/> Agility  |  **-1**<br/> Reason  |  **+2**<br/> Intuition  |  **+1**<br/> Presence  |
 
 <!-- -->
@@ -11550,7 +11556,7 @@ At the start of any griffon's turn, you can spend Malice to activate one of the 
 > | ----------- | --------------: |
 > | **📏 Self** |     **🎯 Self** |
 >
-> **Effect:** The griffon shifts up to their speed along the ground in straight line. Each enemy who comes adjacent to the griffon during this shift can choose to either take 5 damage or be knocked prone
+> **Effect:** The griffon shifts up to their speed along the ground in straight line. Each enemy who comes adjacent to the griffon during this shift can choose to either take 5 damage or be knocked prone.
 
 <!-- -->
 > 🔳 **Power Wing Buffet (3 Malice)**
@@ -11572,7 +11578,7 @@ At the start of any griffon's turn, you can spend Malice to activate one of the 
 > | --------------- | -----------------------------: |
 > | **📏 Ranged 5** | **🎯 The triggering creature** |
 >
-> **Trigger:** The griffon flies directly above a creature within distance
+> **Trigger:** The griffon flies directly above a creature within distance.
 >
 > **Effect:** The griffon dives down onto the target, taking no damage from falling if they reach the ground. The target takes 3 damage for each square the griffon dove, and if they have A < 2, they are grabbed or knocked prone.
 
@@ -11584,16 +11590,16 @@ At the start of any griffon's turn, you can spend Malice to activate one of the 
 <!-- -->
 > ⭐️ **Steady**
 >
-> Any power roll that could knock the griffon prone takes a bane
+> Any power roll that could knock the griffon prone takes a bane.
 
 <!-- -->
 > ⭐️ **Banded Predator**
 >
-> The griffon can attempt hide even while observed. Additionally, while no enemy has line of effect to them, the griffon can attempt to hide at the end of their turn
+> The griffon can attempt hide even while observed. Additionally, while no enemy has line of effect to them, the griffon can attempt to hide at the end of their turn.
 
 ## Hag
 
-When fear of death or hunger for power grips a mortal spellcaster, often a druid or a witch, they might forge a pact with an evil archfey. The mortal becomes a hag-aged, clawed, and cruel. A ruthlessly powerful fey in their own right, a hag uses their magic to bring about the misery their archfey wills.
+When fear of death or hunger for power grips a mortal spellcaster, often a druid or a witch, they might forge a pact with an evil archfey. The mortal becomes a hag—aged, clawed, and cruel. A ruthlessly powerful fey in their own right, a hag uses their magic to bring about the misery their archfey wills.
 
 #### Hiding in Plain Sight
 
@@ -11601,7 +11607,7 @@ Though hags typically appear as older humanoids, their true form is as vicious a
 
 #### Dealmakers and Heartbreakers
 
-As old age can't kill them, the oldest hags accumulate swathes of knowledge, magic, and repute over time. They are happy to share their wares... for the right price. Rather than ask for paltry coin, a hag usually bargains for something dear to the customer-perhaps their ability to love, the sound of their child's laugh, or their left pinky toe.
+As old age can't kill them, the oldest hags accumulate swathes of knowledge, magic, and repute over time. They are happy to share their wares... for the right price. Rather than ask for paltry coin, a hag usually bargains for something dear to the customer—perhaps their ability to love, the sound of their child's laugh, or their left pinky toe.
 
 Adding insult to injury, those who deal with hags almost always discover the product is worse than advertised. Mortals should pay close attention to the precise wording of their agreements, lest they end up with a hex they thought would be a gift. Such curses often lead to the corruption of good but desperate folk, with some getting so twisted up in fey deals that they become hags themselves.
 
@@ -11668,7 +11674,7 @@ The hag utters terrible words that push each enemy within 2 squares of them up t
 |      Fey, Hag       |              -               |       Level 3        |          Solo           |         EV 60          |
 | :-----------------: | :--------------------------: | :------------------: | :---------------------: | :--------------------: |
 |  **1L**<br/> Size   |       **5**<br/> Speed       | **300**<br/> Stamina |  **1**<br/> Stability   | **6**<br/> Free Strike |
-| **-**<br/> Immunity | **Fly, hover**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **Fly, hover**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |  **+2**<br/> Might  |     **+1**<br/> Agility      |  **+1**<br/> Reason  |  **+3**<br/> Intuition  |  **+3**<br/> Presence  |
 
 <!-- -->
@@ -11769,7 +11775,7 @@ The hag utters terrible words that push each enemy within 2 squares of them up t
 > | ---------------- | ----------------------------: |
 > | **📏 1 burst**   | **🎯 Each enemy in the area** |
 >
-> **Effect:** Before using this villain action, the hag shifts up to their speed. They then use Corrosive Claws against each target, push each target up to 2 squares, and shift up to their speed again
+> **Effect:** Before using this villain action, the hag shifts up to their speed. They then use Corrosive Claws against each target, push each target up to 2 squares, and shift up to their speed again.
 
 <!-- -->
 > ☠️ **Open the Oven (Villain Action 3)**
@@ -11791,7 +11797,7 @@ The hag utters terrible words that push each enemy within 2 squares of them up t
 <!-- -->
 > **Hag Goodies**
 >
-> Hags collect, craft, and trade a variety of trinkets and talismans over the course of their lifetimes. Most of a hag's prized possessions-a stove with living human feet, a porcelain doll that cries real tears, a book that details the reader's most humiliating memories-are of no apparent use to anyone except perhaps for a museum of the macabre, but a few of a hag's baubles are more generally useful.
+> Hags collect, craft, and trade a variety of trinkets and talismans over the course of their lifetimes. Most of a hag's prized possessions—a stove with living human feet, a porcelain doll that cries real tears, a book that details the reader's most humiliating memories—are of no apparent use to anyone except perhaps for a museum of the macabre, but a few of a hag's baubles are more generally useful.
 >
 > The following are sample treasures from a hag's hut. A hag might have two or three of these goodies on hand and know how to obtain the others. These items can be found in Draw Steel: Heroes.
 >
@@ -11803,7 +11809,7 @@ The hag utters terrible words that push each enemy within 2 squares of them up t
 
 Also known as demogoblins, hobgoblins descend from ancient goblins who made a pact with an infernal power in exchange for increased size and strength. Each hobgoblin has fang-like tusks and one or more horns protruding from their head.
 
-Many hobgoblin settlements constantly and aggressively test each other's boundaries. This isn't normally a problem for other humanoids, but once or twice every generation, a wicked hobgoblin rallies their people and decides it's time to take over everyone else's lands-THEN it's a problem.
+Many hobgoblin settlements constantly and aggressively test each other's boundaries. This isn't normally a problem for other humanoids, but once or twice every generation, a wicked hobgoblin rallies their people and decides it's time to take over everyone else's lands—THEN it's a problem.
 
 #### Synergized Tactics
 
@@ -11819,11 +11825,11 @@ Infernal magic runs through the veins of every hobgoblin, though their gifts var
 
 #### Binding Bargains
 
-Many hobgoblins still hold to the infernal concept of being true to their word when entering into agreements. Even spoken contracts are considered unbreakable, and hobgoblin communities scorn any creature-hobgoblin or otherwise-who degrades themself by breaking their word.
+Many hobgoblins still hold to the infernal concept of being true to their word when entering into agreements. Even spoken contracts are considered unbreakable, and hobgoblin communities scorn any creature—hobgoblin or otherwise—who degrades themself by breaking their word.
 
 #### Grilp
 
-The grilp-a green-skinned devil about the size of a housecat-can change the color and texture of their skin to blend in with their surroundings. They often serve as scouts, spies, messengers, and errand-runners for high-ranking hobgoblins. Beyond the grilp's covert skills, however, hobgoblins value these creatures most highly for their magic-laced saliva, which weakens the defenses of other creatures.
+The grilp—a green-skinned devil about the size of a housecat—can change the color and texture of their skin to blend in with their surroundings. They often serve as scouts, spies, messengers, and errand-runners for high-ranking hobgoblins. Beyond the grilp's covert skills, however, hobgoblins value these creatures most highly for their magic-laced saliva, which weakens the defenses of other creatures.
 
 #### Slaughter Demon
 
@@ -11864,7 +11870,7 @@ At the start of any hobgoblin's turn, you can spend Malice to activate one of th
 | Goblin, Hobgoblin, Humanoid, Infernal |          -          |      Level 4       |                 Minion Hexer                  | EV 6 for four minions  |
 | :-----------------------------------: | :-----------------: | :----------------: | :-------------------------------------------: | :--------------------: |
 |           **1M**<br/> Size            |  **5**<br/> Speed   | **7**<br/> Stamina |             **0**<br/> Stability              | **2**<br/> Free Strike |
-|       **Fire 2**<br/> Immunity        | **-**<br/> Movement |         -          | **Gain an edge on strikes**<br/> With Captain | **-**<br/> Weaknesses  |
+|       **Fire 2**<br/> Immunity        | **-**<br/> Movement |         -          | **Gain an edge on strikes**<br/> With Captain |  **-**<br/> Weakness   |
 |           **0**<br/> Might            | **+1**<br/> Agility | **+2**<br/> Reason |             **0**<br/> Intuition              |  **+3**<br/> Presence  |
 
 <!-- -->
@@ -11895,7 +11901,7 @@ At the start of any hobgoblin's turn, you can spend Malice to activate one of th
 | Goblin, Hobgoblin, Humanoid, Infernal |          -          |      Level 4       |                  Minion Harrier                  | EV 6 for four minions  |
 | :-----------------------------------: | :-----------------: | :----------------: | :----------------------------------------------: | :--------------------: |
 |           **1M**<br/> Size            |  **7**<br/> Speed   | **8**<br/> Stamina |               **0**<br/> Stability               | **2**<br/> Free Strike |
-|       **Fire 2**<br/> Immunity        | **-**<br/> Movement |         -          | **+2 damage bonus to strikes**<br/> With Captain | **-**<br/> Weaknesses  |
+|       **Fire 2**<br/> Immunity        | **-**<br/> Movement |         -          | **+2 damage bonus to strikes**<br/> With Captain |  **-**<br/> Weakness   |
 |           **+1**<br/> Might           | **+3**<br/> Agility | **0**<br/> Reason  |              **+2**<br/> Intuition               |  **0**<br/> Presence   |
 
 <!-- -->
@@ -11923,7 +11929,7 @@ At the start of any hobgoblin's turn, you can spend Malice to activate one of th
 | Goblin, Hobgoblin, Humanoid, Infernal |          -          |      Level 4       |               Minion Brute                | EV 6 for four minions  |
 | :-----------------------------------: | :-----------------: | :----------------: | :---------------------------------------: | :--------------------: |
 |           **1M**<br/> Size            |  **5**<br/> Speed   | **9**<br/> Stamina |           **0**<br/> Stability            | **3**<br/> Free Strike |
-|       **Fire 2**<br/> Immunity        | **-**<br/> Movement |         -          | **+4 bonus to Stamina**<br/> With Captain | **-**<br/> Weaknesses  |
+|       **Fire 2**<br/> Immunity        | **-**<br/> Movement |         -          | **+4 bonus to Stamina**<br/> With Captain |  **-**<br/> Weakness   |
 |           **+3**<br/> Might           | **+2**<br/> Agility | **0**<br/> Reason  |           **0**<br/> Intuition            |  **+1**<br/> Presence  |
 
 <!-- -->
@@ -11954,7 +11960,7 @@ At the start of any hobgoblin's turn, you can spend Malice to activate one of th
 | Devil, Hobgoblin, Infernal |           -           |      Level 4       |             Minion Ambusher             | EV 6 for four minions  |
 | :------------------------: | :-------------------: | :----------------: | :-------------------------------------: | :--------------------: |
 |      **1T**<br/> Size      |   **7**<br/> Speed    | **8**<br/> Stamina |          **0**<br/> Stability           | **3**<br/> Free Strike |
-|  **Fire 2**<br/> Immunity  | **Fly**<br/> Movement |         -          | **+2 bonus to speed**<br/> With Captain | **-**<br/> Weaknesses  |
+|  **Fire 2**<br/> Immunity  | **Fly**<br/> Movement |         -          | **+2 bonus to speed**<br/> With Captain |  **-**<br/> Weakness   |
 |     **-1**<br/> Might      |  **+3**<br/> Agility  | **0**<br/> Reason  |          **+1**<br/> Intuition          |  **0**<br/> Presence   |
 
 <!-- -->
@@ -11987,7 +11993,7 @@ At the start of any hobgoblin's turn, you can spend Malice to activate one of th
 | Goblin, Hobgoblin, Humanoid, Infernal |             -              |       Level 4       |   Platoon Controller    |         EV 12          |
 | :-----------------------------------: | :------------------------: | :-----------------: | :---------------------: | :--------------------: |
 |           **1M**<br/> Size            |      **5**<br/> Speed      | **50**<br/> Stamina |  **0**<br/> Stability   | **5**<br/> Free Strike |
-|       **Fire 4**<br/> Immunity        | **Teleport**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+|       **Fire 4**<br/> Immunity        | **Teleport**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |           **0**<br/> Might            |    **+1**<br/> Agility     | **+2**<br/> Reason  |  **+2**<br/> Intuition  |  **+3**<br/> Presence  |
 
 <!-- -->
@@ -12024,7 +12030,7 @@ At the start of any hobgoblin's turn, you can spend Malice to activate one of th
 | Goblin, Hobgoblin, Humanoid, Infernal |          -          |       Level 4       |     Platoon Support     |         EV 12          |
 | :-----------------------------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |           **1M**<br/> Size            |  **5**<br/> Speed   | **60**<br/> Stamina |  **2**<br/> Stability   | **5**<br/> Free Strike |
-|       **Fire 4**<br/> Immunity        | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+|       **Fire 4**<br/> Immunity        | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |           **+3**<br/> Might           | **0**<br/> Agility  | **+1**<br/> Reason  |  **0**<br/> Intuition   |  **+2**<br/> Presence  |
 
 <!-- -->
@@ -12068,7 +12074,7 @@ At the start of any hobgoblin's turn, you can spend Malice to activate one of th
 | Goblin, Hobgoblin, Humanoid, Infernal |          -          |       Level 5       |     Platoon Harrier     |         EV 14          |
 | :-----------------------------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |           **1M**<br/> Size            |  **8**<br/> Speed   | **70**<br/> Stamina |  **0**<br/> Stability   | **6**<br/> Free Strike |
-|       **Fire 5**<br/> Immunity        | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+|       **Fire 5**<br/> Immunity        | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |           **+2**<br/> Might           | **+3**<br/> Agility | **+1**<br/> Reason  |  **+1**<br/> Intuition  |  **0**<br/> Presence   |
 
 <!-- -->
@@ -12113,7 +12119,7 @@ At the start of any hobgoblin's turn, you can spend Malice to activate one of th
 | Goblin, Hobgoblin, Humanoid, Infernal |          -          |       Level 6        |    Platoon Defender     |         EV 16          |
 | :-----------------------------------: | :-----------------: | :------------------: | :---------------------: | :--------------------: |
 |            **2**<br/> Size            |  **4**<br/> Speed   | **111**<br/> Stamina |  **4**<br/> Stability   | **6**<br/> Free Strike |
-|       **Fire 6**<br/> Immunity        | **-**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+|       **Fire 6**<br/> Immunity        | **-**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |           **+3**<br/> Might           | **+2**<br/> Agility |  **+3**<br/> Reason  |  **0**<br/> Intuition   |  **+2**<br/> Presence  |
 
 <!-- -->
@@ -12154,14 +12160,14 @@ At the start of any hobgoblin's turn, you can spend Malice to activate one of th
 <!-- -->
 > ⭐️ **Infernal Ichor**
 >
-> When the grandguard is reduced to 0 Stamina, they spray burning blood. Each creature adjacent to the grandguard takes 3 fire damage
+> When the grandguard is reduced to 0 Stamina, they spray burning blood. Each creature adjacent to the grandguard takes 3 fire damage.
 
 ###### Hobgoblin Hell Trooper
 
 | Goblin, Hobgoblin, Humanoid, Infernal |          -          |       Level 4       |      Platoon Brute      |         EV 12          |
 | :-----------------------------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |           **1M**<br/> Size            |  **5**<br/> Speed   | **70**<br/> Stamina |  **2**<br/> Stability   | **6**<br/> Free Strike |
-|       **Fire 4**<br/> Immunity        | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+|       **Fire 4**<br/> Immunity        | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |           **+3**<br/> Might           | **+2**<br/> Agility |  **0**<br/> Reason  |  **0**<br/> Intuition   |  **+1**<br/> Presence  |
 
 <!-- -->
@@ -12198,7 +12204,7 @@ At the start of any hobgoblin's turn, you can spend Malice to activate one of th
 | Goblin, Hobgoblin, Humanoid, Infernal |          -          |       Level 5       |    Platoon Artillery    |         EV 14          |
 | :-----------------------------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |           **1M**<br/> Size            |  **5**<br/> Speed   | **60**<br/> Stamina |  **0**<br/> Stability   | **6**<br/> Free Strike |
-|       **Fire 5**<br/> Immunity        | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+|       **Fire 5**<br/> Immunity        | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |           **+1**<br/> Might           | **+3**<br/> Agility |  **0**<br/> Reason  |  **+2**<br/> Intuition  |  **+1**<br/> Presence  |
 
 <!-- -->
@@ -12246,7 +12252,7 @@ At the start of any hobgoblin's turn, you can spend Malice to activate one of th
 | Goblin, Hobgoblin, Humanoid, Infernal |             -              |       Level 6       |      Platoon Hexer      |         EV 16          |
 | :-----------------------------------: | :------------------------: | :-----------------: | :---------------------: | :--------------------: |
 |           **1L**<br/> Size            |      **5**<br/> Speed      | **70**<br/> Stamina |  **4**<br/> Stability   | **6**<br/> Free Strike |
-|       **Fire 6**<br/> Immunity        | **Teleport**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+|       **Fire 6**<br/> Immunity        | **Teleport**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |           **0**<br/> Might            |    **+2**<br/> Agility     | **+2**<br/> Reason  |  **+3**<br/> Intuition  |  **+3**<br/> Presence  |
 
 <!-- -->
@@ -12287,7 +12293,7 @@ At the start of any hobgoblin's turn, you can spend Malice to activate one of th
 | Goblin, Hobgoblin, Humanoid, Infernal |              -               |       Level 5       |    Platoon Ambusher     |         EV 14          |
 | :-----------------------------------: | :--------------------------: | :-----------------: | :---------------------: | :--------------------: |
 |           **1M**<br/> Size            |       **7**<br/> Speed       | **70**<br/> Stamina |  **0**<br/> Stability   | **6**<br/> Free Strike |
-|       **Fire 5**<br/> Immunity        | **Fly, hover**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+|       **Fire 5**<br/> Immunity        | **Fly, hover**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |           **+1**<br/> Might           |     **+3**<br/> Agility      | **+2**<br/> Reason  |  **+1**<br/> Intuition  |  **0**<br/> Presence   |
 
 <!-- -->
@@ -12333,7 +12339,7 @@ At the start of any hobgoblin's turn, you can spend Malice to activate one of th
 | Goblin, Hobgoblin, Humanoid, Infernal |                 -                 |       Level 5        |    Elite Controller     |         EV 28          |
 | :-----------------------------------: | :-------------------------------: | :------------------: | :---------------------: | :--------------------: |
 |           **1M**<br/> Size            |         **5**<br/> Speed          | **120**<br/> Stamina |  **0**<br/> Stability   | **6**<br/> Free Strike |
-|       **Fire 5**<br/> Immunity        | **Hover, teleport**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+|       **Fire 5**<br/> Immunity        | **Hover, teleport**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |           **0**<br/> Might            |        **+2**<br/> Agility        |  **+3**<br/> Reason  |  **+2**<br/> Intuition  |  **+2**<br/> Presence  |
 
 <!-- -->
@@ -12395,7 +12401,7 @@ At the start of any hobgoblin's turn, you can spend Malice to activate one of th
 | Goblin, Hobgoblin, Humanoid, Infernal |             -              |       Level 6        |         Leader          |         EV 32          |
 | :-----------------------------------: | :------------------------: | :------------------: | :---------------------: | :--------------------: |
 |           **1M**<br/> Size            |      **6**<br/> Speed      | **180**<br/> Stamina |  **2**<br/> Stability   | **7**<br/> Free Strike |
-|       **Fire 6**<br/> Immunity        | **Teleport**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+|       **Fire 6**<br/> Immunity        | **Teleport**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |           **+4**<br/> Might           |    **+2**<br/> Agility     |  **+2**<br/> Reason  |  **+3**<br/> Intuition  |  **+3**<br/> Presence  |
 
 <!-- -->
@@ -12441,7 +12447,7 @@ At the start of any hobgoblin's turn, you can spend Malice to activate one of th
 <!-- -->
 > ⭐️ **End Effect**
 >
-> At the end of each of their turns, the bloodlord can take 10 damage to end one effect on them that can be ended by a saving throw. This damage can't be reduced in any way
+> At the end of each of their turns, the bloodlord can take 10 damage to end one effect on them that can be ended by a saving throw. This damage can't be reduced in any way.
 
 <!-- -->
 > ☠️ **Advance! (Villain Action 1)**
@@ -12481,7 +12487,7 @@ At the start of any hobgoblin's turn, you can spend Malice to activate one of th
 | Abyssal, Demon, Hobgoblin |            -             |       Level 4        |       Elite Brute       |         EV 24          |
 | :-----------------------: | :----------------------: | :------------------: | :---------------------: | :--------------------: |
 |      **3**<br/> Size      |     **7**<br/> Speed     | **140**<br/> Stamina |  **3**<br/> Stability   | **6**<br/> Free Strike |
-| **Fire 5**<br/> Immunity  | **Burrow**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Fire 5**<br/> Immunity  | **Burrow**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |     **+3**<br/> Might     |    **0**<br/> Agility    |  **-1**<br/> Reason  |  **+1**<br/> Intuition  |  **0**<br/> Presence   |
 
 <!-- -->
@@ -12556,7 +12562,7 @@ Fortunately, many humans devote themselves to righting wrongs and reshaping the 
 
 #### Risks and Rewards
 
-Humans devote as much attention to games and gambling as to more serious pursuits. Perhaps this competitive nature explains their renowned knack for seizing the moment-knowing when to risk all on a throw of the dice. Whether in sport or battle, humans quickly spot their opponent's mistakes and seize the advantage.
+Humans devote as much attention to games and gambling as to more serious pursuits. Perhaps this competitive nature explains their renowned knack for seizing the moment—knowing when to risk all on a throw of the dice. Whether in sport or battle, humans quickly spot their opponent's mistakes and seize the advantage.
 
 Humans see unrealized potential everywhere, whether envisioning an untamed forest transformed into a prosperous village, or an ancient dungeon yielding chests filled with coins. Pursuing such ambitions might end in catastrophe, but for these gamblers, it's a game worth playing.
 
@@ -12606,7 +12612,7 @@ At the start of any human's turn, you can spend Malice to activate one of the fo
 |              Human, Humanoid              |          -          |      Level 2       |                 Minion Controller                 | EV 4 for four minions  |
 | :---------------------------------------: | :-----------------: | :----------------: | :-----------------------------------------------: | :--------------------: |
 |             **1M**<br/> Size              |  **5**<br/> Speed   | **4**<br/> Stamina |               **0**<br/> Stability                | **2**<br/> Free Strike |
-| **Corruption 2, psychic 2**<br/> Immunity | **-**<br/> Movement |         -          | **+5 bonus to ranged distance**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Corruption 2, psychic 2**<br/> Immunity | **-**<br/> Movement |         -          | **+5 bonus to ranged distance**<br/> With Captain |  **-**<br/> Weakness   |
 |             **0**<br/> Might              | **+1**<br/> Agility | **0**<br/> Reason  |               **0**<br/> Intuition                |  **+2**<br/> Presence  |
 
 <!-- -->
@@ -12634,7 +12640,7 @@ At the start of any human's turn, you can spend Malice to activate one of the fo
 |              Human, Humanoid              |          -          |      Level 1       |                 Minion Artillery                  | EV 3 for four minions  |
 | :---------------------------------------: | :-----------------: | :----------------: | :-----------------------------------------------: | :--------------------: |
 |             **1M**<br/> Size              |  **5**<br/> Speed   | **3**<br/> Stamina |               **0**<br/> Stability                | **2**<br/> Free Strike |
-| **Corruption 1, psychic 1**<br/> Immunity | **-**<br/> Movement |         -          | **+5 bonus to ranged distance**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Corruption 1, psychic 1**<br/> Immunity | **-**<br/> Movement |         -          | **+5 bonus to ranged distance**<br/> With Captain |  **-**<br/> Weakness   |
 |             **0**<br/> Might              | **+2**<br/> Agility | **0**<br/> Reason  |               **0**<br/> Intuition                |  **0**<br/> Presence   |
 
 <!-- -->
@@ -12660,7 +12666,7 @@ At the start of any human's turn, you can spend Malice to activate one of the fo
 |              Human, Humanoid              |          -          |      Level 1       |                   Minion Hexer                    | EV 3 for four minions  |
 | :---------------------------------------: | :-----------------: | :----------------: | :-----------------------------------------------: | :--------------------: |
 |             **1M**<br/> Size              |  **5**<br/> Speed   | **3**<br/> Stamina |               **0**<br/> Stability                | **1**<br/> Free Strike |
-| **Corruption 1, psychic 1**<br/> Immunity | **-**<br/> Movement |         -          | **+5 bonus to ranged distance**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Corruption 1, psychic 1**<br/> Immunity | **-**<br/> Movement |         -          | **+5 bonus to ranged distance**<br/> With Captain |  **-**<br/> Weakness   |
 |             **0**<br/> Might              | **+1**<br/> Agility | **0**<br/> Reason  |               **0**<br/> Intuition                |  **+2**<br/> Presence  |
 
 <!-- -->
@@ -12688,7 +12694,7 @@ At the start of any human's turn, you can spend Malice to activate one of the fo
 |              Human, Humanoid              |          -          |      Level 1       |              Minion Brute               | EV 3 for four minions  |
 | :---------------------------------------: | :-----------------: | :----------------: | :-------------------------------------: | :--------------------: |
 |             **1M**<br/> Size              |  **5**<br/> Speed   | **5**<br/> Stamina |          **0**<br/> Stability           | **2**<br/> Free Strike |
-| **Corruption 1, psychic 1**<br/> Immunity | **-**<br/> Movement |         -          | **+5 bonus to speed**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Corruption 1, psychic 1**<br/> Immunity | **-**<br/> Movement |         -          | **+2 bonus to speed**<br/> With Captain |  **-**<br/> Weakness   |
 |             **+2**<br/> Might             | **0**<br/> Agility  | **0**<br/> Reason  |          **0**<br/> Intuition           |  **0**<br/> Presence   |
 
 <!-- -->
@@ -12716,7 +12722,7 @@ At the start of any human's turn, you can spend Malice to activate one of the fo
 |              Human, Humanoid              |          -          |      Level 1       |                Minion Harrier                 | EV 3 for four minions  |
 | :---------------------------------------: | :-----------------: | :----------------: | :-------------------------------------------: | :--------------------: |
 |             **1M**<br/> Size              |  **7**<br/> Speed   | **4**<br/> Stamina |             **0**<br/> Stability              | **1**<br/> Free Strike |
-| **Corruption 1, psychic 1**<br/> Immunity | **-**<br/> Movement |         -          | **Gain an edge on strikes**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Corruption 1, psychic 1**<br/> Immunity | **-**<br/> Movement |         -          | **Gain an edge on strikes**<br/> With Captain |  **-**<br/> Weakness   |
 |             **0**<br/> Might              | **+2**<br/> Agility | **0**<br/> Reason  |             **0**<br/> Intuition              |  **0**<br/> Presence   |
 
 <!-- -->
@@ -12744,7 +12750,7 @@ At the start of any human's turn, you can spend Malice to activate one of the fo
 |              Human, Humanoid              |          -          |      Level 1       |                Minion Ambusher                | EV 3 for four minions  |
 | :---------------------------------------: | :-----------------: | :----------------: | :-------------------------------------------: | :--------------------: |
 |             **1M**<br/> Size              |  **7**<br/> Speed   | **4**<br/> Stamina |             **0**<br/> Stability              | **2**<br/> Free Strike |
-| **Corruption 1, psychic 1**<br/> Immunity | **-**<br/> Movement |         -          | **Gain an edge on strikes**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Corruption 1, psychic 1**<br/> Immunity | **-**<br/> Movement |         -          | **Gain an edge on strikes**<br/> With Captain |  **-**<br/> Weakness   |
 |             **0**<br/> Might              | **+2**<br/> Agility | **0**<br/> Reason  |             **0**<br/> Intuition              |  **+1**<br/> Presence  |
 
 <!-- -->
@@ -12772,7 +12778,7 @@ At the start of any human's turn, you can spend Malice to activate one of the fo
 |              Human, Humanoid              |          -          |       Level 1       |      Platoon Brute      |          EV 6          |
 | :---------------------------------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |             **1M**<br/> Size              |  **5**<br/> Speed   | **40**<br/> Stamina |  **0**<br/> Stability   | **4**<br/> Free Strike |
-| **Corruption 1, psychic 1**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Corruption 1, psychic 1**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |             **+2**<br/> Might             | **+1**<br/> Agility |  **0**<br/> Reason  |  **0**<br/> Intuition   |  **0**<br/> Presence   |
 
 <!-- -->
@@ -12814,7 +12820,7 @@ At the start of any human's turn, you can spend Malice to activate one of the fo
 |              Human, Humanoid              |          -          |       Level 2       |     Platoon Support     |          EV 8          |
 | :---------------------------------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |             **1M**<br/> Size              |  **5**<br/> Speed   | **40**<br/> Stamina |  **0**<br/> Stability   | **4**<br/> Free Strike |
-| **Corruption 2, psychic 2**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Corruption 2, psychic 2**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |             **0**<br/> Might              | **+1**<br/> Agility |  **0**<br/> Reason  |  **0**<br/> Intuition   |  **+2**<br/> Presence  |
 
 <!-- -->
@@ -12851,7 +12857,7 @@ At the start of any human's turn, you can spend Malice to activate one of the fo
 |              Human, Humanoid              |          -          |       Level 2       |    Platoon Defender     |          EV 8          |
 | :---------------------------------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |             **1M**<br/> Size              |  **5**<br/> Speed   | **50**<br/> Stamina |  **0**<br/> Stability   | **4**<br/> Free Strike |
-| **Corruption 2, psychic 2**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Corruption 2, psychic 2**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |             **+2**<br/> Might             | **0**<br/> Agility  | **+1**<br/> Reason  |  **0**<br/> Intuition   |  **0**<br/> Presence   |
 
 <!-- -->
@@ -12877,7 +12883,7 @@ At the start of any human's turn, you can spend Malice to activate one of the fo
 <!-- -->
 > ⭐️ **Overwhelm**
 >
-> An enemy who starts their turn adjacent to the knave can't shift
+> An enemy who starts their turn adjacent to the knave can't shift.
 
 <!-- -->
 > ⭐️ **Supernatural Insight**
@@ -12889,7 +12895,7 @@ At the start of any human's turn, you can spend Malice to activate one of the fo
 |              Human, Humanoid              |          -          |       Level 1       |    Platoon Ambusher     |          EV 6          |
 | :---------------------------------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |             **1M**<br/> Size              |  **5**<br/> Speed   | **30**<br/> Stamina |  **0**<br/> Stability   | **4**<br/> Free Strike |
-| **Corruption 1, psychic 1**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Corruption 1, psychic 1**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |             **0**<br/> Might              | **+2**<br/> Agility |  **0**<br/> Reason  |  **0**<br/> Intuition   |  **+1**<br/> Presence  |
 
 <!-- -->
@@ -12914,7 +12920,7 @@ At the start of any human's turn, you can spend Malice to activate one of the fo
 > | -------- | --------------: |
 > | **📏 -** |        **🎯 -** |
 >
-> The scoundrel uses Rapier and Dagger against up to three targets. They shift up to 2 squares before or after each strike
+> The scoundrel uses Rapier and Dagger against up to three targets. They shift up to 2 squares before or after each strike.
 
 <!-- -->
 > ⭐️ **Supernatural Insight**
@@ -12926,7 +12932,7 @@ At the start of any human's turn, you can spend Malice to activate one of the fo
 |              Human, Humanoid              |          -          |       Level 3       |   Platoon Controller    |         EV 10          |
 | :---------------------------------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |             **1M**<br/> Size              |  **5**<br/> Speed   | **40**<br/> Stamina |  **0**<br/> Stability   | **5**<br/> Free Strike |
-| **Corruption 3, psychic 3**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Corruption 3, psychic 3**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |             **0**<br/> Might              | **0**<br/> Agility  | **+2**<br/> Reason  |  **0**<br/> Intuition   |  **+1**<br/> Presence  |
 
 <!-- -->
@@ -12976,7 +12982,7 @@ At the start of any human's turn, you can spend Malice to activate one of the fo
 |              Human, Humanoid              |          -          |       Level 1       |    Platoon Artillery    |          EV 6          |
 | :---------------------------------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |             **1M**<br/> Size              |  **5**<br/> Speed   | **20**<br/> Stamina |  **0**<br/> Stability   | **4**<br/> Free Strike |
-| **Corruption 1, psychic 1**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Corruption 1, psychic 1**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |             **0**<br/> Might              | **+2**<br/> Agility |  **0**<br/> Reason  |  **+1**<br/> Intuition  |  **0**<br/> Presence   |
 
 <!-- -->
@@ -13006,7 +13012,7 @@ At the start of any human's turn, you can spend Malice to activate one of the fo
 |              Human, Humanoid              |          -          |       Level 1       |         Leader          |         EV 12          |
 | :---------------------------------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |             **1M**<br/> Size              |  **5**<br/> Speed   | **80**<br/> Stamina |  **2**<br/> Stability   | **4**<br/> Free Strike |
-| **Corruption 2, psychic 2**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Corruption 2, psychic 2**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |             **+3**<br/> Might             | **+2**<br/> Agility | **+2**<br/> Reason  |  **0**<br/> Intuition   |  **+2**<br/> Presence  |
 
 <!-- -->
@@ -13016,7 +13022,7 @@ At the start of any human's turn, you can spend Malice to activate one of the fo
 > | ---------------- | ----------------------------: |
 > | **📏 1 burst**   | **🎯 Each enemy in the area** |
 >
-> **Power Roll + 2:**
+> **Power Roll + 3:**
 >
 > - **≤11:** 3 damage; M < 1 slowed (save ends)
 > - **12-16:** 6 damage; M < 2 slowed (save ends)
@@ -13043,7 +13049,7 @@ At the start of any human's turn, you can spend Malice to activate one of the fo
 <!-- -->
 > ⭐️ **Supernatural Insight**
 >
-> The blackguard ignores concealment if it's granted by a supernatural effect
+> The blackguard ignores concealment if it's granted by a supernatural effect.
 
 <!-- -->
 > ❗️ **Parry!**
@@ -13081,14 +13087,14 @@ At the start of any human's turn, you can spend Malice to activate one of the fo
 > | ------------------------------- | ----------------------------: |
 > | **📏 3 cube within 5**          | **🎯 Each enemy in the area** |
 >
-> **Effect:** The blackguard uses their Zweihander Swing against each target. Each ally within 5 squares of the area can then make a free strike against a target (one target per ally)
+> **Effect:** The blackguard uses their Zweihander Swing against each target. Each ally within 5 squares of the area can then make a free strike against a target (one target per ally).
 
 ###### Human Bandit Chief
 
 |              Human, Humanoid              |          -          |       Level 3        |         Leader          |         EV 20          |
 | :---------------------------------------: | :-----------------: | :------------------: | :---------------------: | :--------------------: |
 |             **1M**<br/> Size              |  **5**<br/> Speed   | **120**<br/> Stamina |  **2**<br/> Stability   | **5**<br/> Free Strike |
-| **Corruption 4, psychic 4**<br/> Immunity | **-**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Corruption 4, psychic 4**<br/> Immunity | **-**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |             **+2**<br/> Might             | **+3**<br/> Agility |  **+2**<br/> Reason  |  **+3**<br/> Intuition  |  **+2**<br/> Presence  |
 
 <!-- -->
@@ -13098,7 +13104,7 @@ At the start of any human's turn, you can spend Malice to activate one of the fo
 > | -------------------------------- | ----------------------------: |
 > | **📏 Melee 2**                   | **🎯 Two enemies or objects** |
 >
-> **Power Roll + 2:**
+> **Power Roll + 3:**
 >
 > - **≤11:** 8 damage; pull 1
 > - **12-16:** 12 damage; pull 2
@@ -13114,6 +13120,8 @@ At the start of any human's turn, you can spend Malice to activate one of the fo
 > | **Melee**      |     **Maneuver** |
 > | -------------- | ---------------: |
 > | **📏 Melee 1** | **🎯 One enemy** |
+>
+> **Power Roll + 3:**
 >
 > - **≤11:** Push 1; M < 1 prone
 > - **12-16:** Push 2; M < 2 prone
@@ -13140,7 +13148,7 @@ At the start of any human's turn, you can spend Malice to activate one of the fo
 <!-- -->
 > ⭐️ **Supernatural Insight**
 >
-> The bandit chief ignores concealment if it's granted by a supernatural effect
+> The bandit chief ignores concealment if it's granted by a supernatural effect.
 
 <!-- -->
 > ☠️ **Shoot! (Villain Action 1)**
@@ -13174,7 +13182,7 @@ At the start of any human's turn, you can spend Malice to activate one of the fo
 |    Animal, Human    |           -           |       Level 1       |      Platoon Mount      |          EV 6          |
 | :-----------------: | :-------------------: | :-----------------: | :---------------------: | :--------------------: |
 |   **2**<br/> Size   |   **5**<br/> Speed    | **30**<br/> Stamina |  **0**<br/> Stability   | **3**<br/> Free Strike |
-| **-**<br/> Immunity | **Fly**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **Fly**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |  **+2**<br/> Might  |  **+2**<br/> Agility  | **-3**<br/> Reason  |  **+1**<br/> Intuition  |  **-2**<br/> Presence  |
 
 <!-- -->
@@ -13216,7 +13224,7 @@ The kingfissure worm eats indiscriminately, swallowing creatures, structures, an
 
 #### Home Renovators
 
-Most worms build a den of tunnels and fissures, remaining in that lair for as long as the pickings on the surface are good and they aren't disturbed. When a kingfissure worm seeks a new home, they target areas with abundant food-occasionally leading to villagers waking up to find their surrounding lands have been terraformed overnight. Residents of such lands generally have two choices: pack up and leave or prepare for battle. If a worm is somehow defeated, all manner of creatures and communities try to lay claim to the worm's underground structures. These empty dens make wonderful war bunkers, isolated workshops, and even highly defensible villages.
+Most worms build a den of tunnels and fissures, remaining in that lair for as long as the pickings on the surface are good and they aren't disturbed. When a kingfissure worm seeks a new home, they target areas with abundant food—occasionally leading to villagers waking up to find their surrounding lands have been terraformed overnight. Residents of such lands generally have two choices: pack up and leave or prepare for battle. If a worm is somehow defeated, all manner of creatures and communities try to lay claim to the worm's underground structures. These empty dens make wonderful war bunkers, isolated workshops, and even highly defensible villages.
 
 #### Unstoppable Force
 
@@ -13224,11 +13232,11 @@ The kingfissure worm is a species determined to outrun, outlast, and out-eat eve
 
 #### Unclear Origins
 
-Kingfissure worms have no identifiable sexual characteristics and are extremely territorial. If two kingfissure worms encounter each other, the result is always a cataclysmic duel that ends in one devouring the other. Because of this, most scholars theorize that these creatures reproduce asexually-and that when a kingfissure worm dies, their tongues detach and grow into full-fledged worms. While this has yet to be confirmed, juvenile kingfissure worms have been seen in the wild, most often spotted following animal herds or traveling communities, feeding off of stragglers, refuse, remains, and vermin.
+Kingfissure worms have no identifiable sexual characteristics and are extremely territorial. If two kingfissure worms encounter each other, the result is always a cataclysmic duel that ends in one devouring the other. Because of this, most scholars theorize that these creatures reproduce asexually—and that when a kingfissure worm dies, their tongues detach and grow into full-fledged worms. While this has yet to be confirmed, juvenile kingfissure worms have been seen in the wild, most often spotted following animal herds or traveling communities, feeding off of stragglers, refuse, remains, and vermin.
 
 #### Swallowed Survivors
 
-Kingfissure worms never stop growing, and the oldest are truly immense, easily mistaken in the distance for a strangely mobile mountain range. Deep within the bowels of these behemoths, unusual biomes and oversized gut fauna may flourish. In fact, some people who have survived their trip down the gargantuan gullet of one of the great worms have been able to eke out a life-and even form thriving communities-safe inside the spacious lower abdomen of their living quarters.
+Kingfissure worms never stop growing, and the oldest are truly immense, easily mistaken in the distance for a strangely mobile mountain range. Deep within the bowels of these behemoths, unusual biomes and oversized gut fauna may flourish. In fact, some people who have survived their trip down the gargantuan gullet of one of the great worms have been able to eke out a life—and even form thriving communities—safe inside the spacious lower abdomen of their living quarters.
 
 #### Sensitive Giant
 
@@ -13268,9 +13276,9 @@ At the start of a kingfissure worm's turn or when an action's trigger occurs, yo
 >
 > **Power Roll + 5:**
 >
-> - 1 8 damage; M < 3 slide 5
-> - 2 13 damage; M < 4 slide 5
-> - 3 17 damage; M < 5 slide 5
+> - **≤11:** 8 damage; M < 3 slide 5
+> - **12-16:** 13 damage; M < 4 slide 5
+> - **17+:** 17 damage; M < 5 slide 5
 >
 > **Effect:** Until the end of the next round, each target takes a −3 penalty to stability, treats all terrain as difficult terrain, and takes 10 damage whenever they are knocked prone.
 
@@ -13279,7 +13287,7 @@ At the start of a kingfissure worm's turn or when an action's trigger occurs, yo
 |     Beast, Worm     |            -             |       Level 7        |          Solo           |         EV 108         |
 | :-----------------: | :----------------------: | :------------------: | :---------------------: | :--------------------: |
 |   **5**<br/> Size   |    **10**<br/> Speed     | **420**<br/> Stamina |  **5**<br/> Stability   | **8**<br/> Free Strike |
-| **-**<br/> Immunity | **Burrow**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **Burrow**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |  **+5**<br/> Might  |   **+1**<br/> Agility    |  **-5**<br/> Reason  |  **+2**<br/> Intuition  |  **-3**<br/> Presence  |
 
 <!-- -->
@@ -13361,7 +13369,7 @@ At the start of a kingfissure worm's turn or when an action's trigger occurs, yo
 <!-- -->
 > ⭐️ **Swallowed**
 >
-> A creature swallowed by the kingfissure worm is restrained and takes 1d6 acid damage at the start of every turn. If the worm takes 25 or more damage in a single round from swallowed creatures, they immediately regurgitate all creatures they have swallowed, who land prone in unoccupied spaces within 3 squares of the kingfissure worm
+> A creature swallowed by the kingfissure worm is restrained and takes 1d6 acid damage at the start of every turn. If the worm takes 25 or more damage in a single round from swallowed creatures, they immediately regurgitate all creatures they have swallowed, who land prone in unoccupied spaces within 3 squares of the kingfissure worm.
 
 <!-- -->
 > ⭐️ **Titanic Tunneler**
@@ -13428,7 +13436,7 @@ Relentless innovators, kobolds can easily outsmart anyone who doesn't take them 
 
 #### Tiny Dragons
 
-Most kobolds believe their ancestors were created by powerful dragons-and with sharp, angular features and prominent dorsal crests, they certainly look the part! Newborn kobolds have brilliant, pearlescent scales, but as kobolds age, their scales dim and mottle. Owing to a deep magical connection, a legion that lives in the domain of a dragon adopts the color of that dragon's scales over several generations.
+Most kobolds believe their ancestors were created by powerful dragons—and with sharp, angular features and prominent dorsal crests, they certainly look the part! Newborn kobolds have brilliant, pearlescent scales, but as kobolds age, their scales dim and mottle. Owing to a deep magical connection, a legion that lives in the domain of a dragon adopts the color of that dragon's scales over several generations.
 
 #### Domain Expansion
 
@@ -13444,7 +13452,7 @@ The kobolds' affinity for their terrain, creative tactics, group defenses, and i
 
 #### Cute Pets
 
-The gummy brick is a deadly ooze-a monster shaped of acidic goo and driven by endless hunger. But when properly trained, kobolds find these mindless predators good company. They also love the company of shieldscale drangolins-draconic pangolins-who they train to dig residential tunnel networks, neutralize enemy fortifications, and burrow up into the center of an enemy camp with a dozen kobold minions at their side.
+The gummy brick is a deadly ooze—a monster shaped of acidic goo and driven by endless hunger. But when properly trained, kobolds find these mindless predators good company. They also love the company of shieldscale drangolins—draconic pangolins—who they train to dig residential tunnel networks, neutralize enemy fortifications, and burrow up into the center of an enemy camp with a dozen kobold minions at their side.
 
 #### Kobold Languages
 
@@ -13467,14 +13475,14 @@ At the start of any kobolds's turn, you can spend Malice to activate one of the 
 <!-- -->
 > ⭐️ **Shield Wall (7 Malice)**
 >
-> Until the end of the round, all kobolds with Shield? Shield! Impose an additional bane on incoming strikes and abilities.
+> Until the end of the round, all kobolds with Shield? Shield! impose an additional bane on incoming strikes and abilities.
 
 ###### Kobold Princeps
 
 |  Humanoid, Kobold   |          -          |      Level 1       |              Minion Support               | EV 3 for four minions  |
 | :-----------------: | :-----------------: | :----------------: | :---------------------------------------: | :--------------------: |
 |  **1S**<br/> Size   |  **5**<br/> Speed   | **4**<br/> Stamina |           **0**<br/> Stability            | **1**<br/> Free Strike |
-| **-**<br/> Immunity | **-**<br/> Movement |         -          | **+2 bonus to Stamina**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **-**<br/> Movement |         -          | **+2 bonus to Stamina**<br/> With Captain |  **-**<br/> Weakness   |
 |  **0**<br/> Might   | **+2**<br/> Agility | **0**<br/> Reason  |           **0**<br/> Intuition            |  **0**<br/> Presence   |
 
 <!-- -->
@@ -13490,7 +13498,7 @@ At the start of any kobolds's turn, you can spend Malice to activate one of the 
 > - **12-16:** 2 damage
 > - **17+:** 3 damage
 >
-> **Effect:** One ally within 3 squares of the princeps shifts up to 2 squares
+> **Effect:** One ally within 3 squares of the princeps shifts up to 2 squares.
 
 <!-- -->
 > ⭐️ **Shield? Shield!**
@@ -13502,7 +13510,7 @@ At the start of any kobolds's turn, you can spend Malice to activate one of the 
 |  Humanoid, Kobold   |          -          |      Level 1       |                 Minion Artillery                  | EV 3 for four minions  |
 | :-----------------: | :-----------------: | :----------------: | :-----------------------------------------------: | :--------------------: |
 |  **1S**<br/> Size   |  **5**<br/> Speed   | **3**<br/> Stamina |               **0**<br/> Stability                | **2**<br/> Free Strike |
-| **-**<br/> Immunity | **-**<br/> Movement |         -          | **+5 bonus to ranged distance**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **-**<br/> Movement |         -          | **+5 bonus to ranged distance**<br/> With Captain |  **-**<br/> Weakness   |
 |  **0**<br/> Might   | **+2**<br/> Agility | **0**<br/> Reason  |               **0**<br/> Intuition                |  **0**<br/> Presence   |
 
 <!-- -->
@@ -13530,7 +13538,7 @@ At the start of any kobolds's turn, you can spend Malice to activate one of the 
 |  Humanoid, Kobold   |          -          |      Level 1       |             Minion Defender             | EV 3 for four minions  |
 | :-----------------: | :-----------------: | :----------------: | :-------------------------------------: | :--------------------: |
 |  **1S**<br/> Size   |  **5**<br/> Speed   | **5**<br/> Stamina |          **0**<br/> Stability           | **1**<br/> Free Strike |
-| **-**<br/> Immunity | **-**<br/> Movement |         -          | **+1 bonus to speed**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **-**<br/> Movement |         -          | **+1 bonus to speed**<br/> With Captain |  **-**<br/> Weakness   |
 |  **0**<br/> Might   | **+2**<br/> Agility | **0**<br/> Reason  |          **0**<br/> Intuition           |  **0**<br/> Presence   |
 
 <!-- -->
@@ -13546,7 +13554,7 @@ At the start of any kobolds's turn, you can spend Malice to activate one of the 
 > - **12-16:** 2 damage; the tiro can shift 1 square
 > - **17+:** 3 damage; the tiro shifts up to 2 squares
 >
-> **Effect:** The target can't shift until the start of the tiro's next turn
+> **Effect:** The target can't shift until the start of the tiro's next turn.
 
 <!-- -->
 > ⭐️ **Shield? Shield!**
@@ -13558,7 +13566,7 @@ At the start of any kobolds's turn, you can spend Malice to activate one of the 
 |  Humanoid, Kobold   |          -          |      Level 1       |             Minion Harrier              | EV 3 for four minions  |
 | :-----------------: | :-----------------: | :----------------: | :-------------------------------------: | :--------------------: |
 |  **1S**<br/> Size   |  **6**<br/> Speed   | **4**<br/> Stamina |          **0**<br/> Stability           | **1**<br/> Free Strike |
-| **-**<br/> Immunity | **-**<br/> Movement |         -          | **+1 bonus to speed**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **-**<br/> Movement |         -          | **+1 bonus to speed**<br/> With Captain |  **-**<br/> Weakness   |
 |  **0**<br/> Might   | **+2**<br/> Agility | **0**<br/> Reason  |          **0**<br/> Intuition           |  **0**<br/> Presence   |
 
 <!-- -->
@@ -13586,7 +13594,7 @@ At the start of any kobolds's turn, you can spend Malice to activate one of the 
 |  Humanoid, Kobold   |          -          |       Level 1       |     Horde Artillery     |          EV 3          |
 | :-----------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |  **1S**<br/> Size   |  **5**<br/> Speed   | **10**<br/> Stamina |  **0**<br/> Stability   | **2**<br/> Free Strike |
-| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |  **0**<br/> Might   | **+1**<br/> Agility | **+2**<br/> Reason  |  **0**<br/> Intuition   |  **0**<br/> Presence   |
 
 <!-- -->
@@ -13629,7 +13637,7 @@ At the start of any kobolds's turn, you can spend Malice to activate one of the 
 |  Humanoid, Kobold   |          -          |       Level 1       |    Horde Controller     |          EV 3          |
 | :-----------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |  **1S**<br/> Size   |  **5**<br/> Speed   | **10**<br/> Stamina |  **0**<br/> Stability   | **1**<br/> Free Strike |
-| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |  **0**<br/> Might   | **+2**<br/> Agility | **+1**<br/> Reason  |  **0**<br/> Intuition   |  **0**<br/> Presence   |
 
 <!-- -->
@@ -13668,7 +13676,7 @@ At the start of any kobolds's turn, you can spend Malice to activate one of the 
 |  Humanoid, Kobold   |          -          |       Level 1       |     Horde Defender      |          EV 3          |
 | :-----------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |  **1S**<br/> Size   |  **5**<br/> Speed   | **20**<br/> Stamina |  **0**<br/> Stability   | **1**<br/> Free Strike |
-| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |  **+2**<br/> Might  | **+1**<br/> Agility |  **0**<br/> Reason  |  **0**<br/> Intuition   |  **0**<br/> Presence   |
 
 <!-- -->
@@ -13676,7 +13684,7 @@ At the start of any kobolds's turn, you can spend Malice to activate one of the 
 >
 > | **Melee, Strike, Weapon** |               **Main action** |
 > | ------------------------- | ----------------------------: |
-> | **📏 Melee 5**            | **🎯 One creature or object** |
+> | **📏 Melee 1**            | **🎯 One creature or object** |
 >
 > **Power Roll + 2:**
 >
@@ -13709,7 +13717,7 @@ At the start of any kobolds's turn, you can spend Malice to activate one of the 
 |  Humanoid, Kobold   |          -          |       Level 1       |      Horde Support      |          EV 3          |
 | :-----------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |  **1S**<br/> Size   |  **5**<br/> Speed   | **15**<br/> Stamina |  **0**<br/> Stability   | **1**<br/> Free Strike |
-| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |  **0**<br/> Might   | **+1**<br/> Agility |  **0**<br/> Reason  |  **0**<br/> Intuition   |  **+2**<br/> Presence  |
 
 <!-- -->
@@ -13725,9 +13733,9 @@ At the start of any kobolds's turn, you can spend Malice to activate one of the 
 > - **12-16:** 4 damage
 > - **17+:** 5 damage
 >
-> **Effect:** One ally within 10 squares of the signifer can shift up to their speed if they end that shift adjacent to an ally
+> **Effect:** One ally within 10 squares of the signifer can shift up to their speed if they end that shift adjacent to an ally.
 >
-> **2+ Malice:** One additional ally can shift for each 2 Malice spent
+> **2+ Malice:** One additional ally can shift for each 2 Malice spent.
 
 <!-- -->
 > ❇️ **Glory to the Legion (5 Malice)**
@@ -13753,7 +13761,7 @@ At the start of any kobolds's turn, you can spend Malice to activate one of the 
 |  Humanoid, Kobold   |          -          |       Level 1       |     Horde Ambusher      |          EV 3          |
 | :-----------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |  **1S**<br/> Size   |  **5**<br/> Speed   | **15**<br/> Stamina |  **0**<br/> Stability   | **2**<br/> Free Strike |
-| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |  **0**<br/> Might   | **+2**<br/> Agility |  **0**<br/> Reason  |  **0**<br/> Intuition   |  **+1**<br/> Presence  |
 
 <!-- -->
@@ -13791,7 +13799,7 @@ At the start of any kobolds's turn, you can spend Malice to activate one of the 
 |  Kobold, Ooze, Soulless  |          -          |       Level 1       |       Elite Hexer       |         EV 12          |
 | :----------------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |     **2**<br/> Size      |  **5**<br/> Speed   | **40**<br/> Stamina |  **2**<br/> Stability   | **4**<br/> Free Strike |
-| **Acid 3**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Acid 3**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |    **+2**<br/> Might     | **-1**<br/> Agility | **-3**<br/> Reason  |  **0**<br/> Intuition   |  **-2**<br/> Presence  |
 
 <!-- -->
@@ -13807,7 +13815,7 @@ At the start of any kobolds's turn, you can spend Malice to activate one of the 
 > - **12-16:** 10 acid damage; A < 1 dazed (save ends)
 > - **17+:** 14 acid damage; A < 2 restrained (save ends)
 >
-> **Effect:** A size 2 or smaller creature restrained this way is pulled into the brick's space, moves with the brick, and takes 4 acid damage at the start of each of their turns. An engulfed creature who is no longer restrained moves to the nearest unoccupied space adjacent to the brick. The brick can have as many creatures or objects engulfed as will fit within their space
+> **Effect:** A size 2 or smaller creature restrained this way is pulled into the brick's space, moves with the brick, and takes 4 acid damage at the start of each of their turns. An engulfed creature who is no longer restrained moves to the nearest unoccupied space adjacent to the brick. The brick can have as many creatures or objects engulfed as will fit within their space.
 >
 > **2 Malice:** This ability targets one additional target.
 
@@ -13832,7 +13840,7 @@ At the start of any kobolds's turn, you can spend Malice to activate one of the 
 |  Kobold, Humanoid   |          -          |       Level 1       |         Leader          |         EV 12          |
 | :-----------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |  **1S**<br/> Size   |  **5**<br/> Speed   | **80**<br/> Stamina |  **2**<br/> Stability   | **2**<br/> Free Strike |
-| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |  **+2**<br/> Might  | **+3**<br/> Agility | **+2**<br/> Reason  |  **0**<br/> Intuition   |  **+2**<br/> Presence  |
 
 <!-- -->
@@ -13860,8 +13868,6 @@ At the start of any kobolds's turn, you can spend Malice to activate one of the 
 > | **📏 Ranged 10** | **🎯 One enemy** |
 >
 > **Effect:** Until the start of the centurion's next turn, the centurion and their allies gain an edge on power rolls against the target.
->
-> **3+ Malice:** This ability targets one additional target for each 3 Malice spent.
 
 <!-- -->
 > ❗️ **Testudo!**
@@ -13913,11 +13919,11 @@ At the start of any kobolds's turn, you can spend Malice to activate one of the 
 
 ###### Shieldscale Drangolin
 
-|     Kobold, Humanoid      |            -             |       Level 1       |       Elite Brute       |         EV 12          |
-| :-----------------------: | :----------------------: | :-----------------: | :---------------------: | :--------------------: |
-| **2 or 3 Size**<br/> Size |     **7**<br/> Speed     | **80**<br/> Stamina |  **0**<br/> Stability   | **5**<br/> Free Strike |
-|    **-**<br/> Immunity    | **Burrow**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
-|     **+2**<br/> Might     |   **+1**<br/> Agility    | **-3**<br/> Reason  |  **0**<br/> Intuition   |  **-2**<br/> Presence  |
+|    Kobold, Beast     |            -             |       Level 1       |       Elite Brute       |         EV 12          |
+| :------------------: | :----------------------: | :-----------------: | :---------------------: | :--------------------: |
+| **2 or 3**<br/> Size |     **7**<br/> Speed     | **80**<br/> Stamina |  **0**<br/> Stability   | **5**<br/> Free Strike |
+| **-**<br/> Immunity  | **Burrow**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
+|  **+2**<br/> Might   |   **+1**<br/> Agility    | **-3**<br/> Reason  |  **0**<br/> Intuition   |  **-2**<br/> Presence  |
 
 <!-- -->
 > 🗡 **Fiery Claws (Signature Ability)**
@@ -13966,11 +13972,11 @@ At the start of any kobolds's turn, you can spend Malice to activate one of the 
 <!-- -->
 > ⭐️ **Burrow Bond**
 >
-> When the drangolin burrows, each adjacent size 1S or smaller ally can move with them
+> When the drangolin burrows, each adjacent size 1S or smaller ally can move with them.
 
-## Lightbender
+## Lightbenders
 
-Lightbenders prowl deserts, plains, forests-any sunbathed wilderness where they can take advantage of the adaptations that make them skilled daylight predators. This monstrous creature's fur bends and refracts light from the surrounding environment, producing mirages that distract and confuse their prey.
+Lightbenders prowl deserts, plains, forests—any sunbathed wilderness where they can take advantage of the adaptations that make them skilled daylight predators. This monstrous creature's fur bends and refracts light from the surrounding environment, producing mirages that distract and confuse their prey.
 
 #### Hidden Hunters
 
@@ -14009,11 +14015,11 @@ At the start of any lightbender's turn, you can spend Malice to activate one of 
 
 ###### Lightbender
 
-| Beast, Lightbender  |          -          |        Level 3        |     Elite Ambusher      |         EV 20          |
-| :-----------------: | :-----------------: | :-------------------: | :---------------------: | :--------------------: |
-|   **2**<br/> Size   |  **1**<br/> Speed   | **0100**<br/> Stamina |  **1**<br/> Stability   | **6**<br/> Free Strike |
-| **-**<br/> Immunity | **-**<br/> Movement |           -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
-|  **+2**<br/> Might  | **+1**<br/> Agility |  **-3**<br/> Reason   |  **+1**<br/> Intuition  |  **-1**<br/> Presence  |
+| Beast, Lightbender  |          -          |       Level 3        |     Elite Ambusher      |         EV 20          |
+| :-----------------: | :-----------------: | :------------------: | :---------------------: | :--------------------: |
+|   **2**<br/> Size   |  **10**<br/> Speed  | **100**<br/> Stamina |  **1**<br/> Stability   | **6**<br/> Free Strike |
+| **-**<br/> Immunity | **-**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
+|  **+2**<br/> Might  | **+1**<br/> Agility |  **-3**<br/> Reason  |  **+1**<br/> Intuition  |  **-1**<br/> Presence  |
 
 <!-- -->
 > 🗡 **Flash Swipe (Signature Ability)**
@@ -14037,6 +14043,8 @@ At the start of any lightbender's turn, you can spend Malice to activate one of 
 > | ------------------------- | ----------------------------: |
 > | **📏 Melee 2**            | **🎯 One creature or object** |
 >
+> **Power Roll + 2:**
+>
 > - **≤11:** 8 damage
 > - **12-16:** 12 damage; M < 1 bleeding (save ends)
 > - **17+:** 15 damage; M < 2 bleeding (save ends)
@@ -14049,6 +14057,8 @@ At the start of any lightbender's turn, you can spend Malice to activate one of 
 > | **Area, Magic** |                  **Maneuver** |
 > | --------------- | ----------------------------: |
 > | **📏 3 burst**  | **🎯 Each enemy in the area** |
+>
+> **Power Roll + 2:**
 >
 > - **≤11:** I < 0 dazed (save ends)
 > - **12-16:** I < 1 dazed (save ends)
@@ -14074,11 +14084,11 @@ At the start of any lightbender's turn, you can spend Malice to activate one of 
 
 ###### Lightbender Pouncer
 
-| Beast, Lightbender  |          -          |        Level 3        |      Elite Harrier      |         EV 20          |
-| :-----------------: | :-----------------: | :-------------------: | :---------------------: | :--------------------: |
-|   **2**<br/> Size   |  **1**<br/> Speed   | **0100**<br/> Stamina |  **1**<br/> Stability   | **5**<br/> Free Strike |
-| **-**<br/> Immunity | **-**<br/> Movement |           -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
-|  **+2**<br/> Might  | **+1**<br/> Agility |  **-3**<br/> Reason   |  **+1**<br/> Intuition  |  **-1**<br/> Presence  |
+| Beast, Lightbender  |          -          |       Level 3        |      Elite Harrier      |         EV 20          |
+| :-----------------: | :-----------------: | :------------------: | :---------------------: | :--------------------: |
+|   **2**<br/> Size   |  **10**<br/> Speed  | **100**<br/> Stamina |  **1**<br/> Stability   | **5**<br/> Free Strike |
+| **-**<br/> Immunity | **-**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
+|  **+2**<br/> Might  | **+1**<br/> Agility |  **-3**<br/> Reason  |  **+1**<br/> Intuition  |  **-1**<br/> Presence  |
 
 <!-- -->
 > 🗡 **Pounce (Signature Ability)**
@@ -14096,7 +14106,7 @@ At the start of any lightbender's turn, you can spend Malice to activate one of 
 > **Effect:** The pouncer can make a free strike against each target they knock prone.
 
 <!-- -->
-> ❇️ **Sparking Tail Whip**
+> ❇️ **Sparkling Tail Whip**
 >
 > | **Area, Magic** |                          **Main action** |
 > | --------------- | ---------------------------------------: |
@@ -14116,6 +14126,8 @@ At the start of any lightbender's turn, you can spend Malice to activate one of 
 > | **Area, Magic, Ranged** |                  **Maneuver** |
 > | ----------------------- | ----------------------------: |
 > | **📏 3 cube within 10** | **🎯 Each enemy in the area** |
+>
+> **Power Roll + 2:**
 >
 > - **≤11:** I < 0 dazed (save ends)
 > - **12-16:** I < 1 dazed (save ends)
@@ -14141,11 +14153,11 @@ At the start of any lightbender's turn, you can spend Malice to activate one of 
 
 ## Lizardfolk
 
-Lizardfolk prefer warm, tropical climates, but they're willing to settle in any humid region-the more moisture in the air, the better. Even in colder environs, lizardfolk can be found in any sufficiently marshy environment. Bogs and wetlands are particularly common nesting grounds.
+Lizardfolk prefer warm, tropical climates, but they're willing to settle in any humid region—the more moisture in the air, the better. Even in colder environs, lizardfolk can be found in any sufficiently marshy environment. Bogs and wetlands are particularly common nesting grounds.
 
 #### Homeland Protectors
 
-Lizardfolk aren't especially hostile unless they feel their territory is threatened-which it often is. Respectful travelers entering lizardfolk territory, however, find no great hardship. Lizardfolk cultures often focus on a specific trade, such as boat building, fletching, navigating, or weaving, and sell their services to travelers in need, including lizardfolk from other places.
+Lizardfolk aren't especially hostile unless they feel their territory is threatened—which it often is. Respectful travelers entering lizardfolk territory, however, find no great hardship. Lizardfolk cultures often focus on a specific trade, such as boat building, fletching, navigating, or weaving, and sell their services to travelers in need, including lizardfolk from other places.
 
 Adventurers often cross paths with lizardfolk while trekking through their homelands. The reptilian humanoids watch travelers who skirt too close to sources of food and shelter, attacking those who take more than they need. Many lizardfolk dwell in abandoned ruins and caverns for protection. Treasure seekers who delve into these places are typically given one warning before the attack begins.
 
@@ -14180,7 +14192,7 @@ Most lizardfolk speak Caelian and their own dialect of Khamish.
 At the start of any lizardfolk's turn, you can spend Malice to activate one of the following features.
 
 <!-- -->
-> **Net Trap (3 Malice)**
+> 🔳 **Net Trap (3 Malice)**
 >
 > | **Area, Ranged, Weapon** |   **Maneuver** |
 > | ------------------------ | -------------: |
@@ -14213,7 +14225,7 @@ At the start of any lizardfolk's turn, you can spend Malice to activate one of t
 | Humanoid, Lizardfolk |           -            |      Level 1       |             Minion Harrier              | EV 3 for four minions  |
 | :------------------: | :--------------------: | :----------------: | :-------------------------------------: | :--------------------: |
 |   **1M**<br/> Size   |    **6**<br/> Speed    | **4**<br/> Stamina |          **0**<br/> Stability           | **1**<br/> Free Strike |
-| **-**<br/> Immunity  | **Swim**<br/> Movement |         -          | **+2 bonus to speed**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity  | **Swim**<br/> Movement |         -          | **+2 bonus to speed**<br/> With Captain |  **-**<br/> Weakness   |
 |  **+1**<br/> Might   |  **+2**<br/> Agility   | **0**<br/> Reason  |          **0**<br/> Intuition           |  **0**<br/> Presence   |
 
 <!-- -->
@@ -14239,7 +14251,7 @@ At the start of any lizardfolk's turn, you can spend Malice to activate one of t
 | Humanoid, Lizardfolk |           -            |      Level 1       |              Minion Defender              | EV 3 for four minions  |
 | :------------------: | :--------------------: | :----------------: | :---------------------------------------: | :--------------------: |
 |   **1L**<br/> Size   |    **5**<br/> Speed    | **6**<br/> Stamina |           **1**<br/> Stability            | **1**<br/> Free Strike |
-| **-**<br/> Immunity  | **Swim**<br/> Movement |         -          | **+2 bonus to Stamina**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity  | **Swim**<br/> Movement |         -          | **+2 bonus to Stamina**<br/> With Captain |  **-**<br/> Weakness   |
 |  **+2**<br/> Might   |  **+1**<br/> Agility   | **0**<br/> Reason  |           **0**<br/> Intuition            |  **0**<br/> Presence   |
 
 <!-- -->
@@ -14267,7 +14279,7 @@ At the start of any lizardfolk's turn, you can spend Malice to activate one of t
 | Humanoid, Lizardfolk |           -            |      Level 1       |             Minion Artillery              | EV 3 for four minions  |
 | :------------------: | :--------------------: | :----------------: | :---------------------------------------: | :--------------------: |
 |   **1S**<br/> Size   |    **5**<br/> Speed    | **3**<br/> Stamina |           **0**<br/> Stability            | **2**<br/> Free Strike |
-| **-**<br/> Immunity  | **Swim**<br/> Movement |         -          | **+1 bonus to strikes**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity  | **Swim**<br/> Movement |         -          | **+1 bonus to strikes**<br/> With Captain |  **-**<br/> Weakness   |
 |   **0**<br/> Might   |  **+2**<br/> Agility   | **0**<br/> Reason  |           **+1**<br/> Intuition           |  **0**<br/> Presence   |
 
 <!-- -->
@@ -14295,7 +14307,7 @@ At the start of any lizardfolk's turn, you can spend Malice to activate one of t
 | Humanoid, Lizardfolk |           -            |       Level 1       |      Platoon Hexer      |          EV 6          |
 | :------------------: | :--------------------: | :-----------------: | :---------------------: | :--------------------: |
 |   **1M**<br/> Size   |    **5**<br/> Speed    | **20**<br/> Stamina |  **0**<br/> Stability   | **3**<br/> Free Strike |
-| **-**<br/> Immunity  | **Swim**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity  | **Swim**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |  **+1**<br/> Might   |   **1**<br/> Agility   | **+0**<br/> Reason  |  **+2**<br/> Intuition  |  **+0**<br/> Presence  |
 
 <!-- -->
@@ -14334,7 +14346,7 @@ At the start of any lizardfolk's turn, you can spend Malice to activate one of t
 | Humanoid, Lizardfolk |           -            |       Level 1       |      Platoon Brute      |          EV 6          |
 | :------------------: | :--------------------: | :-----------------: | :---------------------: | :--------------------: |
 |   **1M**<br/> Size   |    **5**<br/> Speed    | **46**<br/> Stamina |  **0**<br/> Stability   | **4**<br/> Free Strike |
-| **-**<br/> Immunity  | **Swim**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity  | **Swim**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |  **+2**<br/> Might   |  **+1**<br/> Agility   |  **0**<br/> Reason  |  **0**<br/> Intuition   |  **0**<br/> Presence   |
 
 <!-- -->
@@ -14375,7 +14387,7 @@ At the start of any lizardfolk's turn, you can spend Malice to activate one of t
 | Humanoid, Lizardfolk |           -            |       Level 1       |     Platoon Harrier     |          EV 6          |
 | :------------------: | :--------------------: | :-----------------: | :---------------------: | :--------------------: |
 |   **1S**<br/> Size   |    **7**<br/> Speed    | **30**<br/> Stamina |  **0**<br/> Stability   | **3**<br/> Free Strike |
-| **-**<br/> Immunity  | **Swim**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity  | **Swim**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |  **+1**<br/> Might   |  **+2**<br/> Agility   |  **0**<br/> Reason  |  **0**<br/> Intuition   |  **+1**<br/> Presence  |
 
 <!-- -->
@@ -14423,7 +14435,7 @@ At the start of any lizardfolk's turn, you can spend Malice to activate one of t
 | Humanoid, Lizardfolk |               -               |       Level 1       |         Leader          |         EV 12          |
 | :------------------: | :---------------------------: | :-----------------: | :---------------------: | :--------------------: |
 |   **2**<br/> Size    |       **5**<br/> Speed        | **80**<br/> Stamina |  **2**<br/> Stability   | **4**<br/> Free Strike |
-| **-**<br/> Immunity  | **Climb, swim**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity  | **Climb, swim**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |  **+3**<br/> Might   |      **+2**<br/> Agility      |  **0**<br/> Reason  |  **+1**<br/> Intuition  |  **+2**<br/> Presence  |
 
 <!-- -->
@@ -14448,7 +14460,7 @@ At the start of any lizardfolk's turn, you can spend Malice to activate one of t
 > | ------------------------- | ------------------------------------: |
 > | **📏 Melee 1**            | **🎯 One grabbed creature or object** |
 >
-> **Power Roll + 2:**
+> **Power Roll + 3:**
 >
 > - **≤11:** 8 damage; M < 1 dazed (save ends)
 > - **12-16:** 12 damage; M < 2 dazed (save ends)
@@ -14499,21 +14511,22 @@ At the start of any lizardfolk's turn, you can spend Malice to activate one of t
 >
 > **Effect:** The deathrex shifts up to their speed, leaving behind a shed skin duplicate in the space they started in. The duplicate acts on the deathrex's turn and has the deathrex's characteristics, but has 10 Stamina and no villain actions.
 
-☠️ **Thresher Thrasher (Villain Action 3)**
-
-| **Area**        |                                 **-** |
-| --------------- | ------------------------------------: |
-| **📏 10 burst** | **🎯 Self and each ally in the area** |
-
-**Effect:** Each target moves up to their speed. Until the end of the encounter, whenever a creature comes adjacent to a target or starts their turn there, the target can make a free strike against them.
+<!-- -->
+> ☠️ **Thresher Thrasher (Villain Action 3)**
+>
+> | **Area**        |                                 **-** |
+> | --------------- | ------------------------------------: |
+> | **📏 10 burst** | **🎯 Self and each ally in the area** |
+>
+> **Effect:** Each target moves up to their speed. Until the end of the encounter, whenever a creature comes adjacent to a target or starts their turn there, the target can make a free strike against them.
 
 ## Manticore
 
-A weary traveler hears a call through the forest or friendly voices from a rocky shelter, and their heart leaps at the promise of refuge-only to find themself at the mercy of serrated teeth and poisonous spikes. In a manticore's territory, people go missing without a trace. These fearsome creatures carve out their hunting grounds in forests near small villages, mountain passes where caravans travel, and other locations with plentiful wildlife. Though manticores can subsist on a carnivorous diet of any nearby prey, their choicest meal is humanoid flesh.
+A weary traveler hears a call through the forest or friendly voices from a rocky shelter, and their heart leaps at the promise of refuge—only to find themself at the mercy of serrated teeth and poisonous spikes. In a manticore's territory, people go missing without a trace. These fearsome creatures carve out their hunting grounds in forests near small villages, mountain passes where caravans travel, and other locations with plentiful wildlife. Though manticores can subsist on a carnivorous diet of any nearby prey, their choicest meal is humanoid flesh.
 
 #### Uncanny Appearances
 
-A manticore has a lion's body, a dragon's wings, and a scorpion's tail barbed with spines, but their most unnerving trait is their humanoid face. Owing to a quirk of magical evolution, manticores develop the features of common ancestries that populate their region of birth. For example, a manticore in an area densely populated by devils inherits fiendish eyes and devilish horns. Manticores are born with an inherent understanding of a regional language, but they can speak only through mimicking that which they've heard-a talent manticores use to lure in prey.
+A manticore has a lion's body, a dragon's wings, and a scorpion's tail barbed with spines, but their most unnerving trait is their humanoid face. Owing to a quirk of magical evolution, manticores develop the features of common ancestries that populate their region of birth. For example, a manticore in an area densely populated by devils inherits fiendish eyes and devilish horns. Manticores are born with an inherent understanding of a regional language, but they can speak only through mimicking that which they've heard—a talent manticores use to lure in prey.
 
 #### Heralds of Death
 
@@ -14557,11 +14570,11 @@ At the start of any manticore's turn, you can spend Malice to activate one of th
 
 ###### Manticore
 
-|  Beast, Manticore   |           -           |        Level 4        |          Solo           |         EV 72          |
-| :-----------------: | :-------------------: | :-------------------: | :---------------------: | :--------------------: |
-|   **2**<br/> Size   |   **1**<br/> Speed    | **0350**<br/> Stamina |  **2**<br/> Stability   | **6**<br/> Free Strike |
-| **-**<br/> Immunity | **Fly**<br/> Movement |           -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
-|  **+4**<br/> Might  |  **+3**<br/> Agility  |   **0**<br/> Reason   |  **0**<br/> Intuition   |  **-1**<br/> Presence  |
+|  Beast, Manticore   |           -           |       Level 4        |          Solo           |         EV 72          |
+| :-----------------: | :-------------------: | :------------------: | :---------------------: | :--------------------: |
+|   **2**<br/> Size   |   **10**<br/> Speed   | **350**<br/> Stamina |  **2**<br/> Stability   | **6**<br/> Free Strike |
+| **-**<br/> Immunity | **Fly**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
+|  **+4**<br/> Might  |  **+3**<br/> Agility  |  **0**<br/> Reason   |  **0**<br/> Intuition   |  **-1**<br/> Presence  |
 
 <!-- -->
 > ☠️ **Solo Monster**
@@ -14603,7 +14616,7 @@ At the start of any manticore's turn, you can spend Malice to activate one of th
 > - **12-16:** 11 damage; M < 3 4 poison damage, weakened (save ends)
 > - **17+:** 14 damage; M < 4 8 poison damage, weakened (save ends)
 >
-> **1 Malice:** While weakened this way, a target takes 1d6 poison dam- age at the start of each of their turns.
+> **1 Malice:** While weakened this way, a target takes 1d6 poison damage at the start of each of their turns.
 
 <!-- -->
 > 🗡 **Harrying Claws**
@@ -14611,6 +14624,8 @@ At the start of any manticore's turn, you can spend Malice to activate one of th
 > | **Melee, Strike, Weapon** |                    **Maneuver** |
 > | ------------------------- | ------------------------------: |
 > | **📏 Melee 1**            | **🎯 Two creatures or objects** |
+>
+> **Power Roll + 4:**
 >
 > - **≤11:** Slide 1; A < 2 3 damage
 > - **12-16:** Slide 2; A < 3 5 damage
@@ -14633,6 +14648,8 @@ At the start of any manticore's turn, you can spend Malice to activate one of th
 > | **Area, Magic** |                            **-** |
 > | --------------- | -------------------------------: |
 > | **📏 5 burst**  | **🎯 Each creature in the area** |
+>
+> **Power Roll + 4:**
 >
 > - **≤11:** Frightened (EoT); if the target has I < 2 they are instead frightened (save ends)
 > - **12-16:** Frightened (EoT); if the target has I < 3 they are instead frightened (save ends)
@@ -14661,7 +14678,7 @@ At the start of any manticore's turn, you can spend Malice to activate one of th
 <!-- -->
 > **Manticore Treasures**
 >
-> Although manticores have no earthly use for treasure, they tend to collect a lot of it-it comes attached to the humanoids they prey on. Since manticores drag their victims back to their cave lairs to feed, a manticore's cave is typically strewn with bones, broken weapons, coins, and other relics of unfortunate travelers. After a while, a manticore abandons its cluttered lair in favor of a fresh one, leaving unguarded treasure for anyone willing to explore manticore-infested wastes.
+> Although manticores have no earthly use for treasure, they tend to collect a lot of it—it comes attached to the humanoids they prey on. Since manticores drag their victims back to their cave lairs to feed, a manticore's cave is typically strewn with bones, broken weapons, coins, and other relics of unfortunate travelers. After a while, a manticore abandons its cluttered lair in favor of a fresh one, leaving unguarded treasure for anyone willing to explore manticore-infested wastes.
 >
 > The following are sample treasures from a manticore's cave, of which a manticore might have one or two. These items can be found in Draw Steel: Heroes.
 >
@@ -14678,7 +14695,7 @@ Hunted as monsters with no thought given to their nature or origin, medusas are 
 
 When a powerful mortal defies a god for good or for ill, agents of that deity might curse them to live as a medusa. The offender's skin and eyes become reptilian, and a nest of black venomous snakes replaces their hair. When the medusa wishes, beams from their eyes can slowly petrify others to stone.
 
-Followers of the gods who imposes this punishment spread terrifying myths about medusas, causing mortals to attack and shun them. This often drives medusas into solitude, or to places haunted by creatures who don't judge them based on mere appearance and horror stories. Many medusas plot ways to break their curse, searching for lost healing rituals or secrets to use against the gods who cursed them. Others embrace their new gifts, building stone gardens of the aggressors who foolishly hunted or harmed them.
+Followers of the gods who impose this punishment spread terrifying myths about medusas, causing mortals to attack and shun them. This often drives medusas into solitude, or to places haunted by creatures who don't judge them based on mere appearance and horror stories. Many medusas plot ways to break their curse, searching for lost healing rituals or secrets to use against the gods who cursed them. Others embrace their new gifts, building stone gardens of the aggressors who foolishly hunted or harmed them.
 
 #### Petrification
 
@@ -14698,7 +14715,7 @@ Medusas often reside in stone gardens filled with statues of those who previousl
 
 #### Lifting the Curse
 
-Agents of the deity who ordered a medusa's curse can sometimes be convinced to lift the punishment, usually in response to the medusa undertaking an impossible task in the god's name or making a threat that can't be ignored. Some sages claim that ancient rituals can undo the curse, but these lost secrets are often hidden by wrathful divine servants-and performing such a ritual might entail great sacrifice.
+Agents of the deity who ordered a medusa's curse can sometimes be convinced to lift the punishment, usually in response to the medusa undertaking an impossible task in the god's name or making a threat that can't be ignored. Some sages claim that ancient rituals can undo the curse, but these lost secrets are often hidden by wrathful divine servants—and performing such a ritual might entail great sacrifice.
 
 #### Medusa Languages
 
@@ -14752,11 +14769,11 @@ At the start of a medusa's turn, you can spend Malice to activate one of the fol
 
 ###### Medusa
 
-| Accursed, Humanoid, Medusa |          -          |        Level 5        |          Solo           |         EV 84          |
-| :------------------------: | :-----------------: | :-------------------: | :---------------------: | :--------------------: |
-|      **1M**<br/> Size      |  **1**<br/> Speed   | **0420**<br/> Stamina |  **5**<br/> Stability   | **8**<br/> Free Strike |
-|    **-**<br/> Immunity     | **-**<br/> Movement |           -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
-|     **+2**<br/> Might      | **+4**<br/> Agility |   **0**<br/> Reason   |  **0**<br/> Intuition   |  **0**<br/> Presence   |
+| Accursed, Humanoid, Medusa |          -          |       Level 5        |          Solo           |         EV 84          |
+| :------------------------: | :-----------------: | :------------------: | :---------------------: | :--------------------: |
+|      **1M**<br/> Size      |  **10**<br/> Speed  | **420**<br/> Stamina |  **5**<br/> Stability   | **8**<br/> Free Strike |
+|    **-**<br/> Immunity     | **-**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
+|     **+2**<br/> Might      | **+4**<br/> Agility |  **0**<br/> Reason   |  **0**<br/> Intuition   |  **0**<br/> Presence   |
 
 <!-- -->
 > ☠️ **Solo Monster**
@@ -14806,7 +14823,7 @@ At the start of a medusa's turn, you can spend Malice to activate one of the fol
 > - **12-16:** M < 3 restrained (save ends)
 > - **17+:** Slowed (save ends); or if M < 4 restrained (save ends)
 >
-> **Effect:** A target with cover reduces the potency by 1, while a slowed target increases the potency by 1. A target restrained this way magi- cally begins to turn to stone, and a target who ends two consecutive turns restrained this way is petrified
+> **Effect:** A target with cover reduces the potency by 1, while a slowed target increases the potency by 1. A target restrained this way magically begins to turn to stone, and a target who ends two consecutive turns restrained this way is petrified.
 
 <!-- -->
 > 👤 **Nimble Escape**
@@ -14840,7 +14857,7 @@ At the start of a medusa's turn, you can spend Malice to activate one of the fol
 <!-- -->
 > ⭐️ **Many Peering Eyes**
 >
-> The medusa can't be flanked
+> The medusa can't be flanked.
 
 <!-- -->
 > ☠️ **Mass Petrify (Villain Action 1)**
@@ -14867,6 +14884,8 @@ At the start of a medusa's turn, you can spend Malice to activate one of the fol
 > | --------------- | -------------: |
 > | **📏 10 burst** | **🎯 Special** |
 >
+> **Power Roll + 4:**
+>
 > - **≤11:** 8 acid damage; P < 3 weakened (save ends)
 > - **12-16:** 13 acid damage; P < 4 weakened (save ends)
 > - **17+:** 17 acid damage; P < 5 weakened (save ends)
@@ -14883,13 +14902,13 @@ Minotaurs burn with fury. Some constantly desire to unleash this destructive ene
 
 ### Labyrinthine Origins
 
-The first minotaur was once the human warrior Thesia "The Bull" Danaria, who dared challenge the Beast Lords of Kham. When her revolution was crushed, the Lords of Kham used their beastmagics to twist Thesia's mortal body into a human-bull hybrid prone to fits of violent rage. The Beast Lords placed this minotaur at the center of a vast labyrinth and sent captured rebels to attack the monster. Many fell to Thesia's anger-until a prisoner named Velathri took a chance, speaking to the minotaur instead of brandishing steel. He befriended Thesia, and in retribution, the Beast Lords made him a minotaur as well. This act was their undoing, for Thesia and Velathri fell in love.
+The first minotaur was once the human warrior Thesia "The Bull" Danaria, who dared challenge the Beast Lords of Kham. When her revolution was crushed, the Lords of Kham used their beastmagics to twist Thesia's mortal body into a human-bull hybrid prone to fits of violent rage. The Beast Lords placed this minotaur at the center of a vast labyrinth and sent captured rebels to attack the monster. Many fell to Thesia's anger—until a prisoner named Velathri took a chance, speaking to the minotaur instead of brandishing steel. He befriended Thesia, and in retribution, the Beast Lords made him a minotaur as well. This act was their undoing, for Thesia and Velathri fell in love.
 
 New minotaurs were born, and decades later, hundreds charged out of the maze together. These minotaurs reduced Kham to ruins, then they spread far and wide, fearing reprisal from neighboring lands. Even today, many minotaurs shun civilization, preferring to live in winding canyons, twisting ruins, bewildering dungeons, or other labyrinthine terrain where they can continue to hunt. However, small numbers of minotaurs can be found in nearly any terrain or settlement.
 
 ### Deep Bonds
 
-Even evil minotaurs can be fiercely loyal friends, gladly charging into certain death for those they trust. These chosen friends never suffer the creature's ire-but gods help them if they betray the minotaur.
+Even evil minotaurs can be fiercely loyal friends, gladly charging into certain death for those they trust. These chosen friends never suffer the creature's ire—but gods help them if they betray the minotaur.
 
 ### Minotaur Languages
 
@@ -14923,7 +14942,7 @@ At the start of any minotaur's turn, you can spend Malice to activate one of the
 | Accursed, Humanoid, Minotaur |          -          |       Level 3        |      Elite Harrier      |         EV 20          |
 | :--------------------------: | :-----------------: | :------------------: | :---------------------: | :--------------------: |
 |       **2**<br/> Size        |  **8**<br/> Speed   | **100**<br/> Stamina |  **2**<br/> Stability   | **5**<br/> Free Strike |
-|     **-**<br/> Immunity      | **-**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+|     **-**<br/> Immunity      | **-**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |      **+2**<br/> Might       | **+2**<br/> Agility |  **0**<br/> Reason   |  **+1**<br/> Intuition  |  **-1**<br/> Presence  |
 
 <!-- -->
@@ -14939,7 +14958,7 @@ At the start of any minotaur's turn, you can spend Malice to activate one of the
 > - **12-16:** 11 damage; push 2
 > - **17+:** 14 damage; push 3
 >
-> **Effect:** The minotaur shifts up to 3 squares
+> **Effect:** The minotaur shifts up to 3 squares.
 
 <!-- -->
 > 👤 **Primal Bay (3 Malice)**
@@ -14974,7 +14993,7 @@ At the start of any minotaur's turn, you can spend Malice to activate one of the
 >
 > **Trigger:** A creature within distance deals damage to the minotaur.
 >
-> **Effect:** The minotaur uses theCharge main action and either Flail and Blade or Goring Horns against the target.
+> **Effect:** The minotaur uses the Charge main action and either Flail and Blade or Goring Horns against the target.
 
 <!-- -->
 > ⭐️ **Minotaur Sense**
@@ -14986,7 +15005,7 @@ At the start of any minotaur's turn, you can spend Malice to activate one of the
 | Accursed, Humanoid, Minotaur |          -          |       Level 3        |       Elite Brute       |         EV 20          |
 | :--------------------------: | :-----------------: | :------------------: | :---------------------: | :--------------------: |
 |       **2**<br/> Size        |  **6**<br/> Speed   | **120**<br/> Stamina |  **2**<br/> Stability   | **6**<br/> Free Strike |
-|     **-**<br/> Immunity      | **-**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+|     **-**<br/> Immunity      | **-**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |      **+2**<br/> Might       | **+1**<br/> Agility |  **0**<br/> Reason   |  **+2**<br/> Intuition  |  **-1**<br/> Presence  |
 
 <!-- -->
@@ -15057,7 +15076,7 @@ At the start of any minotaur's turn, you can spend Malice to activate one of the
 | Accursed, Humanoid, Minotaur |          -          |       Level 8       |                   Minion Brute                   | EV 10 for four minions |
 | :--------------------------: | :-----------------: | :-----------------: | :----------------------------------------------: | :--------------------: |
 |       **2**<br/> Size        |  **6**<br/> Speed   | **14**<br/> Stamina |               **2**<br/> Stability               | **4**<br/> Free Strike |
-|     **-**<br/> Immunity      | **-**<br/> Movement |          -          | **+3 damage bonus to strikes**<br/> With Captain | **-**<br/> Weaknesses  |
+|     **-**<br/> Immunity      | **-**<br/> Movement |          -          | **+3 damage bonus to strikes**<br/> With Captain |  **-**<br/> Weakness   |
 |      **+4**<br/> Might       | **+2**<br/> Agility |  **0**<br/> Reason  |              **+3**<br/> Intuition               |  **-1**<br/> Presence  |
 
 <!-- -->
@@ -15083,7 +15102,7 @@ At the start of any minotaur's turn, you can spend Malice to activate one of the
 | Accursed, Humanoid, Minotaur |          -          |       Level 8       |             Minion Harrier              | EV 10 for four minions |
 | :--------------------------: | :-----------------: | :-----------------: | :-------------------------------------: | :--------------------: |
 |       **2**<br/> Size        |  **8**<br/> Speed   | **13**<br/> Stamina |          **2**<br/> Stability           | **3**<br/> Free Strike |
-|     **-**<br/> Immunity      | **-**<br/> Movement |          -          | **+2 bonus to speed**<br/> With Captain | **-**<br/> Weaknesses  |
+|     **-**<br/> Immunity      | **-**<br/> Movement |          -          | **+2 bonus to speed**<br/> With Captain |  **-**<br/> Weakness   |
 |      **+3**<br/> Might       | **+4**<br/> Agility |  **0**<br/> Reason  |          **+1**<br/> Intuition          |  **-1**<br/> Presence  |
 
 <!-- -->
@@ -15111,7 +15130,7 @@ At the start of any minotaur's turn, you can spend Malice to activate one of the
 | Accursed, Humanoid, Minotaur, Swarm |          -          |      Level 10       |                Minion Defender                | EV 12 for four minions |
 | :---------------------------------: | :-----------------: | :-----------------: | :-------------------------------------------: | :--------------------: |
 |           **4**<br/> Size           |  **8**<br/> Speed   | **17**<br/> Stamina |             **2**<br/> Stability              | **4**<br/> Free Strike |
-|         **-**<br/> Immunity         | **-**<br/> Movement |          -          | **Gain an edge on strikes**<br/> With Captain | **-**<br/> Weaknesses  |
+|         **-**<br/> Immunity         | **-**<br/> Movement |          -          | **Gain an edge on strikes**<br/> With Captain |  **-**<br/> Weakness   |
 |          **+5**<br/> Might          | **+5**<br/> Agility |  **0**<br/> Reason  |             **+2**<br/> Intuition             |  **-1**<br/> Presence  |
 
 <!-- -->
@@ -15146,11 +15165,11 @@ Ogres who embrace good often dedicate themselves to inspiring causes, letting th
 
 ### Savory Stories
 
-Some ogres speak of a time when they shared vast wealth and riches, great homes made of hewn stone, and sumptuous feasts. These stories always end tragically, each with a different villain-from deceptive mages to talking cats-swindling the ogres of what is rightfully theirs. The truth of such legends remains unknown, but many cruel ogres use them as an excuse for their selfish indulgences.
+Some ogres speak of a time when they shared vast wealth and riches, great homes made of hewn stone, and sumptuous feasts. These stories always end tragically, each with a different villain—from deceptive mages to talking cats—swindling the ogres of what is rightfully theirs. The truth of such legends remains unknown, but many cruel ogres use them as an excuse for their selfish indulgences.
 
 ### Aristocracy of Bullies
 
-When wicked ogres gather more food than they can stomach or riches than they can spend, they use the excess to tempt their kin into working for them. These petty rulers make other ogres grovel at their feet for table scraps, then send them out into the world to steal more. Many ogre communities form around these arrogant aristocrats-but few such leaders die of old age, as the ambition and emotions of their subjects bring about violent ends.
+When wicked ogres gather more food than they can stomach or riches than they can spend, they use the excess to tempt their kin into working for them. These petty rulers make other ogres grovel at their feet for table scraps, then send them out into the world to steal more. Many ogre communities form around these arrogant aristocrats—but few such leaders die of old age, as the ambition and emotions of their subjects bring about violent ends.
 
 ### Cyclops: Ogre Progenitor
 
@@ -15190,7 +15209,7 @@ At the start of any ogre's turn, you can spend Malice to activate one of the fol
 |     Giant, Ogre     |          -          |       Level 2        |       Elite Brute       |         EV 16          |
 | :-----------------: | :-----------------: | :------------------: | :---------------------: | :--------------------: |
 |   **2**<br/> Size   |  **5**<br/> Speed   | **100**<br/> Stamina |  **4**<br/> Stability   | **5**<br/> Free Strike |
-| **-**<br/> Immunity | **-**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **-**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |  **+2**<br/> Might  | **0**<br/> Agility  |  **-1**<br/> Reason  |  **0**<br/> Intuition   |  **-1**<br/> Presence  |
 
 <!-- -->
@@ -15247,7 +15266,7 @@ At the start of any ogre's turn, you can spend Malice to activate one of the fol
 >
 > **Trigger:** A creature or object within distance moves or shifts away from the goon.
 >
-> **Effect:** The goon slides the target up to 5 squares
+> **Effect:** The goon slides the target up to 5 squares.
 
 <!-- -->
 > ⭐️ **Defiant Anger**
@@ -15259,7 +15278,7 @@ At the start of any ogre's turn, you can spend Malice to activate one of the fol
 |     Giant, Ogre     |          -          |       Level 2       |      Elite Harrier      |         EV 16          |
 | :-----------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |   **2**<br/> Size   |  **6**<br/> Speed   | **80**<br/> Stamina |  **2**<br/> Stability   | **5**<br/> Free Strike |
-| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |  **+2**<br/> Might  | **+1**<br/> Agility | **-1**<br/> Reason  |  **0**<br/> Intuition   |  **-1**<br/> Presence  |
 
 <!-- -->
@@ -15299,6 +15318,8 @@ At the start of any ogre's turn, you can spend Malice to activate one of the fol
 > | -------------- | ----------------------------: |
 > | **📏 3 burst** | **🎯 Each enemy in the area** |
 >
+> **Power Roll + 2:**
+>
 > - **≤11:** I < 0 frightened (save ends)
 > - **12-16:** I < 1 frightened (save ends)
 > - **17+:** I < 2 frightened (save ends)
@@ -15306,11 +15327,11 @@ At the start of any ogre's turn, you can spend Malice to activate one of the fol
 > **Effect:** While a target is frightened this way, any ogre gains an edge on strikes against them.
 
 <!-- -->
-> ❗️ **Hrraaaaaagh!**
+> ❗️ **Hrraaaaaagh! (1 Malice)**
 >
-> | **ree triggered action** |       **-** |
-> | ------------------------ | ----------: |
-> | **📏 Self**              | **🎯 Self** |
+> | **-**       | **Free triggered action** |
+> | ----------- | ------------------------: |
+> | **📏 Self** |               **🎯 Self** |
 >
 > **Trigger:** The juggernaut takes damage.
 >
@@ -15319,7 +15340,7 @@ At the start of any ogre's turn, you can spend Malice to activate one of the fol
 <!-- -->
 > ⭐️ **Destructive Path**
 >
-> The juggernaut automatically destroys any mundane size 1 objects in their path when they move or are forced moved. They can break through any mundane wall made of wood, stone, or a similarly sturdy material this way as long as the wall is 2 squares thick or less.
+> The juggernaut automatically destroys any mundane size 1 objects in their path when they move or are force moved. They can break through any mundane wall made of wood, stone, or a similarly sturdy material this way as long as the wall is 2 squares thick or less.
 
 <!-- -->
 > ⭐️ **Defiant Anger**
@@ -15342,7 +15363,7 @@ At the start of any ogre's turn, you can spend Malice to activate one of the fol
 |     Giant, Ogre     |          -          |      Level 10       |            Minion Controller            | EV 12 for four minions |
 | :-----------------: | :-----------------: | :-----------------: | :-------------------------------------: | :--------------------: |
 |   **3**<br/> Size   |  **6**<br/> Speed   | **14**<br/> Stamina |          **5**<br/> Stability           | **4**<br/> Free Strike |
-| **-**<br/> Immunity | **-**<br/> Movement |          -          | **+4 bonus to speed**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **-**<br/> Movement |          -          | **+4 bonus to speed**<br/> With Captain |  **-**<br/> Weakness   |
 |  **+5**<br/> Might  | **-1**<br/> Agility | **-1**<br/> Reason  |          **+3**<br/> Intuition          |  **-1**<br/> Presence  |
 
 <!-- -->
@@ -15370,7 +15391,7 @@ At the start of any ogre's turn, you can spend Malice to activate one of the fol
 |     Giant, Ogre     |          -          |       Level 7       |                 Minion Brute                  | EV 9 for four minions  |
 | :-----------------: | :-----------------: | :-----------------: | :-------------------------------------------: | :--------------------: |
 |   **2**<br/> Size   |  **5**<br/> Speed   | **13**<br/> Stamina |             **4**<br/> Stability              | **4**<br/> Free Strike |
-| **-**<br/> Immunity | **-**<br/> Movement |          -          | **Gain an edge on strikes**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **-**<br/> Movement |          -          | **Gain an edge on strikes**<br/> With Captain |  **-**<br/> Weakness   |
 |  **+4**<br/> Might  | **+1**<br/> Agility | **-1**<br/> Reason  |             **0**<br/> Intuition              |  **+2**<br/> Presence  |
 
 <!-- -->
@@ -15403,7 +15424,7 @@ At the start of any ogre's turn, you can spend Malice to activate one of the fol
 |     Giant, Ogre     |          -          |       Level 7       |                 Minion Artillery                  | EV 9 for four minions  |
 | :-----------------: | :-----------------: | :-----------------: | :-----------------------------------------------: | :--------------------: |
 |   **2**<br/> Size   |  **5**<br/> Speed   | **10**<br/> Stamina |               **2**<br/> Stability                | **4**<br/> Free Strike |
-| **-**<br/> Immunity | **-**<br/> Movement |          -          | **+5 bonus to ranged distance**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **-**<br/> Movement |          -          | **+5 bonus to ranged distance**<br/> With Captain |  **-**<br/> Weakness   |
 |  **+4**<br/> Might  | **+2**<br/> Agility | **-1**<br/> Reason  |               **0**<br/> Intuition                |  **-1**<br/> Presence  |
 
 <!-- -->
@@ -15434,11 +15455,11 @@ Protean in form, beings of nearly pure intellect, the Old Ones think in alien ge
 
 ### Immortal Evil
 
-Across countless cultures and ancestries, olothec feature in nightmares and temple friezes alike. While their origins are obscure and may never be known, their hatred of the mundane world and every living thing in it is well recorded. Olothec channel psionic energy beyond any mortal power, surpassing even the voiceless talkers. To them, a living creature who can't reshape their own flesh is repugnant, an unnatural abomination requiring eradication-or transformation.
+Across countless cultures and ancestries, olothec feature in nightmares and temple friezes alike. While their origins are obscure and may never be known, their hatred of the mundane world and every living thing in it is well recorded. Olothec channel psionic energy beyond any mortal power, surpassing even the voiceless talkers. To them, a living creature who can't reshape their own flesh is repugnant, an unnatural abomination requiring eradication—or transformation.
 
 ### Agents of Chaos
 
-Olothec consider the primordial chaos that spawned them as the ideal state of existence. They have long warred against the voiceless talkers, loathing their constant manipulation and refinement of evolutionary forces. Where olothec lair in forgotten sea tunnels and beneath ancient ruins, they surround themselves with slime servants-humanoids, beasts, horrors, and others, all devolved to a perfect physical and mental state.
+Olothec consider the primordial chaos that spawned them as the ideal state of existence. They have long warred against the voiceless talkers, loathing their constant manipulation and refinement of evolutionary forces. Where olothec lair in forgotten sea tunnels and beneath ancient ruins, they surround themselves with slime servants—humanoids, beasts, horrors, and others, all devolved to a perfect physical and mental state.
 
 ### Primordial Form
 
@@ -15494,14 +15515,14 @@ At the start of an olothec's turn, you can spend Malice to activate one of the f
 <!-- -->
 > ❇️ **Memory of Chaos (6 Malice)**
 >
-> The olothec broadcasts their memory of the universe in its primordial state-a sweeping cacophony of transcendental irrationality and unceasing change. Until the end of the encounter, any creature who starts their turn within 3 squares of the olothec and has R < 3 is dazed and slowed until the end of their next turn).
+> The olothec broadcasts their memory of the universe in its primordial state—a sweeping cacophony of transcendental irrationality and unceasing change. Until the end of the encounter, any creature who starts their turn within 3 squares of the olothec and has R < 3 is dazed and slowed until the end of their next turn).
 
 ###### Olothec
 
-|       Horror, Olothec       |              -              |       Level 6        |          Solo           |         EV 84          |
+|       Horror, Olothec       |              -              |       Level 6        |          Solo           |         EV 96          |
 | :-------------------------: | :-------------------------: | :------------------: | :---------------------: | :--------------------: |
 |       **2**<br/> Size       |      **7**<br/> Speed       | **450**<br/> Stamina |  **0**<br/> Stability   | **7**<br/> Free Strike |
-| **Psychic 6**<br/> Immunity | **Fly, swim**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Psychic 6**<br/> Immunity | **Fly, swim**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |      **+4**<br/> Might      |     **-1**<br/> Agility     |  **+4**<br/> Reason  |  **+2**<br/> Intuition  |  **+3**<br/> Presence  |
 
 <!-- -->
@@ -15612,7 +15633,7 @@ At the start of an olothec's turn, you can spend Malice to activate one of the f
 > - **12-16:** 14 psychic damage; P < 3 frightened (save ends)
 > - **17+:** 17 psychic damage; P < 4 frightened (save ends)
 >
-> **Effect:** While frightened this way, a target can't make saving throws to end any other effects
+> **Effect:** While frightened this way, a target can't make saving throws to end any other effects.
 
 <!-- -->
 > ☠️ **Psychic Pulse (Villain Action 2)**
@@ -15656,7 +15677,7 @@ The intense power of an orc's spirit occasionally manifests as raw magic. Orc ey
 
 #### Mohlers
 
-Mohlers are spined, pig-like animals who corkscrew through the ground as fast as they can run. Native to deserts and forests, these burrowing creatures produce shallow networks of tunnels just below the surface. Where orcs go, mohlers are sure to follow. In times of peace, orcs domesticate them to plow the earth and eat pests-and in times of war, mohlers reshape the battlefield to knock the orcs' enemies off their feet.
+Mohlers are spined, pig-like animals who corkscrew through the ground as fast as they can run. Native to deserts and forests, these burrowing creatures produce shallow networks of tunnels just below the surface. Where orcs go, mohlers are sure to follow. In times of peace, orcs domesticate them to plow the earth and eat pests—and in times of war, mohlers reshape the battlefield to knock the orcs' enemies off their feet.
 
 When an orc community has exceptional gratitude for the deeds of one of their own or an outsider, they bestow the companionship of a mohler upon the individual. Treated kindly, mohlers make steadfast companions, protecting their caregivers with their lives. If mistreated, a mohler returns to their original den, and the orcs hunt the responsible party.
 
@@ -15668,7 +15689,7 @@ Orcs rely on giant bipedal lizards called scyzas to carry them over great distan
 
 Most orcs speak Caelian and Kalliak.
 
-###### Orc Malice Malice Features
+###### Orc Malice (Malice Features)
 
 At the start of any orc's turn, you can spend Malice to activate one of the following features.
 
@@ -15700,7 +15721,7 @@ At the start of any orc's turn, you can spend Malice to activate one of the foll
 |     Animal, Orc     |            -             |      Level 1       |             Minion Ambusher             | EV 3 for four minions  |
 | :-----------------: | :----------------------: | :----------------: | :-------------------------------------: | :--------------------: |
 |  **1S**<br/> Size   |     **7**<br/> Speed     | **4**<br/> Stamina |          **1**<br/> Stability           | **2**<br/> Free Strike |
-| **-**<br/> Immunity | **Burrow**<br/> Movement |         -          | **+2 bonus to speed**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **Burrow**<br/> Movement |         -          | **+2 bonus to speed**<br/> With Captain |  **-**<br/> Weakness   |
 |  **+0**<br/> Might  |   **+2**<br/> Agility    | **-4**<br/> Reason |          **+1**<br/> Intuition          |  **-3**<br/> Presence  |
 
 <!-- -->
@@ -15733,7 +15754,7 @@ At the start of any orc's turn, you can spend Malice to activate one of the foll
 |    Humanoid, Orc    |          -          |      Level 1       |             Minion Harrier              | EV 3 for four minions  |
 | :-----------------: | :-----------------: | :----------------: | :-------------------------------------: | :--------------------: |
 |  **1M**<br/> Size   |  **7**<br/> Speed   | **4**<br/> Stamina |          **0**<br/> Stability           | **1**<br/> Free Strike |
-| **-**<br/> Immunity | **-**<br/> Movement |         -          | **+2 bonus to speed**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **-**<br/> Movement |         -          | **+2 bonus to speed**<br/> With Captain |  **-**<br/> Weakness   |
 |  **+1**<br/> Might  | **+2**<br/> Agility | **0**<br/> Reason  |          **0**<br/> Intuition           |  **0**<br/> Presence   |
 
 <!-- -->
@@ -15758,10 +15779,10 @@ At the start of any orc's turn, you can spend Malice to activate one of the foll
 
 ###### Orc Bloodspark
 
-|    Humanoid, Orc    |          -          |      Level 1       |                      Minion Artillery                      |  EV 3 for four minion  |
+|    Humanoid, Orc    |          -          |      Level 1       |                      Minion Artillery                      | EV 3 for four minions  |
 | :-----------------: | :-----------------: | :----------------: | :--------------------------------------------------------: | :--------------------: |
 |  **1M**<br/> Size   |  **6**<br/> Speed   | **3**<br/> Stamina |                    **0**<br/> Stability                    | **2**<br/> Free Strike |
-| **-**<br/> Immunity | **-**<br/> Movement |         -          | **+2 bonus to forced movement distance**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **-**<br/> Movement |         -          | **+2 bonus to forced movement distance**<br/> With Captain |  **-**<br/> Weakness   |
 |  **0**<br/> Might   | **+1**<br/> Agility | **0**<br/> Reason  |                    **0**<br/> Intuition                    |  **+2**<br/> Presence  |
 
 <!-- -->
@@ -15787,7 +15808,7 @@ At the start of any orc's turn, you can spend Malice to activate one of the foll
 |    Humanoid, Orc    |          -          |      Level 1       |                 Minion Controller                 | EV 3 for four minions  |
 | :-----------------: | :-----------------: | :----------------: | :-----------------------------------------------: | :--------------------: |
 |  **1M**<br/> Size   |  **6**<br/> Speed   | **3**<br/> Stamina |               **0**<br/> Stability                | **1**<br/> Free Strike |
-| **-**<br/> Immunity | **-**<br/> Movement |         -          | **+5 bonus to ranged distance**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **-**<br/> Movement |         -          | **+5 bonus to ranged distance**<br/> With Captain |  **-**<br/> Weakness   |
 |  **0**<br/> Might   | **+1**<br/> Agility | **0**<br/> Reason  |               **0**<br/> Intuition                |  **+2**<br/> Presence  |
 
 <!-- -->
@@ -15815,7 +15836,7 @@ At the start of any orc's turn, you can spend Malice to activate one of the foll
 |    Humanoid, Orc    |          -          |      Level 1       |                   Minion Brute                   | EV 3 for four minions  |
 | :-----------------: | :-----------------: | :----------------: | :----------------------------------------------: | :--------------------: |
 |  **1L**<br/> Size   |  **6**<br/> Speed   | **5**<br/> Stamina |               **0**<br/> Stability               | **2**<br/> Free Strike |
-| **-**<br/> Immunity | **-**<br/> Movement |         -          | **+1 damage bonus to strikes**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **-**<br/> Movement |         -          | **+1 damage bonus to strikes**<br/> With Captain |  **-**<br/> Weakness   |
 |  **+2**<br/> Might  | **+1**<br/> Agility | **0**<br/> Reason  |               **0**<br/> Intuition               |  **0**<br/> Presence   |
 
 <!-- -->
@@ -15827,7 +15848,7 @@ At the start of any orc's turn, you can spend Malice to activate one of the foll
 >
 > **Power Roll + 2:**
 >
-> - **≤11:** 2 damage;
+> - **≤11:** 2 damage
 > - **12-16:** 4 damage; push 3
 > - **17+:** 5 damage; push 3 or prone
 >
@@ -15843,7 +15864,7 @@ At the start of any orc's turn, you can spend Malice to activate one of the foll
 |    Humanoid, Orc    |          -          |       Level 3       |     Platoon Harrier     |         EV 10          |
 | :-----------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |  **1M**<br/> Size   |  **8**<br/> Speed   | **50**<br/> Stamina |  **0**<br/> Stability   | **5**<br/> Free Strike |
-| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |  **+2**<br/> Might  | **+2**<br/> Agility |  **0**<br/> Reason  |  **+1**<br/> Intuition  |  **+1**<br/> Presence  |
 
 <!-- -->
@@ -15878,7 +15899,7 @@ At the start of any orc's turn, you can spend Malice to activate one of the foll
 |    Humanoid, Orc    |          -          |       Level 1       |      Platoon Hexer      |          EV 6          |
 | :-----------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |  **1L**<br/> Size   |  **5**<br/> Speed   | **20**<br/> Stamina |  **2**<br/> Stability   | **3**<br/> Free Strike |
-| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |  **+2**<br/> Might  | **+2**<br/> Agility | **+1**<br/> Reason  |  **+0**<br/> Intuition  |  **+0**<br/> Presence  |
 
 <!-- -->
@@ -15924,8 +15945,8 @@ At the start of any orc's turn, you can spend Malice to activate one of the foll
 |               Humanoid, Orc                |          -          |       Level 1       |    Platoon Artillery    |          EV 6          |
 | :----------------------------------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |              **1M**<br/> Size              |  **6**<br/> Speed   | **20**<br/> Stamina |  **0**<br/> Stability   | **4**<br/> Free Strike |
-| **Cold, fire, or lightning**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
-|             **+1**<br/> Might              | **+1**<br/> Agility | **+0**<br/> Reason  |  **+0**<br/> Intuition  |  **-2**<br/> Presence  |
+| **Cold, fire, or lightning**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
+|             **+1**<br/> Might              | **+1**<br/> Agility | **+0**<br/> Reason  |  **+0**<br/> Intuition  |  **+2**<br/> Presence  |
 
 <!-- -->
 > ⭐️ **Elemental Affinity**
@@ -15972,7 +15993,7 @@ At the start of any orc's turn, you can spend Malice to activate one of the foll
 |    Humanoid, Orc    |          -          |       Level 1       |    Platoon Ambusher     |          EV 6          |
 | :-----------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |  **1L**<br/> Size   |  **5**<br/> Speed   | **30**<br/> Stamina |  **0**<br/> Stability   | **4**<br/> Free Strike |
-| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |  **+1**<br/> Might  | **+2**<br/> Agility | **+0**<br/> Reason  |  **+1**<br/> Intuition  |  **-1**<br/> Presence  |
 
 <!-- -->
@@ -16008,9 +16029,9 @@ At the start of any orc's turn, you can spend Malice to activate one of the foll
 <!-- -->
 > 👤 **Chroma Cloak (1 Malice)**
 >
-> | **-**          |        **Maneuver** |
-> | -------------- | ------------------: |
-> | **📏 Melee 1** | **🎯 One creature** |
+> | **-**    | **Maneuver** |
+> | -------- | -----------: |
+> | **📏 -** |     **🎯 -** |
 >
 > The garroter turns invisible until the end of their turn. This invisibility ends early if they take damage or use an ability.
 
@@ -16024,7 +16045,7 @@ At the start of any orc's turn, you can spend Malice to activate one of the foll
 |    Humanoid, Orc    |          -          |       Level 1       |     Platoon Support     |          EV 6          |
 | :-----------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |  **1M**<br/> Size   |  **6**<br/> Speed   | **30**<br/> Stamina |  **0**<br/> Stability   | **3**<br/> Free Strike |
-| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |  **+1**<br/> Might  | **+0**<br/> Agility | **+0**<br/> Reason  |  **+1**<br/> Intuition  |  **+2**<br/> Presence  |
 
 <!-- -->
@@ -16070,7 +16091,7 @@ At the start of any orc's turn, you can spend Malice to activate one of the foll
 |    Humanoid, Orc    |          -          |       Level 3       |      Platoon Brute      |         EV 10          |
 | :-----------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |  **1L**<br/> Size   |  **6**<br/> Speed   | **60**<br/> Stamina |  **0**<br/> Stability   | **5**<br/> Free Strike |
-| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |  **+2**<br/> Might  | **+2**<br/> Agility | **-1**<br/> Reason  |  **-1**<br/> Intuition  |  **+2**<br/> Presence  |
 
 <!-- -->
@@ -16114,7 +16135,7 @@ At the start of any orc's turn, you can spend Malice to activate one of the foll
 |    Humanoid, Orc    |          -          |       Level 2       |    Platoon Defender     |          EV 8          |
 | :-----------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |  **1L**<br/> Size   |  **6**<br/> Speed   | **59**<br/> Stamina |  **2**<br/> Stability   | **4**<br/> Free Strike |
-| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |  **+2**<br/> Might  | **+2**<br/> Agility | **+2**<br/> Reason  |  **+2**<br/> Intuition  |  **+2**<br/> Presence  |
 
 <!-- -->
@@ -16162,7 +16183,7 @@ At the start of any orc's turn, you can spend Malice to activate one of the foll
 |    Humanoid, Orc    |            -             |       Level 2       |   Platoon Controller    |          EV 8          |
 | :-----------------: | :----------------------: | :-----------------: | :---------------------: | :--------------------: |
 |  **1M**<br/> Size   |     **6**<br/> Speed     | **30**<br/> Stamina |  **2**<br/> Stability   | **4**<br/> Free Strike |
-| **-**<br/> Immunity | **Burrow**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **Burrow**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |  **+1**<br/> Might  |   **+1**<br/> Agility    | **+0**<br/> Reason  |  **+1**<br/> Intuition  |  **+2**<br/> Presence  |
 
 <!-- -->
@@ -16193,7 +16214,7 @@ At the start of any orc's turn, you can spend Malice to activate one of the foll
 > - **12-16:** 7 damage; M < 1 restrained (save ends)
 > - **17+:** 10 damage; M < 2 restrained (save ends)
 >
-> **Effect:** The area is difficult terrain
+> **Effect:** The area is difficult terrain.
 
 <!-- -->
 > ⭐️ **Seismic Step**
@@ -16210,7 +16231,7 @@ At the start of any orc's turn, you can spend Malice to activate one of the foll
 |    Humanoid, Orc    |          -          |       Level 3        |         Leader          |         EV 20          |
 | :-----------------: | :-----------------: | :------------------: | :---------------------: | :--------------------: |
 |  **1M**<br/> Size   |  **6**<br/> Speed   | **120**<br/> Stamina |  **2**<br/> Stability   | **5**<br/> Free Strike |
-| **-**<br/> Immunity | **-**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **-**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |  **+3**<br/> Might  | **+2**<br/> Agility |  **+1**<br/> Reason  |  **+2**<br/> Intuition  |  **+2**<br/> Presence  |
 
 <!-- -->
@@ -16262,7 +16283,7 @@ At the start of any orc's turn, you can spend Malice to activate one of the foll
 <!-- -->
 > ☠️ **Close In (Villain Action 1)**
 >
-> | \*\* Area\*\*   |                        **-** |
+> | **Area**        |                        **-** |
 > | --------------- | ---------------------------: |
 > | **📏 10 burst** | **🎯 Each ally in the area** |
 >
@@ -16305,7 +16326,7 @@ At the start of any orc's turn, you can spend Malice to activate one of the foll
 |     Animal, Orc     |          -          |       Level 3        |       Elite Mount       |         EV 20          |
 | :-----------------: | :-----------------: | :------------------: | :---------------------: | :--------------------: |
 |   **4**<br/> Size   |  **6**<br/> Speed   | **100**<br/> Stamina |  **3**<br/> Stability   | **5**<br/> Free Strike |
-| **-**<br/> Immunity | **-**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **-**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |  **+2**<br/> Might  | **-1**<br/> Agility |  **-4**<br/> Reason  |  **+0**<br/> Intuition  |  **-1**<br/> Presence  |
 
 <!-- -->
@@ -16393,11 +16414,11 @@ When the radenwights' enemies expect them to scurry away like rats, they are pai
 
 ### Bonds and Bravado
 
-It's a big world out there for a bunch of small ratfolk, and radenwights learned long ago that trying to survive by running away or climbing to safety gets you only so far. Radenwights learn boldness from birth, and are taught to hurl themselves fearlessly against any challenge that stands in their way. The key to this bravery is the intense bond of trust that exists between every radenwight, their comrades, and their community-as well as the knowledge that every other radenwight will act just as decisively as they do. In a scrap, it's not one radenwight's blade or arrow that brings down the foe, but the instant and instinctual follow-up from their fellows.
+It's a big world out there for a bunch of small ratfolk, and radenwights learned long ago that trying to survive by running away or climbing to safety gets you only so far. Radenwights learn boldness from birth, and are taught to hurl themselves fearlessly against any challenge that stands in their way. The key to this bravery is the intense bond of trust that exists between every radenwight, their comrades, and their community—as well as the knowledge that every other radenwight will act just as decisively as they do. In a scrap, it's not one radenwight's blade or arrow that brings down the foe, but the instant and instinctual follow-up from their fellows.
 
 ### The Magic of Music
 
-The pursuit of arcane studies is unusual among radenwights, though the community throws their support behind any child who happens to show that talent. Somewhat more common is the spontaneous discovery of magical aptitude through music, as the culture of radenwight meddles strongly emphasizes both music and dance. Radenwights are particularly drawn to flutes and panpipes, inspired by the legend of a flutist whose playing enraptured an evil dragon-even as others in her meddle lined up a suitably sized boulder to be dropped on the creature from the cliff above.
+The pursuit of arcane studies is unusual among radenwights, though the community throws their support behind any child who happens to show that talent. Somewhat more common is the spontaneous discovery of magical aptitude through music, as the culture of radenwight meddles strongly emphasizes both music and dance. Radenwights are particularly drawn to flutes and panpipes, inspired by the legend of a flutist whose playing enraptured an evil dragon—even as others in her meddle lined up a suitably sized boulder to be dropped on the creature from the cliff above.
 
 ### The Great Maclette
 
@@ -16416,9 +16437,9 @@ At the start of any radenwight's turn, you can spend Malice to activate one of t
 <!-- -->
 > 🗡 **Trouser Cut (3 Malice)**
 >
-> | **Magic, Melee** |     **Main action** |
-> | ---------------- | ------------------: |
-> | **📏 Melee 1**   | **🎯 One creature** |
+> | **Melee, Strike, Weapon** |     **Main action** |
+> | ------------------------- | ------------------: |
+> | **📏 Melee 1**            | **🎯 One creature** |
 >
 > **Power Roll + 2:**
 >
@@ -16451,7 +16472,7 @@ At the start of any radenwight's turn, you can spend Malice to activate one of t
 | Humanoid, Radenwight |            -            |      Level 1       |                 Minion Ambusher                  |   EV 3 for 4 minions   |
 | :------------------: | :---------------------: | :----------------: | :----------------------------------------------: | :--------------------: |
 |   **1S**<br/> Size   |    **7**<br/> Speed     | **4**<br/> Stamina |               **0**<br/> Stability               | **2**<br/> Free Strike |
-| **-**<br/> Immunity  | **Climb**<br/> Movement |         -          | **+1 damage bonus to strikes**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity  | **Climb**<br/> Movement |         -          | **+1 damage bonus to strikes**<br/> With Captain |  **-**<br/> Weakness   |
 |  **-1**<br/> Might   |   **+2**<br/> Agility   | **0**<br/> Reason  |              **+1**<br/> Intuition               |  **0**<br/> Presence   |
 
 <!-- -->
@@ -16485,7 +16506,7 @@ At the start of any radenwight's turn, you can spend Malice to activate one of t
 | Humanoid, Radenwight |            -            |      Level 1       |               Minion Artillery                |   EV 3 for 4 minions   |
 | :------------------: | :---------------------: | :----------------: | :-------------------------------------------: | :--------------------: |
 |   **1S**<br/> Size   |    **5**<br/> Speed     | **3**<br/> Stamina |             **0**<br/> Stability              | **2**<br/> Free Strike |
-| **-**<br/> Immunity  | **Climb**<br/> Movement |         -          | **Gain an edge on strikes**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity  | **Climb**<br/> Movement |         -          | **Gain an edge on strikes**<br/> With Captain |  **-**<br/> Weakness   |
 |  **+1**<br/> Might   |   **+2**<br/> Agility   | **-1**<br/> Reason |             **0**<br/> Intuition              |  **0**<br/> Presence   |
 
 <!-- -->
@@ -16500,6 +16521,8 @@ At the start of any radenwight's turn, you can spend Malice to activate one of t
 > - **≤11:** 2 damage
 > - **12-16:** 4 damage
 > - **17+:** 5 damage
+>
+> **Effect:** One ally of the redeye within 2 squares of the target shifts up to 2 squares.
 
 <!-- -->
 > ❗️ **Ready Rodent**
@@ -16517,7 +16540,7 @@ At the start of any radenwight's turn, you can spend Malice to activate one of t
 | Humanoid, Radenwight |            -            |      Level 1       |                 Minion Defender                  |   EV 3 for 4 minions   |
 | :------------------: | :---------------------: | :----------------: | :----------------------------------------------: | :--------------------: |
 |   **1S**<br/> Size   |    **5**<br/> Speed     | **5**<br/> Stamina |               **1**<br/> Stability               | **1**<br/> Free Strike |
-| **-**<br/> Immunity  | **Climb**<br/> Movement |         -          | **+2 bonus to melee distance**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity  | **Climb**<br/> Movement |         -          | **+2 bonus to melee distance**<br/> With Captain |  **-**<br/> Weakness   |
 |  **-1**<br/> Might   |   **+1**<br/> Agility   | **0**<br/> Reason  |               **0**<br/> Intuition               |  **+2**<br/> Presence  |
 
 <!-- -->
@@ -16549,7 +16572,7 @@ At the start of any radenwight's turn, you can spend Malice to activate one of t
 | Humanoid, Radenwight |            -            |      Level 1       |                Minion Harrier                 |   EV 3 for 4 minions   |
 | :------------------: | :---------------------: | :----------------: | :-------------------------------------------: | :--------------------: |
 |   **1S**<br/> Size   |    **7**<br/> Speed     | **4**<br/> Stamina |             **0**<br/> Stability              | **1**<br/> Free Strike |
-| **-**<br/> Immunity  | **Climb**<br/> Movement |         -          | **Gain an edge on strikes**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity  | **Climb**<br/> Movement |         -          | **Gain an edge on strikes**<br/> With Captain |  **-**<br/> Weakness   |
 |   **0**<br/> Might   |   **+2**<br/> Agility   | **+1**<br/> Reason |             **0**<br/> Intuition              |  **-1**<br/> Presence  |
 
 <!-- -->
@@ -16574,14 +16597,14 @@ At the start of any radenwight's turn, you can spend Malice to activate one of t
 >
 > **Trigger:** An ally deals damage to the target.
 >
-> **Effect:** The swiftpaw makes a free strike against the targe.
+> **Effect:** The swiftpaw makes a free strike against the target.
 
 ###### Radenwight Bruxer
 
 | Humanoid, Radenwight |            -            |       Level 1       |      Platoon Brute      |          EV 6          |
 | :------------------: | :---------------------: | :-----------------: | :---------------------: | :--------------------: |
 |   **1L**<br/> Size   |    **5**<br/> Speed     | **40**<br/> Stamina |  **2**<br/> Stability   | **4**<br/> Free Strike |
-| **-**<br/> Immunity  | **Climb**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity  | **Climb**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |  **+2**<br/> Might   |   **+1**<br/> Agility   | **-1**<br/> Reason  |  **0**<br/> Intuition   |  **+1**<br/> Presence  |
 
 <!-- -->
@@ -16626,14 +16649,14 @@ At the start of any radenwight's turn, you can spend Malice to activate one of t
 <!-- -->
 > ⭐️ **Lockdown**
 >
-> Any enemy who shifts adjacent to the bruxer has that shif t en d Additionally, any enemy adjacent to the bruxer can't shift.
+> Any enemy who shifts adjacent to the bruxer has that shift end. Additionally, any enemy adjacent to the bruxer can't shift.
 
 ###### Radenwight Piper
 
 | Humanoid, Radenwight |            -            |       Level 1       |     Platoon Support     |          EV 6          |
 | :------------------: | :---------------------: | :-----------------: | :---------------------: | :--------------------: |
 |   **1S**<br/> Size   |    **5**<br/> Speed     | **30**<br/> Stamina |  **0**<br/> Stability   | **3**<br/> Free Strike |
-| **-**<br/> Immunity  | **Climb**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity  | **Climb**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |   **0**<br/> Might   |   **0**<br/> Agility    |  **0**<br/> Reason  |  **+2**<br/> Intuition  |  **+1**<br/> Presence  |
 
 <!-- -->
@@ -16683,7 +16706,7 @@ At the start of any radenwight's turn, you can spend Malice to activate one of t
 | Humanoid, Radenwight |            -            |       Level 1       |     Platoon Harrier     |          EV 6          |
 | :------------------: | :---------------------: | :-----------------: | :---------------------: | :--------------------: |
 |   **1S**<br/> Size   |    **7**<br/> Speed     | **30**<br/> Stamina |  **0**<br/> Stability   | **3**<br/> Free Strike |
-| **-**<br/> Immunity  | **Climb**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity  | **Climb**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |  **-1**<br/> Might   |   **+2**<br/> Agility   |  **0**<br/> Reason  |  **0**<br/> Intuition   |  **+1**<br/> Presence  |
 
 <!-- -->
@@ -16708,7 +16731,7 @@ At the start of any radenwight's turn, you can spend Malice to activate one of t
 > | -------------- | ---------------: |
 > | **📏 Melee 1** | **🎯 One enemy** |
 >
-> **Effect:** The ratcrobat slides the target up to 3 squares, then can shift into any square the target left
+> **Effect:** The ratcrobat slides the target up to 3 squares, then can shift into any square the target left.
 
 <!-- -->
 > ❗️ **Ready Rodent**
@@ -16731,7 +16754,7 @@ At the start of any radenwight's turn, you can spend Malice to activate one of t
 | Humanoid, Radenwight |            -            |       Level 1       |         Leader          |         EV 12          |
 | :------------------: | :---------------------: | :-----------------: | :---------------------: | :--------------------: |
 |   **1S**<br/> Size   |    **5**<br/> Speed     | **80**<br/> Stamina |  **1**<br/> Stability   | **4**<br/> Free Strike |
-| **-**<br/> Immunity  | **Climb**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity  | **Climb**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |  **-2**<br/> Might   |   **+2**<br/> Agility   |  **0**<br/> Reason  |  **0**<br/> Intuition   |  **+3**<br/> Presence  |
 
 <!-- -->
@@ -16809,7 +16832,7 @@ At the start of any radenwight's turn, you can spend Malice to activate one of t
 
 ## Rivals
 
-They take the jobs you were eyeing on the local town's job board. They sit at your favorite table in the tavern with the best drinks, food, and entertainment. You know their names, and they know yours. They're rivals-heroes just like you. Maybe even better.
+They take the jobs you were eyeing on the local town's job board. They sit at your favorite table in the tavern with the best drinks, food, and entertainment. You know their names, and they know yours. They're rivals—heroes just like you. Maybe even better.
 
 Rivals are NPCs built around the mechanics of seven of the classes in *[Draw Steel: Heroes](https://mcdm.gg/DS-Heroes)*-the conduit, elementalist, fury, null, shadow, tactician, and talent (see Chapter 5: Classes in that book). Their stat blocks are streamlined and modular, meant to be easy to adjust on the fly with ancestral traits or signature abilities. Examples of each type of rival are presented at every tier, capturing their foray into renown as they inevitably cross, clash with, and impede the player characters' own heroic journey.
 
@@ -16879,9 +16902,9 @@ At the start of any rival's turn, you can spend Malice to activate one of the fo
 <!-- -->
 > 🔳 **Check Out Our Loot (5 Malice)**
 >
-> One rival pulls out a magic consumable and hurls it, targeting a 5 x 1 line within 1 square of them or a 3 cube within 10 squares of them. Each enemy in the area makes an Agility test. The rival chooses a damage type and a condition for the outcome of the test from one of the following pairs: sonic damage and dazed, poison
+> One rival pulls out a magic consumable and hurls it, targeting a 5 x 1 line within 1 square of them or a 3 cube within 10 squares of them. Each enemy in the area makes an Agility test. The rival chooses a damage type and a condition for the outcome of the test from one of the following pairs: sonic damage and dazed, poison damage and weakened, or fire damage and frightened.
 >
-> - **≤11:** damage and weakened, or fire damage and frightened. 11 damage; the condition affects the target (save ends)
+> - **≤11:** 11 damage; the condition affects the target (save ends)
 > - **12-16:** 8 damage; the condition affects the target (EoT)
 > - **17+:** 5 damage
 
@@ -16920,7 +16943,7 @@ It's possible that these rivals gained a head start on their adventures and will
 |   Humanoid, Rival   |          -          |       Level 2       |      Elite Support      |         EV 16          |
 | :-----------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |  **1M**<br/> Size   |  **5**<br/> Speed   | **80**<br/> Stamina |  **1**<br/> Stability   | **5**<br/> Free Strike |
-| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |  **+1**<br/> Might  | **+0**<br/> Agility | **+0**<br/> Reason  |  **+2**<br/> Intuition  |  **+0**<br/> Presence  |
 
 <!-- -->
@@ -16941,9 +16964,9 @@ It's possible that these rivals gained a head start on their adventures and will
 <!-- -->
 > 🏹 **Imbue with Might (2 Malice)**
 >
-> | **Magic, Ranged** |               **Maneuver** |
-> | ----------------- | -------------------------: |
-> | **📏 Ranged 10**  | **🎯 Self and five allie** |
+> | **Magic, Ranged** |                **Maneuver** |
+> | ----------------- | --------------------------: |
+> | **📏 Ranged 10**  | **🎯 Self and five allies** |
 >
 > **Effect:** Each target gains an edge on their next strike.
 
@@ -16962,7 +16985,7 @@ It's possible that these rivals gained a head start on their adventures and will
 |   Humanoid, Rival   |          -          |       Level 2       |    Elite Controller     |         EV 16          |
 | :-----------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |  **1M**<br/> Size   |  **5**<br/> Speed   | **60**<br/> Stamina |  **1**<br/> Stability   | **5**<br/> Free Strike |
-| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |  **+0**<br/> Might  | **+0**<br/> Agility | **+2**<br/> Reason  |  **+1**<br/> Intuition  |  **+0**<br/> Presence  |
 
 <!-- -->
@@ -17014,7 +17037,7 @@ It's possible that these rivals gained a head start on their adventures and will
 |   Humanoid, Rival   |          -          |       Level 2        |       Elite Brute       |         EV 16          |
 | :-----------------: | :-----------------: | :------------------: | :---------------------: | :--------------------: |
 |  **1M**<br/> Size   |  **5**<br/> Speed   | **100**<br/> Stamina |  **3**<br/> Stability   | **5**<br/> Free Strike |
-| **-**<br/> Immunity | **-**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **-**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |  **+2**<br/> Might  | **+1**<br/> Agility |  **0**<br/> Reason   |  **0**<br/> Intuition   |  **0**<br/> Presence   |
 
 <!-- -->
@@ -17062,7 +17085,7 @@ It's possible that these rivals gained a head start on their adventures and will
 |   Humanoid, Rival   |          -          |       Level 2       |      Elite Harrier      |         EV 16          |
 | :-----------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |  **1M**<br/> Size   |  **7**<br/> Speed   | **80**<br/> Stamina |  **3**<br/> Stability   | **5**<br/> Free Strike |
-| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |  **0**<br/> Might   | **+2**<br/> Agility | **+1**<br/> Reason  |  **+2**<br/> Intuition  |  **0**<br/> Presence   |
 
 <!-- -->
@@ -17074,7 +17097,7 @@ It's possible that these rivals gained a head start on their adventures and will
 >
 > **Power Roll + 2:**
 >
-> - **≤11:** 7 damage; the null shifts up to 2 square
+> - **≤11:** 7 damage; the null shifts up to 2 squares
 > - **12-16:** 10 damage; the null shifts up to 3 squares
 > - **17+:** 13 damage; the null shifts up to 4 squares
 
@@ -17094,7 +17117,7 @@ It's possible that these rivals gained a head start on their adventures and will
 <!-- -->
 > ⭐️ **Inertial Shield**
 >
-> The first time each round that the null is targeted by a da- age-dealing strike, they halve the damage.
+> The first time each round that the null is targeted by a damage-dealing strike, they halve the damage.
 
 <!-- -->
 > ⭐️ **Rivalry**
@@ -17106,7 +17129,7 @@ It's possible that these rivals gained a head start on their adventures and will
 |   Humanoid, Rival   |          -          |       Level 2       |     Elite Ambusher      |         EV 16          |
 | :-----------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |  **1M**<br/> Size   |  **7**<br/> Speed   | **80**<br/> Stamina |  **1**<br/> Stability   | **5**<br/> Free Strike |
-| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |  **0**<br/> Might   | **+2**<br/> Agility |  **0**<br/> Reason  |  **0**<br/> Intuition   |  **+1**<br/> Presence  |
 
 <!-- -->
@@ -17167,7 +17190,7 @@ It's possible that these rivals gained a head start on their adventures and will
 |   Humanoid, Rival   |          -          |       Level 2       |     Elite Artillery     |         EV 16          |
 | :-----------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |  **1M**<br/> Size   |  **5**<br/> Speed   | **60**<br/> Stamina |  **2**<br/> Stability   | **5**<br/> Free Strike |
-| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |  **+2**<br/> Might  | **0**<br/> Agility  | **+1**<br/> Reason  |  **0**<br/> Intuition   |  **0**<br/> Presence   |
 
 <!-- -->
@@ -17221,7 +17244,7 @@ It's possible that these rivals gained a head start on their adventures and will
 |   Humanoid, Rival   |          -          |       Level 2       |       Elite Hexer       |         EV 16          |
 | :-----------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |  **1M**<br/> Size   |  **5**<br/> Speed   | **60**<br/> Stamina |  **2**<br/> Stability   | **5**<br/> Free Strike |
-| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |  **0**<br/> Might   | **0**<br/> Agility  | **+2**<br/> Reason  |  **0**<br/> Intuition   |  **+1**<br/> Presence  |
 
 <!-- -->
@@ -17259,7 +17282,7 @@ It's possible that these rivals gained a head start on their adventures and will
 >
 > **Trigger:** A creature deals damage to the talent.
 >
-> **Effect:** The talent halves the damage and shifts up to 2 squares
+> **Effect:** The talent halves the damage and shifts up to 2 squares.
 
 <!-- -->
 > ⭐️ **Rivalry**
@@ -17275,7 +17298,7 @@ The rivals have learned a few new tricks since they last encountered the heroes.
 |   Humanoid, Rival   |          -          |       Level 5        |      Elite Support      |         EV 28          |
 | :-----------------: | :-----------------: | :------------------: | :---------------------: | :--------------------: |
 |  **1M**<br/> Size   |  **5**<br/> Speed   | **140**<br/> Stamina |  **1**<br/> Stability   | **6**<br/> Free Strike |
-| **-**<br/> Immunity | **-**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **-**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |  **+2**<br/> Might  | **0**<br/> Agility  |  **0**<br/> Reason   |  **+3**<br/> Intuition  |  **+1**<br/> Presence  |
 
 <!-- -->
@@ -17296,9 +17319,9 @@ The rivals have learned a few new tricks since they last encountered the heroes.
 <!-- -->
 > 🏹 **Imbue with Power (3 Malice)**
 >
-> | **Magic, Ranged** |               **Maneuver** |
-> | ----------------- | -------------------------: |
-> | **📏 Ranged 10**  | **🎯 Self and five allie** |
+> | **Magic, Ranged** |                **Maneuver** |
+> | ----------------- | --------------------------: |
+> | **📏 Ranged 10**  | **🎯 Self and five allies** |
 >
 > **Effect:** Each target has a double edge on their next strike.
 
@@ -17317,7 +17340,7 @@ The rivals have learned a few new tricks since they last encountered the heroes.
 |   Humanoid, Rival   |          -          |       Level 5        |    Elite Controller     |         EV 28          |
 | :-----------------: | :-----------------: | :------------------: | :---------------------: | :--------------------: |
 |  **1M**<br/> Size   |  **5**<br/> Speed   | **120**<br/> Stamina |  **1**<br/> Stability   | **6**<br/> Free Strike |
-| **-**<br/> Immunity | **-**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **-**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |  **0**<br/> Might   | **+2**<br/> Agility |  **+3**<br/> Reason  |  **+2**<br/> Intuition  |  **0**<br/> Presence   |
 
 <!-- -->
@@ -17369,7 +17392,7 @@ The rivals have learned a few new tricks since they last encountered the heroes.
 |   Humanoid, Rival   |          -          |       Level 5        |       Elite Brute       |         EV 28          |
 | :-----------------: | :-----------------: | :------------------: | :---------------------: | :--------------------: |
 |  **1M**<br/> Size   |  **5**<br/> Speed   | **160**<br/> Stamina |  **3**<br/> Stability   | **7**<br/> Free Strike |
-| **-**<br/> Immunity | **-**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **-**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |  **+3**<br/> Might  | **+2**<br/> Agility |  **0**<br/> Reason   |  **0**<br/> Intuition   |  **+1**<br/> Presence  |
 
 <!-- -->
@@ -17417,7 +17440,7 @@ The rivals have learned a few new tricks since they last encountered the heroes.
 |   Humanoid, Rival   |          -          |       Level 5        |      Elite Harrier      |         EV 28          |
 | :-----------------: | :-----------------: | :------------------: | :---------------------: | :--------------------: |
 |  **1M**<br/> Size   |  **7**<br/> Speed   | **140**<br/> Stamina |  **3**<br/> Stability   | **6**<br/> Free Strike |
-| **-**<br/> Immunity | **-**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **-**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |  **0**<br/> Might   | **+3**<br/> Agility |  **+2**<br/> Reason  |  **+3**<br/> Intuition  |  **0**<br/> Presence   |
 
 <!-- -->
@@ -17461,7 +17484,7 @@ The rivals have learned a few new tricks since they last encountered the heroes.
 |   Humanoid, Rival   |          -          |       Level 5        |     Elite Ambusher      |         EV 28          |
 | :-----------------: | :-----------------: | :------------------: | :---------------------: | :--------------------: |
 |  **1M**<br/> Size   |  **7**<br/> Speed   | **140**<br/> Stamina |  **1**<br/> Stability   | **7**<br/> Free Strike |
-| **-**<br/> Immunity | **-**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **-**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |  **0**<br/> Might   | **+3**<br/> Agility |  **+1**<br/> Reason  |  **0**<br/> Intuition   |  **+2**<br/> Presence  |
 
 <!-- -->
@@ -17503,7 +17526,7 @@ The rivals have learned a few new tricks since they last encountered the heroes.
 |   Humanoid, Rival   |          -          |       Level 5        |     Elite Artillery     |         EV 28          |
 | :-----------------: | :-----------------: | :------------------: | :---------------------: | :--------------------: |
 |  **1M**<br/> Size   |  **5**<br/> Speed   | **120**<br/> Stamina |  **2**<br/> Stability   | **7**<br/> Free Strike |
-| **-**<br/> Immunity | **-**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **-**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |  **+3**<br/> Might  | **0**<br/> Agility  |  **+2**<br/> Reason  |  **0**<br/> Intuition   |  **+1**<br/> Presence  |
 
 <!-- -->
@@ -17557,7 +17580,7 @@ The rivals have learned a few new tricks since they last encountered the heroes.
 |   Humanoid, Rival   |          -          |       Level 5        |       Elite Hexer       |         EV 28          |
 | :-----------------: | :-----------------: | :------------------: | :---------------------: | :--------------------: |
 |  **1M**<br/> Size   |  **5**<br/> Speed   | **120**<br/> Stamina |  **2**<br/> Stability   | **6**<br/> Free Strike |
-| **-**<br/> Immunity | **-**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **-**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |  **0**<br/> Might   | **0**<br/> Agility  |  **+3**<br/> Reason  |  **0**<br/> Intuition   |  **+1**<br/> Presence  |
 
 <!-- -->
@@ -17595,7 +17618,7 @@ The rivals have learned a few new tricks since they last encountered the heroes.
 >
 > **Trigger:** A creature deals damage to the talent.
 >
-> **Effect:** The talent halves the damage and shifts up to 2 squares
+> **Effect:** The talent halves the damage and shifts up to 2 squares.
 
 <!-- -->
 > ⭐️ **Rivalry**
@@ -17606,7 +17629,7 @@ The rivals have learned a few new tricks since they last encountered the heroes.
 
 A secret society created to overthrow Capital's political and cultural structure, the Black Iron Pact draws its name from Ajax's sobriquet, the Iron Saint. Iron is a metal with deep symbolism to the tyrannical saint.
 
-The five most powerful members of the pact-the High Command formally lead the society and serve as its strike team. The identity and whereabouts of the Black Iron Pact's original founder are closely guarded secrets, known only to Ajax and the High Command.
+The five most powerful members of the pact—the High Command formally lead the society and serve as its strike team. The identity and whereabouts of the Black Iron Pact's original founder are closely guarded secrets, known only to Ajax and the High Command.
 
 The pact's true numbers also remain a mystery, and many citizens work for them unknowingly. Such subterfuge ensures the pact's agents can't be traced back to the High Command.
 
@@ -17614,7 +17637,7 @@ The pact's true numbers also remain a mystery, and many citizens work for them u
 
 The Black Iron Pact's primary goal is the conquest of Capital and the installation of Ajax as its ruler and god. The pact's agents are true believers of Ajax's gospel, which seeks change through force and violence. Their evil belief is that humans are the true owners of this world, and as such, only humans can join the Black Iron Pact, though the society employs nonhuman pawns when risk of capture or death is high.
 
-Additionally, many members of the pact-notably senior member Erasmus and his wife Avalla-openly sneer at the idea of guilds (essentially scorning everyone in the middle class), and they object to anyone but a human man holding public office, owning any assets, or even learning to read.
+Additionally, many members of the pact—notably senior member Erasmus and his wife Avalla—openly sneer at the idea of guilds (essentially scorning everyone in the middle class), and they object to anyone but a human man holding public office, owning any assets, or even learning to read.
 
 **Running the Black Iron Pact**
 
@@ -17635,7 +17658,7 @@ Rivals at the 3rd Echelon have been through quite a few adventures the heroes mi
 |   Humanoid, Rival   |          -          |       Level 8        |      Elite Support      |         EV 40          |
 | :-----------------: | :-----------------: | :------------------: | :---------------------: | :--------------------: |
 |  **1M**<br/> Size   |  **5**<br/> Speed   | **200**<br/> Stamina |  **1**<br/> Stability   | **8**<br/> Free Strike |
-| **-**<br/> Immunity | **-**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **-**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |  **+3**<br/> Might  | **0**<br/> Agility  |  **+1**<br/> Reason  |  **+4**<br/> Intuition  |  **+2**<br/> Presence  |
 
 <!-- -->
@@ -17656,9 +17679,9 @@ Rivals at the 3rd Echelon have been through quite a few adventures the heroes mi
 <!-- -->
 > 🏹 **Imbue with Power (3 Malice)**
 >
-> | **Magic, Ranged** |               **Maneuver** |
-> | ----------------- | -------------------------: |
-> | **📏 Ranged 10**  | **🎯 Self and five allie** |
+> | **Magic, Ranged** |                **Maneuver** |
+> | ----------------- | --------------------------: |
+> | **📏 Ranged 10**  | **🎯 Self and five allies** |
 >
 > **Effect:** Each target has a double edge on their next strike.
 
@@ -17677,7 +17700,7 @@ Rivals at the 3rd Echelon have been through quite a few adventures the heroes mi
 |   Humanoid, Rival   |          -          |       Level 8        |    Elite Controller     |         EV 40          |
 | :-----------------: | :-----------------: | :------------------: | :---------------------: | :--------------------: |
 |  **1M**<br/> Size   |  **5**<br/> Speed   | **180**<br/> Stamina |  **1**<br/> Stability   | **8**<br/> Free Strike |
-| **-**<br/> Immunity | **-**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **-**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |  **0**<br/> Might   | **+2**<br/> Agility |  **+4**<br/> Reason  |  **+3**<br/> Intuition  |  **0**<br/> Presence   |
 
 <!-- -->
@@ -17731,7 +17754,7 @@ Rivals at the 3rd Echelon have been through quite a few adventures the heroes mi
 |   Humanoid, Rival   |          -          |       Level 8        |       Elite Brute       |         EV 40          |
 | :-----------------: | :-----------------: | :------------------: | :---------------------: | :--------------------: |
 |  **1M**<br/> Size   |  **5**<br/> Speed   | **220**<br/> Stamina |  **3**<br/> Stability   | **9**<br/> Free Strike |
-| **-**<br/> Immunity | **-**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **-**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |  **+4**<br/> Might  | **+3**<br/> Agility |  **0**<br/> Reason   |  **+1**<br/> Intuition  |  **+2**<br/> Presence  |
 
 <!-- -->
@@ -17779,7 +17802,7 @@ Rivals at the 3rd Echelon have been through quite a few adventures the heroes mi
 |   Humanoid, Rival   |          -          |       Level 8        |      Elite Harrier      |         EV 40          |
 | :-----------------: | :-----------------: | :------------------: | :---------------------: | :--------------------: |
 |  **1M**<br/> Size   |  **7**<br/> Speed   | **200**<br/> Stamina |  **3**<br/> Stability   | **8**<br/> Free Strike |
-| **-**<br/> Immunity | **-**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **-**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |  **+2**<br/> Might  | **+4**<br/> Agility |  **+3**<br/> Reason  |  **+4**<br/> Intuition  |  **0**<br/> Presence   |
 
 <!-- -->
@@ -17823,7 +17846,7 @@ Rivals at the 3rd Echelon have been through quite a few adventures the heroes mi
 |   Humanoid, Rival   |          -          |       Level 8        |     Elite Ambusher      |         EV 40          |
 | :-----------------: | :-----------------: | :------------------: | :---------------------: | :--------------------: |
 |  **1M**<br/> Size   |  **7**<br/> Speed   | **200**<br/> Stamina |  **1**<br/> Stability   | **9**<br/> Free Strike |
-| **-**<br/> Immunity | **-**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **-**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |  **0**<br/> Might   | **+4**<br/> Agility |  **+2**<br/> Reason  |  **0**<br/> Intuition   |  **+3**<br/> Presence  |
 
 <!-- -->
@@ -17865,7 +17888,7 @@ Rivals at the 3rd Echelon have been through quite a few adventures the heroes mi
 |   Humanoid, Rival   |          -          |       Level 8        |     Elite Artillery     |         EV 40          |
 | :-----------------: | :-----------------: | :------------------: | :---------------------: | :--------------------: |
 |  **1M**<br/> Size   |  **5**<br/> Speed   | **180**<br/> Stamina |  **2**<br/> Stability   | **9**<br/> Free Strike |
-| **-**<br/> Immunity | **-**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **-**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |  **+4**<br/> Might  | **+1**<br/> Agility |  **+3**<br/> Reason  |  **0**<br/> Intuition   |  **+2**<br/> Presence  |
 
 <!-- -->
@@ -17919,7 +17942,7 @@ Rivals at the 3rd Echelon have been through quite a few adventures the heroes mi
 |   Humanoid, Rival   |          -          |       Level 8        |       Elite Hexer       |         EV 40          |
 | :-----------------: | :-----------------: | :------------------: | :---------------------: | :--------------------: |
 |  **1M**<br/> Size   |  **5**<br/> Speed   | **180**<br/> Stamina |  **2**<br/> Stability   | **8**<br/> Free Strike |
-| **-**<br/> Immunity | **-**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **-**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |  **0**<br/> Might   | **0**<br/> Agility  |  **+4**<br/> Reason  |  **0**<br/> Intuition   |  **+1**<br/> Presence  |
 
 <!-- -->
@@ -17975,7 +17998,7 @@ This is what peak performance looks like. Few bands of monsters can put up a fig
 |   Humanoid, Rival   |          -          |       Level 10       |      Elite Support      |          EV 48          |
 | :-----------------: | :-----------------: | :------------------: | :---------------------: | :---------------------: |
 |  **1M**<br/> Size   |  **5**<br/> Speed   | **240**<br/> Stamina |  **1**<br/> Stability   | **10**<br/> Free Strike |
-| **-**<br/> Immunity | **-**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **-**<br/> Movement |          -           | **-**<br/> With Captain |   **-**<br/> Weakness   |
 |  **+4**<br/> Might  | **+1**<br/> Agility |  **+1**<br/> Reason  |  **+5**<br/> Intuition  |  **+3**<br/> Presence   |
 
 <!-- -->
@@ -17998,9 +18021,9 @@ This is what peak performance looks like. Few bands of monsters can put up a fig
 <!-- -->
 > 🏹 **Empyrean Boon (5 Malice)**
 >
-> | **Magic, Ranged** |               **Maneuver** |
-> | ----------------- | -------------------------: |
-> | **📏 Ranged 10**  | **🎯 Self and five allie** |
+> | **Magic, Ranged** |                **Maneuver** |
+> | ----------------- | --------------------------: |
+> | **📏 Ranged 10**  | **🎯 Self and five allies** |
 >
 > **Effect:** Each target has a double edge on their next strike, and that strike deals an extra 10 holy damage. Additionally, they can vertical slide each creature targeted by the strike up to 2 squares.
 
@@ -18019,7 +18042,7 @@ This is what peak performance looks like. Few bands of monsters can put up a fig
 |   Humanoid, Rival   |          -          |       Level 10       |    Elite Controller     |          EV 48          |
 | :-----------------: | :-----------------: | :------------------: | :---------------------: | :---------------------: |
 |  **1M**<br/> Size   |  **5**<br/> Speed   | **220**<br/> Stamina |  **1**<br/> Stability   | **10**<br/> Free Strike |
-| **-**<br/> Immunity | **-**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **-**<br/> Movement |          -           | **-**<br/> With Captain |   **-**<br/> Weakness   |
 |  **+1**<br/> Might  | **+3**<br/> Agility |  **+5**<br/> Reason  |  **+4**<br/> Intuition  |  **+1**<br/> Presence   |
 
 <!-- -->
@@ -18067,7 +18090,7 @@ This is what peak performance looks like. Few bands of monsters can put up a fig
 |   Humanoid, Rival   |          -          |       Level 10       |       Elite Brute       |          EV 48          |
 | :-----------------: | :-----------------: | :------------------: | :---------------------: | :---------------------: |
 |  **1M**<br/> Size   |  **5**<br/> Speed   | **260**<br/> Stamina |  **3**<br/> Stability   | **10**<br/> Free Strike |
-| **-**<br/> Immunity | **-**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **-**<br/> Movement |          -           | **-**<br/> With Captain |   **-**<br/> Weakness   |
 |  **+5**<br/> Might  | **+4**<br/> Agility |  **0**<br/> Reason   |  **+2**<br/> Intuition  |  **+3**<br/> Presence   |
 
 <!-- -->
@@ -18115,7 +18138,7 @@ This is what peak performance looks like. Few bands of monsters can put up a fig
 |   Humanoid, Rival   |          -          |       Level 10       |      Elite Harrier      |          EV 48          |
 | :-----------------: | :-----------------: | :------------------: | :---------------------: | :---------------------: |
 |  **1M**<br/> Size   |  **7**<br/> Speed   | **240**<br/> Stamina |  **3**<br/> Stability   | **10**<br/> Free Strike |
-| **-**<br/> Immunity | **-**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **-**<br/> Movement |          -           | **-**<br/> With Captain |   **-**<br/> Weakness   |
 |  **+3**<br/> Might  | **+5**<br/> Agility |  **+4**<br/> Reason  |  **+5**<br/> Intuition  |   **0**<br/> Presence   |
 
 <!-- -->
@@ -18159,7 +18182,7 @@ This is what peak performance looks like. Few bands of monsters can put up a fig
 |   Humanoid, Rival   |          -          |       Level 10       |     Elite Ambusher      |          EV 48          |
 | :-----------------: | :-----------------: | :------------------: | :---------------------: | :---------------------: |
 |  **1M**<br/> Size   |  **5**<br/> Speed   | **240**<br/> Stamina |  **1**<br/> Stability   | **10**<br/> Free Strike |
-| **-**<br/> Immunity | **-**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **-**<br/> Movement |          -           | **-**<br/> With Captain |   **-**<br/> Weakness   |
 |  **0**<br/> Might   | **+5**<br/> Agility |  **+3**<br/> Reason  |  **+2**<br/> Intuition  |  **+4**<br/> Presence   |
 
 <!-- -->
@@ -18201,7 +18224,7 @@ This is what peak performance looks like. Few bands of monsters can put up a fig
 |   Humanoid, Rival   |          -          |       Level 10       |     Elite Artillery     |          EV 48          |
 | :-----------------: | :-----------------: | :------------------: | :---------------------: | :---------------------: |
 |  **1M**<br/> Size   |  **5**<br/> Speed   | **220**<br/> Stamina |  **2**<br/> Stability   | **10**<br/> Free Strike |
-| **-**<br/> Immunity | **-**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **-**<br/> Movement |          -           | **-**<br/> With Captain |   **-**<br/> Weakness   |
 |  **+5**<br/> Might  | **+2**<br/> Agility |  **+4**<br/> Reason  |  **0**<br/> Intuition   |  **+3**<br/> Presence   |
 
 <!-- -->
@@ -18255,7 +18278,7 @@ This is what peak performance looks like. Few bands of monsters can put up a fig
 |   Humanoid, Rival   |          -          |       Level 10       |       Elite Hexer       |          EV 48          |
 | :-----------------: | :-----------------: | :------------------: | :---------------------: | :---------------------: |
 |  **1M**<br/> Size   |  **5**<br/> Speed   | **220**<br/> Stamina |  **2**<br/> Stability   | **10**<br/> Free Strike |
-| **-**<br/> Immunity | **-**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **-**<br/> Movement |          -           | **-**<br/> With Captain |   **-**<br/> Weakness   |
 |  **0**<br/> Might   | **0**<br/> Agility  |  **+5**<br/> Reason  |  **0**<br/> Intuition   |  **+1**<br/> Presence   |
 
 <!-- -->
@@ -18286,7 +18309,7 @@ This is what peak performance looks like. Few bands of monsters can put up a fig
 > - **12-16:** R < 4 restrained (save ends)
 > - **17+:** R < 5 restrained (save ends)
 >
-> \*\*Effect:\*\*One ally within distance can use an additional main action on their next turn.
+> **Effect:** One ally within distance can use an additional main action on their next turn.
 
 <!-- -->
 > ❗️ **Psionic Retribution (2 Malice)**
@@ -18306,13 +18329,13 @@ This is what peak performance looks like. Few bands of monsters can put up a fig
 
 ## Shambling Mound
 
-Rich soil squelches under every footstep. Curtains of menacing vines block the way, and muffled groans echo distantly under the darkening canopy. But by the time a hapless explorer realizes the ground is moving, it's too late-the shambling mound has devoured them.
+Rich soil squelches under every footstep. Curtains of menacing vines block the way, and muffled groans echo distantly under the darkening canopy. But by the time a hapless explorer realizes the ground is moving, it's too late—the shambling mound has devoured them.
 
 Found in overgrown swamps, stinking marshes, dense wodes, and dark, damp rainforests, the shambling mound is a wandering mass of vegetation that feeds on everything in their path.
 
 ### Noxious Origins
 
-A shambling mound is most often a byproduct of nearby hags or mages, especially evil ones or those utilizing green magic. Latent magic seeps into the surrounding land, coalescing into a nocuous creature consumed by hunger. The shambling mound knows only that they must grow, and that to grow they must feed-and thus they wander in search of a hunting ground.
+A shambling mound is most often a byproduct of nearby hags or mages, especially evil ones or those utilizing green magic. Latent magic seeps into the surrounding land, coalescing into a nocuous creature consumed by hunger. The shambling mound knows only that they must grow, and that to grow they must feed—and thus they wander in search of a hunting ground.
 
 It is believed these magical origins are what give shambling mounds their ability to produce poisons, which vary from region to region. For example, the toxins from a shambling mound along coastal beaches or swamps might appear milky white and smell sweet like manchineel trees. Meanwhile, shambling mounds found in rainforests might give off a heady, intoxicating sweet scent at night, luring victims in with beautiful pale blooms like angel's trumpets and producing intense hallucinations for those unfortunate enough to become poisoned. But while their specific effects might change, each shambling mound's toxins typically have the same aim: enervate their foes and then magically absorb that lost strength and vitality.
 
@@ -18336,7 +18359,7 @@ It is believed these magical origins are what give shambling mounds their abilit
 
 ### Hearty Eaters
 
-As a shambling mound drags their massive form through the undergrowth, they consume any organic matter they pass. What is more satisfying, however, is when they find a shadowed, overgrown place to lurk until the meal comes to them-a veritable feast for little effort. After a mound engulfs their prey, be they animal or adventurer, the meal-to-be is sealed in a sack of interwoven vines and leaves. This vegetative hunter can then sap the strength of those within to feast or empower itself.
+As a shambling mound drags their massive form through the undergrowth, they consume any organic matter they pass. What is more satisfying, however, is when they find a shadowed, overgrown place to lurk until the meal comes to them—a veritable feast for little effort. After a mound engulfs their prey, be they animal or adventurer, the meal-to-be is sealed in a sack of interwoven vines and leaves. This vegetative hunter can then sap the strength of those within to feast or empower itself.
 
 ### Verdant Core and Expansive Sprawl
 
@@ -18377,7 +18400,7 @@ At the start of a shambling mound's turn, you can spend Malice to activate one o
 | Plant, Shambling Mound |          -          |       Level 5        |          Solo           |         EV 84          |
 | :--------------------: | :-----------------: | :------------------: | :---------------------: | :--------------------: |
 |    **3**<br/> Size     |  **3**<br/> Speed   | **400**<br/> Stamina |  **5**<br/> Stability   | **7**<br/> Free Strike |
-|  **-**<br/> Immunity   | **-**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+|  **-**<br/> Immunity   | **-**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |   **+4**<br/> Might    | **-1**<br/> Agility |  **0**<br/> Reason   |  **+1**<br/> Intuition  |  **0**<br/> Presence   |
 
 <!-- -->
@@ -18504,7 +18527,7 @@ Genetic rebels, the space punks known as the time raiders (called the *kuran'zoi
 
 ### Veterans of the Psychic Wars
 
-Thousands of years ago, the synlirii-those powerful and evil psionic horrors more commonly known as voiceless talkers-created the kuran'zoi as soldiers. But as the synlirii experimented with and enhanced these warriors' psionic potential, the kuran'zoi came to understand the true nature of their progenitors. They rebelled against the synlirii and fled to the Sea of Stars, becoming nomads of the timescape.
+Thousands of years ago, the synlirii—those powerful and evil psionic horrors more commonly known as voiceless talkers—created the kuran'zoi as soldiers. But as the synlirii experimented with and enhanced these warriors' psionic potential, the kuran'zoi came to understand the true nature of their progenitors. They rebelled against the synlirii and fled to the Sea of Stars, becoming nomads of the timescape.
 
 ### Hardened-Vision Hexapods
 
@@ -18564,7 +18587,7 @@ At the start of any time raider's turn, you can spend Malice to activate one of 
 |    Humanoid, Time Raider    |          -          |      Level 3       |                  Minion Harrier                  | EV 5 for four minions  |
 | :-------------------------: | :-----------------: | :----------------: | :----------------------------------------------: | :--------------------: |
 |      **1M**<br/> Size       |  **7**<br/> Speed   | **7**<br/> Stamina |               **0**<br/> Stability               | **2**<br/> Free Strike |
-| **Psychic 3**<br/> Immunity | **-**<br/> Movement |         -          | **+1 damage bonus to strikes**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Psychic 3**<br/> Immunity | **-**<br/> Movement |         -          | **+1 damage bonus to strikes**<br/> With Captain |  **-**<br/> Weakness   |
 |      **+2**<br/> Might      | **+2**<br/> Agility | **+2**<br/> Reason |              **+1**<br/> Intuition               |  **-1**<br/> Presence  |
 
 <!-- -->
@@ -18590,7 +18613,7 @@ At the start of any time raider's turn, you can spend Malice to activate one of 
 |    Humanoid, Time Raider    |          -          |      Level 3       |                   Minion Brute                   | EV 5 for four minions  |
 | :-------------------------: | :-----------------: | :----------------: | :----------------------------------------------: | :--------------------: |
 |      **1M**<br/> Size       |  **5**<br/> Speed   | **8**<br/> Stamina |               **0**<br/> Stability               | **3**<br/> Free Strike |
-| **Psychic 3**<br/> Immunity | **-**<br/> Movement |         -          | **+1 damage bonus to strikes**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Psychic 3**<br/> Immunity | **-**<br/> Movement |         -          | **+1 damage bonus to strikes**<br/> With Captain |  **-**<br/> Weakness   |
 |      **+2**<br/> Might      | **+1**<br/> Agility | **+2**<br/> Reason |              **+1**<br/> Intuition               |  **+1**<br/> Presence  |
 
 <!-- -->
@@ -18616,7 +18639,7 @@ At the start of any time raider's turn, you can spend Malice to activate one of 
 |    Humanoid, Time Raider    |          -          |       Level 3       |    Platoon Defender     |         EV 10          |
 | :-------------------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |      **1M**<br/> Size       |  **5**<br/> Speed   | **60**<br/> Stamina |  **0**<br/> Stability   | **5**<br/> Free Strike |
-| **Psychic 3**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Psychic 3**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |      **0**<br/> Might       | **+2**<br/> Agility | **+2**<br/> Reason  |  **+2**<br/> Intuition  |  **0**<br/> Presence   |
 
 <!-- -->
@@ -18641,7 +18664,7 @@ At the start of any time raider's turn, you can spend Malice to activate one of 
 > | ------------------- | -----------------------------: |
 > | **📏 Ranged 20**    | **🎯 The triggering creature** |
 >
-> **Trigger:** A creature deals damage to any ally of the armiger who the armiger has line of effect to
+> **Trigger:** A creature deals damage to any ally of the armiger who the armiger has line of effect to.
 >
 > **Power Roll + 2:**
 >
@@ -18664,7 +18687,7 @@ At the start of any time raider's turn, you can spend Malice to activate one of 
 |    Humanoid, Time Raider    |          -          |       Level 3       |    Platoon Artillery    |         EV 10          |
 | :-------------------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |      **1L**<br/> Size       |  **5**<br/> Speed   | **40**<br/> Stamina |  **3**<br/> Stability   | **5**<br/> Free Strike |
-| **Psychic 3**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Psychic 3**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |      **0**<br/> Might       | **+2**<br/> Agility | **+2**<br/> Reason  |  **+2**<br/> Intuition  |  **0**<br/> Presence   |
 
 <!-- -->
@@ -18691,7 +18714,7 @@ At the start of any time raider's turn, you can spend Malice to activate one of 
 >
 > **Trigger:** A creature damages the cannonfall with a ranged or area ability.
 >
-> **Effect:** The damage is halved for the cannonfall and each target also affected by the triggering ability
+> **Effect:** The damage is halved for the cannonfall and each target also affected by the triggering ability.
 
 <!-- -->
 > ⭐️ **Foresight Squared**
@@ -18703,7 +18726,7 @@ At the start of any time raider's turn, you can spend Malice to activate one of 
 |    Humanoid, Time Raider    |           -           |       Level 3       |   Platoon Controller    |         EV 10          |
 | :-------------------------: | :-------------------: | :-----------------: | :---------------------: | :--------------------: |
 |      **1M**<br/> Size       |   **5**<br/> Speed    | **40**<br/> Stamina |  **0**<br/> Stability   | **5**<br/> Free Strike |
-| **Psychic 3**<br/> Immunity | **Fly**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Psychic 3**<br/> Immunity | **Fly**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |      **0**<br/> Might       |  **+2**<br/> Agility  | **+2**<br/> Reason  |  **+2**<br/> Intuition  |  **+2**<br/> Presence  |
 
 <!-- -->
@@ -18726,7 +18749,7 @@ At the start of any time raider's turn, you can spend Malice to activate one of 
 > | --------------------------- | -------------: |
 > | **📏 4 x 2 line within 10** | **🎯 Special** |
 >
-> **Effect:** The area is a psionically charged treadmill that pushes creatures and objects at high speed in one direction of the helix's choice. Any creature who enters the area or starts their turn there slides 3 squares toward the end of the area in the chosen direction. Each enemy in the area when it first appears takes 3 damage before they slide
+> **Effect:** The area is a psionically charged treadmill that pushes creatures and objects at high speed in one direction of the helix's choice. Any creature who enters the area or starts their turn there slides 3 squares toward the end of the area in the chosen direction. Each enemy in the area when it first appears takes 3 damage before they slide.
 >
 > **3 Malice:** The helix creates a second kinetic lane.
 
@@ -18740,7 +18763,7 @@ At the start of any time raider's turn, you can spend Malice to activate one of 
 |    Humanoid, Time Raider    |          -          |       Level 3       |    Platoon Ambusher     |         EV 10          |
 | :-------------------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |      **1M**<br/> Size       |  **6**<br/> Speed   | **50**<br/> Stamina |  **0**<br/> Stability   | **5**<br/> Free Strike |
-| **Psychic 3**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Psychic 3**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |      **0**<br/> Might       | **+2**<br/> Agility | **+2**<br/> Reason  |  **+2**<br/> Intuition  |  **+1**<br/> Presence  |
 
 <!-- -->
@@ -18777,7 +18800,7 @@ At the start of any time raider's turn, you can spend Malice to activate one of 
 |    Humanoid, Time Raider    |          -          |       Level 3       |      Platoon Hexer      |         EV 10          |
 | :-------------------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |       **2**<br/> Size       |  **5**<br/> Speed   | **40**<br/> Stamina |  **2**<br/> Stability   | **5**<br/> Free Strike |
-| **Psychic 3**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Psychic 3**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |      **+2**<br/> Might      | **0**<br/> Agility  | **+2**<br/> Reason  |  **+2**<br/> Intuition  |  **+1**<br/> Presence  |
 
 <!-- -->
@@ -18818,7 +18841,7 @@ At the start of any time raider's turn, you can spend Malice to activate one of 
 |    Humanoid, Time Raider    |           -           |       Level 3       |     Platoon Harrier     |         EV 10          |
 | :-------------------------: | :-------------------: | :-----------------: | :---------------------: | :--------------------: |
 |      **1M**<br/> Size       |   **7**<br/> Speed    | **50**<br/> Stamina |  **0**<br/> Stability   | **5**<br/> Free Strike |
-| **Psychic 3**<br/> Immunity | **Fly**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Psychic 3**<br/> Immunity | **Fly**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |      **+1**<br/> Might      |  **+2**<br/> Agility  | **+2**<br/> Reason  |  **+1**<br/> Intuition  |  **0**<br/> Presence   |
 
 <!-- -->
@@ -18826,7 +18849,7 @@ At the start of any time raider's turn, you can spend Malice to activate one of 
 >
 > | **Melee, Psionic, Strike, Weapon** |               **Main action** |
 > | ---------------------------------- | ----------------------------: |
-> | **📏 Ranged 10**                   | **🎯 One creature or object** |
+> | **📏 Melee 2**                     | **🎯 One creature or object** |
 >
 > **Power Roll + 2:**
 >
@@ -18861,7 +18884,7 @@ At the start of any time raider's turn, you can spend Malice to activate one of 
 |    Humanoid, Time Raider    |              -               |       Level 3       |     Platoon Support     |         EV 10          |
 | :-------------------------: | :--------------------------: | :-----------------: | :---------------------: | :--------------------: |
 |       **2**<br/> Size       |       **5**<br/> Speed       | **62**<br/> Stamina |  **2**<br/> Stability   | **5**<br/> Free Strike |
-| **Psychic 3**<br/> Immunity | **Fly, hover**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Psychic 3**<br/> Immunity | **Fly, hover**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |      **+1**<br/> Might      |     **+1**<br/> Agility      | **+2**<br/> Reason  |  **+1**<br/> Intuition  |  **0**<br/> Presence   |
 
 <!-- -->
@@ -18904,11 +18927,11 @@ At the start of any time raider's turn, you can spend Malice to activate one of 
 
 ###### Time Raider Tyrannis
 
-|    Humanoid, Time Raider    |                 -                 |        Level 3        |         Leader          |         EV 20          |
-| :-------------------------: | :-------------------------------: | :-------------------: | :---------------------: | :--------------------: |
-|       **2**<br/> Size       |         **1**<br/> Speed          | **0120**<br/> Stamina |  **2**<br/> Stability   | **5**<br/> Free Strike |
-| **Psychic 5**<br/> Immunity | **Hover, teleport**<br/> Movement |           -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
-|      **0**<br/> Might       |        **+3**<br/> Agility        |  **+3**<br/> Reason   |  **+1**<br/> Intuition  |  **0**<br/> Presence   |
+|    Humanoid, Time Raider    |                 -                 |       Level 3        |         Leader          |         EV 20          |
+| :-------------------------: | :-------------------------------: | :------------------: | :---------------------: | :--------------------: |
+|       **2**<br/> Size       |         **10**<br/> Speed         | **120**<br/> Stamina |  **2**<br/> Stability   | **5**<br/> Free Strike |
+| **Psychic 5**<br/> Immunity | **Hover, teleport**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
+|      **0**<br/> Might       |        **+3**<br/> Agility        |  **+3**<br/> Reason  |  **+1**<br/> Intuition  |  **0**<br/> Presence   |
 
 <!-- -->
 > ⚔️ **Gatling Blaster (Signature Ability)**
@@ -18994,7 +19017,7 @@ A troll's constant hunger and aggression beget a life of violence. Like a grotes
 
 ### Phases of Destruction
 
-Fortunately for the ecosystems they inhabit, trolls can't be active all the time. Their natural behavior is to hunt relentlessly for a few days, then return to their dens to rest for as much as a week. Patient troll hunters can wait for this torpor and catch their quarry by surprise-though the cost of waiting can be high thanks to the damage a troll might do in the meantime.
+Fortunately for the ecosystems they inhabit, trolls can't be active all the time. Their natural behavior is to hunt relentlessly for a few days, then return to their dens to rest for as much as a week. Patient troll hunters can wait for this torpor and catch their quarry by surprise—though the cost of waiting can be high thanks to the damage a troll might do in the meantime.
 
 ### Strange Mutations
 
@@ -19007,9 +19030,9 @@ When a suitably large piece of a troll is torn off in battle, it does its very b
 <!-- -->
 > **Mutating Your Trolls**
 >
-> At the director's discretion, a troll can mutate after consuming the flesh of any creature and gain some of their damage immunities, traits, abilities, and movement options. For instance, a troll who devours the carcass of a dead draconian might grow wings and gain their signature ability!
+> At the Director's discretion, a troll can mutate after consuming the flesh of any creature and gain some of their damage immunities, traits, abilities, and movement options. For instance, a troll who devours the carcass of a dead draconian might grow wings and gain their signature ability!
 >
-> Be aware that this can increase the difficulty category of an encounter while one or more of these mutated trolls are present-especially if their mutations enable them to deal more damage than normal or grant them an acid or fire damage immunity.
+> Be aware that this can increase the difficulty category of an encounter while one or more of these mutated trolls are present—especially if their mutations enable them to deal more damage than normal or grant them an acid or fire damage immunity.
 
 ### Troll Languages
 
@@ -19040,11 +19063,11 @@ At the start of any troll's turn, you can spend Malice to activate one of the fo
 
 ###### Troll Limbjumble
 
-|        Troll        |          -          |      Level 5       |                 Minion Hexer                  |      EV 7 for four minions       |
-| :-----------------: | :-----------------: | :----------------: | :-------------------------------------------: | :------------------------------: |
-|  **1S**<br/> Size   |  **5**<br/> Speed   | **8**<br/> Stamina |             **0**<br/> Stability              |      **3**<br/> Free Strike      |
-| **-**<br/> Immunity | **-**<br/> Movement |         -          | **Gain an edge on strikes**<br/> With Captain | **Acid 8, fire**<br/> Weaknesses |
-|  **+3**<br/> Might  | **+1**<br/> Agility | **-2**<br/> Reason |             **-1**<br/> Intuition             |       **-1**<br/> Presence       |
+|        Troll        |          -          |      Level 5       |                 Minion Hexer                  |     EV 7 for four minions      |
+| :-----------------: | :-----------------: | :----------------: | :-------------------------------------------: | :----------------------------: |
+|  **1S**<br/> Size   |  **5**<br/> Speed   | **8**<br/> Stamina |             **0**<br/> Stability              |     **3**<br/> Free Strike     |
+| **-**<br/> Immunity | **-**<br/> Movement |         -          | **Gain an edge on strikes**<br/> With Captain | **Acid 8, fire**<br/> Weakness |
+|  **+3**<br/> Might  | **+1**<br/> Agility | **-2**<br/> Reason |             **-1**<br/> Intuition             |      **-1**<br/> Presence      |
 
 <!-- -->
 > 🗡 **Arm and a Leg (Signature Ability)**
@@ -19068,11 +19091,11 @@ At the start of any troll's turn, you can spend Malice to activate one of the fo
 
 ###### Troll Whelp
 
-|    Giant, Troll     |          -          |       Level 5       |                   Minion Brute                   |      EV 7 for four minions       |
-| :-----------------: | :-----------------: | :-----------------: | :----------------------------------------------: | :------------------------------: |
-|  **1L**<br/> Size   |  **6**<br/> Speed   | **10**<br/> Stamina |               **3**<br/> Stability               |      **3**<br/> Free Strike      |
-| **-**<br/> Immunity | **-**<br/> Movement |          -          | **+2 damage bonus to strikes**<br/> With Captain | **Acid 5, fire**<br/> Weaknesses |
-|  **+3**<br/> Might  | **+1**<br/> Agility | **-1**<br/> Reason  |               **0**<br/> Intuition               |       **0**<br/> Presence        |
+|    Giant, Troll     |          -          |       Level 5       |                   Minion Brute                   |     EV 7 for four minions      |
+| :-----------------: | :-----------------: | :-----------------: | :----------------------------------------------: | :----------------------------: |
+|  **1L**<br/> Size   |  **6**<br/> Speed   | **10**<br/> Stamina |               **3**<br/> Stability               |     **3**<br/> Free Strike     |
+| **-**<br/> Immunity | **-**<br/> Movement |          -          | **+2 damage bonus to strikes**<br/> With Captain | **Acid 5, fire**<br/> Weakness |
+|  **+3**<br/> Might  | **+1**<br/> Agility | **-1**<br/> Reason  |               **0**<br/> Intuition               |      **0**<br/> Presence       |
 
 <!-- -->
 > 🗡 **Jaws and Claws (Signature Ability)**
@@ -19094,11 +19117,11 @@ At the start of any troll's turn, you can spend Malice to activate one of the fo
 
 ###### Troll Butcher
 
-|    Giant, Troll     |          -          |       Level 5        |       Elite Hexer       |              EV 28               |
-| :-----------------: | :-----------------: | :------------------: | :---------------------: | :------------------------------: |
-|   **2**<br/> Size   |  **8**<br/> Speed   | **120**<br/> Stamina |  **2**<br/> Stability   |      **6**<br/> Free Strike      |
-| **-**<br/> Immunity | **-**<br/> Movement |          -           | **-**<br/> With Captain | **Acid 5, fire**<br/> Weaknesses |
-|  **+3**<br/> Might  | **+1**<br/> Agility |  **+1**<br/> Reason  |  **0**<br/> Intuition   |       **0**<br/> Presence        |
+|    Giant, Troll     |          -          |       Level 5        |       Elite Hexer       |             EV 28              |
+| :-----------------: | :-----------------: | :------------------: | :---------------------: | :----------------------------: |
+|   **2**<br/> Size   |  **8**<br/> Speed   | **120**<br/> Stamina |  **2**<br/> Stability   |     **6**<br/> Free Strike     |
+| **-**<br/> Immunity | **-**<br/> Movement |          -           | **-**<br/> With Captain | **Acid 5, fire**<br/> Weakness |
+|  **+3**<br/> Might  | **+1**<br/> Agility |  **+1**<br/> Reason  |  **0**<br/> Intuition   |      **0**<br/> Presence       |
 
 <!-- -->
 > 🗡 **Savoring Bite (Signature Ability)**
@@ -19153,20 +19176,20 @@ At the start of any troll's turn, you can spend Malice to activate one of the fo
 <!-- -->
 > ⭐️ **Bloody Feast**
 >
-> Each ally within 5 squares of the butcher gains an edge on power rolls against any enemy affected by a condition
+> Each ally within 5 squares of the butcher gains an edge on power rolls against any enemy affected by a condition.
 
 <!-- -->
 > ⭐️ **Relentless Hunger**
 >
-> The butcher dies only if they are reduced to 0 Stamina by acid or fire damage, if they end their turn with 0 Stamina, or if they take acid or fire damage while at 0 Stamina
+> The butcher dies only if they are reduced to 0 Stamina by acid or fire damage, if they end their turn with 0 Stamina, or if they take acid or fire damage while at 0 Stamina.
 
 ###### Troll Glutton
 
-|    Giant, Troll     |          -          |       Level 5        |       Elite Brute       |              EV 28               |
-| :-----------------: | :-----------------: | :------------------: | :---------------------: | :------------------------------: |
-|   **2**<br/> Size   |  **6**<br/> Speed   | **160**<br/> Stamina |  **4**<br/> Stability   |      **7**<br/> Free Strike      |
-| **-**<br/> Immunity | **-**<br/> Movement |          -           | **-**<br/> With Captain | **Acid 5, fire**<br/> Weaknesses |
-|  **+3**<br/> Might  | **+1**<br/> Agility |  **-1**<br/> Reason  |  **0**<br/> Intuition   |       **+1**<br/> Presence       |
+|    Giant, Troll     |          -          |       Level 5        |       Elite Brute       |             EV 28              |
+| :-----------------: | :-----------------: | :------------------: | :---------------------: | :----------------------------: |
+|   **2**<br/> Size   |  **6**<br/> Speed   | **160**<br/> Stamina |  **4**<br/> Stability   |     **7**<br/> Free Strike     |
+| **-**<br/> Immunity | **-**<br/> Movement |          -           | **-**<br/> With Captain | **Acid 5, fire**<br/> Weakness |
+|  **+3**<br/> Might  | **+1**<br/> Agility |  **-1**<br/> Reason  |  **0**<br/> Intuition   |      **+1**<br/> Presence      |
 
 <!-- -->
 > 🗡 **Voracious Mastication (Signature Ability)**
@@ -19199,7 +19222,7 @@ At the start of any troll's turn, you can spend Malice to activate one of the fo
 > | ----------- | -----------: |
 > | **📏 Self** |  **🎯 Self** |
 >
-> **Effect:** Until the start of their next turn, the glutton has a double edge on strikes, and strikes made against them gain an edge
+> **Effect:** Until the start of their next turn, the glutton has a double edge on strikes, and strikes made against them gain an edge.
 
 <!-- -->
 > ❗️ **Spiteful Retort (1 Malice)**
@@ -19220,15 +19243,15 @@ At the start of any troll's turn, you can spend Malice to activate one of the fo
 <!-- -->
 > ⭐️ **Relentless Hunger**
 >
-> The glutton dies only if they are reduced to 0 Stamina by acid or fire damage, if they end their turn with 0 Stamina, or if they take acid or fire damage while at 0 Stamina
+> The glutton dies only if they are reduced to 0 Stamina by acid or fire damage, if they end their turn with 0 Stamina, or if they take acid or fire damage while at 0 Stamina.
 
 ###### Troll Crack Trooper
 
-|    Giant, Troll     |          -          |       Level 9       |               Minion Brute                |      EV 11 for four minions      |
-| :-----------------: | :-----------------: | :-----------------: | :---------------------------------------: | :------------------------------: |
-|   **2**<br/> Size   |  **6**<br/> Speed   | **15**<br/> Stamina |           **4**<br/> Stability            |      **5**<br/> Free Strike      |
-| **-**<br/> Immunity | **-**<br/> Movement |          -          | **+3 bonus to Stamina**<br/> With Captain | **Acid 5, fire**<br/> Weaknesses |
-|  **+4**<br/> Might  | **+1**<br/> Agility | **-1**<br/> Reason  |           **0**<br/> Intuition            |       **+2**<br/> Presence       |
+|    Giant, Troll     |          -          |       Level 9       |               Minion Brute                |     EV 11 for four minions     |
+| :-----------------: | :-----------------: | :-----------------: | :---------------------------------------: | :----------------------------: |
+|   **2**<br/> Size   |  **6**<br/> Speed   | **15**<br/> Stamina |           **4**<br/> Stability            |     **5**<br/> Free Strike     |
+| **-**<br/> Immunity | **-**<br/> Movement |          -          | **+3 bonus to Stamina**<br/> With Captain | **Acid 5, fire**<br/> Weakness |
+|  **+4**<br/> Might  | **+1**<br/> Agility | **-1**<br/> Reason  |           **0**<br/> Intuition            |      **+2**<br/> Presence      |
 
 <!-- -->
 > 🗡 **Charging Chomp (Signature Ability)**
@@ -19252,11 +19275,11 @@ At the start of any troll's turn, you can spend Malice to activate one of the fo
 
 ###### Troll Ravager
 
-|    Giant, Troll     |          -          |       Level 9       |             Minion Harrier              |      EV 11 for four minions      |
-| :-----------------: | :-----------------: | :-----------------: | :-------------------------------------: | :------------------------------: |
-|   **2**<br/> Size   |  **8**<br/> Speed   | **15**<br/> Stamina |          **2**<br/> Stability           |      **4**<br/> Free Strike      |
-| **-**<br/> Immunity | **-**<br/> Movement |          -          | **+2 bonus to speed**<br/> With Captain | **Acid 5, fire**<br/> Weaknesses |
-|  **+4**<br/> Might  | **+2**<br/> Agility |  **0**<br/> Reason  |          **+1**<br/> Intuition          |       **+1**<br/> Presence       |
+|    Giant, Troll     |          -          |       Level 9       |             Minion Harrier              |     EV 11 for four minions     |
+| :-----------------: | :-----------------: | :-----------------: | :-------------------------------------: | :----------------------------: |
+|   **2**<br/> Size   |  **8**<br/> Speed   | **15**<br/> Stamina |          **2**<br/> Stability           |     **4**<br/> Free Strike     |
+| **-**<br/> Immunity | **-**<br/> Movement |          -          | **+2 bonus to speed**<br/> With Captain | **Acid 5, fire**<br/> Weakness |
+|  **+4**<br/> Might  | **+2**<br/> Agility |  **0**<br/> Reason  |          **+1**<br/> Intuition          |      **+1**<br/> Presence      |
 
 <!-- -->
 > 🗡 **Dine and Dash (Signature Ability)**
@@ -19276,7 +19299,7 @@ At the start of any troll's turn, you can spend Malice to activate one of the fo
 <!-- -->
 > ⭐️ **Group Appetite**
 >
-> The ravager dies only if their squad's Stamina pool is reduced to 0 Stamina by acid or fire damage, if they end their turn with 0 Stamina in their squad's Stamina pool, or if they take acid or fire damage while their squad's Stamina pool is at 0 Stamina
+> The ravager dies only if their squad's Stamina pool is reduced to 0 Stamina by acid or fire damage, if they end their turn with 0 Stamina in their squad's Stamina pool, or if they take acid or fire damage while their squad's Stamina pool is at 0 Stamina.
 
 ## Undead
 
@@ -19340,7 +19363,7 @@ Undead are often encountered in groups that include more than just a single kind
 
 ### Corporeal Undead
 
-At their most innocuous, corporeal undead are a mockery of life, a body hoisted and dragged along by unnatural strings. At their worst, they are a violent scourge hungry for slaughter, and a perverse reflection of the mortal desire to exist for eternity. Ghouls, skeletons, soulwights, and zombies number among the lesser corporeal undead. Many lack a soul, and many can't think beyond the orders of their creators-unlike more powerful corporeal undead such as liches and vampires. Those who aren't controlled by others typically have a singular focus: the destruction of all living things.
+At their most innocuous, corporeal undead are a mockery of life, a body hoisted and dragged along by unnatural strings. At their worst, they are a violent scourge hungry for slaughter, and a perverse reflection of the mortal desire to exist for eternity. Ghouls, skeletons, soulwights, and zombies number among the lesser corporeal undead. Many lack a soul, and many can't think beyond the orders of their creators—unlike more powerful corporeal undead such as liches and vampires. Those who aren't controlled by others typically have a singular focus: the destruction of all living things.
 
 The magic that animates a corpse removes the need for air, sleep, and sustenance. This magic also halts decay, preserving the undead at the stage of deterioration before they were animated. While most corporeal undead are brought to unlife by a creator, tales abound of zombies suddenly rising from graveyards during rare astronomical occurrences, skeletal soldiers emerging from mass graves on the anniversary of their death, and other seemingly spontaneous acts of necromancy.
 
@@ -19380,7 +19403,7 @@ At the start of any undead's turn, you can spend Malice to activate one of the f
 <!-- -->
 > 🔳 **The Grasping, the Hungry (5 Malice)**
 >
-> Ravenous and rotting undead arms burst forth from 9 connected squares of a vertical or horizontal surface. Any creature who ends their turn adjacent to an affected square makes an Agility test.
+> Ravenous and rotting undead arms burst forth from 9 connected squares of a vertical or horizontal surface. Any creature who ends their turn adjacent to an affected square makes an **Agility test**.
 >
 > - **≤11:** 5 damage; restrained (save ends)
 > - **12-16:** 5 damage; restrained (EoT)
@@ -19398,7 +19421,7 @@ At the start of any undead's turn, you can spend Malice to activate one of the f
 |             Undead, Soulless             |            -            |      Level 1       |             Minion Harrier              | EV 3 for four minions  |
 | :--------------------------------------: | :---------------------: | :----------------: | :-------------------------------------: | :--------------------: |
 |             **1T**<br/> Size             |    **6**<br/> Speed     | **4**<br/> Stamina |          **0**<br/> Stability           | **1**<br/> Free Strike |
-| **Corruption 1, poison 1**<br/> Immunity | **Climb**<br/> Movement |         -          | **+2 bonus to speed**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Corruption 1, poison 1**<br/> Immunity | **Climb**<br/> Movement |         -          | **+2 bonus to speed**<br/> With Captain |  **-**<br/> Weakness   |
 |             **0**<br/> Might             |   **+2**<br/> Agility   | **-5**<br/> Reason |          **-1**<br/> Intuition          |  **-1**<br/> Presence  |
 
 <!-- -->
@@ -19419,14 +19442,14 @@ At the start of any undead's turn, you can spend Malice to activate one of the f
 <!-- -->
 > ⭐️ **Disorganized**
 >
-> Allies can't flank with the crawling cla.
+> Allies can't flank with the crawling claw.
 
 ###### Decrepit Skeleton
 
 |             Undead, Soulless             |          -          |      Level 1       |               Minion Artillery                | EV 3 for four minions  |
 | :--------------------------------------: | :-----------------: | :----------------: | :-------------------------------------------: | :--------------------: |
 |             **1M**<br/> Size             |  **5**<br/> Speed   | **3**<br/> Stamina |             **0**<br/> Stability              | **2**<br/> Free Strike |
-| **Corruption 1, poison 1**<br/> Immunity | **-**<br/> Movement |         -          | **Gain an edge on strikes**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Corruption 1, poison 1**<br/> Immunity | **-**<br/> Movement |         -          | **Gain an edge on strikes**<br/> With Captain |  **-**<br/> Weakness   |
 |             **0**<br/> Might             | **+2**<br/> Agility | **-2**<br/> Reason |             **0**<br/> Intuition              |  **-2**<br/> Presence  |
 
 <!-- -->
@@ -19454,7 +19477,7 @@ At the start of any undead's turn, you can spend Malice to activate one of the f
 |             Undead, Soulless             |          -          |      Level 1       |                   Minion Brute                   | EV 3 for four minions  |
 | :--------------------------------------: | :-----------------: | :----------------: | :----------------------------------------------: | :--------------------: |
 |             **1M**<br/> Size             |  **4**<br/> Speed   | **5**<br/> Stamina |               **0**<br/> Stability               | **2**<br/> Free Strike |
-| **Corruption 1, poison 1**<br/> Immunity | **-**<br/> Movement |         -          | **+1 damage bonus to strikes**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Corruption 1, poison 1**<br/> Immunity | **-**<br/> Movement |         -          | **+1 damage bonus to strikes**<br/> With Captain |  **-**<br/> Weakness   |
 |            **+2**<br/> Might             | **-2**<br/> Agility | **-5**<br/> Reason |              **-2**<br/> Intuition               |  **-3**<br/> Presence  |
 
 <!-- -->
@@ -19473,14 +19496,14 @@ At the start of any undead's turn, you can spend Malice to activate one of the f
 <!-- -->
 > ⭐️ **Death Grasp**
 >
-> When the rotting zombie is reduced to 0 Stamina, their space is difficult terrain. The first time any enemy who has M < 2 enters this space, they are slowed (save ends) and the effect end.
+> When the rotting zombie is reduced to 0 Stamina, their space is difficult terrain. The first time any enemy who has M < 2 enters this space, they are slowed (save ends) and the effect ends.
 
 ###### Shade
 
 |                  Undead                  |              -               |      Level 1       |             Minion Ambusher             | EV 3 for four minions  |
 | :--------------------------------------: | :--------------------------: | :----------------: | :-------------------------------------: | :--------------------: |
 |             **1M**<br/> Size             |       **5**<br/> Speed       | **4**<br/> Stamina |          **1**<br/> Stability           | **2**<br/> Free Strike |
-| **Corruption 1, poison 1**<br/> Immunity | **Fly, hover**<br/> Movement |         -          | **+2 bonus to speed**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Corruption 1, poison 1**<br/> Immunity | **Fly, hover**<br/> Movement |         -          | **+2 bonus to speed**<br/> With Captain |  **-**<br/> Weakness   |
 |            **-5**<br/> Might             |     **+1**<br/> Agility      | **0**<br/> Reason  |          **0**<br/> Intuition           |  **+2**<br/> Presence  |
 
 <!-- -->
@@ -19506,7 +19529,7 @@ At the start of any undead's turn, you can spend Malice to activate one of the f
 |                  Undead                  |          -          |       Level 1       |      Horde Harrier      |          EV 3          |
 | :--------------------------------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |             **1M**<br/> Size             |  **7**<br/> Speed   | **15**<br/> Stamina |  **0**<br/> Stability   | **1**<br/> Free Strike |
-| **Corruption 1, poison 1**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Corruption 1, poison 1**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |             **0**<br/> Might             | **+2**<br/> Agility | **-2**<br/> Reason  |  **0**<br/> Intuition   |  **-1**<br/> Presence  |
 
 <!-- -->
@@ -19546,7 +19569,7 @@ At the start of any undead's turn, you can spend Malice to activate one of the f
 |             Undead, Soulless             |          -          |       Level 1       |     Horde Artillery     |          EV 3          |
 | :--------------------------------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |             **1M**<br/> Size             |  **5**<br/> Speed   | **10**<br/> Stamina |  **0**<br/> Stability   | **2**<br/> Free Strike |
-| **Corruption 1, poison 1**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Corruption 1, poison 1**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |             **0**<br/> Might             | **+2**<br/> Agility | **+1**<br/> Reason  |  **0**<br/> Intuition   |  **-1**<br/> Presence  |
 
 <!-- -->
@@ -19562,7 +19585,7 @@ At the start of any undead's turn, you can spend Malice to activate one of the f
 > - **12-16:** 6 damage
 > - **17+:** 7 damage
 >
-> **Effect:** Until the start of the skeleton's next turn, the target takes 2 damage the first time they willingly move on their turn
+> **Effect:** Until the start of the skeleton's next turn, the target takes 2 damage the first time they willingly move on their turn.
 
 <!-- -->
 > ❇️ **Bone Spur (2 Malice)**
@@ -19589,7 +19612,7 @@ At the start of any undead's turn, you can spend Malice to activate one of the f
 |                  Undead                  |              -               |       Level 1       |       Horde Hexer       |          EV 3          |
 | :--------------------------------------: | :--------------------------: | :-----------------: | :---------------------: | :--------------------: |
 |             **1M**<br/> Size             |       **5**<br/> Speed       | **10**<br/> Stamina |  **1**<br/> Stability   | **1**<br/> Free Strike |
-| **Corruption 1, poison 1**<br/> Immunity | **Fly, hover**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Corruption 1, poison 1**<br/> Immunity | **Fly, hover**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |            **-5**<br/> Might             |     **+1**<br/> Agility      | **+0**<br/> Reason  |  **+0**<br/> Intuition  |  **+2**<br/> Presence  |
 
 <!-- -->
@@ -19626,7 +19649,7 @@ At the start of any undead's turn, you can spend Malice to activate one of the f
 |                  Undead                  |          -          |       Level 1       |       Horde Hexer       |          EV 3          |
 | :--------------------------------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |             **1M**<br/> Size             |  **5**<br/> Speed   | **10**<br/> Stamina |  **0**<br/> Stability   | **1**<br/> Free Strike |
-| **Corruption 1, poison 1**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Corruption 1, poison 1**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |            **+2**<br/> Might             | **+1**<br/> Agility |  **0**<br/> Reason  |  **0**<br/> Intuition   |  **+1**<br/> Presence  |
 
 <!-- -->
@@ -19663,7 +19686,7 @@ At the start of any undead's turn, you can spend Malice to activate one of the f
 |                  Undead                  |            -            |       Level 1       |     Horde Ambusher      |          EV 3          |
 | :--------------------------------------: | :---------------------: | :-----------------: | :---------------------: | :--------------------: |
 |             **1M**<br/> Size             |    **7**<br/> Speed     | **15**<br/> Stamina |  **1**<br/> Stability   | **2**<br/> Free Strike |
-| **Corruption 1, poison 1**<br/> Immunity | **Climb**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Corruption 1, poison 1**<br/> Immunity | **Climb**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |             **0**<br/> Might             |   **+2**<br/> Agility   |  **0**<br/> Reason  |  **0**<br/> Intuition   |  **+1**<br/> Presence  |
 
 <!-- -->
@@ -19692,7 +19715,7 @@ At the start of any undead's turn, you can spend Malice to activate one of the f
 > - **12-16:** 3 cold damage
 > - **17+:** 4 cold damage
 >
-> **Effect:** Until the end of the stalker's next turn, the area provides concealment, and blocks line of effect for enemies
+> **Effect:** Until the end of the stalker's next turn, the area provides concealment, and blocks line of effect for enemies.
 
 <!-- -->
 > 👤 **Shadow Jump (1 Malice)**
@@ -19713,7 +19736,7 @@ At the start of any undead's turn, you can spend Malice to activate one of the f
 |             Undead, Soulless             |          -          |       Level 1       |       Horde Brute       |          EV 3          |
 | :--------------------------------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |             **1M**<br/> Size             |  **5**<br/> Speed   | **20**<br/> Stamina |  **1**<br/> Stability   | **2**<br/> Free Strike |
-| **Corruption 1, poison 1**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Corruption 1, poison 1**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |            **+2**<br/> Might             | **+1**<br/> Agility | **-5**<br/> Reason  |  **-2**<br/> Intuition  |  **+1**<br/> Presence  |
 
 <!-- -->
@@ -19729,7 +19752,7 @@ At the start of any undead's turn, you can spend Malice to activate one of the f
 > - **12-16:** 6 damage
 > - **17+:** 7 damage; grabbed
 >
-> **Effect:** A target who starts their turn grabbed by the zombie takes 2 corruption damage. A creature who takes 5 or more corruption damage this way becomes insatiably hungry for flesh, and must complete the Find a Cure downtime project in Draw Steel: Heroes to end this effect
+> **Effect:** A target who starts their turn grabbed by the zombie takes 2 corruption damage. A creature who takes 5 or more corruption damage this way becomes insatiably hungry for flesh, and must complete the Find a Cure downtime project in Draw Steel: Heroes to end this effect.
 
 <!-- -->
 > ❇️ **Zombie Dust (3 Malice)**
@@ -19749,14 +19772,14 @@ At the start of any undead's turn, you can spend Malice to activate one of the f
 <!-- -->
 > ⭐️ **Endless Knight**
 >
-> The first time the zombie is reduced to 0 Stamina by damage that isn't fire damage or holy damage and their body isn't destroyed, they instead have 10 Stamina and fall prone
+> The first time the zombie is reduced to 0 Stamina by damage that isn't fire damage or holy damage and their body isn't destroyed, they instead have 10 Stamina and fall prone.
 
 ###### Ghost
 
 |                  Undead                  |              -               |       Level 1       |         Leader          |         EV 12          |
 | :--------------------------------------: | :--------------------------: | :-----------------: | :---------------------: | :--------------------: |
 |             **1M**<br/> Size             |       **6**<br/> Speed       | **80**<br/> Stamina |  **1**<br/> Stability   | **4**<br/> Free Strike |
-| **Corruption 3, poison 3**<br/> Immunity | **Fly, hover**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Corruption 3, poison 3**<br/> Immunity | **Fly, hover**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |            **-2**<br/> Might             |     **+2**<br/> Agility      |  **0**<br/> Reason  |  **0**<br/> Intuition   |  **+3**<br/> Presence  |
 
 <!-- -->
@@ -19781,7 +19804,7 @@ At the start of any undead's turn, you can spend Malice to activate one of the f
 > | --------------- | -------------------------------------------: |
 > | **📏 Ranged 8** | **🎯 Self or one ally with a Phasing trait** |
 >
-> **Effect:** The target shifts up to their speed
+> **Effect:** The target shifts up to their speed.
 >
 > **2 Malice:** The ghost chooses one additional target.
 
@@ -19823,7 +19846,7 @@ At the start of any undead's turn, you can spend Malice to activate one of the f
 > - **12-16:** P < 2 the target is levitated (EoT)
 > - **17+:** P < 3 the target is levitated until the end of the encounter
 >
-> **Effect:** A levitated target floats 1 square off the ground when first affected, then rises 1 square at the end of each of their turns. If a levitated target can't already fly, they can fly but are slowed and weakened while flying this way
+> **Effect:** A levitated target floats 1 square off the ground when first affected, then rises 1 square at the end of each of their turns. If a levitated target can't already fly, they can fly but are slowed and weakened while flying this way.
 
 <!-- -->
 > ☠️ **Awful Wail (Villain Action 3)**
@@ -19884,7 +19907,7 @@ At the start of any level 4 or higher undead's turn, you can spend Malice to act
 |             Undead, Soulless             |          -          |      Level 4       |                   Minion Brute                   | EV 6 for four minions  |
 | :--------------------------------------: | :-----------------: | :----------------: | :----------------------------------------------: | :--------------------: |
 |             **1M**<br/> Size             |  **5**<br/> Speed   | **9**<br/> Stamina |               **0**<br/> Stability               | **3**<br/> Free Strike |
-| **Corruption 4, poison 4**<br/> Immunity | **-**<br/> Movement |         -          | **+2 damage bonus to strikes**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Corruption 4, poison 4**<br/> Immunity | **-**<br/> Movement |         -          | **+2 damage bonus to strikes**<br/> With Captain |  **-**<br/> Weakness   |
 |            **+3**<br/> Might             | **-1**<br/> Agility | **0**<br/> Reason  |               **0**<br/> Intuition               |  **0**<br/> Presence   |
 
 <!-- -->
@@ -19912,7 +19935,7 @@ At the start of any level 4 or higher undead's turn, you can spend Malice to act
 |                  Undead                  |            -            |      Level 4       |                  Minion Harrier                  | EV 6 for four minions  |
 | :--------------------------------------: | :---------------------: | :----------------: | :----------------------------------------------: | :--------------------: |
 |             **1M**<br/> Size             |    **7**<br/> Speed     | **8**<br/> Stamina |               **0**<br/> Stability               | **2**<br/> Free Strike |
-| **Corruption 4, poison 4**<br/> Immunity | **Climb**<br/> Movement |         -          | **+2 damage bonus to strikes**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Corruption 4, poison 4**<br/> Immunity | **Climb**<br/> Movement |         -          | **+2 damage bonus to strikes**<br/> With Captain |  **-**<br/> Weakness   |
 |            **+3**<br/> Might             |   **+2**<br/> Agility   | **0**<br/> Reason  |               **0**<br/> Intuition               |  **0**<br/> Presence   |
 
 <!-- -->
@@ -19933,7 +19956,7 @@ At the start of any level 4 or higher undead's turn, you can spend Malice to act
 <!-- -->
 > ⭐️ **Ever So Hungry**
 >
-> Any enemy adjacent to three or more ghoul cravers can't shift
+> Any enemy adjacent to three or more ghoul cravers can't shift.
 
 <!-- -->
 > ⭐️ **Hunger**
@@ -19945,7 +19968,7 @@ At the start of any level 4 or higher undead's turn, you can spend Malice to act
 |             Undead, Soulless             |          -          |      Level 4       |                 Minion Artillery                  | EV 6 for four minions  |
 | :--------------------------------------: | :-----------------: | :----------------: | :-----------------------------------------------: | :--------------------: |
 |             **1M**<br/> Size             |  **5**<br/> Speed   | **7**<br/> Stamina |               **0**<br/> Stability                | **3**<br/> Free Strike |
-| **Corruption 4, poison 4**<br/> Immunity | **-**<br/> Movement |         -          | **+5 bonus to ranged distance**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Corruption 4, poison 4**<br/> Immunity | **-**<br/> Movement |         -          | **+5 bonus to ranged distance**<br/> With Captain |  **-**<br/> Weakness   |
 |            **-2**<br/> Might             | **+3**<br/> Agility | **0**<br/> Reason  |               **0**<br/> Intuition                |  **0**<br/> Presence   |
 
 <!-- -->
@@ -19966,14 +19989,14 @@ At the start of any level 4 or higher undead's turn, you can spend Malice to act
 <!-- -->
 > ⭐️ **Brittle Revenge**
 >
-> The hollowbone launcher explodes when they are reduced to 0 Stamina, dealing 2 damage to each adjacent creature
+> The hollowbone launcher explodes when they are reduced to 0 Stamina, dealing 2 damage to each adjacent creature.
 
 ###### Flesh Mournling
 
 |                  Undead                  |          -          |       Level 4       |     Horde Defender      |          EV 6          |
 | :--------------------------------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |             **2**<br/> Size              |  **6**<br/> Speed   | **35**<br/> Stamina |  **2**<br/> Stability   | **2**<br/> Free Strike |
-| **Corruption 4, poison 4**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Corruption 4, poison 4**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |            **+3**<br/> Might             | **+1**<br/> Agility |  **0**<br/> Reason  |  **+2**<br/> Intuition  |  **-1**<br/> Presence  |
 
 <!-- -->
@@ -19989,7 +20012,7 @@ At the start of any level 4 or higher undead's turn, you can spend Malice to act
 > - **12-16:** 7 damage
 > - **17+:** 9 damage
 >
-> **Effect:** The target can't shift until the end of their next turn
+> **Effect:** The target can't shift until the end of their next turn.
 >
 > **1 Malice:** This ability targets one additional target.
 
@@ -20023,7 +20046,7 @@ At the start of any level 4 or higher undead's turn, you can spend Malice to act
 |             Undead, Soulless             |          -          |       Level 4        |       Elite Brute       |         EV 24          |
 | :--------------------------------------: | :-----------------: | :------------------: | :---------------------: | :--------------------: |
 |             **3**<br/> Size              |  **6**<br/> Speed   | **140**<br/> Stamina |  **2**<br/> Stability   | **6**<br/> Free Strike |
-| **Corruption 4, poison 4**<br/> Immunity | **-**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Corruption 4, poison 4**<br/> Immunity | **-**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |            **+3**<br/> Might             | **-1**<br/> Agility |  **-2**<br/> Reason  |  **+1**<br/> Intuition  |  **+2**<br/> Presence  |
 
 <!-- -->
@@ -20058,15 +20081,15 @@ At the start of any level 4 or higher undead's turn, you can spend Malice to act
 <!-- -->
 > ⭐️ **Negative Nerves**
 >
-> When the giant zombie is targeted by an ability that deals rolled damage, they halve the damage from a tier 1 outcome
+> When the giant zombie is targeted by an ability that deals rolled damage, they halve the damage from a tier 1 outcome.
 
 ###### Mummy
 
-|              Mummy, Undead               |          -          |       Level 4       |       Horde Brute       |            EV 6            |
-| :--------------------------------------: | :-----------------: | :-----------------: | :---------------------: | :------------------------: |
-|             **1M**<br/> Size             |  **5**<br/> Speed   | **50**<br/> Stamina |  **2**<br/> Stability   |   **3**<br/> Free Strike   |
-| **Corruption 4, poison 4**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **Fire 5**<br/> Weaknesses |
-|            **+3**<br/> Might             | **-1**<br/> Agility | **+1**<br/> Reason  |  **+3**<br/> Intuition  |    **0**<br/> Presence     |
+|              Mummy, Undead               |          -          |       Level 4       |       Horde Brute       |           EV 6           |
+| :--------------------------------------: | :-----------------: | :-----------------: | :---------------------: | :----------------------: |
+|             **1M**<br/> Size             |  **5**<br/> Speed   | **50**<br/> Stamina |  **2**<br/> Stability   |  **3**<br/> Free Strike  |
+| **Corruption 4, poison 4**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **Fire 5**<br/> Weakness |
+|            **+3**<br/> Might             | **-1**<br/> Agility | **+1**<br/> Reason  |  **+3**<br/> Intuition  |   **0**<br/> Presence    |
 
 <!-- -->
 > 🗡 **Accursed Bindings (Signature Ability)**
@@ -20107,14 +20130,14 @@ At the start of any level 4 or higher undead's turn, you can spend Malice to act
 >
 > **Trigger:** The mummy comes within distance of a restrained creature or starts their turn within distance of one.
 >
-> **Effect:** The target takes 8 poison damage
+> **Effect:** The target takes 8 poison damage.
 
 ###### Vampire Spawn
 
 |             Undead, Vampire              |            -            |       Level 4       |      Horde Harrier      |          EV 6          |
 | :--------------------------------------: | :---------------------: | :-----------------: | :---------------------: | :--------------------: |
 |             **1M**<br/> Size             |    **5**<br/> Speed     | **30**<br/> Stamina |  **0**<br/> Stability   | **2**<br/> Free Strike |
-| **Corruption 4, poison 4**<br/> Immunity | **Climb**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Corruption 4, poison 4**<br/> Immunity | **Climb**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |            **+2**<br/> Might             |   **+3**<br/> Agility   | **-1**<br/> Reason  |  **+1**<br/> Intuition  |  **+2**<br/> Presence  |
 
 <!-- -->
@@ -20153,7 +20176,7 @@ At the start of any level 4 or higher undead's turn, you can spend Malice to act
 |                  Undead                  |              -               |       Level 4       |       Horde Hexer       |          EV 6          |
 | :--------------------------------------: | :--------------------------: | :-----------------: | :---------------------: | :--------------------: |
 |             **1M**<br/> Size             |       **8**<br/> Speed       | **25**<br/> Stamina |  **1**<br/> Stability   | **2**<br/> Free Strike |
-| **Corruption 4, poison 4**<br/> Immunity | **Fly, hover**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Corruption 4, poison 4**<br/> Immunity | **Fly, hover**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |            **-2**<br/> Might             |     **+2**<br/> Agility      | **+1**<br/> Reason  |  **+1**<br/> Intuition  |  **+3**<br/> Presence  |
 
 <!-- -->
@@ -20194,15 +20217,15 @@ At the start of any level 4 or higher undead's turn, you can spend Malice to act
 <!-- -->
 > ⭐️ **Agonizing Phasing**
 >
-> The wraith can move through creatures and objects at their usual speed, but can't end their turn inside a creature or object. The first time in a round that the wraith moves through a creature, that creature takes 5 corruption damage and takes a bane on their next strike. The wraith doesn't take damage from being force moved into objects
+> The wraith can move through creatures and objects at their usual speed, but can't end their turn inside a creature or object. The first time in a round that the wraith moves through a creature, that creature takes 5 corruption damage and takes a bane on their next strike. The wraith doesn't take damage from being force moved into objects.
 
 ###### Mummy Lord
 
-|              Mummy, Undead               |          -          |       Level 4        |         Leader          |           EV 24            |
-| :--------------------------------------: | :-----------------: | :------------------: | :---------------------: | :------------------------: |
-|             **1M**<br/> Size             |  **6**<br/> Speed   | **155**<br/> Stamina |  **4**<br/> Stability   |   **6**<br/> Free Strike   |
-| **Corruption 6, poison 6**<br/> Immunity | **-**<br/> Movement |          -           | **-**<br/> With Captain | **Fire 5**<br/> Weaknesses |
-|            **+4**<br/> Might             | **0**<br/> Agility  |  **+2**<br/> Reason  |  **+4**<br/> Intuition  |    **+2**<br/> Presence    |
+|              Mummy, Undead               |          -          |       Level 4        |         Leader          |          EV 24           |
+| :--------------------------------------: | :-----------------: | :------------------: | :---------------------: | :----------------------: |
+|             **1M**<br/> Size             |  **6**<br/> Speed   | **155**<br/> Stamina |  **4**<br/> Stability   |  **6**<br/> Free Strike  |
+| **Corruption 6, poison 6**<br/> Immunity | **-**<br/> Movement |          -           | **-**<br/> With Captain | **Fire 5**<br/> Weakness |
+|            **+4**<br/> Might             | **0**<br/> Agility  |  **+2**<br/> Reason  |  **+4**<br/> Intuition  |   **+2**<br/> Presence   |
 
 <!-- -->
 > 🗡 **Accursed Slam (Signature Ability)**
@@ -20336,7 +20359,7 @@ At the start of any level 7 or higher undead's turn, you can spend Malice to act
 |             Undead, Vampire              |            -            |       Level 7       |             Minion Harrier              | EV 9 for four minions  |
 | :--------------------------------------: | :---------------------: | :-----------------: | :-------------------------------------: | :--------------------: |
 |             **1M**<br/> Size             |    **6**<br/> Speed     | **12**<br/> Stamina |          **0**<br/> Stability           | **3**<br/> Free Strike |
-| **Corruption 7, poison 7**<br/> Immunity | **Climb**<br/> Movement |          -          | **+3 bonus to speed**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Corruption 7, poison 7**<br/> Immunity | **Climb**<br/> Movement |          -          | **+3 bonus to speed**<br/> With Captain |  **-**<br/> Weakness   |
 |            **+4**<br/> Might             |   **+1**<br/> Agility   | **-3**<br/> Reason  |          **+1**<br/> Intuition          |  **-3**<br/> Presence  |
 
 <!-- -->
@@ -20364,7 +20387,7 @@ At the start of any level 7 or higher undead's turn, you can spend Malice to act
 |                  Undead                  |              -               |       Level 7       |                 Minion Hexer                  | EV 9 for four minions  |
 | :--------------------------------------: | :--------------------------: | :-----------------: | :-------------------------------------------: | :--------------------: |
 |             **1M**<br/> Size             |       **5**<br/> Speed       | **10**<br/> Stamina |             **1**<br/> Stability              | **3**<br/> Free Strike |
-| **Corruption 7, poison 7**<br/> Immunity | **Fly, hover**<br/> Movement |          -          | **Gain an edge on strikes**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Corruption 7, poison 7**<br/> Immunity | **Fly, hover**<br/> Movement |          -          | **Gain an edge on strikes**<br/> With Captain |  **-**<br/> Weakness   |
 |            **-3**<br/> Might             |     **+4**<br/> Agility      | **-5**<br/> Reason  |             **+1**<br/> Intuition             |  **-3**<br/> Presence  |
 
 <!-- -->
@@ -20385,15 +20408,15 @@ At the start of any level 7 or higher undead's turn, you can spend Malice to act
 <!-- -->
 > ⭐️ **Corruptive Phasing**
 >
-> The spirit can move through creatures and objects at their usual speed, but can't end their turn inside a creature or object. The first time in a round that the spirit moves through a creature, that creature takes 4 corruption damage. The spirit doesn't take damage from being force moved into objects
+> The spirit can move through creatures and objects at their usual speed, but can't end their turn inside a creature or object. The first time in a round that the spirit moves through a creature, that creature takes 4 corruption damage. The spirit doesn't take damage from being force moved into objects.
 
 ###### Mummy Rotwrap
 
-|              Mummy, Undead               |          -          |       Level 7       |                   Minion Brute                   |   EV 9 for four minions    |
-| :--------------------------------------: | :-----------------: | :-----------------: | :----------------------------------------------: | :------------------------: |
-|             **1M**<br/> Size             |  **5**<br/> Speed   | **15**<br/> Stamina |               **1**<br/> Stability               |   **4**<br/> Free Strike   |
-| **Corruption 7, poison 7**<br/> Immunity | **-**<br/> Movement |          -          | **+3 bonus to melee distance**<br/> With Captain | **Fire 5**<br/> Weaknesses |
-|            **+4**<br/> Might             | **-2**<br/> Agility | **-2**<br/> Reason  |              **+1**<br/> Intuition               |    **-2**<br/> Presence    |
+|              Mummy, Undead               |          -          |       Level 7       |                   Minion Brute                   |  EV 9 for four minions   |
+| :--------------------------------------: | :-----------------: | :-----------------: | :----------------------------------------------: | :----------------------: |
+|             **1M**<br/> Size             |  **5**<br/> Speed   | **15**<br/> Stamina |               **1**<br/> Stability               |  **4**<br/> Free Strike  |
+| **Corruption 7, poison 7**<br/> Immunity | **-**<br/> Movement |          -          | **+3 bonus to melee distance**<br/> With Captain | **Fire 5**<br/> Weakness |
+|            **+4**<br/> Might             | **-2**<br/> Agility | **-2**<br/> Reason  |              **+1**<br/> Intuition               |   **-2**<br/> Presence   |
 
 <!-- -->
 > 🗡 **Fetid Wrappings (Signature Ability)**
@@ -20408,14 +20431,14 @@ At the start of any level 7 or higher undead's turn, you can spend Malice to act
 > - **12-16:** 7 damage; pull 1
 > - **17+:** 8 damage; pull 3
 >
-> **Effect:** Each ally gains an edge on strikes made against the target until the end of the round
+> **Effect:** Each ally gains an edge on strikes made against the target until the end of the round.
 
 ###### Dirt Mournling
 
 |                  Undead                  |                -                |       Level 7       |    Horde Controller     |          EV 9          |
 | :--------------------------------------: | :-----------------------------: | :-----------------: | :---------------------: | :--------------------: |
 |             **3**<br/> Size              |        **6**<br/> Speed         | **64**<br/> Stamina |  **3**<br/> Stability   | **3**<br/> Free Strike |
-| **Corruption 7, poison 7**<br/> Immunity | **Burrow, climb**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Corruption 7, poison 7**<br/> Immunity | **Burrow, climb**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |            **+4**<br/> Might             |       **+1**<br/> Agility       | **-2**<br/> Reason  |  **+1**<br/> Intuition  |  **-3**<br/> Presence  |
 
 <!-- -->
@@ -20446,7 +20469,7 @@ At the start of any level 7 or higher undead's turn, you can spend Malice to act
 > - **12-16:** 6 corruption damage; I < 3 frightened (save ends)
 > - **17+:** 7 corruption damage; I < 4 frightened (save ends)
 >
-> **Effect:** A target frightened this way is frightened of all undead. This effect ends early if the mournling is destroyed
+> **Effect:** A target frightened this way is frightened of all undead. This effect ends early if the mournling is destroyed.
 
 <!-- -->
 > ⭐️ **Arise**
@@ -20456,7 +20479,7 @@ At the start of any level 7 or higher undead's turn, you can spend Malice to act
 <!-- -->
 > ⭐️ **Immutable Form**
 >
-> The mournling's shape can't be changed by any external effect
+> The mournling's shape can't be changed by any external effect.
 
 <!-- -->
 > ⭐️ **Rupture**
@@ -20468,7 +20491,7 @@ At the start of any level 7 or higher undead's turn, you can spend Malice to act
 |                  Undead                  |              -               |       Level 7       |    Horde Controller     |          EV 9          |
 | :--------------------------------------: | :--------------------------: | :-----------------: | :---------------------: | :--------------------: |
 |             **2**<br/> Size              |       **6**<br/> Speed       | **40**<br/> Stamina |  **1**<br/> Stability   | **3**<br/> Free Strike |
-| **Corruption 7, poison 7**<br/> Immunity | **Fly, hover**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Corruption 7, poison 7**<br/> Immunity | **Fly, hover**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |            **-2**<br/> Might             |     **+4**<br/> Agility      | **-1**<br/> Reason  |  **0**<br/> Intuition   |  **0**<br/> Presence   |
 
 <!-- -->
@@ -20511,7 +20534,7 @@ At the start of any level 7 or higher undead's turn, you can spend Malice to act
 |                  Undead                  |          -          |       Level 7       |       Horde Hexer       |          EV 9          |
 | :--------------------------------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |             **1M**<br/> Size             |  **5**<br/> Speed   | **40**<br/> Stamina |  **1**<br/> Stability   | **3**<br/> Free Strike |
-| **Corruption 7, poison 7**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Corruption 7, poison 7**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |            **+4**<br/> Might             | **+2**<br/> Agility |  **0**<br/> Reason  |  **+1**<br/> Intuition  |  **-1**<br/> Presence  |
 
 <!-- -->
@@ -20542,7 +20565,7 @@ At the start of any level 7 or higher undead's turn, you can spend Malice to act
 > - **12-16:** Pull 5; M < 3 5 corruption damage
 > - **17+:** Pull 7; M < 4 5 corruption damage
 >
-> **Effect:** This ability gains an edge against any target grabbed by the koptourok. If one or more targets are pulled adjacent to the kop- tourok, the koptourok can fly until the end of the encounter
+> **Effect:** This ability gains an edge against any target grabbed by the koptourok. If one or more targets are pulled adjacent to the koptourok, the koptourok can fly until the end of the encounter.
 
 <!-- -->
 > ⭐️ **Exhale**
@@ -20554,7 +20577,7 @@ At the start of any level 7 or higher undead's turn, you can spend Malice to act
 |             Undead, Soulless             |          -          |       Level 7       |     Horde Artillery     |          EV 9          |
 | :--------------------------------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |             **1M**<br/> Size             |  **4**<br/> Speed   | **40**<br/> Stamina |  **2**<br/> Stability   | **4**<br/> Free Strike |
-| **Corruption 7, poison 7**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Corruption 7, poison 7**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |            **+4**<br/> Might             | **-2**<br/> Agility | **-4**<br/> Reason  |  **+1**<br/> Intuition  |  **-2**<br/> Presence  |
 
 <!-- -->
@@ -20582,12 +20605,10 @@ At the start of any level 7 or higher undead's turn, you can spend Malice to act
 > **Effect:** If the waxen is ignited (see Burn Bright), they shift up to their speed before using this ability. Each target makes an **Agility test**.
 >
 > - **≤11:** 10 damage
->
 > - **12-16:** 8 damage
->
 > - **17+:** 5 damage
 >
-> - The waxen is then destroyed and the area is difficult terrain for enemies.
+> The waxen is then destroyed and the area is difficult terrain for enemies.
 
 <!-- -->
 > ⭐️ **Burn Bright**
@@ -20599,7 +20620,7 @@ At the start of any level 7 or higher undead's turn, you can spend Malice to act
 |             Undead, Vampire              |            -            |       Level 7       |       Horde Hexer       |          EV 9          |
 | :--------------------------------------: | :---------------------: | :-----------------: | :---------------------: | :--------------------: |
 |             **1M**<br/> Size             |    **6**<br/> Speed     | **40**<br/> Stamina |  **3**<br/> Stability   | **3**<br/> Free Strike |
-| **Corruption 7, poison 7**<br/> Immunity | **Climb**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Corruption 7, poison 7**<br/> Immunity | **Climb**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |            **+4**<br/> Might             |   **+2**<br/> Agility   | **+1**<br/> Reason  |  **+1**<br/> Intuition  |  **+1**<br/> Presence  |
 
 <!-- -->
@@ -20612,7 +20633,7 @@ At the start of any level 7 or higher undead's turn, you can spend Malice to act
 > **Power Roll + 4:**
 >
 > - **≤11:** 7 damage; M < 2 bleeding (save ends)
-> - **12-16:** 10 corruption damage; M < 3 5 corruption damage and bleed- ing (save ends)
+> - **12-16:** 10 corruption damage; M < 3 5 corruption damage and bleeding (save ends)
 > - **17+:** 11 corruption damage; M < 4 7 corruption damage and bleeding (save ends)
 >
 > **Effect:** The vampire regains Stamina equal to any corruption damage dealt.
@@ -20650,11 +20671,11 @@ At the start of any level 7 or higher undead's turn, you can spend Malice to act
 
 ###### Vampire Lord
 
-|                  Undead                  |                    -                     |        Level 7        |         Leader          |         EV 36          |
-| :--------------------------------------: | :--------------------------------------: | :-------------------: | :---------------------: | :--------------------: |
-|             **1M**<br/> Size             |             **1**<br/> Speed             | **2200**<br/> Stamina |  **3**<br/> Stability   | **7**<br/> Free Strike |
-| **Corruption 9, poison 9**<br/> Immunity | **Climb, hover, teleport**<br/> Movement |           -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
-|            **+2**<br/> Might             |           **+5**<br/> Agility            |  **+1**<br/> Reason   |  **+1**<br/> Intuition  |  **+2**<br/> Presence  |
+|             Undead, Vampire              |                    -                     |       Level 7        |         Leader          |         EV 36          |
+| :--------------------------------------: | :--------------------------------------: | :------------------: | :---------------------: | :--------------------: |
+|             **1M**<br/> Size             |            **12**<br/> Speed             | **200**<br/> Stamina |  **3**<br/> Stability   | **7**<br/> Free Strike |
+| **Corruption 9, poison 9**<br/> Immunity | **Climb, hover, teleport**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
+|            **+2**<br/> Might             |           **+5**<br/> Agility            |  **+1**<br/> Reason  |  **+1**<br/> Intuition  |  **+2**<br/> Presence  |
 
 <!-- -->
 > 🗡 **Crimson Embrace (Signature Ability)**
@@ -20669,7 +20690,7 @@ At the start of any level 7 or higher undead's turn, you can spend Malice to act
 > - **12-16:** 21 corruption damage; M < 4 bleeding (save ends)
 > - **17+:** 24 corruption damage; M < 5 bleeding (save ends)
 >
-> **Effect:** The vampire regains Stamina equal to half the damage dealt, and can end one effect on them that can be ended by a saving throw
+> **Effect:** The vampire regains Stamina equal to half the damage dealt, and can end one effect on them that can be ended by a saving throw.
 >
 > **2+ Malice:** The vampire shifts 3 after striking the last target, and can target one additional creature for every 2 malice spent.
 
@@ -20722,25 +20743,26 @@ At the start of any level 7 or higher undead's turn, you can spend Malice to act
 >
 > **Effect:** The vampire turns to mist, filling the area. Until the end of the round, the vampire can't move or be targeted by abilities, but they can use Crimson Embrace against a target in the area. The vampire reforms in an unoccupied space in the area at the end of the round.
 
-☠️ **Sacrifice (Villain Action 3)**
-
-| **Magic, Ranged** |                   **-** |
-| ----------------- | ----------------------: |
-| **📏 Ranged 20**  | **🎯 Each chosen ally** |
-
-**Effect:** Each target is marked for sacrifice. At the end of the round, each target who isn't dead or destroyed takes 50 corruption damage. The vampire then uses the following ability.
-
-**Wave of Blood:**
-
-| **Area, Magic** |                         **-** |
-| --------------- | ----------------------------: |
-| **📏 20 burst** | **🎯 Each enemy in the area** |
-
-**Effect:** Each target makes a **Might test**. This ability deals an extra 5 damage for each creature killed by the Sacrifice villain action
-
-- **≤11:** 11 corruption damage
-- **12-16:** 8 corruption damage
-- **17+:** 2 corruption damage
+<!-- -->
+> ☠️ **Sacrifice (Villain Action 3)**
+>
+> | **Magic, Ranged** |                   **-** |
+> | ----------------- | ----------------------: |
+> | **📏 Ranged 20**  | **🎯 Each chosen ally** |
+>
+> **Effect:** Each target is marked for sacrifice. At the end of the round, each target who isn't dead or destroyed takes 50 corruption damage. The vampire then uses the following ability.
+>
+> **Wave of Blood:**
+>
+> | **Area, Magic** |                         **-** |
+> | --------------- | ----------------------------: |
+> | **📏 20 burst** | **🎯 Each enemy in the area** |
+>
+> **Effect:** Each target makes a **Might test**. This ability deals an extra 5 damage for each creature killed by the Sacrifice villain action.
+>
+> - **≤11:** 11 corruption damage
+> - **12-16:** 8 corruption damage
+> - **17+:** 2 corruption damage
 
 ###### Vampires and Sunlight
 
@@ -20767,7 +20789,7 @@ The weakness of many undead minions means that necromancers at war often find th
 
 ### Lithgekh
 
-Every mage who lives long enough eventually contends with the fact that their knowledge will one day leave the world. For those who can't stomach this idea, seeking the immortality of the lich often becomes an irresistible temptation. But many of those who try and fail to achieve lichdom become lithgekh-a word in the First Language meaning "lich corpse." Having failed to create a proper soul vessel, a lithgekh suffers an eternal hunger for magic to sustain themself. Liches will sometimes trick or tempt mortal mages into pursuing lichdom, only to sabotage them and create a lithgekh under the lich's control. These servants are prized by liches for their ability to disrupt enemy magic and empower their own.
+Every mage who lives long enough eventually contends with the fact that their knowledge will one day leave the world. For those who can't stomach this idea, seeking the immortality of the lich often becomes an irresistible temptation. But many of those who try and fail to achieve lichdom become lithgekh—a word in the First Language meaning "lich corpse." Having failed to create a proper soul vessel, a lithgekh suffers an eternal hunger for magic to sustain themself. Liches will sometimes trick or tempt mortal mages into pursuing lichdom, only to sabotage them and create a lithgekh under the lich's control. These servants are prized by liches for their ability to disrupt enemy magic and empower their own.
 
 ###### Undead Malice (Level 10 Malice Features)
 
@@ -20796,7 +20818,7 @@ At the start of any level 10 undead's turn, you can spend Malice to activate one
 |              Undead, Soulless              |          -          |      Level 10       |                   Minion Brute                   | EV 12 for four minions |
 | :----------------------------------------: | :-----------------: | :-----------------: | :----------------------------------------------: | :--------------------: |
 |              **3**<br/> Size               |  **4**<br/> Speed   | **17**<br/> Stamina |               **5**<br/> Stability               | **5**<br/> Free Strike |
-| **Corruption 10, poison 10**<br/> Immunity | **-**<br/> Movement |          -          | **+4 damage bonus to strikes**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Corruption 10, poison 10**<br/> Immunity | **-**<br/> Movement |          -          | **+4 damage bonus to strikes**<br/> With Captain |  **-**<br/> Weakness   |
 |             **+5**<br/> Might              | **-3**<br/> Agility | **-3**<br/> Reason  |              **+1**<br/> Intuition               |  **-2**<br/> Presence  |
 
 <!-- -->
@@ -20822,7 +20844,7 @@ At the start of any level 10 undead's turn, you can spend Malice to activate one
 |              Undead, Soulless              |          -          |      Level 10       |                Minion Defender                | EV 12 for four minions |
 | :----------------------------------------: | :-----------------: | :-----------------: | :-------------------------------------------: | :--------------------: |
 |              **1L**<br/> Size              |  **5**<br/> Speed   | **17**<br/> Stamina |             **2**<br/> Stability              | **4**<br/> Free Strike |
-| **Corruption 10, poison 10**<br/> Immunity | **-**<br/> Movement |          -          | **Gain an edge on strikes**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Corruption 10, poison 10**<br/> Immunity | **-**<br/> Movement |          -          | **Gain an edge on strikes**<br/> With Captain |  **-**<br/> Weakness   |
 |             **+3**<br/> Might              | **+5**<br/> Agility | **-2**<br/> Reason  |             **+4**<br/> Intuition             |  **-2**<br/> Presence  |
 
 <!-- -->
@@ -20836,7 +20858,7 @@ At the start of any level 10 undead's turn, you can spend Malice to activate one
 >
 > - **≤11:** 4 damage
 > - **12-16:** 7 damage
-> - **17+:** 9 damage; the target can't shift (EoT
+> - **17+:** 9 damage; the target can't shift (EoT)
 
 <!-- -->
 > ⭐️ **Bitter Bones**
@@ -20853,7 +20875,7 @@ At the start of any level 10 undead's turn, you can spend Malice to activate one
 |                   Undead                   |              -               |      Level 10       |             Minion Harrier              | EV 12 for four minions |
 | :----------------------------------------: | :--------------------------: | :-----------------: | :-------------------------------------: | :--------------------: |
 |              **1M**<br/> Size              |       **7**<br/> Speed       | **15**<br/> Stamina |          **1**<br/> Stability           | **4**<br/> Free Strike |
-| **Corruption 10, poison 10**<br/> Immunity | **Fly, hover**<br/> Movement |          -          | **+3 bonus to speed**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Corruption 10, poison 10**<br/> Immunity | **Fly, hover**<br/> Movement |          -          | **+3 bonus to speed**<br/> With Captain |  **-**<br/> Weakness   |
 |             **-2**<br/> Might              |     **+3**<br/> Agility      | **+1**<br/> Reason  |          **+1**<br/> Intuition          |  **+5**<br/> Presence  |
 
 <!-- -->
@@ -20865,7 +20887,7 @@ At the start of any level 10 undead's turn, you can spend Malice to activate one
 >
 > **Power Roll + 5:**
 >
-> - **≤11:** 4 cold damage; the wraith can shift 1 squar
+> - **≤11:** 4 cold damage; the wraith can shift 1 square
 > - **12-16:** 7 cold damage; the wraith shifts up to 2 square
 > - **17+:** 9 cold damage; P < 5 slowed (save ends); the wraith shifts up to 3 squares
 >
@@ -20881,7 +20903,7 @@ At the start of any level 10 undead's turn, you can spend Malice to activate one
 |              Undead, Soulless              |            -            |      Level 10       |    Horde Controller     |         EV 12          |
 | :----------------------------------------: | :---------------------: | :-----------------: | :---------------------: | :--------------------: |
 |              **3**<br/> Size               |    **6**<br/> Speed     | **55**<br/> Stamina |  **5**<br/> Stability   | **4**<br/> Free Strike |
-| **Corruption 10, poison 10**<br/> Immunity | **Climb**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Corruption 10, poison 10**<br/> Immunity | **Climb**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |             **+5**<br/> Might              |   **-2**<br/> Agility   | **-2**<br/> Reason  |  **+3**<br/> Intuition  |  **-1**<br/> Presence  |
 
 <!-- -->
@@ -20921,7 +20943,7 @@ At the start of any level 10 undead's turn, you can spend Malice to activate one
 |              Undead, Soulless              |              -               |      Level 10       |       Horde Hexer       |         EV 12          |
 | :----------------------------------------: | :--------------------------: | :-----------------: | :---------------------: | :--------------------: |
 |              **1M**<br/> Size              |       **6**<br/> Speed       | **55**<br/> Stamina |  **1**<br/> Stability   | **5**<br/> Free Strike |
-| **Corruption 10, poison 10**<br/> Immunity | **Fly, hover**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Corruption 10, poison 10**<br/> Immunity | **Fly, hover**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |              **0**<br/> Might              |     **+1**<br/> Agility      | **+5**<br/> Reason  |  **+3**<br/> Intuition  |  **-1**<br/> Presence  |
 
 <!-- -->
@@ -20957,11 +20979,11 @@ At the start of any level 10 undead's turn, you can spend Malice to activate one
 
 ## Count Rhodar Von Glauer
 
-After falling to a vampiric curse in his early twenties, Count Rhodar the last Lord of Glauer-ruled his tiny, heavily forested mountainous county in eastern Rhöl for three hundred years. There were worse overlords, the people said. After all, Rhodar took his pact with the people and the land seriously. He aggressively defended the villages in his demesne against constant incursions from rival counts and barons. He believed his power waxed and waned with the prosperity of the people and the vitality of the land.
+After falling to a vampiric curse in his early twenties, Count Rhodar—the last Lord of Glauer—ruled his tiny, heavily forested mountainous county in eastern Rhöl for three hundred years. There were worse overlords, the people said. After all, Rhodar took his pact with the people and the land seriously. He aggressively defended the villages in his demesne against constant incursions from rival counts and barons. He believed his power waxed and waned with the prosperity of the people and the vitality of the land.
 
 Each new moon, when the Red Tax came due, the count would visit a young candidate, then emerge with renewed vitality. Across the land, folk feared their Dragon Count, but the witches of the wood wove a prophecy: "The land's darkest hour shall be the redemption of House von Glauer."
 
-Eventually, the conquering force of Emperor Gaius VIII came for Rhodar-not because he was a vampire, but because the empire wanted his land and people. Count von Glauer was staked, and his body burned to ash. The emperor kept the Rod of Count Rhodar von Glauer as a trophy, and with this symbol of authority, he sealed his claim to the land.
+Eventually, the conquering force of Emperor Gaius VIII came for Rhodar—not because he was a vampire, but because the empire wanted his land and people. Count von Glauer was staked, and his body burned to ash. The emperor kept the Rod of Count Rhodar von Glauer as a trophy, and with this symbol of authority, he sealed his claim to the land.
 
 Under new rule, Rhodar's people lament the absence of their lord, recalling the time before the coming of the empire as a golden age. But the witches' whispers can still be heard. For as long as the people of Glauer persist, they continue believing their Dragon Count will return in their darkest hour to deliver them from tyranny.
 
@@ -21027,13 +21049,13 @@ At the start of Rhodar's turn, you can spend Malice to activate one of the follo
 |              Undead, Vampire               |                   -                    |       Level 10       |          Solo           |         EV 144          |
 | :----------------------------------------: | :------------------------------------: | :------------------: | :---------------------: | :---------------------: |
 |              **1M**<br/> Size              |           **12**<br/> Speed            | **650**<br/> Stamina |  **3**<br/> Stability   | **10**<br/> Free Strike |
-| **Corruption 10, poison 10**<br/> Immunity | **Fly, hover, teleport**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weaknesses  |
+| **Corruption 10, poison 10**<br/> Immunity | **Fly, hover, teleport**<br/> Movement |          -           | **-**<br/> With Captain |   **-**<br/> Weakness   |
 |             **+3**<br/> Might              |          **+5**<br/> Agility           |  **+2**<br/> Reason  |  **+2**<br/> Intuition  |  **+3**<br/> Presence   |
 
 <!-- -->
 > ☠️ **Solo Monster**
 >
-> **End Effect:** At the end of each of his turns, Rhodar can take 20 dam- age to end one effect on him that can be ended by a saving throw. This damage can't be reduced in any way.
+> **End Effect:** At the end of each of his turns, Rhodar can take 20 damage to end one effect on him that can be ended by a saving throw. This damage can't be reduced in any way.
 >
 > **Solo Turns:** Rhodar can take two turns each round. He can't take turns consecutively.
 
@@ -21105,7 +21127,7 @@ At the start of Rhodar's turn, you can spend Malice to activate one of the follo
 > - **12-16:** 6 damage, 7 corruption damage; push 5; M < 5 bleeding (save ends)
 > - **17+:** 6 damage, 10 corruption damage; push 7; M < 6 bleeding (save ends)
 >
-> **Effect:** Rhodar shifts up to his speed before or after using this ability He regains Stamina equal to half the total corruption damage dealt.
+> **Effect:** Rhodar shifts up to his speed before or after using this ability. He regains Stamina equal to half the total corruption damage dealt.
 
 <!-- -->
 > 🔳 **Vengeance of Rhöl (2 Malice)**
@@ -21189,7 +21211,7 @@ The ritual to create a lich requires a sphere constructed of something personal 
 
 A lich's true appearance is ghastly. The damage to their chest never heals, and over the centuries, their body slowly decays into a skeleton. Some liches hide their appearance with an illusion that makes them even more attractive and vivacious than they were in life. Others embrace their terrifying look, proudly displaying their fell triumph to every creature they encounter.
 
-Though all liches desire eternal life, it fails to satisfy most. Liches who were once powerful adventurers seek more of everything they've always craved-more glory, more power, more wealth. Most set about amassing all three, building armies of followers to seize whatever the lich desires from any who resist their power.
+Though all liches desire eternal life, it fails to satisfy most. Liches who were once powerful adventurers seek more of everything they've always craved—more glory, more power, more wealth. Most set about amassing all three, building armies of followers to seize whatever the lich desires from any who resist their power.
 
 ### Eldritch Lairs
 
@@ -21237,11 +21259,11 @@ At the start of a lich's turn, you can spend Malice to activate one of the follo
 
 ###### Lich
 
-|                   Undead                   |              -               |       Level 10       |          Solo           |           EV 144           |
-| :----------------------------------------: | :--------------------------: | :------------------: | :---------------------: | :------------------------: |
-|              **1M**<br/> Size              |      **10**<br/> Speed       | **650**<br/> Stamina |  **1**<br/> Stability   |  **10**<br/> Free Strike   |
-| **Corruption 10, poison 10**<br/> Immunity | **Fly, hover**<br/> Movement |          -           | **-**<br/> With Captain | **Holy 5**<br/> Weaknesses |
-|             **+2**<br/> Might              |     **+3**<br/> Agility      |  **+5**<br/> Reason  |  **+5**<br/> Intuition  |    **+5**<br/> Presence    |
+|                   Undead                   |              -               |       Level 10       |          Solo           |          EV 144          |
+| :----------------------------------------: | :--------------------------: | :------------------: | :---------------------: | :----------------------: |
+|              **1M**<br/> Size              |      **10**<br/> Speed       | **650**<br/> Stamina |  **1**<br/> Stability   | **10**<br/> Free Strike  |
+| **Corruption 10, poison 10**<br/> Immunity | **Fly, hover**<br/> Movement |          -           | **-**<br/> With Captain | **Holy 5**<br/> Weakness |
+|             **+2**<br/> Might              |     **+3**<br/> Agility      |  **+5**<br/> Reason  |  **+5**<br/> Intuition  |   **+5**<br/> Presence   |
 
 <!-- -->
 > ☠️ **Solo Monster**
@@ -21301,13 +21323,14 @@ At the start of a lich's turn, you can spend Malice to activate one of the follo
 >
 > **2+ Malice:** Each creature wracked with pain gains one of the following conditions of the lich's choice for each 2 Malice spent: bleeding, slowed, or prone and can't stand. These conditions end when a creature is no longer wracked with pain.
 
-👤 **Necrotic Form**
-
-| **-**       | **Maneuver** |
-| ----------- | -----------: |
-| **📏 Self** |  **🎯 Self** |
-
-**Effect:** The lich becomes spectral, moves up to their speed, and becomes corporeal again. While spectral, the lich automatically ends the grabbed or restrained conditions, has damage immunity 5, can move through solid matter, and ignores difficult terrain. If the lich ends this movement inside solid matter, they are shunted out into the space from which they entered it.
+<!-- -->
+> 👤 **Necrotic Form**
+>
+> | **-**       | **Maneuver** |
+> | ----------- | -----------: |
+> | **📏 Self** |  **🎯 Self** |
+>
+> **Effect:** The lich becomes spectral, moves up to their speed, and becomes corporeal again. While spectral, the lich automatically ends the grabbed or restrained conditions, has damage immunity 5, can move through solid matter, and ignores difficult terrain. If the lich ends this movement inside solid matter, they are shunted out into the space from which they entered it.
 
 <!-- -->
 > ❗️ **Baleful Swap (2 Malice)**
@@ -21386,7 +21409,7 @@ Abandoned autonomous machines made by the ancient steel dwarves, valok can still
 
 #### Exotic Metal Body
 
-Steel dwarves unlocked the secrets of smithing valiar-the truemetal prized not only for its strength and flexibility, but for its entrancing silvery white beauty. They could turn valiar into anything, from breathtaking weapons and exquisite buildings to hypnotic gossamer fabrics that are nearly transparent and virtually indestructible. The secrets of working with the truemetal disappeared with the steel dwarves, but not before they built the nigh-invulnerable bodies of the valok.
+Steel dwarves unlocked the secrets of smithing valiar—the truemetal prized not only for its strength and flexibility, but for its entrancing silvery white beauty. They could turn valiar into anything, from breathtaking weapons and exquisite buildings to hypnotic gossamer fabrics that are nearly transparent and virtually indestructible. The secrets of working with the truemetal disappeared with the steel dwarves, but not before they built the nigh-invulnerable bodies of the valok.
 
 #### Prismacore Power
 
@@ -21396,7 +21419,7 @@ The steel dwarves also mined iridoss, commonly known as prismacore. This rare ge
 
 The first valok were great machines made to dig, smelt, and build. Legends say these giant walkers could build entire cities in a matter of days, and could even construct other valok. As the steel dwarves learned the deep secrets of prismacore, they made machines who could speak and think more freely.
 
-While two classes of valok-servok and multivok-have been discovered, ancient steel dwarf carvings hint that a highly advanced third class was created just before their makers disappeared.
+While two classes of valok—servok and multivok—have been discovered, ancient steel dwarf carvings hint that a highly advanced third class was created just before their makers disappeared.
 
 ### Ancient and Deep
 
@@ -21423,7 +21446,7 @@ At the start of any valok's turn, you can spend Malice to activate one of the fo
 
 ### Servok
 
-Servoks, the labor and siege class of valok, are huge, slow, and built for a specific purpose-though all are designed to defend themselves when threatened. No humaniform servoks have yet been discovered. Their forms depend on their purpose, but they are never smaller than a wagon. Despite each servok's utilitarian construction and the ages of grime accumulated atop their valiar, they are impressive to behold.
+Servoks, the labor and siege class of valok, are huge, slow, and built for a specific purpose—though all are designed to defend themselves when threatened. No humaniform servoks have yet been discovered. Their forms depend on their purpose, but they are never smaller than a wagon. Despite each servok's utilitarian construction and the ages of grime accumulated atop their valiar, they are impressive to behold.
 
 Servok builders once constructed buildings, roads, and walls. Some active builders still work the caverns where they were left, clearing the ground in preparation for lost grand projects known only to their progenitors. Servok miners dug the legendary tunnels of the steel dwarves. A few miners still bore deep into the earth, searching for ore and ready to destroy anything that interferes with that function.
 
@@ -21431,7 +21454,7 @@ The quaking of earth and the boom of an arcane cannon precedes the appearance of
 
 #### Multivok
 
-Smaller than servoks, multivoks can speak and carry out commands, though their capacity for complexity is limited. While multivoks are humaniform, their masterfully crafted bodies lack the expression and fine articulation of humanoids. They were built to run and maintain ships and ore harvesters, survey dangerous or distant locations, guard nobles, and oversee servoks-tasks which many multivoks tirelessly attempt to continue today.
+Smaller than servoks, multivoks can speak and carry out commands, though their capacity for complexity is limited. While multivoks are humaniform, their masterfully crafted bodies lack the expression and fine articulation of humanoids. They were built to run and maintain ships and ore harvesters, survey dangerous or distant locations, guard nobles, and oversee servoks—tasks which many multivoks tirelessly attempt to continue today.
 
 With arms ending in axe blades and repeating crossbows mounted on their shoulders, a multivok bodyguard cuts an impressive figure. Multivok bodyguards who are still active are often found watching over the bones or possessions of their long-dead charges with unfaltering loyalty.
 
@@ -21446,7 +21469,7 @@ Most valok communicate exclusively in Rallarian.
 | Construct, Multivok, Soulless, Valok |          -          |       Level 9        |     Elite Defender      |         EV 44          |
 | :----------------------------------: | :-----------------: | :------------------: | :---------------------: | :--------------------: |
 |           **2**<br/> Size            |  **5**<br/> Speed   | **240**<br/> Stamina |  **5**<br/> Stability   | **9**<br/> Free Strike |
-|         **-**<br/> Immunity          | **-**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+|         **-**<br/> Immunity          | **-**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |          **+4**<br/> Might           | **0**<br/> Agility  |  **-2**<br/> Reason  |  **+1**<br/> Intuition  |  **-4**<br/> Presence  |
 
 <!-- -->
@@ -21507,7 +21530,7 @@ Most valok communicate exclusively in Rallarian.
 <!-- -->
 > ⭐️ **Crafted to Perfection**
 >
-> The bodyguard's shape can't be changed by any external effect
+> The bodyguard's shape can't be changed by any external effect.
 
 <!-- -->
 > ⭐️ **Valiar Might**
@@ -21519,7 +21542,7 @@ Most valok communicate exclusively in Rallarian.
 | Construct, Multivok, Soulless, Valok |          -          |       Level 9        |      Elite Support      |         EV 44          |
 | :----------------------------------: | :-----------------: | :------------------: | :---------------------: | :--------------------: |
 |           **1L**<br/> Size           |  **5**<br/> Speed   | **220**<br/> Stamina |  **3**<br/> Stability   | **9**<br/> Free Strike |
-|         **-**<br/> Immunity          | **-**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+|         **-**<br/> Immunity          | **-**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |          **+4**<br/> Might           | **+1**<br/> Agility |  **-2**<br/> Reason  |  **+1**<br/> Intuition  |  **-3**<br/> Presence  |
 
 <!-- -->
@@ -21557,7 +21580,7 @@ Most valok communicate exclusively in Rallarian.
 > | --------------- | --------------: |
 > | **📏 Ranged 5** | **🎯 One ally** |
 >
-> **Effect:** The target shifts up to their speed and can use a main action
+> **Effect:** The target shifts up to their speed and can use a main action.
 
 <!-- -->
 > ❗️ **Quick Shield**
@@ -21578,7 +21601,7 @@ Most valok communicate exclusively in Rallarian.
 <!-- -->
 > ⭐️ **Crafted to Perfection**
 >
-> The chief's shape can't be changed by any external effect
+> The chief's shape can't be changed by any external effect.
 
 <!-- -->
 > ⭐️ **Valiar Might**
@@ -21587,11 +21610,11 @@ Most valok communicate exclusively in Rallarian.
 
 ###### Servok Builder
 
-| Construct, Servok, Soulless, Valok |          -          |        Level 9        |       Elite Brute       |         EV 44          |
-| :--------------------------------: | :-----------------: | :-------------------: | :---------------------: | :--------------------: |
-|          **3**<br/> Size           |  **5**<br/> Speed   | **2408**<br/> Stamina |  **1**<br/> Stability   | **0**<br/> Free Strike |
-|        **-**<br/> Immunity         | **-**<br/> Movement |           -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
-|         **+4**<br/> Might          | **-2**<br/> Agility |  **-4**<br/> Reason   |  **-1**<br/> Intuition  |  **-5**<br/> Presence  |
+| Construct, Servok, Soulless, Valok |          -          |       Level 9        |       Elite Brute       |          EV 44          |
+| :--------------------------------: | :-----------------: | :------------------: | :---------------------: | :---------------------: |
+|          **3**<br/> Size           |  **5**<br/> Speed   | **240**<br/> Stamina |  **8**<br/> Stability   | **10**<br/> Free Strike |
+|        **-**<br/> Immunity         | **-**<br/> Movement |          -           | **-**<br/> With Captain |   **-**<br/> Weakness   |
+|         **+4**<br/> Might          | **-2**<br/> Agility |  **-4**<br/> Reason  |  **-1**<br/> Intuition  |  **-5**<br/> Presence   |
 
 <!-- -->
 > 🔳 **Wrecking Ball (Signature Ability)**
@@ -21666,7 +21689,7 @@ Most valok communicate exclusively in Rallarian.
 <!-- -->
 > ⭐️ **Crafted to Perfection**
 >
-> The builder's shape can't be changed by any external effect
+> The builder's shape can't be changed by any external effect.
 
 <!-- -->
 > ⭐️ **Valiar Might**
@@ -21678,7 +21701,7 @@ Most valok communicate exclusively in Rallarian.
 | Construct, Servok, Soulless, Valok |                -                |       Level 9        |    Elite Controller     |         EV 44          |
 | :--------------------------------: | :-----------------------------: | :------------------: | :---------------------: | :--------------------: |
 |          **2**<br/> Size           |        **5**<br/> Speed         | **200**<br/> Stamina |  **6**<br/> Stability   | **9**<br/> Free Strike |
-|        **-**<br/> Immunity         | **Burrow, climb**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+|        **-**<br/> Immunity         | **Burrow, climb**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |         **+4**<br/> Might          |       **-2**<br/> Agility       |  **-4**<br/> Reason  |  **-1**<br/> Intuition  |  **-5**<br/> Presence  |
 
 <!-- -->
@@ -21709,7 +21732,7 @@ Most valok communicate exclusively in Rallarian.
 > - **12-16:** 11 damage; slide 2
 > - **17+:** 7 damage
 >
-> The area is difficult terrain
+> The area is difficult terrain.
 
 <!-- -->
 > 🔳 **Break Ground (5 Malice)**
@@ -21748,7 +21771,7 @@ Most valok communicate exclusively in Rallarian.
 <!-- -->
 > ⭐️ **Crafted to Perfection**
 >
-> The miner's shape can't be changed by any external effect
+> The miner's shape can't be changed by any external effect.
 
 <!-- -->
 > ⭐️ **Valiar Might**
@@ -21757,11 +21780,11 @@ Most valok communicate exclusively in Rallarian.
 
 ###### Servok War Engine
 
-| Construct, Servok, Soulless, Valok |          -          |       Level 10        |       Elite Brute       |         EV 48          |
-| :--------------------------------: | :-----------------: | :-------------------: | :---------------------: | :--------------------: |
-|          **3**<br/> Size           |  **5**<br/> Speed   | **2608**<br/> Stamina |  **1**<br/> Stability   | **0**<br/> Free Strike |
-|        **-**<br/> Immunity         | **-**<br/> Movement |           -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
-|         **+5**<br/> Might          | **-2**<br/> Agility |  **-4**<br/> Reason   |  **-1**<br/> Intuition  |  **-5**<br/> Presence  |
+| Construct, Servok, Soulless, Valok |          -          |       Level 10       |       Elite Brute       |          EV 48          |
+| :--------------------------------: | :-----------------: | :------------------: | :---------------------: | :---------------------: |
+|          **3**<br/> Size           |  **5**<br/> Speed   | **260**<br/> Stamina |  **8**<br/> Stability   | **10**<br/> Free Strike |
+|        **-**<br/> Immunity         | **-**<br/> Movement |          -           | **-**<br/> With Captain |   **-**<br/> Weakness   |
+|         **+5**<br/> Might          | **-2**<br/> Agility |  **-4**<br/> Reason  |  **-1**<br/> Intuition  |  **-5**<br/> Presence   |
 
 <!-- -->
 > 🗡 **Blade Rake (Signature Ability)**
@@ -21809,8 +21832,8 @@ Most valok communicate exclusively in Rallarian.
 >
 > **Effect:** Each target makes an Agility test.
 >
-> - **≤11:** 16 fire damage; the target is burning (save ends
-> - **12-16:** 12 fire damage; the target is burning (EoT
+> - **≤11:** 16 fire damage; the target is burning (save ends)
+> - **12-16:** 12 fire damage; the target is burning (EoT)
 > - **17+:** 8 fire damage
 >
 > A burning creature takes 1d6 fire damage at the start of each of their turns. A burning object takes 1d6 fire damage at the end of each round. Additionally, the area is burning until the end of the encounter. While the area is burning, it is difficult terrain and any enemy takes 3 fire damage for each square of the area they enter.
@@ -21840,7 +21863,7 @@ Most valok communicate exclusively in Rallarian.
 <!-- -->
 > ⭐️ **Crafted to Perfection**
 >
-> The war engine's shape can't be changed by any external effect
+> The war engine's shape can't be changed by any external effect.
 
 <!-- -->
 > ⭐️ **Valiar Might**
@@ -21849,7 +21872,7 @@ Most valok communicate exclusively in Rallarian.
 
 ## Voiceless Talkers
 
-Among the most powerful psions in the timescape, synlirii (*sin-LEER-ee*, singular: synliroi) are known as the "voiceless talkers" to the denizens of the World Below-and to surface dwellers unfortunate enough to encounter them. Descended from boneless aquatic cephalopods, they are alien in thought and motivation to the humanoid species they loathe. Synlirii consider the "barking ones" (their label for creatures who squeeze air through meat flaps to communicate) an abomination that must be corrected.
+Among the most powerful psions in the timescape, synlirii (*sin-LEER-ee*, singular: synliroi) are known as the "voiceless talkers" to the denizens of the World Below—and to surface dwellers unfortunate enough to encounter them. Descended from boneless aquatic cephalopods, they are alien in thought and motivation to the humanoid species they loathe. Synlirii consider the "barking ones" (their label for creatures who squeeze air through meat flaps to communicate) an abomination that must be corrected.
 
 ### Uneasy Alliances
 
@@ -21869,11 +21892,11 @@ Synlirii breed mollusks that secrete plastic-like substances, using them to fash
 
 ### Creature Engineers
 
-Synlirii are obsessed with manipulating the natural development of other organisms. They create hulking brains, mindkillers, and other servants using a psionic technique they call the Interlace. Many synlirii experiments don't live long and aren't intended to. But the World Below is littered with unnatural creatures who escaped the voiceless talkers' Body Banks-most of them singular life forms who can't reproduce and might never die.
+Synlirii are obsessed with manipulating the natural development of other organisms. They create hulking brains, mindkillers, and other servants using a psionic technique they call the Interlace. Many synlirii experiments don't live long and aren't intended to. But the World Below is littered with unnatural creatures who escaped the voiceless talkers' Body Banks—most of them singular life forms who can't reproduce and might never die.
 
 ### Graywarper
 
-Graywarpers are voiceless talkers who were drained of most of their psionic abilities-and free will-as punishment for insolence or incompetence. They are viewed solely as expendable tools who enhance the power of other voiceless talkers.
+Graywarpers are voiceless talkers who were drained of most of their psionic abilities—and free will—as punishment for insolence or incompetence. They are viewed solely as expendable tools who enhance the power of other voiceless talkers.
 
 ### Hulking Brain
 
@@ -21923,7 +21946,7 @@ At the start of any voiceless talker's turn, you can spend Malice to activate on
 |  Horror, Voiceless Talker   |              -               |      Level 6       |                   Minion Hexer                   | EV 8 for four minions  |
 | :-------------------------: | :--------------------------: | :----------------: | :----------------------------------------------: | :--------------------: |
 |      **1S**<br/> Size       |       **4**<br/> Speed       | **9**<br/> Stamina |               **0**<br/> Stability               | **3**<br/> Free Strike |
-| **Psychic 6**<br/> Immunity | **Fly, hover**<br/> Movement |         -          | **+2 damage bonus to strikes**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Psychic 6**<br/> Immunity | **Fly, hover**<br/> Movement |         -          | **+2 damage bonus to strikes**<br/> With Captain |  **-**<br/> Weakness   |
 |      **-1**<br/> Might      |     **+3**<br/> Agility      | **+1**<br/> Reason |              **+1**<br/> Intuition               |  **0**<br/> Presence   |
 
 <!-- -->
@@ -21960,7 +21983,7 @@ At the start of any voiceless talker's turn, you can spend Malice to activate on
 | Horror, Voiceless Talker |          -          |      Level 6       |             Minion Controller             | EV 8 for four minions  |
 | :----------------------: | :-----------------: | :----------------: | :---------------------------------------: | :--------------------: |
 |     **1M**<br/> Size     |  **5**<br/> Speed   | **9**<br/> Stamina |           **0**<br/> Stability            | **3**<br/> Free Strike |
-|   **-**<br/> Immunity    | **-**<br/> Movement |         -          | **+2 bonus to Stamina**<br/> With Captain | **-**<br/> Weaknesses  |
+|   **-**<br/> Immunity    | **-**<br/> Movement |         -          | **+2 bonus to Stamina**<br/> With Captain |  **-**<br/> Weakness   |
 |    **-1**<br/> Might     | **0**<br/> Agility  | **+3**<br/> Reason |           **+1**<br/> Intuition           |  **+1**<br/> Presence  |
 
 <!-- -->
@@ -21986,7 +22009,7 @@ At the start of any voiceless talker's turn, you can spend Malice to activate on
 | Horror, Voiceless Talker |          -          |       Level 6        |       Elite Brute       |         EV 32          |
 | :----------------------: | :-----------------: | :------------------: | :---------------------: | :--------------------: |
 |     **1L**<br/> Size     |  **5**<br/> Speed   | **180**<br/> Stamina |  **4**<br/> Stability   | **7**<br/> Free Strike |
-|   **-**<br/> Immunity    | **-**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+|   **-**<br/> Immunity    | **-**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |    **+3**<br/> Might     | **+1**<br/> Agility |  **-2**<br/> Reason  |  **-2**<br/> Intuition  |  **0**<br/> Presence   |
 
 <!-- -->
@@ -22013,7 +22036,7 @@ At the start of any voiceless talker's turn, you can spend Malice to activate on
 > | ----------------- | ----------------: |
 > | **📏 Melee 1**    | **🎯 Each enemy** |
 >
-> **Effect:** A target must be grabbed by the hulking brain, and is no longer grabbed after the power roll is resolved
+> **Effect:** A target must be grabbed by the hulking brain, and is no longer grabbed after the power roll is resolved.
 >
 > **Power Roll + 3:**
 >
@@ -22058,7 +22081,7 @@ At the start of any voiceless talker's turn, you can spend Malice to activate on
 |  Horror, Voiceless Talker   |              -               |       Level 6        |       Elite Hexer       |         EV 32          |
 | :-------------------------: | :--------------------------: | :------------------: | :---------------------: | :--------------------: |
 |      **1S**<br/> Size       |       **6**<br/> Speed       | **140**<br/> Stamina |  **2**<br/> Stability   | **7**<br/> Free Strike |
-| **Psychic 6**<br/> Immunity | **Fly, hover**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Psychic 6**<br/> Immunity | **Fly, hover**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |      **-1**<br/> Might      |     **+3**<br/> Agility      |  **+3**<br/> Reason  |  **+2**<br/> Intuition  |  **0**<br/> Presence   |
 
 <!-- -->
@@ -22129,7 +22152,7 @@ At the start of any voiceless talker's turn, you can spend Malice to activate on
 |  Horror, Voiceless Talker   |                 -                 |       Level 6        |     Elite Artillery     |         EV 32          |
 | :-------------------------: | :-------------------------------: | :------------------: | :---------------------: | :--------------------: |
 |      **1M**<br/> Size       |         **5**<br/> Speed          | **140**<br/> Stamina |  **2**<br/> Stability   | **7**<br/> Free Strike |
-| **Psychic 6**<br/> Immunity | **Hover, teleport**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Psychic 6**<br/> Immunity | **Hover, teleport**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |      **0**<br/> Might       |        **+3**<br/> Agility        |  **+3**<br/> Reason  |  **+2**<br/> Intuition  |  **+1**<br/> Presence  |
 
 <!-- -->
@@ -22180,7 +22203,7 @@ At the start of any voiceless talker's turn, you can spend Malice to activate on
 >
 > **Trigger:** The artillerist takes damage.
 >
-> **Effect:** The artillerist can teleport up to 5 squares and ignores any effects associated with the damage
+> **Effect:** The artillerist can teleport up to 5 squares and ignores any effects associated with the damage.
 
 <!-- -->
 > ⭐️ **Psionic Conductor**
@@ -22197,7 +22220,7 @@ At the start of any voiceless talker's turn, you can spend Malice to activate on
 |  Horror, Voiceless Talker   |                 -                 |       Level 6        |    Elite Controller     |         EV 32          |
 | :-------------------------: | :-------------------------------: | :------------------: | :---------------------: | :--------------------: |
 |      **1M**<br/> Size       |         **5**<br/> Speed          | **140**<br/> Stamina |  **2**<br/> Stability   | **7**<br/> Free Strike |
-| **Psychic 6**<br/> Immunity | **Hover, teleport**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Psychic 6**<br/> Immunity | **Hover, teleport**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |      **-1**<br/> Might      |        **+1**<br/> Agility        |  **+3**<br/> Reason  |  **+2**<br/> Intuition  |  **+2**<br/> Presence  |
 
 <!-- -->
@@ -22264,7 +22287,7 @@ At the start of any voiceless talker's turn, you can spend Malice to activate on
 |  Horror, Voiceless Talker   |                 -                 |       Level 6        |         Leader          |         EV 32          |
 | :-------------------------: | :-------------------------------: | :------------------: | :---------------------: | :--------------------: |
 |      **1M**<br/> Size       |         **5**<br/> Speed          | **180**<br/> Stamina |  **2**<br/> Stability   | **7**<br/> Free Strike |
-| **Psychic 8**<br/> Immunity | **Hover, teleport**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Psychic 8**<br/> Immunity | **Hover, teleport**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |      **0**<br/> Might       |        **+3**<br/> Agility        |  **+4**<br/> Reason  |  **+1**<br/> Intuition  |  **+2**<br/> Presence  |
 
 <!-- -->
@@ -22428,7 +22451,7 @@ At the start of Lord Syuul's turn, you can spend Malice to activate one of the f
 |   Horror, Voiceless Talker   |                 -                 |       Level 6        |          Solo           |         EV 96          |
 | :--------------------------: | :-------------------------------: | :------------------: | :---------------------: | :--------------------: |
 |       **1M**<br/> Size       |         **7**<br/> Speed          | **450**<br/> Stamina |  **3**<br/> Stability   | **7**<br/> Free Strike |
-| **Psychic 10**<br/> Immunity | **Hover, teleport**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Psychic 10**<br/> Immunity | **Hover, teleport**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |      **+1**<br/> Might       |        **+3**<br/> Agility        |  **+4**<br/> Reason  |  **+4**<br/> Intuition  |  **+3**<br/> Presence  |
 
 <!-- -->
@@ -22490,7 +22513,7 @@ At the start of Lord Syuul's turn, you can spend Malice to activate one of the f
 > | ----------- | -----------: |
 > | **📏 Self** |  **🎯 Self** |
 >
-> Lord Syuul can teleport up to 5 squares along with each creature and object he has grabbed. He can release grabbed creatures and objects before or after teleporting
+> Lord Syuul can teleport up to 5 squares along with each creature and object he has grabbed. He can release grabbed creatures and objects before or after teleporting.
 
 <!-- -->
 > ❗️ **Adaptability**
@@ -22517,7 +22540,7 @@ At the start of Lord Syuul's turn, you can spend Malice to activate one of the f
 >
 > **Effect:** Each target makes an **Intuition test**.
 >
-> - **≤11:** 16 psychic damage; the target has no line of effect to any creture except Lord Syuul, and takes a bane on strikes targeting Lord Syuul (save ends)
+> - **≤11:** 16 psychic damage; the target has no line of effect to any creature except Lord Syuul, and takes a bane on strikes targeting Lord Syuul (save ends)
 > - **12-16:** 13 psychic damage; the target has no line of effect to any creature except Lord Syuul (save ends)
 > - **17+:** 7 psychic damage
 
@@ -22547,7 +22570,7 @@ At the start of Lord Syuul's turn, you can spend Malice to activate one of the f
 
 ## War Dogs
 
-Ajax's war dogs-brutal patchwork soldiers-owe their new lives to the Iron Saint and fight for him fanatically. War dog minions are the freshest recruits, possessing minimal patchwork qualities and generally treated as disposable. Those who survive a battle are rewarded with gifts from the Body Banks. Those who don't survive become recycled back into the Body Banks to be reborn.
+Ajax's war dogs—brutal patchwork soldiers—owe their new lives to the Iron Saint and fight for him fanatically. War dog minions are the freshest recruits, possessing minimal patchwork qualities and generally treated as disposable. Those who survive a battle are rewarded with gifts from the Body Banks. Those who don't survive become recycled back into the Body Banks to be reborn.
 
 ##### War Dog Stat Block List
 
@@ -22630,7 +22653,7 @@ War dogs aren't undead. They still have minds, wills, and drives that separate t
 
 From the moment they are reborn, every war dog is part of Ajax's war machine. Fresh recruits undergo inspections and tests to ensure their viability and assess their capabilities, and those who are found lacking are immediately recycled.
 
-Those who meet the minimum requirements are sent to a brief but intense training camp, where they are drilled in basic combat, personal fitness, and unswerving loyalty. It is here that war dogs are first indoctrinated with Ajax's ideals, and any who question those ideals are immediately recycled. Those who survive this training camp are fitted with loyalty collars-unremovable neck pieces fitted with explosive fuse-iron charges-and sent on to join a legion.
+Those who meet the minimum requirements are sent to a brief but intense training camp, where they are drilled in basic combat, personal fitness, and unswerving loyalty. It is here that war dogs are first indoctrinated with Ajax's ideals, and any who question those ideals are immediately recycled. Those who survive this training camp are fitted with loyalty collars—unremovable neck pieces fitted with explosive fuse-iron charges—and sent on to join a legion.
 
 ### Chain of Command
 
@@ -22680,7 +22703,7 @@ At the start of any war dog's turn, you can spend Malice to activate one of the 
 | Humanoid, Soulless, War Dog |          -          |      Level 1       |                 Minion Ambusher                  | EV 3 for four minions  |
 | :-------------------------: | :-----------------: | :----------------: | :----------------------------------------------: | :--------------------: |
 |      **1M**<br/> Size       |  **5**<br/> Speed   | **4**<br/> Stamina |               **0**<br/> Stability               | **2**<br/> Free Strike |
-|     **-**<br/> Immunity     | **-**<br/> Movement |         -          | **+1 damage bonus to strikes**<br/> With Captain | **-**<br/> Weaknesses  |
+|     **-**<br/> Immunity     | **-**<br/> Movement |         -          | **+1 damage bonus to strikes**<br/> With Captain |  **-**<br/> Weakness   |
 |      **0**<br/> Might       | **+2**<br/> Agility | **0**<br/> Reason  |               **0**<br/> Intuition               |  **0**<br/> Presence   |
 
 <!-- -->
@@ -22708,7 +22731,7 @@ At the start of any war dog's turn, you can spend Malice to activate one of the 
 | Humanoid, Soulless, War Dog |          -          |      Level 1       |                  Minion Harrier                  | EV 3 for four minions  |
 | :-------------------------: | :-----------------: | :----------------: | :----------------------------------------------: | :--------------------: |
 |      **1M**<br/> Size       |  **7**<br/> Speed   | **4**<br/> Stamina |               **0**<br/> Stability               | **1**<br/> Free Strike |
-|     **-**<br/> Immunity     | **-**<br/> Movement |         -          | **+1 damage bonus to strikes**<br/> With Captain | **-**<br/> Weaknesses  |
+|     **-**<br/> Immunity     | **-**<br/> Movement |         -          | **+1 damage bonus to strikes**<br/> With Captain |  **-**<br/> Weakness   |
 |      **+2**<br/> Might      | **0**<br/> Agility  | **0**<br/> Reason  |               **0**<br/> Intuition               |  **0**<br/> Presence   |
 
 <!-- -->
@@ -22736,7 +22759,7 @@ At the start of any war dog's turn, you can spend Malice to activate one of the 
 | Humanoid, Soulless, War Dog |          -          |      Level 1       |                 Minion Artillery                  | EV 3 for four minions  |
 | :-------------------------: | :-----------------: | :----------------: | :-----------------------------------------------: | :--------------------: |
 |      **1M**<br/> Size       |  **7**<br/> Speed   | **3**<br/> Stamina |               **0**<br/> Stability                | **2**<br/> Free Strike |
-|     **-**<br/> Immunity     | **-**<br/> Movement |         -          | **+5 bonus to ranged distance**<br/> With Captain | **-**<br/> Weaknesses  |
+|     **-**<br/> Immunity     | **-**<br/> Movement |         -          | **+5 bonus to ranged distance**<br/> With Captain |  **-**<br/> Weakness   |
 |      **0**<br/> Might       | **+2**<br/> Agility | **0**<br/> Reason  |               **0**<br/> Intuition                |  **0**<br/> Presence   |
 
 <!-- -->
@@ -22764,7 +22787,7 @@ At the start of any war dog's turn, you can spend Malice to activate one of the 
 | Humanoid, Soulless, War Dog |          -          |      Level 1       |                 Minion Brute                  | EV 3 for four minions  |
 | :-------------------------: | :-----------------: | :----------------: | :-------------------------------------------: | :--------------------: |
 |      **1M**<br/> Size       |  **5**<br/> Speed   | **5**<br/> Stamina |             **1**<br/> Stability              | **2**<br/> Free Strike |
-|     **-**<br/> Immunity     | **-**<br/> Movement |         -          | **Gain an edge on strikes**<br/> With Captain | **-**<br/> Weaknesses  |
+|     **-**<br/> Immunity     | **-**<br/> Movement |         -          | **Gain an edge on strikes**<br/> With Captain |  **-**<br/> Weakness   |
 |      **+2**<br/> Might      | **0**<br/> Agility  | **0**<br/> Reason  |             **0**<br/> Intuition              |  **0**<br/> Presence   |
 
 <!-- -->
@@ -22788,39 +22811,14 @@ At the start of any war dog's turn, you can spend Malice to activate one of the 
 <!-- -->
 > ⭐️ **Loyalty Collar**
 >
-> When the tetherite is reduced to 0 Stamina, their loyalty collar explodes, dealing 1d3 damage to each adjacent enemy and object.War Dog Malice Level 1+ Malice Features At the start of any war dog's turn, you can spend Malice to activate one of the following features.
-
-<!-- -->
-> 👤 **Reconstitute (3 Malice)**
->
-> One war dog acting this turn tears apart a nearby corpse of a humanoid and incorporates its body parts into their own. The war dog regains Stamina equal to 5 times their level.
-
-<!-- -->
-> 🔳 **Fire for Effect (5 Malice)**
->
-> | **Area, Magic, Ranged** |                     **Maneuver** |
-> | ----------------------- | -------------------------------: |
-> | **📏 4 cube within 10** | **🎯 Each creature in the area** |
->
-> **Effect:** Each target makes an Agility test. The same condition is imposed on each affected target.
->
-> **Power Roll + 3:**
->
-> - **≤11:** 5 fire damage; slowed or weakened (save ends
-> - **12-16:** 5 fire damage; slowed or weakened (EoT
-> - **17+:** 5 fire damage
-
-<!-- -->
-> ⭐️ **Fodder Run (7 Malice)**
->
-> Each war dog minion in the encounter shifts up to their speed and can make a free strike. A minion who does so is then reduced to 0
+> When the tetherite is reduced to 0 Stamina, their loyalty collar explodes, dealing 1d3 damage to each adjacent enemy and object.
 
 ###### War Dog Amalgamite
 
 | Humanoid, Soulless, War Dog |          -          |       Level 2       |       Horde Brute       |          EV 4          |
 | :-------------------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |       **2**<br/> Size       |  **5**<br/> Speed   | **25**<br/> Stamina |  **2**<br/> Stability   | **3**<br/> Free Strike |
-|     **-**<br/> Immunity     | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+|     **-**<br/> Immunity     | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |      **+2**<br/> Might      | **0**<br/> Agility  |  **0**<br/> Reason  |  **0**<br/> Intuition   |  **0**<br/> Presence   |
 
 <!-- -->
@@ -22859,7 +22857,7 @@ At the start of any war dog's turn, you can spend Malice to activate one of the 
 | Humanoid, Soulless, War Dog |          -          |       Level 1       |     Horde Artillery     |          EV 3          |
 | :-------------------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |      **1M**<br/> Size       |  **5**<br/> Speed   | **10**<br/> Stamina |  **0**<br/> Stability   | **2**<br/> Free Strike |
-|  **Fire 2**<br/> Immunity   | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+|  **Fire 2**<br/> Immunity   | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |      **0**<br/> Might       | **+2**<br/> Agility |  **0**<br/> Reason  |  **0**<br/> Intuition   |  **0**<br/> Presence   |
 
 <!-- -->
@@ -22875,7 +22873,7 @@ At the start of any war dog's turn, you can spend Malice to activate one of the 
 > - **12-16:** 4 fire damage
 > - **17+:** 5 fire damage
 >
-> **Effect:** The area is covered in sticky fire until the start of the crucibite's next turn. Any creature who enters the area for the first time in a round or starts their turn there takes 2 fire damage
+> **Effect:** The area is covered in sticky fire until the start of the crucibite's next turn. Any creature who enters the area for the first time in a round or starts their turn there takes 2 fire damage.
 >
 > **3 Malice:** The area becomes a 10 x 1 line, and if any ally of the crucibite is in the area when it is created, the ability deals an extra 2 damage to each target.
 
@@ -22898,15 +22896,15 @@ At the start of any war dog's turn, you can spend Malice to activate one of the 
 | Humanoid, Soulless, War Dog |          -          |       Level 1       |      Horde Harrier      |          EV 3          |
 | :-------------------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |      **1M**<br/> Size       |  **7**<br/> Speed   | **15**<br/> Stamina |  **0**<br/> Stability   | **1**<br/> Free Strike |
-|     **-**<br/> Immunity     | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+|     **-**<br/> Immunity     | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |      **+1**<br/> Might      | **+2**<br/> Agility |  **0**<br/> Reason  |  **0**<br/> Intuition   |  **0**<br/> Presence   |
 
 <!-- -->
 > 🗡 **Chainsaw Whip (Signature Ability)**
 >
-> | **Melee, Strike, Weapon** |                **Main action** |
-> | ------------------------- | -----------------------------: |
-> | **📏 Melee 3**            | **🎯 One creature and object** |
+> | **Melee, Strike, Weapon** |               **Main action** |
+> | ------------------------- | ----------------------------: |
+> | **📏 Melee 3**            | **🎯 One creature or object** |
 >
 > **Power Roll + 2:**
 >
@@ -22935,7 +22933,7 @@ At the start of any war dog's turn, you can spend Malice to activate one of the 
 | Humanoid, Soulless, War Dog |           -           |       Level 1       |     Horde Defender      |          EV 3          |
 | :-------------------------: | :-------------------: | :-----------------: | :---------------------: | :--------------------: |
 |      **1M**<br/> Size       |   **5**<br/> Speed    | **20**<br/> Stamina |  **0**<br/> Stability   | **1**<br/> Free Strike |
-| **Psychic 2**<br/> Immunity | **Fly**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Psychic 2**<br/> Immunity | **Fly**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |      **0**<br/> Might       |  **+1**<br/> Agility  |  **0**<br/> Reason  |  **0**<br/> Intuition   |  **+2**<br/> Presence  |
 
 <!-- -->
@@ -22967,7 +22965,7 @@ At the start of any war dog's turn, you can spend Malice to activate one of the 
 > | ----------------- | ----------------------------: |
 > | **📏 5 burst**    | **🎯 Each enemy in the area** |
 >
-> **Effect:** The neuronite chooses one ally within 10 squares. Each target is either taunted by the ally, or the ally has damage immunity 3 whenever any target makes a strike against them (the neuronite's choice). Either effect lasts until the start of the neuronite's next turn
+> **Effect:** The neuronite chooses one ally within 10 squares. Each target is either taunted by the ally, or the ally has damage immunity 3 whenever any target makes a strike against them (the neuronite's choice). Either effect lasts until the start of the neuronite's next turn.
 
 <!-- -->
 > ⭐️ **Loyalty Collar**
@@ -22979,7 +22977,7 @@ At the start of any war dog's turn, you can spend Malice to activate one of the 
 | Humanoid, Soulless, War Dog |          -          |       Level 3       |    Horde Controller     |          EV 5          |
 | :-------------------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |      **1M**<br/> Size       |  **5**<br/> Speed   | **20**<br/> Stamina |  **0**<br/> Stability   | **2**<br/> Free Strike |
-| **Poison 3**<br/> Immunity  | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Poison 3**<br/> Immunity  | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |      **0**<br/> Might       | **+1**<br/> Agility |  **0**<br/> Reason  |  **0**<br/> Intuition   |  **+2**<br/> Presence  |
 
 <!-- -->
@@ -23016,7 +23014,7 @@ At the start of any war dog's turn, you can spend Malice to activate one of the 
 | Humanoid, Soulless, War Dog |          -          |       Level 2       |       Horde Hexer       |          EV 4          |
 | :-------------------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |      **1M**<br/> Size       |  **5**<br/> Speed   | **15**<br/> Stamina |  **0**<br/> Stability   | **2**<br/> Free Strike |
-|  **Acid 2**<br/> Immunity   | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+|  **Acid 2**<br/> Immunity   | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |      **0**<br/> Might       | **+2**<br/> Agility |  **0**<br/> Reason  |  **0**<br/> Intuition   |  **0**<br/> Presence   |
 
 <!-- -->
@@ -23036,7 +23034,7 @@ At the start of any war dog's turn, you can spend Malice to activate one of the 
 >
 > **Special:** A creature adjacent to the target can attempt an **Agility test** as a maneuver to remove the detonator.
 >
-> - **≤11:** No effect
+> - **≤11:** No effect.
 > - **12-16:** The detonator is disarmed and destroyed.
 > - **17+:** The creature can attach the detonator to another creature or object within 5 squares of them.
 
@@ -23059,7 +23057,7 @@ At the start of any war dog's turn, you can spend Malice to activate one of the 
 | Humanoid, Soulless, War Dog |          -          |       Level 2       |      Horde Support      |          EV 4          |
 | :-------------------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |      **1M**<br/> Size       |  **5**<br/> Speed   | **20**<br/> Stamina |  **0**<br/> Stability   | **2**<br/> Free Strike |
-|     **-**<br/> Immunity     | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+|     **-**<br/> Immunity     | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |      **+2**<br/> Might      | **0**<br/> Agility  |  **0**<br/> Reason  |  **0**<br/> Intuition   |  **+1**<br/> Presence  |
 
 <!-- -->
@@ -23101,7 +23099,7 @@ At the start of any war dog's turn, you can spend Malice to activate one of the 
 | Humanoid, Soulless, War Dog |             -              |       Level 1       |     Horde Ambusher      |          EV 3          |
 | :-------------------------: | :------------------------: | :-----------------: | :---------------------: | :--------------------: |
 |      **1M**<br/> Size       |      **5**<br/> Speed      | **15**<br/> Stamina |  **0**<br/> Stability   | **2**<br/> Free Strike |
-|     **-**<br/> Immunity     | **Teleport**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+|     **-**<br/> Immunity     | **Teleport**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |      **0**<br/> Might       |    **+2**<br/> Agility     |  **0**<br/> Reason  |  **0**<br/> Intuition   |  **0**<br/> Presence   |
 
 <!-- -->
@@ -23149,7 +23147,7 @@ At the start of any war dog's turn, you can spend Malice to activate one of the 
 | Humanoid, Soulless, War Dog |          -          |       Level 3        |         Leader          |         EV 20          |
 | :-------------------------: | :-----------------: | :------------------: | :---------------------: | :--------------------: |
 |      **1M**<br/> Size       |  **5**<br/> Speed   | **120**<br/> Stamina |  **2**<br/> Stability   | **5**<br/> Free Strike |
-|     **-**<br/> Immunity     | **-**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+|     **-**<br/> Immunity     | **-**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |      **+3**<br/> Might      | **+2**<br/> Agility |  **+3**<br/> Reason  |  **+2**<br/> Intuition  |  **+2**<br/> Presence  |
 
 <!-- -->
@@ -23187,7 +23185,7 @@ At the start of any war dog's turn, you can spend Malice to activate one of the 
 >
 > **Trigger:** The target takes damage, is force moved, or is reduced to 0 Stamina.
 >
-> **Effect:** Even if reduced to 0 Stamina, the target moves up to their speed and can make a free strike after the triggering effect is resolved The target then immediately dies.
+> **Effect:** Even if reduced to 0 Stamina, the target moves up to their speed and can make a free strike after the triggering effect is resolved. The target then immediately dies.
 
 <!-- -->
 > ⭐️ **End Effect**
@@ -23269,7 +23267,7 @@ At the start of any level 4 or higher war dog's turn, you can spend Malice to ac
 |  Humanoid, Soulless, War Dog  |          -          |      Level 4       |                       Minion Artillery                       | EV 6 for four minions  |
 | :---------------------------: | :-----------------: | :----------------: | :----------------------------------------------------------: | :--------------------: |
 |       **1M**<br/> Size        |  **5**<br/> Speed   | **7**<br/> Stamina |                     **0**<br/> Stability                     | **3**<br/> Free Strike |
-| **Lightning 4**<br/> Immunity | **-**<br/> Movement |         -          | **Lightning spread increases by 1 square**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Lightning 4**<br/> Immunity | **-**<br/> Movement |         -          | **Lightning spread increases by 1 square**<br/> With Captain |  **-**<br/> Weakness   |
 |       **0**<br/> Might        | **0**<br/> Agility  | **+3**<br/> Reason |                     **0**<br/> Intuition                     |  **+2**<br/> Presence  |
 
 <!-- -->
@@ -23297,7 +23295,7 @@ At the start of any level 4 or higher war dog's turn, you can spend Malice to ac
 | Humanoid, Soulless, War Dog |          -          |      Level 4       |                Minion Harrier                 | EV 6 for four minions  |
 | :-------------------------: | :-----------------: | :----------------: | :-------------------------------------------: | :--------------------: |
 |      **1M**<br/> Size       |  **6**<br/> Speed   | **8**<br/> Stamina |             **0**<br/> Stability              | **2**<br/> Free Strike |
-|     **-**<br/> Immunity     | **-**<br/> Movement |         -          | **Gain an edge on strikes**<br/> With Captain | **-**<br/> Weaknesses  |
+|     **-**<br/> Immunity     | **-**<br/> Movement |         -          | **Gain an edge on strikes**<br/> With Captain |  **-**<br/> Weakness   |
 |      **0**<br/> Might       | **+3**<br/> Agility | **0**<br/> Reason  |             **+2**<br/> Intuition             |  **0**<br/> Presence   |
 
 <!-- -->
@@ -23325,7 +23323,7 @@ At the start of any level 4 or higher war dog's turn, you can spend Malice to ac
 | Humanoid, Soulless, War Dog |               -               |      Level 4       |             Minion Ambusher             | EV 6 for four minions  |
 | :-------------------------: | :---------------------------: | :----------------: | :-------------------------------------: | :--------------------: |
 |      **1S**<br/> Size       |       **5**<br/> Speed        | **8**<br/> Stamina |          **0**<br/> Stability           | **3**<br/> Free Strike |
-| **Poison 4**<br/> Immunity  | **Climb, swim**<br/> Movement |         -          | **+2 bonus to speed**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Poison 4**<br/> Immunity  | **Climb, swim**<br/> Movement |         -          | **+2 bonus to speed**<br/> With Captain |  **-**<br/> Weakness   |
 |      **-1**<br/> Might      |      **+3**<br/> Agility      | **0**<br/> Reason  |          **+2**<br/> Intuition          |  **0**<br/> Presence   |
 
 <!-- -->
@@ -23353,7 +23351,7 @@ At the start of any level 4 or higher war dog's turn, you can spend Malice to ac
 | Humanoid, Soulless, War Dog |            -            |       Level 6       |     Horde Artillery     |          EV 8          |
 | :-------------------------: | :---------------------: | :-----------------: | :---------------------: | :--------------------: |
 |      **1L**<br/> Size       |    **5**<br/> Speed     | **35**<br/> Stamina |  **0**<br/> Stability   | **4**<br/> Free Strike |
-| **Psychic 6**<br/> Immunity | **Climb**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Psychic 6**<br/> Immunity | **Climb**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |      **0**<br/> Might       |   **+3**<br/> Agility   | **+2**<br/> Reason  |  **+2**<br/> Intuition  |  **+1**<br/> Presence  |
 
 <!-- -->
@@ -23369,7 +23367,7 @@ At the start of any level 4 or higher war dog's turn, you can spend Malice to ac
 > - **12-16:** 9 damage
 > - **17+:** 11 damage; A < 3 bleeding (save ends)
 >
-> **Effect:** This ability ignores cover and concealment. The arachnite chooses one of the following damage types when making the strike: acid, cold, fire, lightning, poison, psychic, or sonic
+> **Effect:** This ability ignores cover and concealment. The arachnite chooses one of the following damage types when making the strike: acid, cold, fire, lightning, poison, psychic, or sonic.
 >
 > **2 Malice:** The arachnite can use this ability as if they were in the space of any ally within distance.
 
@@ -23380,7 +23378,7 @@ At the start of any level 4 or higher war dog's turn, you can spend Malice to ac
 > | ----------------------- | -------------: |
 > | **📏 2 cube within 10** | **🎯 Special** |
 >
-> **Effect:** The area is difficult terrain until the end of the encounter
+> **Effect:** The area is difficult terrain until the end of the encounter.
 
 <!-- -->
 > ⭐️ **Eight-Eyed Sight**
@@ -23397,7 +23395,7 @@ At the start of any level 4 or higher war dog's turn, you can spend Malice to ac
 | Humanoid, Soulless, War Dog |          -          |       Level 5       |     Horde Defender      |          EV 7          |
 | :-------------------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |      **1L**<br/> Size       |  **5**<br/> Speed   | **40**<br/> Stamina |  **2**<br/> Stability   | **3**<br/> Free Strike |
-|     **-**<br/> Immunity     | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+|     **-**<br/> Immunity     | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |      **+3**<br/> Might      | **-1**<br/> Agility |  **0**<br/> Reason  |  **+3**<br/> Intuition  |  **+1**<br/> Presence  |
 
 <!-- -->
@@ -23418,7 +23416,7 @@ At the start of any level 4 or higher war dog's turn, you can spend Malice to ac
 <!-- -->
 > ⭐️ **Doom Magnet**
 >
-> The doomthief emits a 3 aura of warped fate that blocks line of effect for any enemy ability that doesn't include them as a target
+> The doomthief emits a 3 aura of warped fate that blocks line of effect for any enemy ability that doesn't include them as a target.
 
 <!-- -->
 > 👤 **Expanding Doom (4 Malice)**
@@ -23439,7 +23437,7 @@ At the start of any level 4 or higher war dog's turn, you can spend Malice to ac
 |  Soulless, War Dog  |          -          |       Level 4       |       Horde Brute       |          EV 6          |
 | :-----------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |   **2**<br/> Size   |  **8**<br/> Speed   | **53**<br/> Stamina |  **2**<br/> Stability   | **3**<br/> Free Strike |
-| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |  **+3**<br/> Might  | **+3**<br/> Agility | **-1**<br/> Reason  |  **-2**<br/> Intuition  |  **0**<br/> Presence   |
 
 <!-- -->
@@ -23466,7 +23464,7 @@ At the start of any level 4 or higher war dog's turn, you can spend Malice to ac
 > | ------------------------- | -------------: |
 > | **📏 Special; see below** | **🎯 Special** |
 >
-> **Effect:** The equivite moves up to their speed and ignores difficult terrain. Any mundane size 1 object whose space they move through is destroyed. The equivite makes one power roll against each enemy whose space they move through for the first time
+> **Effect:** The equivite moves up to their speed and ignores difficult terrain. Any mundane size 1 object whose space they move through is destroyed. The equivite makes one power roll against each enemy whose space they move through for the first time.
 >
 > **Power Roll + 3:**
 >
@@ -23484,7 +23482,7 @@ At the start of any level 4 or higher war dog's turn, you can spend Malice to ac
 | Humanoid, Soulless, War Dog |          -          |       Level 4       |     Horde Ambusher      |          EV 6          |
 | :-------------------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |      **1M**<br/> Size       |  **8**<br/> Speed   | **30**<br/> Stamina |  **0**<br/> Stability   | **3**<br/> Free Strike |
-|     **-**<br/> Immunity     | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+|     **-**<br/> Immunity     | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |      **+1**<br/> Might      | **+3**<br/> Agility |  **0**<br/> Reason  |  **0**<br/> Intuition   |  **+2**<br/> Presence  |
 
 <!-- -->
@@ -23516,7 +23514,7 @@ At the start of any level 4 or higher war dog's turn, you can spend Malice to ac
 <!-- -->
 > ⭐️ **Face in the Crowd**
 >
-> The hypokrite is invisible while adjacent to any ally who isn't hidden, and they can attempt to hide even while observed. Whenever they use the Hide maneuver, the hypokrite can disguise themself as another creature within line of effect
+> The hypokrite is invisible while adjacent to any ally who isn't hidden, and they can attempt to hide even while observed. Whenever they use the Hide maneuver, the hypokrite can disguise themself as another creature within line of effect.
 
 <!-- -->
 > ⭐️ **Loyalty Collar**
@@ -23528,7 +23526,7 @@ At the start of any level 4 or higher war dog's turn, you can spend Malice to ac
 | Humanoid, Soulless, War Dog |          -          |       Level 5       |      Horde Harrier      |          EV 7          |
 | :-------------------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |      **1M**<br/> Size       |  **6**<br/> Speed   | **35**<br/> Stamina |  **0**<br/> Stability   | **3**<br/> Free Strike |
-|     **-**<br/> Immunity     | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+|     **-**<br/> Immunity     | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |      **+1**<br/> Might      | **+3**<br/> Agility |  **0**<br/> Reason  |  **+2**<br/> Intuition  |  **0**<br/> Presence   |
 
 <!-- -->
@@ -23572,7 +23570,7 @@ At the start of any level 4 or higher war dog's turn, you can spend Malice to ac
 | Humanoid, Soulless, War Dog |          -          |       Level 6       |    Horde Controller     |          EV 8          |
 | :-------------------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |      **1M**<br/> Size       |  **5**<br/> Speed   | **35**<br/> Stamina |  **0**<br/> Stability   | **3**<br/> Free Strike |
-|     **-**<br/> Immunity     | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+|     **-**<br/> Immunity     | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |      **+1**<br/> Might      | **+1**<br/> Agility | **+2**<br/> Reason  |  **+3**<br/> Intuition  |  **+1**<br/> Presence  |
 
 <!-- -->
@@ -23611,7 +23609,7 @@ At the start of any level 4 or higher war dog's turn, you can spend Malice to ac
 | Humanoid, Soulless, War Dog |          -          |       Level 5       |       Horde Hexer       |          EV 7          |
 | :-------------------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |      **1M**<br/> Size       |  **5**<br/> Speed   | **30**<br/> Stamina |  **0**<br/> Stability   | **3**<br/> Free Strike |
-|     **-**<br/> Immunity     | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+|     **-**<br/> Immunity     | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |      **0**<br/> Might       | **0**<br/> Agility  | **+2**<br/> Reason  |  **+3**<br/> Intuition  |  **0**<br/> Presence   |
 
 <!-- -->
@@ -23640,7 +23638,7 @@ At the start of any level 4 or higher war dog's turn, you can spend Malice to ac
 >
 > - **≤11:** 2 corruption damage
 > - **12-16:** 4 corruption damage
-> - **17+:** 5 corruption damage; one ally in the area can end one effect on them that can be ended by a saving throw, and can give that effect to one targe
+> - **17+:** 5 corruption damage; one ally in the area can end one effect on them that can be ended by a saving throw, and can give that effect to one target
 >
 > **Effect:** The tormentite regains 2 Stamina for each creature targeted by this ability.
 
@@ -23659,7 +23657,7 @@ At the start of any level 4 or higher war dog's turn, you can spend Malice to ac
 | Humanoid, Soulless, War Dog |          -          |       Level 5       |      Horde Support      |          EV 7          |
 | :-------------------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |      **1L**<br/> Size       |  **5**<br/> Speed   | **35**<br/> Stamina |  **1**<br/> Stability   | **3**<br/> Free Strike |
-|     **-**<br/> Immunity     | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+|     **-**<br/> Immunity     | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |      **0**<br/> Might       | **+1**<br/> Agility | **+3**<br/> Reason  |  **+2**<br/> Intuition  |  **0**<br/> Presence   |
 
 <!-- -->
@@ -23700,7 +23698,7 @@ At the start of any level 4 or higher war dog's turn, you can spend Malice to ac
 <!-- -->
 > ⭐️ **Body Bank Branch Manager**
 >
-> If the war doc uses the Reconstitute war dog Malice feature, it costs 1 Malice less. Additionally, allies can treat the living war doc as a corpse when using the Reconstitute feature (see Reconstitute)
+> If the war doc uses the Reconstitute war dog Malice feature, it costs 1 Malice less. Additionally, allies can treat the living war doc as a corpse when using the Reconstitute feature (see Reconstitute).
 
 ##### No Loyalty Collar?
 
@@ -23711,7 +23709,7 @@ The war doc and the iron priest are among the most zealous war dogs in their ran
 | Humanoid, Soulless, War Dog |          -          |       Level 6        |         Leader          |         EV 32          |
 | :-------------------------: | :-----------------: | :------------------: | :---------------------: | :--------------------: |
 |      **1M**<br/> Size       |  **7**<br/> Speed   | **180**<br/> Stamina |  **2**<br/> Stability   | **7**<br/> Free Strike |
-|     **-**<br/> Immunity     | **-**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+|     **-**<br/> Immunity     | **-**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |      **+4**<br/> Might      | **+3**<br/> Agility |  **+2**<br/> Reason  |  **+3**<br/> Intuition  |  **+4**<br/> Presence  |
 
 <!-- -->
@@ -23732,7 +23730,7 @@ The war doc and the iron priest are among the most zealous war dogs in their ran
 > **3 Malice:** Each target loses 1d3 Recoveries.
 
 <!-- -->
-> 🏹 **Get Them, You Dolts! 1 Malice per target**
+> 🏹 **Get Them, You Dolts! (1 Malice per target)**
 >
 > | **Ranged**       |           **Maneuver** |
 > | ---------------- | ---------------------: |
@@ -23784,7 +23782,7 @@ The war doc and the iron priest are among the most zealous war dogs in their ran
 > - **12-16:** 13 fire damage; A < 3 slowed (save ends)
 > - **17+:** 16 fire damage; A < 4 slowed (save ends)
 >
-> **Effect:** The area is set ablaze until the end of the encounter. While ablaze, the area is difficult terrain, and any creature takes 2 fire damage for each square in the area they enter for the first time in a round
+> **Effect:** The area is set ablaze until the end of the encounter. While ablaze, the area is difficult terrain, and any creature takes 2 fire damage for each square in the area they enter for the first time in a round.
 
 <!-- -->
 > ☠️ **You Would Dare?! (Villain Action 3)**
@@ -23832,7 +23830,7 @@ At the start of any level 7 or higher war dog's turn, you can spend Malice to ac
 | Humanoid, Soulless, War Dog |          -          |       Level 7       |                   Minion Brute                   | EV 9 for four minions  |
 | :-------------------------: | :-----------------: | :-----------------: | :----------------------------------------------: | :--------------------: |
 |       **2**<br/> Size       |  **5**<br/> Speed   | **13**<br/> Stamina |               **2**<br/> Stability               | **4**<br/> Free Strike |
-|     **-**<br/> Immunity     | **-**<br/> Movement |          -          | **+3 damage bonus to strikes**<br/> With Captain | **-**<br/> Weaknesses  |
+|     **-**<br/> Immunity     | **-**<br/> Movement |          -          | **+3 damage bonus to strikes**<br/> With Captain |  **-**<br/> Weakness   |
 |      **+4**<br/> Might      | **+1**<br/> Agility | **-2**<br/> Reason  |              **-1**<br/> Intuition               |  **+2**<br/> Presence  |
 
 <!-- -->
@@ -23860,7 +23858,7 @@ At the start of any level 7 or higher war dog's turn, you can spend Malice to ac
 | Humanoid, Soulless, War Dog |          -          |       Level 7       |                  Minion Ambusher                  | EV 9 for four minions  |
 | :-------------------------: | :-----------------: | :-----------------: | :-----------------------------------------------: | :--------------------: |
 |      **1S**<br/> Size       |  **6**<br/> Speed   | **12**<br/> Stamina |               **0**<br/> Stability                | **4**<br/> Free Strike |
-|     **-**<br/> Immunity     | **-**<br/> Movement |          -          | **+5 bonus to ranged distance**<br/> With Captain | **-**<br/> Weaknesses  |
+|     **-**<br/> Immunity     | **-**<br/> Movement |          -          | **+5 bonus to ranged distance**<br/> With Captain |  **-**<br/> Weakness   |
 |      **-1**<br/> Might      | **+2**<br/> Agility | **+4**<br/> Reason  |               **+3**<br/> Intuition               |  **+1**<br/> Presence  |
 
 <!-- -->
@@ -23873,10 +23871,10 @@ At the start of any level 7 or higher war dog's turn, you can spend Malice to ac
 > **Power Roll + 4:**
 >
 > - **≤11:** 4 fire damage
-> - **12-16:** 7 fire damage; push
-> - **17+:** 8 fire damage; push
+> - **12-16:** 7 fire damage; push 1
+> - **17+:** 8 fire damage; push 3
 >
-> **Effect:** The space the target occupies fills with dark smoke and blocks line of effect until the start of the saboteur's next turn
+> **Effect:** The space the target occupies fills with dark smoke and blocks line of effect until the start of the saboteur's next turn.
 
 <!-- -->
 > ⭐️ **Loyalty Collar**
@@ -23888,7 +23886,7 @@ At the start of any level 7 or higher war dog's turn, you can spend Malice to ac
 | Humanoid, Soulless, War Dog |          -          |       Level 7       |               Minion Artillery                | EV 9 for four minions  |
 | :-------------------------: | :-----------------: | :-----------------: | :-------------------------------------------: | :--------------------: |
 |      **1M**<br/> Size       |  **5**<br/> Speed   | **10**<br/> Stamina |             **0**<br/> Stability              | **4**<br/> Free Strike |
-|     **-**<br/> Immunity     | **-**<br/> Movement |          -          | **Gain an edge on strikes**<br/> With Captain | **-**<br/> Weaknesses  |
+|     **-**<br/> Immunity     | **-**<br/> Movement |          -          | **Gain an edge on strikes**<br/> With Captain |  **-**<br/> Weakness   |
 |      **+1**<br/> Might      | **+4**<br/> Agility | **+3**<br/> Reason  |             **+1**<br/> Intuition             |  **+1**<br/> Presence  |
 
 <!-- -->
@@ -23916,7 +23914,7 @@ At the start of any level 7 or higher war dog's turn, you can spend Malice to ac
 | Humanoid, Soulless, War Dog |           -           |       Level 8       |      Horde Harrier      |         EV 10          |
 | :-------------------------: | :-------------------: | :-----------------: | :---------------------: | :--------------------: |
 |      **1M**<br/> Size       |   **8**<br/> Speed    | **50**<br/> Stamina |  **0**<br/> Stability   | **3**<br/> Free Strike |
-|     **-**<br/> Immunity     | **Fly**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+|     **-**<br/> Immunity     | **Fly**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |      **0**<br/> Might       |  **+4**<br/> Agility  | **+1**<br/> Reason  |  **+3**<br/> Intuition  |  **+1**<br/> Presence  |
 
 <!-- -->
@@ -23947,7 +23945,7 @@ At the start of any level 7 or higher war dog's turn, you can spend Malice to ac
 > - **12-16:** 4 acid damage; M < 3 slowed (save ends)
 > - **17+:** 6 acid damage; M < 4 slowed (save ends)
 >
-> **Effect:** The area is difficult terrain
+> **Effect:** The area is difficult terrain.
 
 <!-- -->
 > ⭐️ **Jetwing Agility**
@@ -23964,7 +23962,7 @@ At the start of any level 7 or higher war dog's turn, you can spend Malice to ac
 |  Soulless, War Dog  |          -          |       Level 8       |     Horde Artillery     |         EV 10          |
 | :-----------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |  **1L**<br/> Size   |  **0**<br/> Speed   | **72**<br/> Stamina |  **5**<br/> Stability   | **4**<br/> Free Strike |
-| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |  **+4**<br/> Might  | **-2**<br/> Agility | **+2**<br/> Reason  |  **+3**<br/> Intuition  |  **+2**<br/> Presence  |
 
 <!-- -->
@@ -24006,7 +24004,7 @@ At the start of any level 7 or higher war dog's turn, you can spend Malice to ac
 | Humanoid, Soulless, War Dog |             -              |       Level 7       |     Horde Ambusher      |          EV 9          |
 | :-------------------------: | :------------------------: | :-----------------: | :---------------------: | :--------------------: |
 |      **1M**<br/> Size       |      **6**<br/> Speed      | **45**<br/> Stamina |  **0**<br/> Stability   | **4**<br/> Free Strike |
-|     **-**<br/> Immunity     | **Teleport**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+|     **-**<br/> Immunity     | **Teleport**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |      **+1**<br/> Might      |    **+4**<br/> Agility     | **+4**<br/> Reason  |  **+2**<br/> Intuition  |  **0**<br/> Presence   |
 
 <!-- -->
@@ -24048,7 +24046,7 @@ At the start of any level 7 or higher war dog's turn, you can spend Malice to ac
 | Humanoid, Soulless, War Dog |          -          |       Level 7        |       Elite Brute       |         EV 36          |
 | :-------------------------: | :-----------------: | :------------------: | :---------------------: | :--------------------: |
 |       **2**<br/> Size       |  **5**<br/> Speed   | **200**<br/> Stamina |  **4**<br/> Stability   | **7**<br/> Free Strike |
-|     **-**<br/> Immunity     | **-**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+|     **-**<br/> Immunity     | **-**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |      **+4**<br/> Might      | **+2**<br/> Agility |  **+1**<br/> Reason  |  **+1**<br/> Intuition  |  **+3**<br/> Presence  |
 
 <!-- -->
@@ -24071,7 +24069,7 @@ At the start of any level 7 or higher war dog's turn, you can spend Malice to ac
 > | ----------- | -----------: |
 > | **📏 Self** |  **🎯 Self** |
 >
-> **Effect:** Until the start of their next turn, the breaker has a double edge on abilities and is automatically affected by all potency effect
+> **Effect:** Until the start of their next turn, the breaker has a double edge on abilities and is automatically affected by all potency effect.
 
 <!-- -->
 > ⭐️ **Breaking Point**
@@ -24088,7 +24086,7 @@ At the start of any level 7 or higher war dog's turn, you can spend Malice to ac
 | Humanoid, Soulless, War Dog |          -          |       Level 8       |       Horde Hexer       |         EV 10          |
 | :-------------------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |      **1M**<br/> Size       |  **5**<br/> Speed   | **45**<br/> Stamina |  **0**<br/> Stability   | **3**<br/> Free Strike |
-|  **Fire 8**<br/> Immunity   | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+|  **Fire 8**<br/> Immunity   | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |      **0**<br/> Might       | **+2**<br/> Agility | **+3**<br/> Reason  |  **+4**<br/> Intuition  |  **+1**<br/> Presence  |
 
 <!-- -->
@@ -24104,7 +24102,7 @@ At the start of any level 7 or higher war dog's turn, you can spend Malice to ac
 > - **12-16:** 6 fire damage; A < 3 the target is seared (save ends)
 > - **17+:** 8 fire damage; A < 4 the target is seared (save ends)
 >
-> **Effect:** A seared creature takes a bane on strikes and has damage weakness 5. If this ability obtains a tier 3 outcome against one or more creatures who are already seared, the firestarter can use Enflame as a free triggered action
+> **Effect:** A seared creature takes a bane on strikes and has damage weakness 5. If this ability obtains a tier 3 outcome against one or more creatures who are already seared, the firestarter can use Enflame as a free triggered action.
 
 <!-- -->
 > 🏹 **Enflame**
@@ -24114,6 +24112,8 @@ At the start of any level 7 or higher war dog's turn, you can spend Malice to ac
 > | **📏 Ranged 10**  | **🎯 Special** |
 >
 > **Effect:** This ability targets each enemy within 2 squares of any seared creature within distance.
+>
+> **Power Roll + 4:**
 >
 > - **≤11:** 2 fire damage
 > - **12-16:** 4 fire damage; A < 3 the target is seared (save ends)
@@ -24129,7 +24129,7 @@ At the start of any level 7 or higher war dog's turn, you can spend Malice to ac
 | Humanoid, Soulless, War Dog |            -             |       Level 8       |    Horde Controller     |         EV 10          |
 | :-------------------------: | :----------------------: | :-----------------: | :---------------------: | :--------------------: |
 |      **1M**<br/> Size       |     **5**<br/> Speed     | **45**<br/> Stamina |  **3**<br/> Stability   | **3**<br/> Free Strike |
-|     **-**<br/> Immunity     | **Burrow**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+|     **-**<br/> Immunity     | **Burrow**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |      **+2**<br/> Might      |   **+1**<br/> Agility    | **+4**<br/> Reason  |  **+4**<br/> Intuition  |  **+2**<br/> Presence  |
 
 <!-- -->
@@ -24147,7 +24147,7 @@ At the start of any level 7 or higher war dog's turn, you can spend Malice to ac
 >
 > **Effect:** This ability ignores stability. The geomancer declares a direction for the area, and any creature pushed by this ability is pushed to the last space in the area in the chosen direction.
 >
-> **2 Malice:** The ground beneath the area becomes a 2-square-deep trench after the power roll is resolved
+> **2 Malice:** The ground beneath the area becomes a 2-square-deep trench after the power roll is resolved.
 
 <!-- -->
 > 🔳 **Siegeworks**
@@ -24173,7 +24173,7 @@ At the start of any level 7 or higher war dog's turn, you can spend Malice to ac
 | Humanoid, Soulless, War Dog |          -          |       Level 8       |      Horde Support      |         EV 10          |
 | :-------------------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |      **1M**<br/> Size       |  **5**<br/> Speed   | **50**<br/> Stamina |  **0**<br/> Stability   | **3**<br/> Free Strike |
-|     **-**<br/> Immunity     | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+|     **-**<br/> Immunity     | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |      **+2**<br/> Might      | **+1**<br/> Agility | **+1**<br/> Reason  |  **+4**<br/> Intuition  |  **+4**<br/> Presence  |
 
 <!-- -->
@@ -24198,7 +24198,7 @@ At the start of any level 7 or higher war dog's turn, you can spend Malice to ac
 > | --------------- | ------------------------------: |
 > | **📏 4 aura**   | **🎯 Each war dog in the area** |
 >
-> **Effect:** For every 2 Malice spent, each target gains one of the following effects until the start of the iron priest's next turn
+> **Effect:** For every 2 Malice spent, each target gains one of the following effects until the start of the iron priest's next turn.
 >
 > - The target has damage immunity 2.
 > - The target's strikes deal an extra 3 holy damage.
@@ -24214,7 +24214,7 @@ At the start of any level 7 or higher war dog's turn, you can spend Malice to ac
 |  Soulless, War Dog  |              -               |       Level 8       |     Horde Defender      |         EV 10          |
 | :-----------------: | :--------------------------: | :-----------------: | :---------------------: | :--------------------: |
 |   **2**<br/> Size   |       **5**<br/> Speed       | **82**<br/> Stamina |  **2**<br/> Stability   | **3**<br/> Free Strike |
-| **-**<br/> Immunity | **Fly, hover**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **Fly, hover**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |  **+4**<br/> Might  |      **0**<br/> Agility      | **+4**<br/> Reason  |  **+2**<br/> Intuition  |  **+3**<br/> Presence  |
 
 <!-- -->
@@ -24260,7 +24260,7 @@ At the start of any level 7 or higher war dog's turn, you can spend Malice to ac
 | Humanoid, Soulless, War Dog |             -              |       Level 9        |         Leader          |         EV 44          |
 | :-------------------------: | :------------------------: | :------------------: | :---------------------: | :--------------------: |
 |      **1M**<br/> Size       |      **7**<br/> Speed      | **240**<br/> Stamina |  **1**<br/> Stability   | **9**<br/> Free Strike |
-|     **-**<br/> Immunity     | **Teleport**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+|     **-**<br/> Immunity     | **Teleport**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |      **+1**<br/> Might      |    **+3**<br/> Agility     |  **+5**<br/> Reason  |  **+4**<br/> Intuition  |  **+3**<br/> Presence  |
 
 <!-- -->
@@ -24393,7 +24393,7 @@ At the start of any level 10 or higher war dog's turn, you can spend Malice to a
 | Humanoid, Soulless, War Dog |           -           |      Level 10       |             Minion Harrier              | EV 12 for four minions |
 | :-------------------------: | :-------------------: | :-----------------: | :-------------------------------------: | :--------------------: |
 |      **1M**<br/> Size       |   **7**<br/> Speed    | **15**<br/> Stamina |          **2**<br/> Stability           | **4**<br/> Free Strike |
-|     **-**<br/> Immunity     | **Fly**<br/> Movement |          -          | **+3 bonus to speed**<br/> With Captain | **-**<br/> Weaknesses  |
+|     **-**<br/> Immunity     | **Fly**<br/> Movement |          -          | **+3 bonus to speed**<br/> With Captain |  **-**<br/> Weakness   |
 |      **+5**<br/> Might      |  **+4**<br/> Agility  | **+2**<br/> Reason  |          **+3**<br/> Intuition          |  **+2**<br/> Presence  |
 
 <!-- -->
@@ -24424,7 +24424,7 @@ At the start of any level 10 or higher war dog's turn, you can spend Malice to a
 | Humanoid, Soulless, War Dog |          -          |      Level 10       |                 Minion Artillery                 | EV 12 for four minions |
 | :-------------------------: | :-----------------: | :-----------------: | :----------------------------------------------: | :--------------------: |
 |      **1M**<br/> Size       |  **5**<br/> Speed   | **14**<br/> Stamina |               **0**<br/> Stability               | **5**<br/> Free Strike |
-|     **-**<br/> Immunity     | **-**<br/> Movement |          -          | **+4 damage bonus to strikes**<br/> With Captain | **-**<br/> Weaknesses  |
+|     **-**<br/> Immunity     | **-**<br/> Movement |          -          | **+4 damage bonus to strikes**<br/> With Captain |  **-**<br/> Weakness   |
 |      **+1**<br/> Might      | **+5**<br/> Agility | **+3**<br/> Reason  |              **+5**<br/> Intuition               |  **+2**<br/> Presence  |
 
 <!-- -->
@@ -24440,7 +24440,7 @@ At the start of any level 10 or higher war dog's turn, you can spend Malice to a
 > - **12-16:** 8 damage; push 3
 > - **17+:** 10 damage; push 4
 >
-> **Effect:** Each enemy adjacent to the target before the forced movement takes 5 fire damage
+> **Effect:** Each enemy adjacent to the target before the forced movement takes 5 fire damage.
 
 <!-- -->
 > ⭐️ **Loyalty Collar**
@@ -24452,7 +24452,7 @@ At the start of any level 10 or higher war dog's turn, you can spend Malice to a
 | Humanoid, Soulless, War Dog  |          -          |      Level 10       |                 Minion Hexer                  | EV 12 for four minions |
 | :--------------------------: | :-----------------: | :-----------------: | :-------------------------------------------: | :--------------------: |
 |       **1M**<br/> Size       |  **5**<br/> Speed   | **14**<br/> Stamina |             **0**<br/> Stability              | **4**<br/> Free Strike |
-| **Psychic 10**<br/> Immunity | **-**<br/> Movement |          -          | **Gain an edge on strikes**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Psychic 10**<br/> Immunity | **-**<br/> Movement |          -          | **Gain an edge on strikes**<br/> With Captain |  **-**<br/> Weakness   |
 |      **+2**<br/> Might       | **+2**<br/> Agility | **+4**<br/> Reason  |             **+3**<br/> Intuition             |  **+5**<br/> Presence  |
 
 <!-- -->
@@ -24477,11 +24477,11 @@ At the start of any level 10 or higher war dog's turn, you can spend Malice to a
 
 ###### Castellan Hoplon
 
-| Humanoid, Soulless, War Dog |          -          |       Level 10        |     Elite Defender      |         EV 48          |
-| :-------------------------: | :-----------------: | :-------------------: | :---------------------: | :--------------------: |
-|      **1M**<br/> Size       |  **5**<br/> Speed   | **2603**<br/> Stamina |  **1**<br/> Stability   | **0**<br/> Free Strike |
-| **Damage 3**<br/> Immunity  | **-**<br/> Movement |           -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
-|      **+5**<br/> Might      | **+2**<br/> Agility |  **+4**<br/> Reason   |  **+3**<br/> Intuition  |  **+4**<br/> Presence  |
+| Humanoid, Soulless, War Dog |          -          |       Level 10       |     Elite Defender      |          EV 48          |
+| :-------------------------: | :-----------------: | :------------------: | :---------------------: | :---------------------: |
+|      **1M**<br/> Size       |  **5**<br/> Speed   | **260**<br/> Stamina |  **3**<br/> Stability   | **10**<br/> Free Strike |
+| **Damage 3**<br/> Immunity  | **-**<br/> Movement |          -           | **-**<br/> With Captain |   **-**<br/> Weakness   |
+|      **+5**<br/> Might      | **+2**<br/> Agility |  **+4**<br/> Reason  |  **+3**<br/> Intuition  |  **+4**<br/> Presence   |
 
 <!-- -->
 > 🗡 **Inspiring Strike (Signature Ability)**
@@ -24514,6 +24514,8 @@ At the start of any level 10 or higher war dog's turn, you can spend Malice to a
 > | -------------- | ----------------------------: |
 > | **📏 3 burst** | **🎯 Each enemy in the area** |
 >
+> **Power Roll + 5:**
+>
 > - **≤11:** R < 3 taunted (EoT)
 > - **12-16:** R < 4 taunted (EoT)
 > - **17+:** R < 5 taunted (EoT)
@@ -24539,15 +24541,15 @@ At the start of any level 10 or higher war dog's turn, you can spend Malice to a
 <!-- -->
 > ⭐️ **Last Stand**
 >
-> The first time in an encounter that Hoplon is reduced to 0 Stam- na, he instead has 1 Stamina and gains damage immunity 10 until the end of his next turn. When Hoplon is reduced to 0 Stamina again, each ally within 5 squares of him gains damage immunity 3 and deals an extra 5 damage on strikes, all until the end of the encounter.
+> The first time in an encounter that Hoplon is reduced to 0 Stamina, he instead has 1 Stamina and gains damage immunity 10 until the end of his next turn. When Hoplon is reduced to 0 Stamina again, each ally within 5 squares of him gains damage immunity 3 and deals an extra 5 damage on strikes, all until the end of the encounter.
 
 ###### Iron Champion Doru
 
-| Humanoid, Soulless, War Dog |          -          |       Level 10        |       Elite Brute       |         EV 48          |
-| :-------------------------: | :-----------------: | :-------------------: | :---------------------: | :--------------------: |
-|      **1L**<br/> Size       |  **5**<br/> Speed   | **2602**<br/> Stamina |  **1**<br/> Stability   | **0**<br/> Free Strike |
-|     **-**<br/> Immunity     | **-**<br/> Movement |           -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
-|      **+5**<br/> Might      | **+4**<br/> Agility |  **+1**<br/> Reason   |  **+4**<br/> Intuition  |  **+2**<br/> Presence  |
+| Humanoid, Soulless, War Dog |          -          |       Level 10       |       Elite Brute       |          EV 48          |
+| :-------------------------: | :-----------------: | :------------------: | :---------------------: | :---------------------: |
+|      **1L**<br/> Size       |  **5**<br/> Speed   | **260**<br/> Stamina |  **2**<br/> Stability   | **10**<br/> Free Strike |
+|     **-**<br/> Immunity     | **-**<br/> Movement |          -           | **-**<br/> With Captain |   **-**<br/> Weakness   |
+|      **+5**<br/> Might      | **+4**<br/> Agility |  **+1**<br/> Reason  |  **+4**<br/> Intuition  |  **+2**<br/> Presence   |
 
 <!-- -->
 > 🗡 **Houndaxe (Signature Ability)**
@@ -24571,7 +24573,7 @@ At the start of any level 10 or higher war dog's turn, you can spend Malice to a
 >
 > | **Area, Weapon** |                             **Main action** |
 > | ---------------- | ------------------------------------------: |
-> | **📏 Burst 3**   | **🎯 Each creature and object in the area** |
+> | **📏 3 burst**   | **🎯 Each creature and object in the area** |
 >
 > **Power Roll + 5:**
 >
@@ -24609,7 +24611,7 @@ At the start of any level 10 or higher war dog's turn, you can spend Malice to a
 <!-- -->
 > ⭐️ **The Scarless**
 >
-> Doru regains 10 Stamina at the start of each of his turns unless he took acid or fire damage since the start of his previous turn. Whe- ever he regains Stamina this way, the Director can spend 2 Malice to end one effect on Doru that can be ended by a saving throw
+> Doru regains 10 Stamina at the start of each of his turns unless he took acid or fire damage since the start of his previous turn. Whenever he regains Stamina this way, the Director can spend 2 Malice to end one effect on Doru that can be ended by a saving throw.
 
 <!-- -->
 > ⭐️ **Champion's Loyalty Collar**
@@ -24618,11 +24620,11 @@ At the start of any level 10 or higher war dog's turn, you can spend Malice to a
 
 ###### Logostician Vesper
 
-|  Soulless, War Dog  |          -          |        Level 10        |    Elite Controller     |         EV 48          |
-| :-----------------: | :-----------------: | :--------------------: | :---------------------: | :--------------------: |
-|   **2**<br/> Size   |  **1**<br/> Speed   | **02533**<br/> Stamina |  **1**<br/> Stability   | **0**<br/> Free Strike |
-| **-**<br/> Immunity | **-**<br/> Movement |           -            | **-**<br/> With Captain | **-**<br/> Weaknesses  |
-|  **+2**<br/> Might  | **+1**<br/> Agility |   **+5**<br/> Reason   |  **+4**<br/> Intuition  |  **+1**<br/> Presence  |
+|  Soulless, War Dog  |          -          |       Level 10       |    Elite Controller     |          EV 48          |
+| :-----------------: | :-----------------: | :------------------: | :---------------------: | :---------------------: |
+|   **2**<br/> Size   |  **10**<br/> Speed  | **253**<br/> Stamina |  **3**<br/> Stability   | **10**<br/> Free Strike |
+| **-**<br/> Immunity | **-**<br/> Movement |          -           | **-**<br/> With Captain |   **-**<br/> Weakness   |
+|  **+2**<br/> Might  | **+1**<br/> Agility |  **+5**<br/> Reason  |  **+4**<br/> Intuition  |  **+1**<br/> Presence   |
 
 <!-- -->
 > 🔳 **Portal to the Firing Line (Signature Ability)**
@@ -24665,11 +24667,13 @@ At the start of any level 10 or higher war dog's turn, you can spend Malice to a
 > | ----------------------- | ------------------------------------------: |
 > | **📏 5 cube within 15** | **🎯 Each creature and object in the area** |
 >
+> **Power Roll + 5:**
+>
 > - **≤11:** A < 4 pull 3 toward the center of the area
 > - **12-16:** A < 5 pull 3 toward the center of the area
 > - **17+:** Pull 3 toward the center of the area
 >
-> **Effect:** A portal appears at the center of the area. Any creature at the center of the area when this ability is used or who is pulled into the center for the first time in a round takes 10 sonic damage
+> **Effect:** A portal appears at the center of the area. Any creature at the center of the area when this ability is used or who is pulled into the center for the first time in a round takes 10 sonic damage.
 >
 > **2 Malice:** The area remains active and deals its damage until Vesper is reduced to 0 Stamina or until the end of the encounter. Any creature who enters the area and has A < 4 is pulled 3 squares toward the center of the area. Any creature who starts their turn in the area and has M < 4 is slowed until the end of their turn.
 
@@ -24699,7 +24703,7 @@ At the start of any level 10 or higher war dog's turn, you can spend Malice to a
 | Humanoid, Soulless, War Dog |              -               |       Level 10       |       Elite Hexer       |          EV 48          |
 | :-------------------------: | :--------------------------: | :------------------: | :---------------------: | :---------------------: |
 |      **1M**<br/> Size       |       **5**<br/> Speed       | **220**<br/> Stamina |  **1**<br/> Stability   | **10**<br/> Free Strike |
-|     **-**<br/> Immunity     | **Fly, hover**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weaknesses  |
+|     **-**<br/> Immunity     | **Fly, hover**<br/> Movement |          -           | **-**<br/> With Captain |   **-**<br/> Weakness   |
 |      **+1**<br/> Might      |     **+3**<br/> Agility      |  **+3**<br/> Reason  |  **+4**<br/> Intuition  |  **+5**<br/> Presence   |
 
 <!-- -->
@@ -24730,7 +24734,7 @@ At the start of any level 10 or higher war dog's turn, you can spend Malice to a
 > - **12-16:** 12 corruption damage; P < 4 weakened (EoT)
 > - **17+:** 15 corruption damage; P < 5 weakened (EoT)
 >
-> **Effect:** The area is difficult terrain until the start of Psyche's next turn At the start of each of her turns, Psyche can use a maneuver to main- tain this effect, move the area up to 5 squares, and make the power roll against each creature in the area's new location.
+> **Effect:** The area is difficult terrain until the start of Psyche's next turn At the start of each of her turns, Psyche can use a maneuver to maintain this effect, move the area up to 5 squares, and make the power roll against each creature in the area's new location.
 >
 > **1 Malice:** Until the start of Psyche's next turn, if this ability makes a creature weakened, that creature is also soulbound (save ends; see Soulbind above).
 
@@ -24783,11 +24787,11 @@ At the start of any level 10 or higher war dog's turn, you can spend Malice to a
 
 ###### Strategos Alkestis
 
-| Humanoid, Soulless, War Dog |          -          |       Level 10        |         Leader          |         EV 48          |
-| :-------------------------: | :-----------------: | :-------------------: | :---------------------: | :--------------------: |
-|      **1M**<br/> Size       |  **5**<br/> Speed   | **2602**<br/> Stamina |  **1**<br/> Stability   | **0**<br/> Free Strike |
-|     **-**<br/> Immunity     | **-**<br/> Movement |           -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
-|      **+4**<br/> Might      | **+4**<br/> Agility |  **+5**<br/> Reason   |  **+5**<br/> Intuition  |  **+5**<br/> Presence  |
+| Humanoid, Soulless, War Dog |          -          |       Level 10       |         Leader          |          EV 48          |
+| :-------------------------: | :-----------------: | :------------------: | :---------------------: | :---------------------: |
+|      **1M**<br/> Size       |  **5**<br/> Speed   | **260**<br/> Stamina |  **2**<br/> Stability   | **10**<br/> Free Strike |
+|     **-**<br/> Immunity     | **-**<br/> Movement |          -           | **-**<br/> With Captain |   **-**<br/> Weakness   |
+|      **+4**<br/> Might      | **+4**<br/> Agility |  **+5**<br/> Reason  |  **+5**<br/> Intuition  |  **+5**<br/> Presence   |
 
 <!-- -->
 > ⚔️ **Houndgun and Houndblade (Signature Ability)**
@@ -24813,7 +24817,7 @@ At the start of any level 10 or higher war dog's turn, you can spend Malice to a
 > | ---------------- | ----------------------------: |
 > | **📏 Ranged 15** | **🎯 One creature or object** |
 >
-> **Effect:** Until the start of Alkestis's next turn, any effect that reduces the damage taken by the target has no effect
+> **Effect:** Until the start of Alkestis's next turn, any effect that reduces the damage taken by the target has no effect.
 
 <!-- -->
 > ❗️ **Artillery Enfilade (2 Malice)**
@@ -24830,7 +24834,7 @@ At the start of any level 10 or higher war dog's turn, you can spend Malice to a
 > - **12-16:** 13 damage; A < 5 slowed (save ends)
 > - **17+:** 16 damage; A < 6 slowed (save ends)
 >
-> **Effect:** The area is difficult terrain until the start of the next round
+> **Effect:** The area is difficult terrain until the start of the next round.
 
 <!-- -->
 > ⭐️ **End Effect**
@@ -24905,7 +24909,7 @@ At the start of a werewolf's turn, you can spend Malice to activate one of the f
 <!-- -->
 > ⭐️ **Blood In Their Eyes (3 Malice)**
 >
-> The werewolf gains 10 temporary Stamina and a +3 bonus to speed until the end of their turn. The werewolf can't use this fea- ture if they took any holy damage since ending their last turn.
+> The werewolf gains 10 temporary Stamina and a +3 bonus to speed until the end of their turn. The werewolf can't use this feature if they took any holy damage since ending their last turn.
 
 <!-- -->
 > ☠️ **Solo Action (5 Malice)**
@@ -24922,7 +24926,7 @@ At the start of a werewolf's turn, you can spend Malice to activate one of the f
 | Accursed, Humanoid, Werebeast |          -          |       Level 1        |          Solo           |         EV 36          |
 | :---------------------------: | :-----------------: | :------------------: | :---------------------: | :--------------------: |
 |       **1M**<br/> Size        |  **7**<br/> Speed   | **200**<br/> Stamina |  **0**<br/> Stability   | **5**<br/> Free Strike |
-|      **-**<br/> Immunity      | **-**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+|      **-**<br/> Immunity      | **-**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |       **+3**<br/> Might       | **+2**<br/> Agility |  **-1**<br/> Reason  |  **+1**<br/> Intuition  |  **+1**<br/> Presence  |
 
 <!-- -->
@@ -24935,17 +24939,17 @@ At the start of a werewolf's turn, you can spend Malice to activate one of the f
 <!-- -->
 > ⭐️ **Accursed Rage**
 >
-> The werewolf's ferocity is expressed through rage, and their abilities can inflict rage points on any enemy except a stormwight fury. A creature who starts their turn with 10 or more rage expends their rage. Then before taking their turn, they must shift up to their speed toward the nearest creature and make a melee free strike against them. A creature who takes damage from this free strike gains 1 rage. Accumulated rage disappears after a character finishes a respite
+> The werewolf's ferocity is expressed through rage, and their abilities can inflict rage points on any enemy except a stormwight fury. A creature who starts their turn with 10 or more rage expends their rage. Then before taking their turn, they must shift up to their speed toward the nearest creature and make a melee free strike against them. A creature who takes damage from this free strike gains 1 rage. Accumulated rage disappears after a character finishes a respite.
 
 <!-- -->
 > ⭐️ **Shapeshifter**
 >
-> The werewolf enters combat in their hybrid humanoid form. Their shape can't be changed by any external effect
+> The werewolf enters combat in their hybrid humanoid form. Their shape can't be changed by any external effect.
 
 <!-- -->
 > ⭐️ **Vukenstep**
 >
-> The werewolf ignores difficult terrain
+> The werewolf ignores difficult terrain.
 
 <!-- -->
 > 🗡 **Accursed Bite (Signature Ability)**
@@ -24960,7 +24964,7 @@ At the start of a werewolf's turn, you can spend Malice to activate one of the f
 > - **12-16:** 13 damage; the target gains 4 rage
 > - **17+:** 16 damage; the target gains 5 rage
 >
-> **2 Malice:** If the target has P < 0, they are afflicted with lycanthpy. Each time the target is unaffected by the potency effect, the potency increases by 1 the next time the werewolf uses the ability against the same target. A creature afflicted with lycanthrop gains 2 rage at the end of each of their turns whenever they're in combat. Their rage doesn't disappear after finishing a respite and they must complete the Find a Cure downtime project in "Draw Steel: Heroes" to end this effect
+> **2 Malice:** If the target has P < 0, they are afflicted with lycanthpy. Each time the target is unaffected by the potency effect, the potency increases by 1 the next time the werewolf uses the ability against the same target. A creature afflicted with lycanthropy gains 2 rage at the end of each of their turns whenever they're in combat. Their rage doesn't disappear after finishing a respite and they must complete the Find a Cure downtime project in "Draw Steel: Heroes" to end this effect.
 
 <!-- -->
 > 🗡 **Ripping Claws**
@@ -24988,7 +24992,7 @@ At the start of a werewolf's turn, you can spend Malice to activate one of the f
 > - **12-16:** 6 damage; push 3; the target gains 1 rage
 > - **17+:** 7 damage; slide 3; the target gains 3 rage
 >
-> **Effect:** The werewolf shifts up to their speed before using this ability
+> **Effect:** The werewolf shifts up to their speed before using this ability.
 
 <!-- -->
 > 👤 **Wall Leap**
@@ -25071,7 +25075,7 @@ A wyvern's infamous temper is easily provoked, particularly if their eggs or hat
 
 Wyverns are unable to speak. However, a clever hero carrying a feast of fresh meat might be able to reason with one.
 
-###### Wyvern Malice Malice Features
+###### Wyvern Malice (Malice Features)
 
 At the start of any wyvern's turn, you can spend Malice to activate one of the following features.
 
@@ -25099,7 +25103,7 @@ At the start of any wyvern's turn, you can spend Malice to activate one of the f
 |      Beast, Wyvern       |           -           |       Level 4        |     Elite Ambusher      |         EV 24          |
 | :----------------------: | :-------------------: | :------------------: | :---------------------: | :--------------------: |
 |     **2**<br/> Size      |   **9**<br/> Speed    | **120**<br/> Stamina |  **2**<br/> Stability   | **6**<br/> Free Strike |
-| **Acid 5**<br/> Immunity | **Fly**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Acid 5**<br/> Immunity | **Fly**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |    **+2**<br/> Might     |  **+3**<br/> Agility  |  **-1**<br/> Reason  |  **+1**<br/> Intuition  |  **0**<br/> Presence   |
 
 <!-- -->
@@ -25167,7 +25171,7 @@ At the start of any wyvern's turn, you can spend Malice to activate one of the f
 |      Beast, Wyvern       |           -           |       Level 4        |       Elite Brute       |         EV 24          |
 | :----------------------: | :-------------------: | :------------------: | :---------------------: | :--------------------: |
 |     **3**<br/> Size      |   **7**<br/> Speed    | **140**<br/> Stamina |  **3**<br/> Stability   | **6**<br/> Free Strike |
-| **Acid 5**<br/> Immunity | **Fly**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Acid 5**<br/> Immunity | **Fly**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |    **+3**<br/> Might     |  **+2**<br/> Agility  |  **-1**<br/> Reason  |  **+1**<br/> Intuition  |  **0**<br/> Presence   |
 
 <!-- -->
@@ -25222,7 +25226,7 @@ At the start of any wyvern's turn, you can spend Malice to activate one of the f
 >
 > **Trigger:** A creature within distance deals damage to the predator with a melee ability.
 >
-> **Effect:** The predator uses Sedating Stinger against the target, then shifts up to 3 squares
+> **Effect:** The predator uses Sedating Stinger against the target, then shifts up to 3 squares.
 
 <!-- -->
 > ⭐️ **Stubborn Rage**
@@ -25277,7 +25281,7 @@ Overminds typically speak Za'hariax. Xorannox also speaks Caelian, Hyrallic, and
 |  Horror, Overmind   |              -               |       Level 6        |          Solo           |         EV 96          |
 | :-----------------: | :--------------------------: | :------------------: | :---------------------: | :--------------------: |
 |   **3**<br/> Size   |       **5**<br/> Speed       | **450**<br/> Stamina |  **2**<br/> Stability   | **7**<br/> Free Strike |
-| **-**<br/> Immunity | **Fly, hover**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **Fly, hover**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |  **+4**<br/> Might  |     **+2**<br/> Agility      |  **+4**<br/> Reason  |  **+3**<br/> Intuition  |  **+3**<br/> Presence  |
 
 <!-- -->
@@ -25295,9 +25299,9 @@ Overminds typically speak Za'hariax. Xorannox also speaks Caelian, Hyrallic, and
 <!-- -->
 > 🗡 **Toothful Thrashing (Signature Ability)**
 >
-> | **Melee, Strike, Weapon** |                **Main action** |
-> | ------------------------- | -----------------------------: |
-> | **📏 Melee 1**            | **🎯 One creatures or object** |
+> | **Melee, Strike, Weapon** |               **Main action** |
+> | ------------------------- | ----------------------------: |
+> | **📏 Melee 1**            | **🎯 One creature or object** |
 >
 > **Power Roll + 4:**
 >
@@ -25352,7 +25356,7 @@ Overminds typically speak Za'hariax. Xorannox also speaks Caelian, Hyrallic, and
 <!-- -->
 > ⭐️ **Above It All**
 >
-> Xorannox can't be made frightened or knocked prone, and he can't be flanked
+> Xorannox can't be made frightened or knocked prone, and he can't be flanked.
 
 <!-- -->
 > ⭐️ **Natural Enemies**
@@ -25395,7 +25399,7 @@ Overminds typically speak Za'hariax. Xorannox also speaks Caelian, Hyrallic, and
 | Eyestalk, Horror, Overmind |              -               |       Level 6       |       Controller        |          EV -          |
 | :------------------------: | :--------------------------: | :-----------------: | :---------------------: | :--------------------: |
 |      **1M**<br/> Size      |       **5**<br/> Speed       | **30**<br/> Stamina |  **0**<br/> Stability   | **3**<br/> Free Strike |
-|    **-**<br/> Immunity     | **Fly, hover**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+|    **-**<br/> Immunity     | **Fly, hover**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |     **-1**<br/> Might      |     **+1**<br/> Agility      | **+4**<br/> Reason  |  **+1**<br/> Intuition  |  **-1**<br/> Presence  |
 
 <!-- -->
@@ -25423,7 +25427,7 @@ Overminds typically speak Za'hariax. Xorannox also speaks Caelian, Hyrallic, and
 | Eyestalk, Horror, Overmind |              -               |       Level 6       |        Artillery        |          EV -          |
 | :------------------------: | :--------------------------: | :-----------------: | :---------------------: | :--------------------: |
 |      **1M**<br/> Size      |       **5**<br/> Speed       | **30**<br/> Stamina |  **0**<br/> Stability   | **3**<br/> Free Strike |
-|    **-**<br/> Immunity     | **Fly, hover**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+|    **-**<br/> Immunity     | **Fly, hover**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |     **-1**<br/> Might      |     **+1**<br/> Agility      | **+4**<br/> Reason  |  **+1**<br/> Intuition  |  **-1**<br/> Presence  |
 
 <!-- -->
@@ -25449,7 +25453,7 @@ Overminds typically speak Za'hariax. Xorannox also speaks Caelian, Hyrallic, and
 | Eyestalk, Horror, Overmind |              -               |       Level 6       |       Controller        |          EV -          |
 | :------------------------: | :--------------------------: | :-----------------: | :---------------------: | :--------------------: |
 |      **1M**<br/> Size      |       **5**<br/> Speed       | **30**<br/> Stamina |  **0**<br/> Stability   | **3**<br/> Free Strike |
-|    **-**<br/> Immunity     | **Fly, hover**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+|    **-**<br/> Immunity     | **Fly, hover**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |     **-1**<br/> Might      |     **+1**<br/> Agility      | **+4**<br/> Reason  |  **+1**<br/> Intuition  |  **-1**<br/> Presence  |
 
 <!-- -->
@@ -25475,7 +25479,7 @@ Overminds typically speak Za'hariax. Xorannox also speaks Caelian, Hyrallic, and
 | Eyestalk, Horror, Overmind |              -               |       Level 6       |          Hexer          |          EV -          |
 | :------------------------: | :--------------------------: | :-----------------: | :---------------------: | :--------------------: |
 |      **1M**<br/> Size      |       **5**<br/> Speed       | **30**<br/> Stamina |  **0**<br/> Stability   | **3**<br/> Free Strike |
-|    **-**<br/> Immunity     | **Fly, hover**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+|    **-**<br/> Immunity     | **Fly, hover**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |     **-1**<br/> Might      |     **+1**<br/> Agility      | **+4**<br/> Reason  |  **+1**<br/> Intuition  |  **-1**<br/> Presence  |
 
 <!-- -->
@@ -25503,7 +25507,7 @@ Overminds typically speak Za'hariax. Xorannox also speaks Caelian, Hyrallic, and
 | Eyestalk, Horror, Overmind |              -               |       Level 6       |          Hexer          |          EV -          |
 | :------------------------: | :--------------------------: | :-----------------: | :---------------------: | :--------------------: |
 |      **1M**<br/> Size      |       **5**<br/> Speed       | **30**<br/> Stamina |  **0**<br/> Stability   | **3**<br/> Free Strike |
-|    **-**<br/> Immunity     | **Fly, hover**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+|    **-**<br/> Immunity     | **Fly, hover**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |     **-1**<br/> Might      |     **+1**<br/> Agility      | **+4**<br/> Reason  |  **+1**<br/> Intuition  |  **-1**<br/> Presence  |
 
 <!-- -->
@@ -25529,7 +25533,7 @@ Overminds typically speak Za'hariax. Xorannox also speaks Caelian, Hyrallic, and
 | Eyestalk, Horror, Overmind |              -               |       Level 6       |        Artillery        |          EV -          |
 | :------------------------: | :--------------------------: | :-----------------: | :---------------------: | :--------------------: |
 |      **1M**<br/> Size      |       **5**<br/> Speed       | **30**<br/> Stamina |  **0**<br/> Stability   | **3**<br/> Free Strike |
-|    **-**<br/> Immunity     | **Fly, hover**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+|    **-**<br/> Immunity     | **Fly, hover**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |     **-1**<br/> Might      |     **+1**<br/> Agility      | **+4**<br/> Reason  |  **+1**<br/> Intuition  |  **-1**<br/> Presence  |
 
 <!-- -->

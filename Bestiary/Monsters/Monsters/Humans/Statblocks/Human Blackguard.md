@@ -9,7 +9,7 @@ file_dpath: Monsters/Humans/Statblocks
 free_strike: 4
 intuition: 0
 item_id: human-blackguard
-item_index: '166'
+item_index: '10'
 item_name: Human Blackguard
 level: 1
 might: 3
@@ -18,15 +18,15 @@ reason: 2
 roles:
   - Leader
 scc:
-  - mcdm.monsters.v1:monster:human-blackguard
+  - mcdm.monsters.v1:monster.humans.statblock:human-blackguard
 scdc:
-  - 1.1.1:2:166
+  - 1.1.1:2.20.1:10
 size: 1M
 source: mcdm.monsters.v1
 speed: 5
 stability: 2
 stamina: '80'
-type: monster
+type: monster/humans/statblock
 ---
 
 ###### Human Blackguard
@@ -34,7 +34,7 @@ type: monster
 |              Human, Humanoid              |          -          |       Level 1       |         Leader          |         EV 12          |
 | :---------------------------------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |             **1M**<br/> Size              |  **5**<br/> Speed   | **80**<br/> Stamina |  **2**<br/> Stability   | **4**<br/> Free Strike |
-| **Corruption 2, psychic 2**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Corruption 2, psychic 2**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |             **+3**<br/> Might             | **+2**<br/> Agility | **+2**<br/> Reason  |  **0**<br/> Intuition   |  **+2**<br/> Presence  |
 
 <!-- -->
@@ -44,7 +44,7 @@ type: monster
 > | ---------------- | ----------------------------: |
 > | **📏 1 burst**   | **🎯 Each enemy in the area** |
 >
-> **Power Roll + 2:**
+> **Power Roll + 3:**
 >
 > - **≤11:** 3 damage; M < 1 slowed (save ends)
 > - **12-16:** 6 damage; M < 2 slowed (save ends)
@@ -71,7 +71,7 @@ type: monster
 <!-- -->
 > ⭐️ **Supernatural Insight**
 >
-> The blackguard ignores concealment if it's granted by a supernatural effect
+> The blackguard ignores concealment if it's granted by a supernatural effect.
 
 <!-- -->
 > ❗️ **Parry!**
@@ -109,4 +109,4 @@ type: monster
 > | ------------------------------- | ----------------------------: |
 > | **📏 3 cube within 5**          | **🎯 Each enemy in the area** |
 >
-> **Effect:** The blackguard uses their Zweihander Swing against each target. Each ally within 5 squares of the area can then make a free strike against a target (one target per ally)
+> **Effect:** The blackguard uses their Zweihander Swing against each target. Each ally within 5 squares of the area can then make a free strike against a target (one target per ally).

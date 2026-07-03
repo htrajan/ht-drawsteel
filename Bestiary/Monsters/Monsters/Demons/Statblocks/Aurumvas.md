@@ -9,7 +9,7 @@ file_dpath: Monsters/Demons/Statblocks
 free_strike: 10
 intuition: 3
 item_id: aurumvas
-item_index: '267'
+item_index: '14'
 item_name: Aurumvas
 level: 10
 might: 5
@@ -18,24 +18,24 @@ reason: 5
 roles:
   - Leader
 scc:
-  - mcdm.monsters.v1:monster:aurumvas
+  - mcdm.monsters.v1:monster.demons.statblock:aurumvas
 scdc:
-  - 1.1.1:2:267
+  - 1.1.1:2.35.1:14
 size: '3'
 source: mcdm.monsters.v1
 speed: 8
 stability: 2
 stamina: '260'
-type: monster
+type: monster/demons/statblock
 ---
 
 ###### Aurumvas
 
-|   Abyssal, Demon    |           -           |       Level 10       |         Leader          |           EV 48            |
-| :-----------------: | :-------------------: | :------------------: | :---------------------: | :------------------------: |
-|   **3**<br/> Size   |   **8**<br/> Speed    | **260**<br/> Stamina |  **2**<br/> Stability   |  **10**<br/> Free Strike   |
-| **-**<br/> Immunity | **Fly**<br/> Movement |          -           | **-**<br/> With Captain | **Holy 5**<br/> Weaknesses |
-|  **+5**<br/> Might  |  **+2**<br/> Agility  |  **+5**<br/> Reason  |  **+3**<br/> Intuition  |    **+5**<br/> Presence    |
+|   Abyssal, Demon    |           -           |       Level 10       |         Leader          |          EV 48           |
+| :-----------------: | :-------------------: | :------------------: | :---------------------: | :----------------------: |
+|   **3**<br/> Size   |   **8**<br/> Speed    | **260**<br/> Stamina |  **2**<br/> Stability   | **10**<br/> Free Strike  |
+| **-**<br/> Immunity | **Fly**<br/> Movement |          -           | **-**<br/> With Captain | **Holy 5**<br/> Weakness |
+|  **+5**<br/> Might  |  **+2**<br/> Agility  |  **+5**<br/> Reason  |  **+3**<br/> Intuition  |   **+5**<br/> Presence   |
 
 <!-- -->
 > ⭐️ **Absorb Soul**
@@ -120,6 +120,6 @@ type: monster
 >
 > **Power Roll + 5:**
 >
-> - **≤11:** 1 10 fire damage; push 1
-> - **12-16:** 2 15 fire damage; push 2
-> - **17+:** 3 19 fire damage; push 3
+> - **≤11:** 10 fire damage; push 1
+> - **12-16:** 15 fire damage; push 2
+> - **17+:** 19 fire damage; push 3

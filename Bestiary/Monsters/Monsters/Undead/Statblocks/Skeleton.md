@@ -9,7 +9,7 @@ file_dpath: Monsters/Undead/Statblocks
 free_strike: 2
 intuition: 0
 item_id: skeleton
-item_index: '84'
+item_index: '32'
 item_name: Skeleton
 level: 1
 might: 0
@@ -18,15 +18,15 @@ reason: 1
 roles:
   - Horde Artillery
 scc:
-  - mcdm.monsters.v1:monster:skeleton
+  - mcdm.monsters.v1:monster.undead.statblock:skeleton
 scdc:
-  - 1.1.1:2:84
+  - 1.1.1:2.8.1:32
 size: 1M
 source: mcdm.monsters.v1
 speed: 5
 stability: 0
 stamina: '10'
-type: monster
+type: monster/undead/statblock
 ---
 
 ###### Skeleton
@@ -34,7 +34,7 @@ type: monster
 |             Undead, Soulless             |          -          |       Level 1       |     Horde Artillery     |          EV 3          |
 | :--------------------------------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |             **1M**<br/> Size             |  **5**<br/> Speed   | **10**<br/> Stamina |  **0**<br/> Stability   | **2**<br/> Free Strike |
-| **Corruption 1, poison 1**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Corruption 1, poison 1**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |             **0**<br/> Might             | **+2**<br/> Agility | **+1**<br/> Reason  |  **0**<br/> Intuition   |  **-1**<br/> Presence  |
 
 <!-- -->
@@ -50,7 +50,7 @@ type: monster
 > - **12-16:** 6 damage
 > - **17+:** 7 damage
 >
-> **Effect:** Until the start of the skeleton's next turn, the target takes 2 damage the first time they willingly move on their turn
+> **Effect:** Until the start of the skeleton's next turn, the target takes 2 damage the first time they willingly move on their turn.
 
 <!-- -->
 > ❇️ **Bone Spur (2 Malice)**

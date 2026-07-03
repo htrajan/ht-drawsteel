@@ -10,7 +10,7 @@ file_dpath: Monsters/War Dogs/Statblocks
 free_strike: 2
 intuition: 0
 item_id: war-dog-phosphorite
-item_index: '352'
+item_index: '02'
 item_name: War Dog Phosphorite
 level: 2
 might: 0
@@ -19,15 +19,15 @@ reason: 0
 roles:
   - Horde Hexer
 scc:
-  - mcdm.monsters.v1:monster:war-dog-phosphorite
+  - mcdm.monsters.v1:monster.war-dogs.statblock:war-dog-phosphorite
 scdc:
-  - 1.1.1:2:352
+  - 1.1.1:2.51.1:02
 size: 1M
 source: mcdm.monsters.v1
 speed: 5
 stability: 0
 stamina: '15'
-type: monster
+type: monster/war-dogs/statblock
 ---
 
 ###### War Dog Phosphorite
@@ -35,7 +35,7 @@ type: monster
 | Humanoid, Soulless, War Dog |          -          |       Level 2       |       Horde Hexer       |          EV 4          |
 | :-------------------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |      **1M**<br/> Size       |  **5**<br/> Speed   | **15**<br/> Stamina |  **0**<br/> Stability   | **2**<br/> Free Strike |
-|  **Acid 2**<br/> Immunity   | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+|  **Acid 2**<br/> Immunity   | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |      **0**<br/> Might       | **+2**<br/> Agility |  **0**<br/> Reason  |  **0**<br/> Intuition   |  **0**<br/> Presence   |
 
 <!-- -->
@@ -55,7 +55,7 @@ type: monster
 >
 > **Special:** A creature adjacent to the target can attempt an **Agility test** as a maneuver to remove the detonator.
 >
-> - **≤11:** No effect
+> - **≤11:** No effect.
 > - **12-16:** The detonator is disarmed and destroyed.
 > - **17+:** The creature can attach the detonator to another creature or object within 5 squares of them.
 

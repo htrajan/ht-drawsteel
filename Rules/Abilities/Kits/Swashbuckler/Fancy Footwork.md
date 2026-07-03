@@ -1,10 +1,11 @@
 ---
+ability_type: Signature
 action_type: Main action
 class: ignored
 distance: Melee 1
 file_basename: Fancy Footwork
 file_dpath: Abilities/Kits/Swashbuckler
-flavor: All combat is a dance-and you'll be the one leading.
+flavor: All combat is a dance—and you'll be the one leading.
 item_id: fancy-footwork
 item_index: '01'
 item_name: Fancy Footwork
@@ -12,7 +13,6 @@ keywords:
   - Melee
   - Strike
   - Weapon
-kit: Swashbuckler
 scc:
   - mcdm.heroes.v1:kit-ability.swashbuckler:fancy-footwork
 scdc:
@@ -24,7 +24,7 @@ type: kit-ability/swashbuckler
 
 ###### Fancy Footwork
 
-*All combat is a dance-and you'll be the one leading.*
+*All combat is a dance—and you'll be the one leading.*
 
 | **Melee, Strike, Weapon** |     **Main action** |
 | ------------------------- | ------------------: |

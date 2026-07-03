@@ -9,24 +9,24 @@ file_dpath: Monsters/Orcs/Statblocks
 free_strike: 4
 intuition: 0
 item_id: orc-eye-of-grole
-item_index: '129'
+item_index: '07'
 item_name: Orc Eye of Grole
 level: 1
 might: 1
-presence: -2
+presence: 2
 reason: 0
 roles:
   - Platoon Artillery
 scc:
-  - mcdm.monsters.v1:monster:orc-eye-of-grole
+  - mcdm.monsters.v1:monster.orcs.statblock:orc-eye-of-grole
 scdc:
-  - 1.1.1:2:129
+  - 1.1.1:2.16.1:07
 size: 1M
 source: mcdm.monsters.v1
 speed: 6
 stability: 0
 stamina: '20'
-type: monster
+type: monster/orcs/statblock
 ---
 
 ###### Orc Eye of Grole
@@ -34,8 +34,8 @@ type: monster
 |               Humanoid, Orc                |          -          |       Level 1       |    Platoon Artillery    |          EV 6          |
 | :----------------------------------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |              **1M**<br/> Size              |  **6**<br/> Speed   | **20**<br/> Stamina |  **0**<br/> Stability   | **4**<br/> Free Strike |
-| **Cold, fire, or lightning**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
-|             **+1**<br/> Might              | **+1**<br/> Agility | **+0**<br/> Reason  |  **+0**<br/> Intuition  |  **-2**<br/> Presence  |
+| **Cold, fire, or lightning**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
+|             **+1**<br/> Might              | **+1**<br/> Agility | **+0**<br/> Reason  |  **+0**<br/> Intuition  |  **+2**<br/> Presence  |
 
 <!-- -->
 > ⭐️ **Elemental Affinity**

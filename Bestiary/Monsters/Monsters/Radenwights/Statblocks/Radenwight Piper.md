@@ -9,7 +9,7 @@ file_dpath: Monsters/Radenwights/Statblocks
 free_strike: 3
 intuition: 2
 item_id: radenwight-piper
-item_index: '150'
+item_index: '02'
 item_name: Radenwight Piper
 level: 1
 might: 0
@@ -18,15 +18,15 @@ reason: 0
 roles:
   - Platoon Support
 scc:
-  - mcdm.monsters.v1:monster:radenwight-piper
+  - mcdm.monsters.v1:monster.radenwights.statblock:radenwight-piper
 scdc:
-  - 1.1.1:2:150
+  - 1.1.1:2.19.1:02
 size: 1S
 source: mcdm.monsters.v1
 speed: 5
 stability: 0
 stamina: '30'
-type: monster
+type: monster/radenwights/statblock
 ---
 
 ###### Radenwight Piper
@@ -34,7 +34,7 @@ type: monster
 | Humanoid, Radenwight |            -            |       Level 1       |     Platoon Support     |          EV 6          |
 | :------------------: | :---------------------: | :-----------------: | :---------------------: | :--------------------: |
 |   **1S**<br/> Size   |    **5**<br/> Speed     | **30**<br/> Stamina |  **0**<br/> Stability   | **3**<br/> Free Strike |
-| **-**<br/> Immunity  | **Climb**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity  | **Climb**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |   **0**<br/> Might   |   **0**<br/> Agility    |  **0**<br/> Reason  |  **+2**<br/> Intuition  |  **+1**<br/> Presence  |
 
 <!-- -->

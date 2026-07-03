@@ -9,7 +9,7 @@ file_dpath: Monsters/Demons/Statblocks
 free_strike: 4
 intuition: 1
 item_id: tormenauk
-item_index: '281'
+item_index: '28'
 item_name: Tormenauk
 level: 6
 might: 3
@@ -18,24 +18,24 @@ reason: 2
 roles:
   - Horde Brute
 scc:
-  - mcdm.monsters.v1:monster:tormenauk
+  - mcdm.monsters.v1:monster.demons.statblock:tormenauk
 scdc:
-  - 1.1.1:2:281
+  - 1.1.1:2.35.1:28
 size: '2'
 source: mcdm.monsters.v1
 speed: 6
 stability: 2
 stamina: '45'
-type: monster
+type: monster/demons/statblock
 ---
 
 ###### Tormenauk
 
-|   Abyssal, Demon    |          -          |       Level 6       |       Horde Brute       |            EV 8            |
-| :-----------------: | :-----------------: | :-----------------: | :---------------------: | :------------------------: |
-|   **2**<br/> Size   |  **6**<br/> Speed   | **45**<br/> Stamina |  **2**<br/> Stability   |   **4**<br/> Free Strike   |
-| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **Holy 5**<br/> Weaknesses |
-|  **+3**<br/> Might  | **+0**<br/> Agility | **+2**<br/> Reason  |  **+1**<br/> Intuition  |    **+2**<br/> Presence    |
+|   Abyssal, Demon    |          -          |       Level 6       |       Horde Brute       |           EV 8           |
+| :-----------------: | :-----------------: | :-----------------: | :---------------------: | :----------------------: |
+|   **2**<br/> Size   |  **6**<br/> Speed   | **45**<br/> Stamina |  **2**<br/> Stability   |  **4**<br/> Free Strike  |
+| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **Holy 5**<br/> Weakness |
+|  **+3**<br/> Might  | **+0**<br/> Agility | **+2**<br/> Reason  |  **+1**<br/> Intuition  |   **+2**<br/> Presence   |
 
 <!-- -->
 > 🗡 **Many Maws (Signature Ability)**

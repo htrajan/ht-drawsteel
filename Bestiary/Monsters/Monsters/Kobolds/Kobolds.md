@@ -28,7 +28,7 @@ Relentless innovators, kobolds can easily outsmart anyone who doesn't take them 
 
 #### Tiny Dragons
 
-Most kobolds believe their ancestors were created by powerful dragons-and with sharp, angular features and prominent dorsal crests, they certainly look the part! Newborn kobolds have brilliant, pearlescent scales, but as kobolds age, their scales dim and mottle. Owing to a deep magical connection, a legion that lives in the domain of a dragon adopts the color of that dragon's scales over several generations.
+Most kobolds believe their ancestors were created by powerful dragons—and with sharp, angular features and prominent dorsal crests, they certainly look the part! Newborn kobolds have brilliant, pearlescent scales, but as kobolds age, their scales dim and mottle. Owing to a deep magical connection, a legion that lives in the domain of a dragon adopts the color of that dragon's scales over several generations.
 
 #### Domain Expansion
 
@@ -44,7 +44,7 @@ The kobolds' affinity for their terrain, creative tactics, group defenses, and i
 
 #### Cute Pets
 
-The gummy brick is a deadly ooze-a monster shaped of acidic goo and driven by endless hunger. But when properly trained, kobolds find these mindless predators good company. They also love the company of shieldscale drangolins-draconic pangolins-who they train to dig residential tunnel networks, neutralize enemy fortifications, and burrow up into the center of an enemy camp with a dozen kobold minions at their side.
+The gummy brick is a deadly ooze—a monster shaped of acidic goo and driven by endless hunger. But when properly trained, kobolds find these mindless predators good company. They also love the company of shieldscale drangolins—draconic pangolins—who they train to dig residential tunnel networks, neutralize enemy fortifications, and burrow up into the center of an enemy camp with a dozen kobold minions at their side.
 
 #### Kobold Languages
 
@@ -67,14 +67,14 @@ At the start of any kobolds's turn, you can spend Malice to activate one of the 
 <!-- -->
 > ⭐️ **Shield Wall (7 Malice)**
 >
-> Until the end of the round, all kobolds with Shield? Shield! Impose an additional bane on incoming strikes and abilities.
+> Until the end of the round, all kobolds with Shield? Shield! impose an additional bane on incoming strikes and abilities.
 
 ###### Kobold Princeps
 
 |  Humanoid, Kobold   |          -          |      Level 1       |              Minion Support               | EV 3 for four minions  |
 | :-----------------: | :-----------------: | :----------------: | :---------------------------------------: | :--------------------: |
 |  **1S**<br/> Size   |  **5**<br/> Speed   | **4**<br/> Stamina |           **0**<br/> Stability            | **1**<br/> Free Strike |
-| **-**<br/> Immunity | **-**<br/> Movement |         -          | **+2 bonus to Stamina**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **-**<br/> Movement |         -          | **+2 bonus to Stamina**<br/> With Captain |  **-**<br/> Weakness   |
 |  **0**<br/> Might   | **+2**<br/> Agility | **0**<br/> Reason  |           **0**<br/> Intuition            |  **0**<br/> Presence   |
 
 <!-- -->
@@ -90,7 +90,7 @@ At the start of any kobolds's turn, you can spend Malice to activate one of the 
 > - **12-16:** 2 damage
 > - **17+:** 3 damage
 >
-> **Effect:** One ally within 3 squares of the princeps shifts up to 2 squares
+> **Effect:** One ally within 3 squares of the princeps shifts up to 2 squares.
 
 <!-- -->
 > ⭐️ **Shield? Shield!**
@@ -102,7 +102,7 @@ At the start of any kobolds's turn, you can spend Malice to activate one of the 
 |  Humanoid, Kobold   |          -          |      Level 1       |                 Minion Artillery                  | EV 3 for four minions  |
 | :-----------------: | :-----------------: | :----------------: | :-----------------------------------------------: | :--------------------: |
 |  **1S**<br/> Size   |  **5**<br/> Speed   | **3**<br/> Stamina |               **0**<br/> Stability                | **2**<br/> Free Strike |
-| **-**<br/> Immunity | **-**<br/> Movement |         -          | **+5 bonus to ranged distance**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **-**<br/> Movement |         -          | **+5 bonus to ranged distance**<br/> With Captain |  **-**<br/> Weakness   |
 |  **0**<br/> Might   | **+2**<br/> Agility | **0**<br/> Reason  |               **0**<br/> Intuition                |  **0**<br/> Presence   |
 
 <!-- -->
@@ -130,7 +130,7 @@ At the start of any kobolds's turn, you can spend Malice to activate one of the 
 |  Humanoid, Kobold   |          -          |      Level 1       |             Minion Defender             | EV 3 for four minions  |
 | :-----------------: | :-----------------: | :----------------: | :-------------------------------------: | :--------------------: |
 |  **1S**<br/> Size   |  **5**<br/> Speed   | **5**<br/> Stamina |          **0**<br/> Stability           | **1**<br/> Free Strike |
-| **-**<br/> Immunity | **-**<br/> Movement |         -          | **+1 bonus to speed**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **-**<br/> Movement |         -          | **+1 bonus to speed**<br/> With Captain |  **-**<br/> Weakness   |
 |  **0**<br/> Might   | **+2**<br/> Agility | **0**<br/> Reason  |          **0**<br/> Intuition           |  **0**<br/> Presence   |
 
 <!-- -->
@@ -146,7 +146,7 @@ At the start of any kobolds's turn, you can spend Malice to activate one of the 
 > - **12-16:** 2 damage; the tiro can shift 1 square
 > - **17+:** 3 damage; the tiro shifts up to 2 squares
 >
-> **Effect:** The target can't shift until the start of the tiro's next turn
+> **Effect:** The target can't shift until the start of the tiro's next turn.
 
 <!-- -->
 > ⭐️ **Shield? Shield!**
@@ -158,7 +158,7 @@ At the start of any kobolds's turn, you can spend Malice to activate one of the 
 |  Humanoid, Kobold   |          -          |      Level 1       |             Minion Harrier              | EV 3 for four minions  |
 | :-----------------: | :-----------------: | :----------------: | :-------------------------------------: | :--------------------: |
 |  **1S**<br/> Size   |  **6**<br/> Speed   | **4**<br/> Stamina |          **0**<br/> Stability           | **1**<br/> Free Strike |
-| **-**<br/> Immunity | **-**<br/> Movement |         -          | **+1 bonus to speed**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **-**<br/> Movement |         -          | **+1 bonus to speed**<br/> With Captain |  **-**<br/> Weakness   |
 |  **0**<br/> Might   | **+2**<br/> Agility | **0**<br/> Reason  |          **0**<br/> Intuition           |  **0**<br/> Presence   |
 
 <!-- -->
@@ -186,7 +186,7 @@ At the start of any kobolds's turn, you can spend Malice to activate one of the 
 |  Humanoid, Kobold   |          -          |       Level 1       |     Horde Artillery     |          EV 3          |
 | :-----------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |  **1S**<br/> Size   |  **5**<br/> Speed   | **10**<br/> Stamina |  **0**<br/> Stability   | **2**<br/> Free Strike |
-| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |  **0**<br/> Might   | **+1**<br/> Agility | **+2**<br/> Reason  |  **0**<br/> Intuition   |  **0**<br/> Presence   |
 
 <!-- -->
@@ -229,7 +229,7 @@ At the start of any kobolds's turn, you can spend Malice to activate one of the 
 |  Humanoid, Kobold   |          -          |       Level 1       |    Horde Controller     |          EV 3          |
 | :-----------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |  **1S**<br/> Size   |  **5**<br/> Speed   | **10**<br/> Stamina |  **0**<br/> Stability   | **1**<br/> Free Strike |
-| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |  **0**<br/> Might   | **+2**<br/> Agility | **+1**<br/> Reason  |  **0**<br/> Intuition   |  **0**<br/> Presence   |
 
 <!-- -->
@@ -268,7 +268,7 @@ At the start of any kobolds's turn, you can spend Malice to activate one of the 
 |  Humanoid, Kobold   |          -          |       Level 1       |     Horde Defender      |          EV 3          |
 | :-----------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |  **1S**<br/> Size   |  **5**<br/> Speed   | **20**<br/> Stamina |  **0**<br/> Stability   | **1**<br/> Free Strike |
-| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |  **+2**<br/> Might  | **+1**<br/> Agility |  **0**<br/> Reason  |  **0**<br/> Intuition   |  **0**<br/> Presence   |
 
 <!-- -->
@@ -276,7 +276,7 @@ At the start of any kobolds's turn, you can spend Malice to activate one of the 
 >
 > | **Melee, Strike, Weapon** |               **Main action** |
 > | ------------------------- | ----------------------------: |
-> | **📏 Melee 5**            | **🎯 One creature or object** |
+> | **📏 Melee 1**            | **🎯 One creature or object** |
 >
 > **Power Roll + 2:**
 >
@@ -309,7 +309,7 @@ At the start of any kobolds's turn, you can spend Malice to activate one of the 
 |  Humanoid, Kobold   |          -          |       Level 1       |      Horde Support      |          EV 3          |
 | :-----------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |  **1S**<br/> Size   |  **5**<br/> Speed   | **15**<br/> Stamina |  **0**<br/> Stability   | **1**<br/> Free Strike |
-| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |  **0**<br/> Might   | **+1**<br/> Agility |  **0**<br/> Reason  |  **0**<br/> Intuition   |  **+2**<br/> Presence  |
 
 <!-- -->
@@ -325,9 +325,9 @@ At the start of any kobolds's turn, you can spend Malice to activate one of the 
 > - **12-16:** 4 damage
 > - **17+:** 5 damage
 >
-> **Effect:** One ally within 10 squares of the signifer can shift up to their speed if they end that shift adjacent to an ally
+> **Effect:** One ally within 10 squares of the signifer can shift up to their speed if they end that shift adjacent to an ally.
 >
-> **2+ Malice:** One additional ally can shift for each 2 Malice spent
+> **2+ Malice:** One additional ally can shift for each 2 Malice spent.
 
 <!-- -->
 > ❇️ **Glory to the Legion (5 Malice)**
@@ -353,7 +353,7 @@ At the start of any kobolds's turn, you can spend Malice to activate one of the 
 |  Humanoid, Kobold   |          -          |       Level 1       |     Horde Ambusher      |          EV 3          |
 | :-----------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |  **1S**<br/> Size   |  **5**<br/> Speed   | **15**<br/> Stamina |  **0**<br/> Stability   | **2**<br/> Free Strike |
-| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |  **0**<br/> Might   | **+2**<br/> Agility |  **0**<br/> Reason  |  **0**<br/> Intuition   |  **+1**<br/> Presence  |
 
 <!-- -->
@@ -391,7 +391,7 @@ At the start of any kobolds's turn, you can spend Malice to activate one of the 
 |  Kobold, Ooze, Soulless  |          -          |       Level 1       |       Elite Hexer       |         EV 12          |
 | :----------------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |     **2**<br/> Size      |  **5**<br/> Speed   | **40**<br/> Stamina |  **2**<br/> Stability   | **4**<br/> Free Strike |
-| **Acid 3**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Acid 3**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |    **+2**<br/> Might     | **-1**<br/> Agility | **-3**<br/> Reason  |  **0**<br/> Intuition   |  **-2**<br/> Presence  |
 
 <!-- -->
@@ -407,7 +407,7 @@ At the start of any kobolds's turn, you can spend Malice to activate one of the 
 > - **12-16:** 10 acid damage; A < 1 dazed (save ends)
 > - **17+:** 14 acid damage; A < 2 restrained (save ends)
 >
-> **Effect:** A size 2 or smaller creature restrained this way is pulled into the brick's space, moves with the brick, and takes 4 acid damage at the start of each of their turns. An engulfed creature who is no longer restrained moves to the nearest unoccupied space adjacent to the brick. The brick can have as many creatures or objects engulfed as will fit within their space
+> **Effect:** A size 2 or smaller creature restrained this way is pulled into the brick's space, moves with the brick, and takes 4 acid damage at the start of each of their turns. An engulfed creature who is no longer restrained moves to the nearest unoccupied space adjacent to the brick. The brick can have as many creatures or objects engulfed as will fit within their space.
 >
 > **2 Malice:** This ability targets one additional target.
 
@@ -432,7 +432,7 @@ At the start of any kobolds's turn, you can spend Malice to activate one of the 
 |  Kobold, Humanoid   |          -          |       Level 1       |         Leader          |         EV 12          |
 | :-----------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |  **1S**<br/> Size   |  **5**<br/> Speed   | **80**<br/> Stamina |  **2**<br/> Stability   | **2**<br/> Free Strike |
-| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |  **+2**<br/> Might  | **+3**<br/> Agility | **+2**<br/> Reason  |  **0**<br/> Intuition   |  **+2**<br/> Presence  |
 
 <!-- -->
@@ -460,8 +460,6 @@ At the start of any kobolds's turn, you can spend Malice to activate one of the 
 > | **📏 Ranged 10** | **🎯 One enemy** |
 >
 > **Effect:** Until the start of the centurion's next turn, the centurion and their allies gain an edge on power rolls against the target.
->
-> **3+ Malice:** This ability targets one additional target for each 3 Malice spent.
 
 <!-- -->
 > ❗️ **Testudo!**
@@ -513,11 +511,11 @@ At the start of any kobolds's turn, you can spend Malice to activate one of the 
 
 ###### Shieldscale Drangolin
 
-|     Kobold, Humanoid      |            -             |       Level 1       |       Elite Brute       |         EV 12          |
-| :-----------------------: | :----------------------: | :-----------------: | :---------------------: | :--------------------: |
-| **2 or 3 Size**<br/> Size |     **7**<br/> Speed     | **80**<br/> Stamina |  **0**<br/> Stability   | **5**<br/> Free Strike |
-|    **-**<br/> Immunity    | **Burrow**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
-|     **+2**<br/> Might     |   **+1**<br/> Agility    | **-3**<br/> Reason  |  **0**<br/> Intuition   |  **-2**<br/> Presence  |
+|    Kobold, Beast     |            -             |       Level 1       |       Elite Brute       |         EV 12          |
+| :------------------: | :----------------------: | :-----------------: | :---------------------: | :--------------------: |
+| **2 or 3**<br/> Size |     **7**<br/> Speed     | **80**<br/> Stamina |  **0**<br/> Stability   | **5**<br/> Free Strike |
+| **-**<br/> Immunity  | **Burrow**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
+|  **+2**<br/> Might   |   **+1**<br/> Agility    | **-3**<br/> Reason  |  **0**<br/> Intuition   |  **-2**<br/> Presence  |
 
 <!-- -->
 > 🗡 **Fiery Claws (Signature Ability)**
@@ -566,4 +564,4 @@ At the start of any kobolds's turn, you can spend Malice to activate one of the 
 <!-- -->
 > ⭐️ **Burrow Bond**
 >
-> When the drangolin burrows, each adjacent size 1S or smaller ally can move with them
+> When the drangolin burrows, each adjacent size 1S or smaller ally can move with them.

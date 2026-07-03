@@ -9,7 +9,7 @@ file_dpath: Monsters/Angulotls/Statblocks
 free_strike: 2
 intuition: 0
 item_id: angulotl-dart
-item_index: '239'
+item_index: '02'
 item_name: Angulotl Dart
 level: 1
 might: 0
@@ -18,15 +18,15 @@ reason: 1
 roles:
   - Minion Artillery
 scc:
-  - mcdm.monsters.v1:monster:angulotl-dart
+  - mcdm.monsters.v1:monster.angulotls.statblock:angulotl-dart
 scdc:
-  - 1.1.1:2:239
+  - 1.1.1:2.31.1:02
 size: 1S
 source: mcdm.monsters.v1
 speed: 5
 stability: 0
 stamina: '3'
-type: monster
+type: monster/angulotls/statblock
 ---
 
 ###### Angulotl Dart
@@ -34,7 +34,7 @@ type: monster
 |     Angulotl, Humanoid     |               -               |      Level 1       |                 Minion Artillery                  |   EV 3 for 4 minions   |
 | :------------------------: | :---------------------------: | :----------------: | :-----------------------------------------------: | :--------------------: |
 |      **1S**<br/> Size      |       **5**<br/> Speed        | **3**<br/> Stamina |               **0**<br/> Stability                | **2**<br/> Free Strike |
-| **Poison 2**<br/> Immunity | **Climb, swim**<br/> Movement |         -          | **+4 bonus to ranged distance**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Poison 2**<br/> Immunity | **Climb, swim**<br/> Movement |         -          | **+4 bonus to ranged distance**<br/> With Captain |  **-**<br/> Weakness   |
 |      **0**<br/> Might      |      **+2**<br/> Agility      | **+1**<br/> Reason |               **+0**<br/> Intuition               |  **+0**<br/> Presence  |
 
 <!-- -->

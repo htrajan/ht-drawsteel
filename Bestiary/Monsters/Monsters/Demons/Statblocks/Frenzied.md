@@ -9,7 +9,7 @@ file_dpath: Monsters/Demons/Statblocks
 free_strike: 1
 intuition: -1
 item_id: frenzied
-item_index: '275'
+item_index: '22'
 item_name: Frenzied
 level: 1
 might: 0
@@ -18,24 +18,24 @@ reason: -1
 roles:
   - Minion Harrier
 scc:
-  - mcdm.monsters.v1:monster:frenzied
+  - mcdm.monsters.v1:monster.demons.statblock:frenzied
 scdc:
-  - 1.1.1:2:275
+  - 1.1.1:2.35.1:22
 size: 1M
 source: mcdm.monsters.v1
 speed: 6
 stability: 0
 stamina: '4'
-type: monster
+type: monster/demons/statblock
 ---
 
 ###### Frenzied
 
-|   Abyssal, Demon    |          -          |      Level 1       |             Minion Harrier              |   EV 3 for four minions    |
-| :-----------------: | :-----------------: | :----------------: | :-------------------------------------: | :------------------------: |
-|  **1M**<br/> Size   |  **6**<br/> Speed   | **4**<br/> Stamina |          **0**<br/> Stability           |   **1**<br/> Free Strike   |
-| **-**<br/> Immunity | **-**<br/> Movement |         -          | **+2 bonus to speed**<br/> With Captain | **Holy 3**<br/> Weaknesses |
-|  **+0**<br/> Might  | **+2**<br/> Agility | **-1**<br/> Reason |          **-1**<br/> Intuition          |    **-1**<br/> Presence    |
+|   Abyssal, Demon    |          -          |      Level 1       |             Minion Harrier              |  EV 3 for four minions   |
+| :-----------------: | :-----------------: | :----------------: | :-------------------------------------: | :----------------------: |
+|  **1M**<br/> Size   |  **6**<br/> Speed   | **4**<br/> Stamina |          **0**<br/> Stability           |  **1**<br/> Free Strike  |
+| **-**<br/> Immunity | **-**<br/> Movement |         -          | **+2 bonus to speed**<br/> With Captain | **Holy 3**<br/> Weakness |
+|  **+0**<br/> Might  | **+2**<br/> Agility | **-1**<br/> Reason |          **-1**<br/> Intuition          |   **-1**<br/> Presence   |
 
 <!-- -->
 > 🗡 **Rip and Tear (Signature Ability)**

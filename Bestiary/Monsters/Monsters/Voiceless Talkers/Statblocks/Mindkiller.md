@@ -9,7 +9,7 @@ file_dpath: Monsters/Voiceless Talkers/Statblocks
 free_strike: 7
 intuition: 2
 item_id: mindkiller
-item_index: '340'
+item_index: '05'
 item_name: Mindkiller
 level: 6
 might: -1
@@ -18,15 +18,15 @@ reason: 3
 roles:
   - Elite Hexer
 scc:
-  - mcdm.monsters.v1:monster:mindkiller
+  - mcdm.monsters.v1:monster.voiceless-talkers.statblock:mindkiller
 scdc:
-  - 1.1.1:2:340
+  - 1.1.1:2.46.1:05
 size: 1S
 source: mcdm.monsters.v1
 speed: 6
 stability: 2
 stamina: '140'
-type: monster
+type: monster/voiceless-talkers/statblock
 ---
 
 ###### Mindkiller
@@ -34,7 +34,7 @@ type: monster
 |  Horror, Voiceless Talker   |              -               |       Level 6        |       Elite Hexer       |         EV 32          |
 | :-------------------------: | :--------------------------: | :------------------: | :---------------------: | :--------------------: |
 |      **1S**<br/> Size       |       **6**<br/> Speed       | **140**<br/> Stamina |  **2**<br/> Stability   | **7**<br/> Free Strike |
-| **Psychic 6**<br/> Immunity | **Fly, hover**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **Psychic 6**<br/> Immunity | **Fly, hover**<br/> Movement |          -           | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |      **-1**<br/> Might      |     **+3**<br/> Agility      |  **+3**<br/> Reason  |  **+2**<br/> Intuition  |  **0**<br/> Presence   |
 
 <!-- -->

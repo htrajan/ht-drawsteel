@@ -20,11 +20,11 @@ When the radenwights' enemies expect them to scurry away like rats, they are pai
 
 ### Bonds and Bravado
 
-It's a big world out there for a bunch of small ratfolk, and radenwights learned long ago that trying to survive by running away or climbing to safety gets you only so far. Radenwights learn boldness from birth, and are taught to hurl themselves fearlessly against any challenge that stands in their way. The key to this bravery is the intense bond of trust that exists between every radenwight, their comrades, and their community-as well as the knowledge that every other radenwight will act just as decisively as they do. In a scrap, it's not one radenwight's blade or arrow that brings down the foe, but the instant and instinctual follow-up from their fellows.
+It's a big world out there for a bunch of small ratfolk, and radenwights learned long ago that trying to survive by running away or climbing to safety gets you only so far. Radenwights learn boldness from birth, and are taught to hurl themselves fearlessly against any challenge that stands in their way. The key to this bravery is the intense bond of trust that exists between every radenwight, their comrades, and their community—as well as the knowledge that every other radenwight will act just as decisively as they do. In a scrap, it's not one radenwight's blade or arrow that brings down the foe, but the instant and instinctual follow-up from their fellows.
 
 ### The Magic of Music
 
-The pursuit of arcane studies is unusual among radenwights, though the community throws their support behind any child who happens to show that talent. Somewhat more common is the spontaneous discovery of magical aptitude through music, as the culture of radenwight meddles strongly emphasizes both music and dance. Radenwights are particularly drawn to flutes and panpipes, inspired by the legend of a flutist whose playing enraptured an evil dragon-even as others in her meddle lined up a suitably sized boulder to be dropped on the creature from the cliff above.
+The pursuit of arcane studies is unusual among radenwights, though the community throws their support behind any child who happens to show that talent. Somewhat more common is the spontaneous discovery of magical aptitude through music, as the culture of radenwight meddles strongly emphasizes both music and dance. Radenwights are particularly drawn to flutes and panpipes, inspired by the legend of a flutist whose playing enraptured an evil dragon—even as others in her meddle lined up a suitably sized boulder to be dropped on the creature from the cliff above.
 
 ### The Great Maclette
 
@@ -43,9 +43,9 @@ At the start of any radenwight's turn, you can spend Malice to activate one of t
 <!-- -->
 > 🗡 **Trouser Cut (3 Malice)**
 >
-> | **Magic, Melee** |     **Main action** |
-> | ---------------- | ------------------: |
-> | **📏 Melee 1**   | **🎯 One creature** |
+> | **Melee, Strike, Weapon** |     **Main action** |
+> | ------------------------- | ------------------: |
+> | **📏 Melee 1**            | **🎯 One creature** |
 >
 > **Power Roll + 2:**
 >
@@ -78,7 +78,7 @@ At the start of any radenwight's turn, you can spend Malice to activate one of t
 | Humanoid, Radenwight |            -            |      Level 1       |                 Minion Ambusher                  |   EV 3 for 4 minions   |
 | :------------------: | :---------------------: | :----------------: | :----------------------------------------------: | :--------------------: |
 |   **1S**<br/> Size   |    **7**<br/> Speed     | **4**<br/> Stamina |               **0**<br/> Stability               | **2**<br/> Free Strike |
-| **-**<br/> Immunity  | **Climb**<br/> Movement |         -          | **+1 damage bonus to strikes**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity  | **Climb**<br/> Movement |         -          | **+1 damage bonus to strikes**<br/> With Captain |  **-**<br/> Weakness   |
 |  **-1**<br/> Might   |   **+2**<br/> Agility   | **0**<br/> Reason  |              **+1**<br/> Intuition               |  **0**<br/> Presence   |
 
 <!-- -->
@@ -112,7 +112,7 @@ At the start of any radenwight's turn, you can spend Malice to activate one of t
 | Humanoid, Radenwight |            -            |      Level 1       |               Minion Artillery                |   EV 3 for 4 minions   |
 | :------------------: | :---------------------: | :----------------: | :-------------------------------------------: | :--------------------: |
 |   **1S**<br/> Size   |    **5**<br/> Speed     | **3**<br/> Stamina |             **0**<br/> Stability              | **2**<br/> Free Strike |
-| **-**<br/> Immunity  | **Climb**<br/> Movement |         -          | **Gain an edge on strikes**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity  | **Climb**<br/> Movement |         -          | **Gain an edge on strikes**<br/> With Captain |  **-**<br/> Weakness   |
 |  **+1**<br/> Might   |   **+2**<br/> Agility   | **-1**<br/> Reason |             **0**<br/> Intuition              |  **0**<br/> Presence   |
 
 <!-- -->
@@ -127,6 +127,8 @@ At the start of any radenwight's turn, you can spend Malice to activate one of t
 > - **≤11:** 2 damage
 > - **12-16:** 4 damage
 > - **17+:** 5 damage
+>
+> **Effect:** One ally of the redeye within 2 squares of the target shifts up to 2 squares.
 
 <!-- -->
 > ❗️ **Ready Rodent**
@@ -144,7 +146,7 @@ At the start of any radenwight's turn, you can spend Malice to activate one of t
 | Humanoid, Radenwight |            -            |      Level 1       |                 Minion Defender                  |   EV 3 for 4 minions   |
 | :------------------: | :---------------------: | :----------------: | :----------------------------------------------: | :--------------------: |
 |   **1S**<br/> Size   |    **5**<br/> Speed     | **5**<br/> Stamina |               **1**<br/> Stability               | **1**<br/> Free Strike |
-| **-**<br/> Immunity  | **Climb**<br/> Movement |         -          | **+2 bonus to melee distance**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity  | **Climb**<br/> Movement |         -          | **+2 bonus to melee distance**<br/> With Captain |  **-**<br/> Weakness   |
 |  **-1**<br/> Might   |   **+1**<br/> Agility   | **0**<br/> Reason  |               **0**<br/> Intuition               |  **+2**<br/> Presence  |
 
 <!-- -->
@@ -176,7 +178,7 @@ At the start of any radenwight's turn, you can spend Malice to activate one of t
 | Humanoid, Radenwight |            -            |      Level 1       |                Minion Harrier                 |   EV 3 for 4 minions   |
 | :------------------: | :---------------------: | :----------------: | :-------------------------------------------: | :--------------------: |
 |   **1S**<br/> Size   |    **7**<br/> Speed     | **4**<br/> Stamina |             **0**<br/> Stability              | **1**<br/> Free Strike |
-| **-**<br/> Immunity  | **Climb**<br/> Movement |         -          | **Gain an edge on strikes**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity  | **Climb**<br/> Movement |         -          | **Gain an edge on strikes**<br/> With Captain |  **-**<br/> Weakness   |
 |   **0**<br/> Might   |   **+2**<br/> Agility   | **+1**<br/> Reason |             **0**<br/> Intuition              |  **-1**<br/> Presence  |
 
 <!-- -->
@@ -201,14 +203,14 @@ At the start of any radenwight's turn, you can spend Malice to activate one of t
 >
 > **Trigger:** An ally deals damage to the target.
 >
-> **Effect:** The swiftpaw makes a free strike against the targe.
+> **Effect:** The swiftpaw makes a free strike against the target.
 
 ###### Radenwight Bruxer
 
 | Humanoid, Radenwight |            -            |       Level 1       |      Platoon Brute      |          EV 6          |
 | :------------------: | :---------------------: | :-----------------: | :---------------------: | :--------------------: |
 |   **1L**<br/> Size   |    **5**<br/> Speed     | **40**<br/> Stamina |  **2**<br/> Stability   | **4**<br/> Free Strike |
-| **-**<br/> Immunity  | **Climb**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity  | **Climb**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |  **+2**<br/> Might   |   **+1**<br/> Agility   | **-1**<br/> Reason  |  **0**<br/> Intuition   |  **+1**<br/> Presence  |
 
 <!-- -->
@@ -253,14 +255,14 @@ At the start of any radenwight's turn, you can spend Malice to activate one of t
 <!-- -->
 > ⭐️ **Lockdown**
 >
-> Any enemy who shifts adjacent to the bruxer has that shif t en d Additionally, any enemy adjacent to the bruxer can't shift.
+> Any enemy who shifts adjacent to the bruxer has that shift end. Additionally, any enemy adjacent to the bruxer can't shift.
 
 ###### Radenwight Piper
 
 | Humanoid, Radenwight |            -            |       Level 1       |     Platoon Support     |          EV 6          |
 | :------------------: | :---------------------: | :-----------------: | :---------------------: | :--------------------: |
 |   **1S**<br/> Size   |    **5**<br/> Speed     | **30**<br/> Stamina |  **0**<br/> Stability   | **3**<br/> Free Strike |
-| **-**<br/> Immunity  | **Climb**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity  | **Climb**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |   **0**<br/> Might   |   **0**<br/> Agility    |  **0**<br/> Reason  |  **+2**<br/> Intuition  |  **+1**<br/> Presence  |
 
 <!-- -->
@@ -310,7 +312,7 @@ At the start of any radenwight's turn, you can spend Malice to activate one of t
 | Humanoid, Radenwight |            -            |       Level 1       |     Platoon Harrier     |          EV 6          |
 | :------------------: | :---------------------: | :-----------------: | :---------------------: | :--------------------: |
 |   **1S**<br/> Size   |    **7**<br/> Speed     | **30**<br/> Stamina |  **0**<br/> Stability   | **3**<br/> Free Strike |
-| **-**<br/> Immunity  | **Climb**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity  | **Climb**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |  **-1**<br/> Might   |   **+2**<br/> Agility   |  **0**<br/> Reason  |  **0**<br/> Intuition   |  **+1**<br/> Presence  |
 
 <!-- -->
@@ -335,7 +337,7 @@ At the start of any radenwight's turn, you can spend Malice to activate one of t
 > | -------------- | ---------------: |
 > | **📏 Melee 1** | **🎯 One enemy** |
 >
-> **Effect:** The ratcrobat slides the target up to 3 squares, then can shift into any square the target left
+> **Effect:** The ratcrobat slides the target up to 3 squares, then can shift into any square the target left.
 
 <!-- -->
 > ❗️ **Ready Rodent**
@@ -358,7 +360,7 @@ At the start of any radenwight's turn, you can spend Malice to activate one of t
 | Humanoid, Radenwight |            -            |       Level 1       |         Leader          |         EV 12          |
 | :------------------: | :---------------------: | :-----------------: | :---------------------: | :--------------------: |
 |   **1S**<br/> Size   |    **5**<br/> Speed     | **80**<br/> Stamina |  **1**<br/> Stability   | **4**<br/> Free Strike |
-| **-**<br/> Immunity  | **Climb**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity  | **Climb**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |  **-2**<br/> Might   |   **+2**<br/> Agility   |  **0**<br/> Reason  |  **0**<br/> Intuition   |  **+3**<br/> Presence  |
 
 <!-- -->

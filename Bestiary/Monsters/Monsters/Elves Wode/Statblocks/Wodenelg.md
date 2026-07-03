@@ -9,7 +9,7 @@ file_dpath: Monsters/Elves Wode/Statblocks
 free_strike: 3
 intuition: 0
 item_id: wodenelg
-item_index: '227'
+item_index: '05'
 item_name: Wodenelg
 level: 1
 might: 2
@@ -18,15 +18,15 @@ reason: -1
 roles:
   - Platoon Mount
 scc:
-  - mcdm.monsters.v1:monster:wodenelg
+  - mcdm.monsters.v1:monster.elves-wode.statblock:wodenelg
 scdc:
-  - 1.1.1:2:227
+  - 1.1.1:2.28.1:05
 size: '2'
 source: mcdm.monsters.v1
 speed: 10
 stability: 1
 stamina: '30'
-type: monster
+type: monster/elves-wode/statblock
 ---
 
 ###### Wodenelg
@@ -34,7 +34,7 @@ type: monster
 |   Plant, Wode Elf   |          -          |       Level 1       |      Platoon Mount      |          EV 6          |
 | :-----------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |   **2**<br/> Size   |  **10**<br/> Speed  | **30**<br/> Stamina |  **1**<br/> Stability   | **3**<br/> Free Strike |
-| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |  **+2**<br/> Might  | **+1**<br/> Agility | **-1**<br/> Reason  |  **0**<br/> Intuition   |  **-1**<br/> Presence  |
 
 <!-- -->

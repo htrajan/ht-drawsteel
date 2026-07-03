@@ -10,7 +10,7 @@ file_dpath: Monsters/War Dogs/Statblocks
 free_strike: 3
 intuition: 0
 item_id: war-dog-hypokrite
-item_index: '385'
+item_index: '35'
 item_name: War Dog Hypokrite
 level: 4
 might: 1
@@ -19,15 +19,15 @@ reason: 0
 roles:
   - Horde Ambusher
 scc:
-  - mcdm.monsters.v1:monster:war-dog-hypokrite
+  - mcdm.monsters.v1:monster.war-dogs.statblock:war-dog-hypokrite
 scdc:
-  - 1.1.1:2:385
+  - 1.1.1:2.51.1:35
 size: 1M
 source: mcdm.monsters.v1
 speed: 8
 stability: 0
 stamina: '30'
-type: monster
+type: monster/war-dogs/statblock
 ---
 
 ###### War Dog Hypokrite
@@ -35,7 +35,7 @@ type: monster
 | Humanoid, Soulless, War Dog |          -          |       Level 4       |     Horde Ambusher      |          EV 6          |
 | :-------------------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |      **1M**<br/> Size       |  **8**<br/> Speed   | **30**<br/> Stamina |  **0**<br/> Stability   | **3**<br/> Free Strike |
-|     **-**<br/> Immunity     | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+|     **-**<br/> Immunity     | **-**<br/> Movement |          -          | **-**<br/> With Captain |  **-**<br/> Weakness   |
 |      **+1**<br/> Might      | **+3**<br/> Agility |  **0**<br/> Reason  |  **0**<br/> Intuition   |  **+2**<br/> Presence  |
 
 <!-- -->
@@ -67,7 +67,7 @@ type: monster
 <!-- -->
 > ⭐️ **Face in the Crowd**
 >
-> The hypokrite is invisible while adjacent to any ally who isn't hidden, and they can attempt to hide even while observed. Whenever they use the Hide maneuver, the hypokrite can disguise themself as another creature within line of effect
+> The hypokrite is invisible while adjacent to any ally who isn't hidden, and they can attempt to hide even while observed. Whenever they use the Hide maneuver, the hypokrite can disguise themself as another creature within line of effect.
 
 <!-- -->
 > ⭐️ **Loyalty Collar**

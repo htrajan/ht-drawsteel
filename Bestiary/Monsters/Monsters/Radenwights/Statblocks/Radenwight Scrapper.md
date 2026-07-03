@@ -9,7 +9,7 @@ file_dpath: Monsters/Radenwights/Statblocks
 free_strike: 1
 intuition: 0
 item_id: radenwight-scrapper
-item_index: '154'
+item_index: '06'
 item_name: Radenwight Scrapper
 level: 1
 might: -1
@@ -18,15 +18,15 @@ reason: 0
 roles:
   - Minion Defender
 scc:
-  - mcdm.monsters.v1:monster:radenwight-scrapper
+  - mcdm.monsters.v1:monster.radenwights.statblock:radenwight-scrapper
 scdc:
-  - 1.1.1:2:154
+  - 1.1.1:2.19.1:06
 size: 1S
 source: mcdm.monsters.v1
 speed: 5
 stability: 1
 stamina: '5'
-type: monster
+type: monster/radenwights/statblock
 ---
 
 ###### Radenwight Scrapper
@@ -34,7 +34,7 @@ type: monster
 | Humanoid, Radenwight |            -            |      Level 1       |                 Minion Defender                  |   EV 3 for 4 minions   |
 | :------------------: | :---------------------: | :----------------: | :----------------------------------------------: | :--------------------: |
 |   **1S**<br/> Size   |    **5**<br/> Speed     | **5**<br/> Stamina |               **1**<br/> Stability               | **1**<br/> Free Strike |
-| **-**<br/> Immunity  | **Climb**<br/> Movement |         -          | **+2 bonus to melee distance**<br/> With Captain | **-**<br/> Weaknesses  |
+| **-**<br/> Immunity  | **Climb**<br/> Movement |         -          | **+2 bonus to melee distance**<br/> With Captain |  **-**<br/> Weakness   |
 |  **-1**<br/> Might   |   **+1**<br/> Agility   | **0**<br/> Reason  |               **0**<br/> Intuition               |  **+2**<br/> Presence  |
 
 <!-- -->
