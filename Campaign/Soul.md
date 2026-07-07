@@ -39,6 +39,7 @@ Trying to pander to every player's request in a single session will come across 
 ## Prose & Read-Aloud Style
 
 - **Avoid on-the-nose literalisms that instruct the players how to think or feel.** Don't spell out a scene's meaning, stakes, or a character's emotional takeaway ("he is the loose end of what just happened," "this is the villain you should hate," "you feel horrified"). Describe the concrete sensory facts — what is seen, heard, felt physically — and trust the players to draw the conclusion and supply the emotion. Show, don't tell.
+- **Keep dramatic intensity around ~7.5/10, not maxed out.** Read-aloud and NPC dialogue should be evocative but restrained. Trim melodramatic tics — "Gods help you," ALL-CAPS words for emphasis, stacked triplets of adjectives, "the night that broke your life in two," portentous "…and it has been waiting" closers. Let the events carry the weight; over-purple prose reads as trying too hard.
 
 ## Structuring Skill Challenges & Branches
 

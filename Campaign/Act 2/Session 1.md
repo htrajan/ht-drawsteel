@@ -64,7 +64,7 @@
 >
 > *"Capital doesn't wake so much as it never slept. You spill out of your rented room over a noodle-house into a morning already at full volume — cart-wheels on cobbles, a hundred languages, the smell of frying dough and canal-water. No one here has heard of Broadhurst. No one here has heard of you. For the first time in a long time, you are small.*
 >
-> *And this morning, the whole river of the city is running one way. Dockhands, magistrates, pickpockets, nobles in sedan chairs — all of them pressed toward the same place, buzzing the same two words: 'the Reckoning.' Someone has papered every wall overnight. The handbill is plain, official, and astonishing: the city auditor Vesk Aldermere will stand in the Grand Amphitheater at noon and, before all of Capital, prove that someone powerful has been feeding on this city's dead and its coin. No trial. No closed doors. Just the truth, in daylight, where it can't be buried."*
+> *And this morning, the whole river of the city is running one way. Dockhands, magistrates, pickpockets, nobles in sedan chairs — all of them pressed toward the same place, buzzing the same two words: 'the Reckoning.' Someone has papered every wall overnight. The handbill is plain, official, and astonishing: the city auditor Vesk Aldermere will stand in the Grand Amphitheater at noon and, before all of Capital, prove that someone powerful has been robbing the city's treasury — and quietly making the people who noticed disappear. No trial. No closed doors. Just the truth, in daylight, where it can't be buried."*
 
 **Running it:**
 
@@ -85,9 +85,9 @@
 >
 > *Vesk Aldermere does not shout. She simply begins, and the bowl carries her voice to every ear. 'I have served this city's accounts for thirty-one years. In that time I have learned that a ledger cannot lie — only liars can. Today I will show you where the money went. Today I will show you where the missing went. And I will tell you the name of the man who—'*
 >
-> *She stops. Her hand drifts up in front of her face — and where her fingers were, there are no fingers, only a fine grey ash sifting away on the air. Her eyes go wide. She understands, in the last moment given to her, exactly what is happening. She opens her mouth — the name right there, right on her tongue — and what comes out instead is a scream, high and human and terrified, as the unmaking climbs her arm, her shoulder, her throat. The scream cuts off. Vesk Aldermere comes apart from the edges in, dissolving upward into a grey drift that scatters across the front rows.*
+> *She stops. Her hand drifts up in front of her face — and where her fingers were, there are no fingers, only fine grey ash sifting away on the air. Her eyes go wide; she understands exactly what's happening. She opens her mouth — the name right there on her tongue — and what comes out is a scream instead, terrified, as the unmaking climbs her arm, her shoulder, her throat. The scream cuts off. Vesk Aldermere comes apart from the edges in and dissolves upward into a grey drift that scatters over the front rows.*
 >
-> *When it settles, there is a small pile of pale ash on the boards where she stood, and the name she died to speak dies with her."*
+> *When it settles, there's a small pile of pale ash on the boards where she stood — and the name she meant to speak is gone with her."*
 
 Then the bowl erupts in panic. Now deliver two **private** beats — pull each player aside, or lean in and speak low, so the table feels the intimacy.
 
@@ -95,7 +95,7 @@ Then the bowl erupts in panic. Now deliver two **private** beats — pull each p
 
 > To Dorian, privately:
 >
-> *"You know this. Gods help you, you know this exactly. The grey ash. The scream that stops halfway. The way a person comes apart from the edges in. This is what you saw the night your audience vanished — a whole house of faces dissolving into drifting grey while they screamed, the night that broke your life in two. And as your eyes drag up from the ash on the stage to the bones of this enormous building, the tiered stone, the great arch above… you know this, too. Strip away the marble they built up around it. Beneath the grandeur, this is the same stage. This was a smaller house once, a playhouse — and it was YOUR stage. It happened here. It didn't follow you to Capital. It started here, and it has been waiting."*
+> *"You know this. You've seen it before — the grey ash, the scream that cuts off halfway, the way a person comes apart from the edges in. This is exactly what happened the night your audience vanished: a whole house of faces dissolving while they screamed. And as your eyes lift from the ash on the stage to the bones of this huge building, you realize you know the stage, too. Strip away the marble built up around it and there's a smaller house underneath — a playhouse. Your playhouse. It happened here. It didn't follow you to Capital; it started here."*
 
 Give Wes room. This is the emotional core; let him react in-fiction. Do **not** resolve the mystery — this session only proves it is alive and personal.
 
@@ -103,7 +103,7 @@ Give Wes room. This is the emotional core; let him react in-fiction. Do **not** 
 
 > To Demona, privately:
 >
-> *"Everyone else feels terror. You feel something else — a wrongness with a shape to it. The erasure wasn't magic; it was a MIND, vast and cold, reaching through this place. And like a struck bell still ringing, it left a resonance behind — a thread you can feel, taut and humming, running from the ash on the stage out into the crowd. It ends on someone: a slight man in a ticket-clerk's vest, three rows down, already shoving hard toward the exit. Whatever just happened, he is tied to it — the only thread in this whole screaming bowl that leads anywhere — and he is getting away."*
+> *"Everyone else feels terror. You feel something else — a wrongness with a shape to it. That wasn't magic; it was a mind, vast and cold, reaching through this place. And it left a resonance behind, like a struck bell still ringing — a thread you can feel running from the ash on the stage out into the crowd. It ends on someone: a slight man in a ticket-clerk's vest, three rows down, already shoving hard for the exit. Whatever just happened, he's tied to it — the only thread in this whole panicked crowd that leads anywhere — and he's getting away."*
 
 **Transition:** Demona's read turns panic into pursuit. When the party moves after Pell Quist, go to Scene 3.
 
@@ -459,7 +459,7 @@ The **blank tear** at the rear keeps feeding Kell's villain actions and wisps. C
 
 ### The closing beat (read aloud, adjust to outcome)
 
-> *"As the last grey shape is sucked back into the tear and the slit of nothing seals with a sound like a held breath finally let go, Kell is… going. Coming apart at the edges, ash on the wind, smiling. 'You can't stop a story by killing the players,' he breathes. 'He has SO many players. And now He knows your names.' The last of him scatters. Where the tear hung, on the factory floor, someone has left a single object for you to find: a smooth white half-mask, faceless, and beneath it a playbill — yellowed, decades old — for a show at a little playhouse. The cast list has been scratched out. All but one name. Dorian's."*
+> *"As the last grey shape is pulled back into the tear and the slit of nothing seals shut, Kell is already going — coming apart at the edges, ash on the wind, still smiling. 'You can't stop a story by killing the players,' he says. 'He has so many players. And now He knows your names.' The last of him scatters. Where the tear hung, on the factory floor, someone has left a single object: a smooth white half-mask, faceless, and beneath it a playbill — yellowed, decades old — for a show at a little playhouse. The cast list has been scratched out. All but one name. Dorian's."*
 
 ### Deliberate payoffs delivered this session
 
