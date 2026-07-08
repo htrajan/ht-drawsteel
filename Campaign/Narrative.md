@@ -26,7 +26,7 @@ The heroes reach the Amphitheater as Aldermere takes the stand. She begins to na
 
 Two things happen simultaneously and privately to two heroes:
 
-- **Dorian (Wes):** He knows this. This is *exactly* what he witnessed the night his audience vanished — the same silent, total erasure. And worse: he recognizes the **stage itself**. This grand multi-purpose Amphitheater was, years ago, a far smaller playhouse — the very stage he performed on that night. The bones of the old venue are still here, the stage virtually unchanged beneath the grandeur built up around it. His trauma didn't just follow him to Capital; it *originated* here.
+- **Dorian (Wes):** He knows this. This is *exactly* what he witnessed the night his audience vanished — the same silent, total erasure. He was **on the stage that night, not in the seats** — the audience was unmade; **he was murdered afterward** by bereaved who wrongly blamed him *(player canon)*. And worse: he recognizes the **stage itself**. This grand multi-purpose Amphitheater was, years ago, a far smaller playhouse — the very stage he performed on that night. The bones of the old venue are still here, the stage virtually unchanged beneath the grandeur built up around it. His trauma didn't just follow him to Capital; it *originated* here.
 - **Demona (Lesley):** Her psionic senses lock onto the disturbance and **pinpoint its source** in the fleeing crowd — the erasure carried a psychic signature, and the one who caused it is themselves gifted in psionics. She can feel exactly where they are and that they're now trying to slip away.
 
 #### Beat 3 — The Chase (hot start, montage test — specifics TBD)

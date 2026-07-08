@@ -12,6 +12,8 @@
 - **Two deliberate player payoffs this session** (per the pacing rule in `Soul.md`): **Dorian's origin** and **Demona's psionics**. Let everything else (titles, lore, tactical flourishes) arise naturally.
 - **Rewards:** Chase = 1 Victory (moderate montage). Combat = 2 Victories (hard encounter). Award a group title (see Wrap-Up) rather than singling out a "killing blow."
 
+
+
 ### What to have ready
 
 - A simple battle map or theater of the mind for the **factory** (Scene 5 has a described layout and tactical features).
@@ -22,6 +24,8 @@
 
 ## Dramatis Personae (NPCs)
 
+
+
 ### Vesk Aldermere — the City Auditor *(adjustable)*
 
 - **Who:** A career civil auditor in Capital's Bureau of Accounts. Gray-templed, precise, unglamorous, incorruptible in a city where that is nearly a disability.
@@ -30,11 +34,15 @@
 - **Fate:** She is **unmade mid-sentence** — she notices herself turning to ash, screams in horror, and dissolves before she can speak the name, leaving only a pile of grey ash. She is the session's shock, not a combatant.
 - **Pitfall:** Don't let players "save" her; the unmaking is unstoppable and no roll can interrupt it. Its inevitability is the point (see Scene 2).
 
+
+
 ### Minister Corvane Dury — the Unnamed Accused *(adjustable)*
 
 - **Who:** Capital's Minister of Revels & Public Works, who oversees the Amphitheater and the city's festival economy. Silver-tongued, beloved by the public, rotten underneath.
 - **Role this act:** He is who Aldermere was about to name. He is entangled with the cult but is *not* the true power — he is a high, well-defended rung the heroes cannot yet touch. He does not appear in combat this session; he is the political mountain the party must gain standing to climb.
 - **Motivation:** Self-preservation and power. He made a bargain he no longer fully controls.
+
+
 
 ### The Impresario — the True Antagonist (glimpsed only) *(adjustable)*
 
@@ -42,19 +50,25 @@
 - **This session:** Never seen in the flesh. The heroes only perceive its *signature* — through Demona's psionic sense and a calling card. This is the villain Dorian's player is meant to come to hate; give it presence without exposing it.
 - **Long game:** Its power comes from beyond the ordered world — a void the cult calls **the Unwritten Dark** — seeding the wider cosmology (the Timescape / Orden / Vasloria) for later payoff.
 
+
+
 ### Pell Quist — the Relay *(adjustable)*
 
 - **Who:** A twitchy Amphitheater ticket-clerk. An ordinary, frightened person.
 - **Role:** He is not the perpetrator. He has been made into a **living relay** — a mind-controlled antenna rebroadcasting the Impresario's psionic signal. He flees after the erasure because the signal pulls him, not because he chose anything.
 - **Fate:** He does not survive — the signal unmakes him the instant he stops being useful, leaving a pile of ash and the note. What the chase (Scene 3) determines is whether the party *witnesses* his unmaking (success/partial) or only finds the aftermath (failure), and how clean a read Demona gets off it. The party never gets to question him.
 
+
+
 ### Vharos Kell — "The Curator" (combat leader) *(adjustable)*
 
 - **Who:** The local head of the cult **the Unwritten**, operating out of the Levitating Carpet Spooling Factory. A former archivist who came to believe existence is a "first draft" to be edited.
-- **Motivation:** He believes the Impresario will let him "revise" the world — and himself — into something perfect. He lured the heroes with the note because the Impresario is *curious* about Dorian, a man it "unwrote" who refused to stay gone.
+- **Motivation:** He believes the Impresario will let him "revise" the world — and himself — into something perfect. He lured the heroes with the note because the Impresario is *curious* about Dorian — the **witness from the first editing** who was wrongly killed afterward and **still won't stay dead**.
 - **Pitfall / lever:** Kell is a zealot, not a mastermind; he will monologue about "the beautiful blank page" and can let slip the name of Minister Dury and the phrase "the Unwritten Dark" if pressed. He is the session's payoff for Wes: name-able, hateable, and clearly a servant of something worse.
 
 ---
+
+
 
 ## Scene 1 — A City in Motion (cold open, exploration)
 
@@ -74,6 +88,8 @@
 - Carry them to the Amphitheater with the crowd. Transition to Scene 2 when they're seated or standing in the press of bodies near the stage.
 
 ---
+
+
 
 ## Scene 2 — The Reckoning (the inciting horror — no roll)
 
@@ -109,6 +125,8 @@ Give Wes room. This is the emotional core; let him react in-fiction. Do **not** 
 
 ---
 
+
+
 ## Scene 3 — The Chase (montage test)
 
 **Goal:** A cinematic rooftop-and-street pursuit of the relay (Pell). This is a **moderate montage test** with real stakes and a hard deadline (he's being reeled toward an escape).
@@ -137,11 +155,15 @@ A montage test is a cinematic skill challenge. Each hero acts **once per round**
 | **Natural 19–20**  | Success with a reward      | Success with a reward      | Success with a reward      |
 
 
+
+
 ### Set the scene
 
 > Read aloud:
 >
 > *"The clerk bolts, and he moves wrong — too smooth, too certain, like something behind his eyes is steering. He hits a fruit-stall, vaults it, and is up a rain-gutter onto the rooftops before you've cleared the crowd. Below: a churning market, panicked thousands, a maze of stalls and canals. Above: a skyline of tile and rope and laundry-line, gaps between buildings begging to be jumped. Catch him before the signal pulls him wherever it's pulling him."*
+
+
 
 ### Obstacles & suggested tests (pick per hero's approach; improvise freely)
 
@@ -154,9 +176,13 @@ Offer these as fiction, not a menu. Default each test to **Medium** (see the dif
 - **Feeling the thread** — *Intuition* (psionic); **Demona (Null)** can track the signal even when line-of-sight breaks. Let her use this to assist, or to negate a "we lost him" failure and keep the party oriented once.
 - **Improvised shortcuts** — reward clever uses: **Keth (Fury)** bulling straight through a plaster wall; a hero commandeering a laundry-line as a zipline; using a class ability for mobility. A great idea can be an automatic success with no roll (per the montage rules).
 
+
+
 ### Introduce a mid-chase complication (optional, round 2)
 
 > *"He cuts toward the canal district — the roofs give way to a lattice of catwalks over open water, and a bell-tower's flock of startled pigeons bursts up between you and him."*
+
+
 
 ### Outcomes (all three converge on the factory lead — the session cannot stall)
 
@@ -183,13 +209,15 @@ Offer these as fiction, not a menu. Default each test to **Medium** (see the dif
 
 ---
 
+
+
 ## Scene 4 — Ash & Aftermath (roleplay breather)
 
 **Goal:** Breathing room and emotional payoff before the finale. This is the session's heart; don't rush it.
 
 **Beats to offer (follow the players):**
 
-- **Dorian's reckoning.** He has just watched his private nightmare happen twice in one day, in the city where it began, on his old stage. Give Wes the floor: does Dorian tell the others what he now knows? Does he go quiet, or come apart, or harden? There's no wrong answer — just make sure the table registers that this is *his* ghost, now made real and close.
+- **Dorian's reckoning.** He has just watched his private nightmare happen twice in one day, in the city where it began, on his old stage. Give Wes the floor: does Dorian tell the others what he now knows? Does he go quiet, or come apart, or harden? **Player canon:** the audience was **erased** that first night — Dorian was **not**. He stood on the stage and watched, then was **murdered by bereaved** who wrongly blamed him; he rose a revenant. He may share any of that now or hold it — there's no wrong answer. Just make sure the table registers that this is *his* ghost, now made real and close.
 - **Demona's read, shared.** Lesley can lay out what her psionics caught: a single vast, cold mind; relays; the sense that the person who did this wasn't *here*. Establish, in-fiction, that her gift perceives what the others physically can't — she is the party's only sensor for this enemy.
 - **The obvious trap.** "Come alone" is bait, and everyone knows it. Let them plan: go together (correct, and fine — the enemy *wants* Dorian specifically and will make do), scout first, involve authorities (the Watch is useless-to-complicit; a good place to feel the city's rot), or seek an ally.
 - **Optional connective tissue:** If they try to report the erasure, the Watch stonewalls them — "a pile of ash isn't a body, and ash isn't a crime" — a first taste of Capital's corruption protecting itself. Don't belabor it.
@@ -197,6 +225,8 @@ Offer these as fiction, not a menu. Default each test to **Medium** (see the dif
 **Then cut to sundown at the factory (Scene 5).**
 
 ---
+
+
 
 ## Scene 5 — The Levitating Carpet Spooling Factory (climactic combat)
 
@@ -206,7 +236,7 @@ Offer these as fiction, not a menu. Default each test to **Medium** (see the dif
 
 > *"The Levitating Carpet Spooling Factory hunches at the edge of the artisan district, a cavernous brick hall gone half to rot. Inside, it is not empty. Dozens of half-finished flying carpets drift at various heights on their enchanted warp-threads — some taut on the great spooling frames, some loose and wandering the air like slow jellyfish. Sizing-vats bubble cold blue. And on a raised loading gantry at the far end, lit by a single hanging lamp, a thin man in an archivist's robe spreads his hands as if welcoming old friends to a premiere.*
 >
-> *'You came,' the thin man calls down, delighted. 'He said you would.' He presses a hand to his chest in a little bow. 'Vharos Kell, formerly of the city archives, presently the Curator of this humble revision. And you—' the smile fixes on Dorian '—you are the one who wouldn't stay unwritten. You and your little troupe. Do you have any idea what an honor it is, to be interesting to the Author?'"*
+> *'You came,' the thin man calls down, delighted. 'He said you would.' He presses a hand to his chest in a little bow. 'Vharos Kell, formerly of the city archives, presently the Curator of this humble revision. And you—' the smile fixes on Dorian '—you are the one who was left standing when the house was edited. The witness who wouldn't stay dead. You and your little troupe. Do you have any idea what an honor it is, to be interesting to the Author?'"*
 
 **Let Kell talk.** He can, if pressed or baited, reveal: the cult "revises" people out of existence for the **Impresario / the Author**; the auditor died because she was about to speak a name — **Minister Corvane Dury's**; and their power flows from **the Unwritten Dark**, "the blank page behind the world." Then the ambush springs.
 
@@ -219,6 +249,8 @@ Sketch a large rectangular hall. Key features:
 - **The loading gantry (high ground):** A raised catwalk (2 squares up) along the far wall where Kell and the ranged cultists start. Reached by two ladders or a good jump; grants an edge to ranged attacks from above (Director's call).
 - **Cold sizing-vats (hazard):** Two large vats of enchanted resin. A creature shoved/knocked in is **restrained** (escape = a Medium Might test) and takes no damage but is out of position — excellent for the Fury's and Tactician's forced-movement tricks.
 - **The "blank" tear (dynamic hazard / objective):** At center-rear hangs a **rip in the air** — a hovering slit of grey nothing, the Impresario's window into the factory. It is the source of the extraplanar creatures. See "Closing the Tear" below.
+
+
 
 ### Encounter Roster (Hard; total EV ≈ 60; party ES 40)
 
@@ -246,13 +278,17 @@ Heroes and enemy groups alternate turns (Draw Steel action order): a hero acts, 
 ### Malice (sample, 4 heroes, ~1 avg Victory)
 
 The Director's combat resource, spent on the Malice features and villain actions in the stat blocks below. It **accumulates** round to round (unspent Malice is lost only at the end of the encounter).
+
 - **At the start of combat:** gain Malice equal to the party's **average Victories**.
 - **At the start of each round (round 1 included):** gain **(number of heroes) + (round number)**.
 
 So the round number is added on round 1 too. *Sample — 4 heroes, 1 avg Victory (assuming nothing is spent):*
+
 - **Round 1:** 1 (Victories) + 4 (heroes) + 1 (round) = **6 total**.
 - **Round 2:** +4 + 2 = **+6** → 12 total.
 - **Round 3:** +4 + 3 = **+7** → 19 total, and so on.
+
+
 
 ### Combat rules used here (for the stat blocks below)
 
@@ -274,7 +310,11 @@ So the round number is added on round 1 too. *Sample — 4 heroes, 1 avg Victory
 
 ---
 
+
+
 ### STAT BLOCKS
+
+
 
 #### Vharos Kell, "The Curator" — Leader (Level 3, EV 20) — *custom, star of show*
 
@@ -320,6 +360,8 @@ Reskin of a Level-3 human leader tuned for psionic "editing." He is the creature
 
 ---
 
+
+
 #### Chapel Psion — Platoon Controller (Level 3, EV 10) — *reflavored Human Storm Mage*
 
 The cult's ranking psion. Mechanically identical to the Human Storm Mage; "lightning" is recolored as crackling psychic force.
@@ -345,6 +387,8 @@ The cult's ranking psion. Mechanically identical to the Human Storm Mage; "light
 
 ---
 
+
+
 #### Rift-Sworn Zealot — Platoon Defender (Level 2, EV 8) — *reflavored Human Knave*
 
 Kell's fanatical bodyguard. Identical to the Human Knave.
@@ -368,6 +412,8 @@ Kell's fanatical bodyguard. Identical to the Human Knave.
 **Tactics:** Plants himself between the heroes and Kell, taunting the Fury/Troubadour to pin them and punish them for ignoring him.
 
 ---
+
+
 
 #### Namefeeder — Extraplanar Platoon (Level 4, EV 12) — *custom*
 
@@ -395,6 +441,8 @@ The thing that came through the tear: a hovering knot of grey not-flesh with too
 
 ---
 
+
+
 #### Ashen Acolyte — Minion Hexer (Level 1) — *reflavored Human Death Acolyte* — EV 3 per four minions (8 here = EV 6)
 
 Chanting cultists in grey. Identical to the Human Death Acolyte; damage recolored as grey "un-writing."
@@ -417,6 +465,8 @@ Chanting cultists in grey. Identical to the Human Death Acolyte; damage recolore
 
 ---
 
+
+
 #### Unmade Wisp — Extraplanar Minion Harrier (Level 3) — *custom* — EV 2 per two (4 here = EV 4)
 
 Tatters of grey light that peel off the tear — the erasure made small and many. They leave **no body**, dispersing to ash when killed.
@@ -438,6 +488,8 @@ Tatters of grey light that peel off the tear — the erasure made small and many
 
 ---
 
+
+
 ### Closing the Tear (optional dynamic objective — rewards clever play)
 
 The **blank tear** at the rear keeps feeding Kell's villain actions and wisps. Clever heroes may try to **close it** instead of just grinding bodies:
@@ -445,6 +497,8 @@ The **blank tear** at the rear keeps feeding Kell's villain actions and wisps. C
 - Demona (Null) can attempt to **psionically pinch it shut**: a **Hard Intuition or Reason test** as a main action, requiring two successes (across turns or heroes). Assists allowed.
 - Alternatively, physical disruption: collapsing a spooling frame's warp-threads across it, or dumping a sizing-vat into it (improvised Might/creative solution).
 - **On closing it:** Kell loses **Villain Action 1** and the **Namefeeder** loses its *Feed on Absence* refresh; Kell panics ("You can't— that's the Author's *window*!"), revealing more lore. Award a **hero token** or an edge on the next roll. This is a great spotlight for Demona's psionics if the players find it.
+
+
 
 ### Win / Loss / Scaling
 
@@ -455,16 +509,24 @@ The **blank tear** at the rear keeps feeding Kell's villain actions and wisps. C
 
 ---
 
+
+
 ## Wrap-Up — Landing the Session & Hooks
+
+
 
 ### The closing beat (read aloud, adjust to outcome)
 
 > *"As the last grey shape is pulled back into the tear and the slit of nothing seals shut, Kell is already going — coming apart at the edges, ash on the wind, still smiling. 'You can't stop a story by killing the players,' he says. 'He has so many players. And now He knows your names.' The last of him scatters. Where the tear hung, on the factory floor, someone has left a single object: a smooth white half-mask, faceless, and beneath it a playbill — yellowed, decades old — for a show at a little playhouse. The cast list has been scratched out. All but one name. Dorian's."*
 
+
+
 ### Deliberate payoffs delivered this session
 
 - **Dorian (Wes):** His origin is now *the* engine of the campaign's villain — personal, native to Capital, unresolved. He has a named servant-enemy (Kell, now ash) and a shape to hate (the Impresario/"the Author").
 - **Demona (Lesley):** Established as the party's only sensor for the enemy's psionics — tracking the relay, reading the compulsion, optionally closing the tear. Her gift is plot-critical, not a combat afterthought.
+
+
 
 ### Threads seeded (pay these off *naturally*, don't force them)
 
@@ -472,6 +534,8 @@ The **blank tear** at the rear keeps feeding Kell's villain actions and wisps. C
 - **The Impresario / "the Author" & the Unwritten Dark** — the true antagonist and its extraplanar void, foreshadowing the wider cosmology (Timescape / Orden / Vasloria) for Nick (Mac) to eventually dig into.
 - **The relays** — Pell was made into a puppet-antenna and discarded. If the Impresario needed one relay, it has others: a chilling, expandable mechanic, and a natural well for a minor NPC to later surface as someone the party recognizes (a spot, if it happens organically, for Lesley's "side character becomes important" wish).
 - **The Watch's indifference** — the city's institutional rot, felt not lectured.
+
+
 
 ### Group reward (per the "egalitarian titles" note)
 
