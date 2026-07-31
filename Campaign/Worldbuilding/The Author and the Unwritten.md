@@ -8,11 +8,13 @@
 
 ## Names and faces
 
-| Name | What it is | Who uses it |
-| --- | --- | --- |
-| **The Author** | Cult honorific for the intelligence they serve | Vharos Kell, the Unwritten, taunting notes |
-| **The Impresario** | Theatrical mask for the same entity | Session read-aloud, Demona's sensory read, Dorian's memory |
-| **The Unwritten Dark** | The void / manifold the Author draws from | Kell's monologue, research lore, late-Act cosmology |
+
+| Name                   | What it is                                     | Who uses it                                                |
+| ---------------------- | ---------------------------------------------- | ---------------------------------------------------------- |
+| **The Author**         | Cult honorific for the intelligence they serve | Vharos Kell, the Unwritten, taunting notes                 |
+| **The Impresario**     | Theatrical mask for the same entity            | Session read-aloud, Demona's sensory read, Dorian's memory |
+| **The Unwritten Dark** | The void / manifold the Author draws from      | Kell's monologue, research lore, late-Act cosmology        |
+
 
 **Director note:** Same entity, different costumes. Kell says "Author"; Demona feels "Impresario"; sages might later say "a lethe-adjacent void echo" (CANON-adjacent guess, not proven in Act 2).
 
@@ -26,7 +28,7 @@ The Author is a **remote psionic intelligence** — not a god, not a devil, not 
 
 It experiences reality as **draft text**. People are characters; cities are settings; erasure is **deletion** — not death, which leaves a corpse and a memory, but **revision**.
 
-It cannot fully enter Orden. It ** presses through thin places** — stages, archives, factories where meaning is made — via cult ritual and **relays**.
+It cannot fully enter Orden. It **presses through thin places** — stages, archives, factories where meaning is made — via cult ritual and **relays**.
 
 **CANON grounding:** Psionics "warp reality with the mind" (`The Basics.md`). The timescape includes planes where identity dissolves — the Abyssal Waste's **lethe**, the World Below's exiled horrors. The Author is **in that family of ideas** without being a named book creature. Treat it as a **campaign-original void power** until/unless the table imports a specific monster.
 
@@ -49,13 +51,15 @@ The Author is **curious** about the party after Session 1 — not rushing to kil
 
 **INVENTED:**
 
-| Field | Detail |
-| --- | --- |
-| **Public face** | None. Cells hide as archivist societies, playwright salons, "revisionist" literary clubs |
-| **Doctrine** | Existence is a first draft; the Author will **revise** the world into perfection; the unwritten are not murdered — they are **edited out** |
-| **Structure** | Decentralized **Curators** (cell leaders) like **Vharos Kell**; higher ranks called **Editors** and **Prologues** (Act 2 endgame hooks) |
-| **Recruitment** | Disillusioned scholars, failed playwrights, clerks who've seen too much ledger fraud and want **clean pages** |
-| **Patron pipeline** | Powerful clients (Minister Dury, others unnamed) pay in **names, funds, and silence** — not always knowing the full cost |
+
+| Field               | Detail                                                                                                                                     |
+| ------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Public face**     | None. Cells hide as archivist societies, playwright salons, "revisionist" literary clubs                                                   |
+| **Doctrine**        | Existence is a first draft; the Author will **revise** the world into perfection; the unwritten are not murdered — they are **edited out** |
+| **Structure**       | Decentralized **Curators** (cell leaders) like **Vharos Kell**; higher ranks called **Editors** and **Prologues** (Act 2 endgame hooks)    |
+| **Recruitment**     | Disillusioned scholars, failed playwrights, clerks who've seen too much ledger fraud and want **clean pages**                              |
+| **Patron pipeline** | Powerful clients (Minister Dury, others unnamed) pay in **names, funds, and silence** — not always knowing the full cost                   |
+
 
 **Session 1 cell:** Levitating Carpet Spooling Factory — **Vharos Kell, the Curator**. Former city archivist. Factory chosen for **warp-threads and vertical space** (good tear anchor) and distance from Gilded Ward eyes.
 
@@ -89,13 +93,15 @@ Agents **must** keep these rules stable.
 
 ### The unmaking
 
-| Rule | Detail |
-| --- | --- |
-| **Effect** | Target dissolves from edges inward into **grey ash**; scream often cuts off mid-sound |
-| **Memory** | **INVENTED — harsh default:** Mortals who weren't psionically shielded **forget** the unmade person over days unless they wrote the name down *before* the erasure. Demona and strong-willed witnesses ** resist** fuzzing (Intuition test to hold a name). |
-| **Evidence** | Ash remains unless wind/scattered; **objects** the person carried may persist (Pell's note) |
-| **No save at full power** | When the Author acts **directly** with full focus (Aldermere on stage), **no roll interrupts** — Session 1 rule stands |
-| **Incomplete ritual** | Kell's "Strike the Scene" — psychic damage and weakened, **not** full erasure. Local cult lacks Author's full bandwidth |
+
+| Rule                      | Detail                                                                                                                                                                                                                                                     |
+| ------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Effect**                | Target dissolves from edges inward into **grey ash**; scream often cuts off mid-sound                                                                                                                                                                      |
+| **Memory**                | **INVENTED — harsh default:** Mortals who weren't psionically shielded **forget** the unmade person over days unless they wrote the name down *before* the erasure. Demona and strong-willed witnesses **resist** fuzzing (Intuition test to hold a name). |
+| **Evidence**              | Ash remains unless wind/scattered; **objects** the person carried may persist (Pell's note)                                                                                                                                                                |
+| **No save at full power** | When the Author acts **directly** with full focus (Aldermere on stage), **no roll interrupts** — Session 1 rule stands                                                                                                                                     |
+| **Incomplete ritual**     | Kell's "Strike the Scene" — psychic damage and weakened, **not** full erasure. Local cult lacks Author's full bandwidth                                                                                                                                    |
+
 
 ### Tells (Demona / psionics)
 
@@ -111,13 +117,15 @@ Agents **must** keep these rules stable.
 
 A **relay** is a living person turned into an **antenna** for the Author's signal during a remote erasure.
 
-| Rule | Detail |
-| --- | --- |
-| **Creation** | Author or Curator psion primes a susceptible mind (often without victim's knowledge) |
-| **Behavior** | Moves "wrong" — too smooth, puppeted; flees toward extraction or tear |
-| **End** | Connection severs → victim **unmade** instantly (Pell Quist) |
-| **Demona read** | Success/partial chase = clean read of strings; failure = ash only |
-| **Network** | Multiple relays exist citywide; Act 2–3 thread for Lesley |
+
+| Rule            | Detail                                                                               |
+| --------------- | ------------------------------------------------------------------------------------ |
+| **Creation**    | Author or Curator psion primes a susceptible mind (often without victim's knowledge) |
+| **Behavior**    | Moves "wrong" — too smooth, puppeted; flees toward extraction or tear                |
+| **End**         | Connection severs → victim **unmade** instantly (Pell Quist)                         |
+| **Demona read** | Success/partial chase = clean read of strings; failure = ash only                    |
+| **Network**     | Multiple relays exist citywide; Act 2–3 thread for Lesley                            |
+
 
 ### Thin places / tears
 
@@ -136,7 +144,7 @@ A **relay** is a living person turned into an **antenna** for the Author's signa
 
 ## Connection to Dorian
 
-**Summary — full detail in [`Dorian and the Vanished Audience.md`](Dorian%20and%20the%20Vanished%20Audience.md):**
+**Summary — full detail in** `[Dorian and the Vanished Audience.md](Dorian%20and%20the%20Vanished%20Audience.md)`**:**
 
 - The playhouse erasure was the Author's **first successful mass revision** in Capital — **the audience only**, not Dorian.
 - Dorian **watched from the stage**, was **murdered by bereaved** who wrongly blamed him, and **returned** as a revenant (CANON mechanism: unjust death + vengeance).
@@ -151,11 +159,13 @@ A **relay** is a living person turned into an **antenna** for the Author's signa
 
 **Public → Party → Director progression:**
 
-| Tier | Lore |
-| --- | --- |
-| **Public** | Capital scholars debate "manifolds" and "planes"; most people say "the world below" or "the stars" |
-| **Party (mid-Act)** | Cult texts mention the Unwritten Dark as **margin outside Quintessence's map** — not Hell, not the World Below, but where **cut pages** go |
+
+| Tier                         | Lore                                                                                                                                                                                                                          |
+| ---------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Public**                   | Capital scholars debate "manifolds" and "planes"; most people say "the world below" or "the stars"                                                                                                                            |
+| **Party (mid-Act)**          | Cult texts mention the Unwritten Dark as **margin outside Quintessence's map** — not Hell, not the World Below, but where **cut pages** go                                                                                    |
 | **Director / late campaign** | Parallels: Abyssal **lethe** (identity stripped), World Below exiles, **voiceless talkers** exiled from Proteus — possible kin or rival void powers. The Author may be **one margin-dweller** among many in the timescape sea |
+
 
 **Do not infodump in Session 2.** Plant one line per arc: a university handbill, a Rasp heliox's offhand comment about "places where physics is negotiable."
 
@@ -175,12 +185,14 @@ Use sparingly:
 
 ## Escalation ladder (for future sessions)
 
-| Phase | Author behavior |
-| --- | --- |
-| **Act 2 early** (Session 1+) | Remote erasures, relays, curious probes, cult traps |
-| **Act 2 mid** | Targeted erasures of allies; "casting calls" — invitations to thin places |
-| **Act 2 climax** | Attempt to unwrite a **public figure** the party has sworn to protect — stakes session |
-| **Act 3+ / campaign** | Thin places multiply; Author speaks **directly** to Demona and Dorian; Timescape travel to confront the margin |
+
+| Phase                        | Author behavior                                                                                                |
+| ---------------------------- | -------------------------------------------------------------------------------------------------------------- |
+| **Act 2 early** (Session 1+) | Remote erasures, relays, curious probes, cult traps                                                            |
+| **Act 2 mid**                | Targeted erasures of allies; "casting calls" — invitations to thin places                                      |
+| **Act 2 climax**             | Attempt to unwrite a **public figure** the party has sworn to protect — stakes session                         |
+| **Act 3+ / campaign**        | Thin places multiply; Author speaks **directly** to Demona and Dorian; Timescape travel to confront the margin |
+
 
 ---
 
@@ -190,3 +202,4 @@ Use sparingly:
 - Kell is a **zealot**, not the mastermind — monologue fodder, not final boss.
 - Dury is **protected politically** until the party has standing — don't arrest him Session 2 unless the table explicitly accelerates.
 - Keep **Author / Impresario / Unwritten Dark** as one entity unless the Director splits them later.
+
