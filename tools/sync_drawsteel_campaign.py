@@ -43,23 +43,48 @@ HEROES = {
         "id": "b8edfa57-0947-4dfb-b3b9-6c03c7e615de",
         "art": "Campaign/Assets/Tokens/demona.png",
         "summary": "Level 3 Devil Disciple of the Chronokinetic Null",
+        "level3Choice": {
+            "guid": "b3be4364-09e5-4a28-92d6-50255e276339",
+            "id": "31f2fcd4-c3cb-4321-94d5-0119ebcd7fd4",
+            "name": "Molecular Rearrangement Field",
+        },
     },
     "Dorian Ashveil": {
         "id": "f67884c1-3a6b-4296-8d88-a7274367c177",
         "art": "Campaign/Assets/Tokens/dorian-ashveil.png",
         "summary": "Level 3 Devil-Kind Revenant Vanguard Tactician",
+        "level3Choice": {
+            "guid": "792e9072-01a7-4cac-9232-51ecb1de35b3",
+            "id": "15c723ff-7725-4959-b570-458ff8c9ec96",
+            "name": "Hit 'Em Hard!",
+        },
     },
     "Keth": {
         "id": "0779cf60-c9bd-49de-b769-bf5aacdc832d",
         "art": "Campaign/Assets/Tokens/keth.png",
         "summary": "Level 3 Hakaan Berserker Fury",
+        "level3Choice": {
+            "guid": "4991e3cd-7c22-43de-8d9d-f4a8428bb8aa",
+            "id": "a5d094b6-cfc8-4630-9cb7-54183b2b9580",
+            "name": "You Are Already Dead",
+        },
     },
     "M.A.C: Multifunctional Android Companion": {
         "id": "0a9de43e-3e2e-43a6-8d11-7fdb483148fa",
         "art": "Campaign/Assets/Tokens/mac.png",
-        "summary": "Level 2 Memonek Duelist Troubadour",
+        "source": "DS_Chars/M.A.C_ Multifunctional Android Companion 2.ds-hero",
+        "summary": "Level 3 Memonek Duelist Troubadour",
+        "level3Choice": {
+            "guid": "cc1dced4-4996-4d2d-8a2a-4e275e8214b2",
+            "id": "c58c14b2-6c81-4dfe-8511-6f525259e488",
+            "name": "We Meet at Last",
+        },
     },
 }
+
+TARGET_LEVEL = 3
+TARGET_XP = 4
+TARGET_VICTORIES = 4
 
 CAPITAL_ART = REPO / "Campaign/Assets/Maps/capital-placeholder.png"
 CAPITAL_MAP_ID = str(uuid.uuid5(SYNC_NAMESPACE, "map:capital-placeholder"))
@@ -75,6 +100,14 @@ MAP_LIBRARY_ID = str(uuid.uuid5(SYNC_NAMESPACE, "image-library:campaign-maps"))
 
 def stable_id(label: str) -> str:
     return str(uuid.uuid5(SYNC_NAMESPACE, label))
+
+
+def forge_steel_level(path: Path) -> int:
+    data = json.loads(path.read_text(encoding="utf-8"))
+    level = data.get("class", {}).get("level")
+    if not isinstance(level, int) or not 1 <= level <= 10:
+        raise ValueError(f"invalid Forge Steel class level in {path}: {level!r}")
+    return level
 
 
 def read_json_row(db: sqlite3.Connection, name: str) -> dict | None:
@@ -422,6 +455,25 @@ def main() -> None:
         desired["appearance"]["offtokenPortraitId"] = asset_id
         desired["ownerId"] = "PARTY"
         desired["partyid"] = PLAYERS_PARTY_ID
+        properties = desired.get("properties", {})
+        classes = properties.get("classes", {})
+        primary_class = classes.get("1")
+        if primary_class is None:
+            raise SystemExit(f"missing primary Draw Steel class for {name}")
+        primary_class["level"] = TARGET_LEVEL
+        properties["xp"] = TARGET_XP
+        properties["victories"] = TARGET_VICTORIES
+        choice = spec["level3Choice"]
+        properties.setdefault("levelChoices", {"_luaTable": True})[
+            choice["guid"]
+        ] = {"1": choice["id"], "_luaTable": False}
+        source = spec.get("source")
+        if source is not None:
+            level = forge_steel_level(REPO / source)
+            if level != TARGET_LEVEL:
+                raise SystemExit(
+                    f"Forge Steel level for {name} is {level}; expected {TARGET_LEVEL}"
+                )
         if desired != token:
             ops.append(
                 {
@@ -431,7 +483,7 @@ def main() -> None:
                     "data": desired,
                 }
             )
-            descriptions.append(f"UPDATE Player portrait: {name}")
+            descriptions.append(f"UPDATE Player record: {name}")
         remote_patch[spec["id"]] = {
             "name": name,
             "owner": "PARTY",
@@ -726,6 +778,37 @@ def main() -> None:
     checks = {
         "four managed Players present": all(
             spec["id"] in after.get("characters", {}) for spec in HEROES.values()
+        ),
+        "source-backed Player levels synchronized": all(
+            after.get("characters", {})
+            .get(spec["id"], {})
+            .get("properties", {})
+            .get("classes", {})
+            .get("1", {})
+            .get("level")
+            == forge_steel_level(REPO / spec["source"])
+            for spec in HEROES.values()
+            if spec.get("source") is not None
+        ),
+        "all Players share campaign progression": all(
+            token.get("properties", {}).get("classes", {}).get("1", {}).get("level")
+            == TARGET_LEVEL
+            and token.get("properties", {}).get("xp") == TARGET_XP
+            and token.get("properties", {}).get("victories") == TARGET_VICTORIES
+            for token in (
+                after.get("characters", {}).get(spec["id"], {})
+                for spec in HEROES.values()
+            )
+        ),
+        "all level 3 choices selected": all(
+            after.get("characters", {})
+            .get(spec["id"], {})
+            .get("properties", {})
+            .get("levelChoices", {})
+            .get(spec["level3Choice"]["guid"], {})
+            .get("1")
+            == spec["level3Choice"]["id"]
+            for spec in HEROES.values()
         ),
         "legacy entities removed": not remaining_legacy,
         "starter tavern maps removed": not (
