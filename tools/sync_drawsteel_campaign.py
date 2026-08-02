@@ -96,6 +96,8 @@ CAPITAL_OBJECT_ASSET_ID = str(
 )
 TOKEN_LIBRARY_ID = str(uuid.uuid5(SYNC_NAMESPACE, "image-library:campaign-tokens"))
 MAP_LIBRARY_ID = str(uuid.uuid5(SYNC_NAMESPACE, "image-library:campaign-maps"))
+PLAYER_TOKEN_FRAME_ID = "ac7e5d6a-bddf-43c3-83ee-f962e7094076"
+PLAYER_CREATURE_SIZE_INDEX = 2  # Draw Steel 1M: one 5-foot tactical square.
 
 
 def stable_id(label: str) -> str:
@@ -440,8 +442,11 @@ def main() -> None:
     token_library: dict[str, dict] = {}
     for name, spec in HEROES.items():
         art_path = REPO / spec["art"]
+        # Draw Steel image type 1 is Avatar, which uses portraitFrameId as a
+        # clipping mask on tactical tokens. Type 3 is AvatarPopout and bypasses
+        # the normal framed-token material, leaving square, oversized art.
         asset_id, metadata, cache_path = asset_for(
-            art_path, 3, name.lower().replace(" ", "-")
+            art_path, 1, name.lower().replace(" ", "-")
         )
         images[asset_id] = metadata
         token_library[asset_id] = {"assetid": asset_id}
@@ -453,6 +458,11 @@ def main() -> None:
         desired = json.loads(json.dumps(token))
         desired.setdefault("appearance", {})["portraitId"] = asset_id
         desired["appearance"]["offtokenPortraitId"] = asset_id
+        desired["appearance"]["portraitFrameId"] = PLAYER_TOKEN_FRAME_ID
+        desired["appearance"]["tokenScaling"] = 1
+        desired["appearance"]["tokenZoom"] = 1
+        desired["appearance"]["portraitOffset"] = {"x": 0, "y": 0}
+        desired["size"] = PLAYER_CREATURE_SIZE_INDEX
         desired["ownerId"] = "PARTY"
         desired["partyid"] = PLAYERS_PARTY_ID
         properties = desired.get("properties", {})
@@ -515,7 +525,7 @@ def main() -> None:
     libraries = {
         TOKEN_LIBRARY_ID: {
             "name": "Uncle HT Campaign Tokens",
-            "imageType": 3,
+            "imageType": 1,
             "gmonly": False,
             "hidden": False,
             "table": token_library,
@@ -808,6 +818,33 @@ def main() -> None:
             .get(spec["level3Choice"]["guid"], {})
             .get("1")
             == spec["level3Choice"]["id"]
+            for spec in HEROES.values()
+        ),
+        "all Players use one-square circular tokens": all(
+            after.get("characters", {})
+            .get(spec["id"], {})
+            .get("appearance", {})
+            .get("portraitFrameId")
+            == PLAYER_TOKEN_FRAME_ID
+            and after.get("characters", {})
+            .get(spec["id"], {})
+            .get("appearance", {})
+            .get("tokenScaling")
+            == 1
+            and after.get("characters", {})
+            .get(spec["id"], {})
+            .get("size")
+            == PLAYER_CREATURE_SIZE_INDEX
+            and after.get("assets", {})
+            .get("images", {})
+            .get(
+                stable_id(
+                    f"image:{Path(spec['art']).as_posix()}"
+                ),
+                {},
+            )
+            .get("imageType")
+            == 1
             for spec in HEROES.values()
         ),
         "legacy entities removed": not remaining_legacy,
