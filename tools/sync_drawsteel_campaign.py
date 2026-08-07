@@ -98,6 +98,28 @@ TOKEN_LIBRARY_ID = str(uuid.uuid5(SYNC_NAMESPACE, "image-library:campaign-tokens
 MAP_LIBRARY_ID = str(uuid.uuid5(SYNC_NAMESPACE, "image-library:campaign-maps"))
 PLAYER_TOKEN_FRAME_ID = "ac7e5d6a-bddf-43c3-83ee-f962e7094076"
 PLAYER_CREATURE_SIZE_INDEX = 2  # Draw Steel 1M: one 5-foot tactical square.
+CAELIAN_LANGUAGE_ID = "9f8bf21e-a483-46e7-aa12-dbe63591d928"
+
+# Forge Steel exports crafting metadata with inventory items, while Draw Steel
+# stores each underway project separately on the character. These IDs link the
+# three recipes in M.A.C.'s export to their native Draw Steel equipment records.
+DRAW_STEEL_CRAFTING_ITEM_IDS = {
+    "item-bloodbound-band-crafting": "9e8eea25-436a-4a04-975e-d28a87dca2e8",
+    "item-foesense-lenses-crafting": "2144c396-60d0-474c-b96a-3d847ad74491",
+    "item-lachomp-tooth-crafting": "7095a164-63e1-4c7b-b629-cb38cfe5820a",
+}
+
+# The Forge Steel record currently exports Lachomp Tooth with a zero goal. The
+# Draw Steel core-rules record specifies 45 (and yields 1d3 teeth).
+CRAFTING_GOAL_OVERRIDES = {"item-lachomp-tooth-crafting": 45}
+
+FORGE_STEEL_CHARACTERISTICS = {
+    "Might": "mgt",
+    "Agility": "agl",
+    "Reason": "rea",
+    "Intuition": "inu",
+    "Presence": "prs",
+}
 
 
 def stable_id(label: str) -> str:
@@ -110,6 +132,73 @@ def forge_steel_level(path: Path) -> int:
     if not isinstance(level, int) or not 1 <= level <= 10:
         raise ValueError(f"invalid Forge Steel class level in {path}: {level!r}")
     return level
+
+
+def lua_array(values: list[str]) -> dict:
+    return {
+        **{str(index): value for index, value in enumerate(values, 1)},
+        "_luaTable": False,
+    }
+
+
+def forge_steel_crafting_projects(
+    path: Path, owner_id: str, created_by: str
+) -> dict[str, dict]:
+    """Convert inventory crafting recipes into active Draw Steel projects."""
+    data = json.loads(path.read_text(encoding="utf-8"))
+    inventory = data.get("state", {}).get("inventory", [])
+    projects: dict[str, dict] = {}
+    sort_order = 0
+
+    for item in inventory:
+        crafting = item.get("crafting")
+        if not isinstance(crafting, dict):
+            continue
+        crafting_id = crafting.get("id")
+        if crafting_id not in DRAW_STEEL_CRAFTING_ITEM_IDS:
+            continue
+
+        sort_order += 1
+        project_id = stable_id(f"downtime-project:{owner_id}:{crafting_id}")
+        goal = CRAFTING_GOAL_OVERRIDES.get(crafting_id, crafting.get("goal"))
+        if not isinstance(goal, int) or goal <= 0:
+            raise ValueError(
+                f"invalid crafting goal for {crafting_id} in {path}: {goal!r}"
+            )
+        characteristics = [
+            FORGE_STEEL_CHARACTERISTICS[name]
+            for name in crafting.get("characteristic", [])
+            if name in FORGE_STEEL_CHARACTERISTICS
+        ]
+        if not characteristics:
+            raise ValueError(
+                f"missing crafting characteristics for {crafting_id} in {path}"
+            )
+        source = crafting.get("source", "")
+        source_languages = [CAELIAN_LANGUAGE_ID] if "Caelian" in source else []
+        projects[project_id] = {
+            "__typeName": "DTProject",
+            "id": project_id,
+            "ownerId": owner_id,
+            "sortOrder": sort_order,
+            "itemId": DRAW_STEEL_CRAFTING_ITEM_IDS[crafting_id],
+            "title": item.get("name") or crafting.get("name") or "Crafting Project",
+            "itemPrerequisite": crafting.get("itemPrerequisites", ""),
+            "projectSource": source,
+            "projectSourceLanguages": lua_array(source_languages),
+            "projectSourceLanguagePenalty": "NONE",
+            "testCharacteristics": lua_array(characteristics),
+            "projectGoal": goal,
+            "status": "ACTIVE",
+            "statusReason": "",
+            "milestoneThreshold": 0,
+            "projectRolls": lua_array([]),
+            "progressAdjustments": lua_array([]),
+            "createdBy": created_by,
+            "_luaTable": True,
+        }
+
+    return projects
 
 
 def read_json_row(db: sqlite3.Connection, name: str) -> dict | None:
@@ -461,7 +550,7 @@ def main() -> None:
         desired["appearance"]["portraitFrameId"] = PLAYER_TOKEN_FRAME_ID
         desired["appearance"]["tokenScaling"] = 1
         desired["appearance"]["tokenZoom"] = 1
-        desired["appearance"]["portraitOffset"] = {"x": 0, "y": 0}
+        desired["appearance"].setdefault("portraitOffset", {"x": 0, "y": 0})
         desired["size"] = PLAYER_CREATURE_SIZE_INDEX
         desired["ownerId"] = "PARTY"
         desired["partyid"] = PLAYERS_PARTY_ID
@@ -479,11 +568,30 @@ def main() -> None:
         ] = {"1": choice["id"], "_luaTable": False}
         source = spec.get("source")
         if source is not None:
-            level = forge_steel_level(REPO / source)
+            source_path = REPO / source
+            level = forge_steel_level(source_path)
             if level != TARGET_LEVEL:
                 raise SystemExit(
                     f"Forge Steel level for {name} is {level}; expected {TARGET_LEVEL}"
                 )
+            source_projects = forge_steel_crafting_projects(
+                source_path, spec["id"], args.user_id
+            )
+            downtime_info = properties.setdefault(
+                "downtimeInfo",
+                {
+                    "__typeName": "DTInfo",
+                    "downtimeProjects": {"_luaTable": True},
+                    "followerRolls": {"_luaTable": False},
+                    "_luaTable": True,
+                },
+            )
+            downtime_projects = downtime_info.setdefault(
+                "downtimeProjects", {"_luaTable": True}
+            )
+            for project_id, project in source_projects.items():
+                downtime_projects[project_id] = project
+            downtime_projects["_luaTable"] = True
         if desired != token:
             ops.append(
                 {
@@ -797,6 +905,22 @@ def main() -> None:
             .get("1", {})
             .get("level")
             == forge_steel_level(REPO / spec["source"])
+            for spec in HEROES.values()
+            if spec.get("source") is not None
+        ),
+        "source-backed downtime projects imported at zero progress": all(
+            all(
+                after.get("characters", {})
+                .get(spec["id"], {})
+                .get("properties", {})
+                .get("downtimeInfo", {})
+                .get("downtimeProjects", {})
+                .get(project_id)
+                == project
+                for project_id, project in forge_steel_crafting_projects(
+                    REPO / spec["source"], spec["id"], args.user_id
+                ).items()
+            )
             for spec in HEROES.values()
             if spec.get("source") is not None
         ),
