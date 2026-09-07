@@ -121,6 +121,22 @@ FORGE_STEEL_CHARACTERISTICS = {
     "Presence": "prs",
 }
 
+DOWNTIME_PROJECT_STATIC_FIELDS = (
+    "__typeName",
+    "id",
+    "ownerId",
+    "itemId",
+    "title",
+    "itemPrerequisite",
+    "projectSource",
+    "projectSourceLanguages",
+    "projectSourceLanguagePenalty",
+    "testCharacteristics",
+    "projectGoal",
+    "createdBy",
+    "_luaTable",
+)
+
 
 def stable_id(label: str) -> str:
     return str(uuid.uuid5(SYNC_NAMESPACE, label))
@@ -199,6 +215,74 @@ def forge_steel_crafting_projects(
         }
 
     return projects
+
+
+def merge_source_project(existing: object, source: dict) -> dict:
+    """Refresh imported project definitions without resetting live progress."""
+    if not isinstance(existing, dict):
+        return source
+
+    merged = json.loads(json.dumps(existing))
+    for field in DOWNTIME_PROJECT_STATIC_FIELDS:
+        merged[field] = source[field]
+    for field in (
+        "sortOrder",
+        "status",
+        "statusReason",
+        "milestoneThreshold",
+        "projectRolls",
+        "progressAdjustments",
+    ):
+        merged.setdefault(field, source[field])
+    return merged
+
+
+def downtime_project_definition_matches(actual: object, source: dict) -> bool:
+    if not isinstance(actual, dict):
+        return False
+    return all(
+        actual.get(field) == source[field]
+        for field in DOWNTIME_PROJECT_STATIC_FIELDS
+    )
+
+
+def source_project_live_states(snapshot: dict, user_id: str) -> dict[str, dict]:
+    """Capture app-managed fields for existing source-backed projects."""
+    states: dict[str, dict] = {}
+    for spec in HEROES.values():
+        source = spec.get("source")
+        if source is None:
+            continue
+        projects = forge_steel_crafting_projects(
+            REPO / source, spec["id"], user_id
+        )
+        actual_projects = (
+            snapshot.get("characters", {})
+            .get(spec["id"], {})
+            .get("properties", {})
+            .get("downtimeInfo", {})
+            .get("downtimeProjects", {})
+        )
+        for project_id in projects:
+            actual = actual_projects.get(project_id)
+            if not isinstance(actual, dict):
+                continue
+            states[f"{spec['id']}:{project_id}"] = {
+                field: json.loads(json.dumps(value))
+                for field, value in actual.items()
+                if field not in DOWNTIME_PROJECT_STATIC_FIELDS
+            }
+    return states
+
+
+def source_project_live_states_preserved(
+    before: dict[str, dict], after: dict[str, dict]
+) -> bool:
+    return all(
+        key in after
+        and all(after[key].get(field) == value for field, value in state.items())
+        for key, state in before.items()
+    )
 
 
 def read_json_row(db: sqlite3.Connection, name: str) -> dict | None:
@@ -522,6 +606,7 @@ def main() -> None:
 
     port = find_server_port()
     current = get_root_snapshot(port, args.game_id, args.user_id)
+    downtime_live_before = source_project_live_states(current, args.user_id)
     ops: list[dict] = []
     descriptions: list[str] = []
     remote_patch: dict = {}
@@ -590,7 +675,9 @@ def main() -> None:
                 "downtimeProjects", {"_luaTable": True}
             )
             for project_id, project in source_projects.items():
-                downtime_projects[project_id] = project
+                downtime_projects[project_id] = merge_source_project(
+                    downtime_projects.get(project_id), project
+                )
             downtime_projects["_luaTable"] = True
         if desired != token:
             ops.append(
@@ -893,6 +980,8 @@ def main() -> None:
         .get("table", {})
     )
     folders_after = after.get("assets", {}).get("documentFolders", {})
+    downtime_live_after = source_project_live_states(after, args.user_id)
+    session_2_doc_id = stable_id("document:Act 2/Session 2.md")
     checks = {
         "four managed Players present": all(
             spec["id"] in after.get("characters", {}) for spec in HEROES.values()
@@ -908,21 +997,28 @@ def main() -> None:
             for spec in HEROES.values()
             if spec.get("source") is not None
         ),
-        "source-backed downtime projects imported at zero progress": all(
+        "source-backed downtime project definitions synchronized": all(
             all(
-                after.get("characters", {})
-                .get(spec["id"], {})
-                .get("properties", {})
-                .get("downtimeInfo", {})
-                .get("downtimeProjects", {})
-                .get(project_id)
-                == project
+                downtime_project_definition_matches(
+                    after.get("characters", {})
+                    .get(spec["id"], {})
+                    .get("properties", {})
+                    .get("downtimeInfo", {})
+                    .get("downtimeProjects", {})
+                    .get(project_id),
+                    project,
+                )
                 for project_id, project in forge_steel_crafting_projects(
                     REPO / spec["source"], spec["id"], args.user_id
                 ).items()
             )
             for spec in HEROES.values()
             if spec.get("source") is not None
+        ),
+        "source-backed downtime live state preserved": (
+            source_project_live_states_preserved(
+                downtime_live_before, downtime_live_after
+            )
         ),
         "all Players share campaign progression": all(
             token.get("properties", {}).get("classes", {}).get("1", {}).get("level")
@@ -980,6 +1076,10 @@ def main() -> None:
             docs_after.get(doc_id) == record
             for doc_id, record in desired_documents.items()
         ),
+        "Session 2 Markdown imported": (
+            docs_after.get(session_2_doc_id)
+            == desired_documents.get(session_2_doc_id)
+        ),
         "Journal folders mirror repository": all(
             folders_after.get(folder_id) == record
             for folder_id, record in desired_folders.items()
@@ -991,6 +1091,8 @@ def main() -> None:
         print(f"{'PASS' if ok else 'FAIL'} {name}")
     if failed:
         raise RuntimeError(f"post-sync verification failed: {', '.join(failed)}")
+    print("DOWNTIME_PROGRESS_PRESERVATION_OK")
+    print("DRAW_STEEL_SESSION_2_IMPORT_OK")
     print(f"APPLIED {len(ops)} Draw Steel data operations")
     print(f"BACKUP {backup_path}")
 

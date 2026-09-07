@@ -30,6 +30,9 @@ Aim for a meaningful combat per session -- in practice, there might be a meaning
 
 Trying to pander to every player's request in a single session will come across as forced and unnatural. Aim to deliberately serve only 1-2 player requests per session, chosen for what fits the story being told, and let fulfillment of the others happen naturally and incidentally over time rather than being engineered into every session.
 
+- **A full session is three hours.** Budget opening, investigation, roleplay, encounters, and coda inside 180 minutes, including approximately 10 minutes of buffer. Give every action scene a hard stop and identify what can be compressed if play runs long.
+- **Use no more than one montage test per session.** Combine connected obstacles into one montage, then vary the remaining play with direct roleplay, individual tests, exploration, puzzles, negotiations, or encounters. Never schedule consecutive montage tests.
+
 ## Opening a Session / Act
 
 - **Start with a Bang, scaled to scope.** An act opener's inciting vignette needs gravitas proportional to the act — a citywide, high-stakes, public event, not a small personal errand. Reserve small, intimate hooks for later once stakes are established.
@@ -38,6 +41,9 @@ Trying to pander to every player's request in a single session will come across 
 
 ## Prose & Read-Aloud Style
 
+- **Player-facing information belongs in dialogue or read-aloud.** If the GM needs to explain a fact, clue, offer, institution, or situation to the players, supply ready-to-use NPC speech or read-aloud flavor text—not a long background paragraph the GM must translate at the table. Both forms count; use NPC speech for what someone can explain and read-aloud for what the heroes can observe. Readable player handouts also work for documents and notices.
+- **Keep GM notes brief and operational.** Reserve them for secrets, NPC knowledge limits, scene triggers, choices, consequences, pacing, and necessary mechanics. Do not repeat the same explanation outside the player-facing text. Keep complete inline rules and stat blocks; this is not a reason to remove information needed to run play.
+- **Write a conversation, not a lecture.** Deliver essential context without requiring players to guess a particular question, then provide short responses for likely follow-ups. Leave room for replies and unexpected approaches. Dialogue must respect the speaker's knowledge; read-aloud must not reveal hidden intentions or dictate the heroes' conclusions. Before finishing, read the player-facing text on its own: can a first-time player understand what is happening and what they can do without the GM inventing a missing explanation?
 - **Avoid on-the-nose literalisms that instruct the players how to think or feel.** Don't spell out a scene's meaning, stakes, or a character's emotional takeaway ("he is the loose end of what just happened," "this is the villain you should hate," "you feel horrified"). Describe the concrete sensory facts — what is seen, heard, felt physically — and trust the players to draw the conclusion and supply the emotion. Show, don't tell.
 - **Keep dramatic intensity around ~7.5/10, not maxed out.** Read-aloud and NPC dialogue should be evocative but restrained. Trim melodramatic tics — "Gods help you," ALL-CAPS words for emphasis, stacked triplets of adjectives, "the night that broke your life in two," portentous "…and it has been waiting" closers. Let the events carry the weight; over-purple prose reads as trying too hard.
 

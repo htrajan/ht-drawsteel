@@ -1,193 +1,128 @@
 # Capital — The City and Its Corruption
 
-> **Tags:** CANON (power structure, houses, guilds, policing model) + INVENTED (Ministry placement, specific corruption mechanics, district names below).
+> **Use:** Setting accuracy, jurisdiction, geography and the active Session 2 conspiracy. **Prepared is not played.** Read the source labels before treating a claim as MCDM lore.
 >
-> **Use when:** Establishing scene texture, explaining why authorities stonewall the party, placing civic institutions on the map, or seeding political hooks toward Minister Dury.
+> **Current Session 2:** [The Price of Protection](../Act%202/Session%202.md), 150 minutes. Corbin's warning → limited civilian work with the Gold Buttons → five assignments → Dog-leg neglect → a collector's basement → construct combat → revoked access and quiet case closure. No Steam import.
 
----
+## Sources and their limits
 
-## What Capital is (CANON)
+Research checked 7 September 2026. Priority: current published Draw Steel over older creator commentary; creator commentary over community reconstruction. Played campaign history overrides unused preparation, not published setting facts retroactively imposed on play.
 
-**CANON** — From `Rules/Chapters/The Basics.md`:
-
-Capital is the largest city in Orden — "the Greatest City in This or Any Age," west across the Bale Sea from Vasloria, on the eastern coast of Rioja. It is a city of playwrights and opera, spies and sorcery. Flying tapestries exist but are a **luxury of the wealthy**; most citizens live much like Londoners in Shakespeare's time.
-
-The city is **13 miles wide**. Transport guild **the Rasp** (Lord Kashimir) shrank effective distance for the rich with imported flying tapestries and **Kites** couriers; the poor walk, cart, and canal.
-
-Hundreds of ancestries mingle here — far more diverse than feudal Vasloria.
-
----
-
-## The Great Game (CANON)
-
-**CANON** — Capital's politics are espionage and succession, not open war (yet).
-
-### The four great houses
-
-| House | Leader | Domain | Relevance to this campaign |
-| --- | --- | --- | --- |
-| **House Alvaro** | Duke Prospero | Spies, Imperial University, Actian School (prince's historical intelligence arm) | Knows everyone's secrets; may already have files on disappearances they won't share |
-| **House Vorona** | Duke Marco Vorona | Imperial Navy, blackpowder, **Far Mariners** (marines) | Closest thing to citywide law enforcement — but they answer to Vorona, not "the city" |
-| **House Navarr** | Archbishop Orsino | Church law, Church of Saint Ysabella the Pitiless, knightly orders | "Justice" as doctrine; useful ally against cult heresy if approached correctly |
-| **House Valetta** | Duchess Lenore (vampire) | Arbitros Fiat (tax collectors); **Lilac Night** district of revenants | Dead district ruling over dead citizens; taxes still flow, oddly |
-
-### The three ascendant guilds (now great-house status)
-
-| Guild | Leader | Domain | Relevance |
-| --- | --- | --- | --- |
-| **The Fulcrum** | Lady Shirome | Assayers, Trade Integrity Board, paper money | Controls lending and trade policy; corruption often looks like "correct paperwork" |
-| **The Font** | Guildmaster Inān al-Adwiyya | Broadsheets (thrice-daily news), **Paperfeathers** delivery network | Knows almost everything happening in the city — if they dare print it |
-| **The Rasp** | Lord Kashimir (heliox from Alloy) | Flying tapestries, Kites, transport monopoly | Artisan district logistics; factory zones at the city's edges |
-
-### The dead prince (CANON)
-
-**CANON** — Three years ago the prince of Capital died at forty-one, leaving **no heir**. Circumstances are disputed (murder? assassination?).
-
-Since then, the four houses and three guilds **jockey for succession**. Everyone expects a war in the streets — but **each faction wants someone else to move first**. The city is a powder keg with every hand on the flint, afraid to spark.
-
-**INVENTED consequence:** Civic institutions that should investigate scandal instead **optimize for survival**. Auditors who live, ministers who cooperate, and captains who don't ask questions.
-
----
-
-## Why there is no "City Watch" (CANON)
-
-**CANON** — "Each great house is expected to police its own district." House Vorona's **Far Mariners** are "the closest thing Capital has to a city-wide law enforcement organization" — but they are a **naval marine corps**, not a municipal police force.
-
-**INVENTED — what PCs actually encounter:**
-
-When a session says "the Watch," it means **whoever holds authority on that street today**:
-
-- A **district watch** employed by the local house or guild (badge colors vary).
-- A **Far Mariner patrol** if the report crosses district lines or touches Vorona interests.
-- **Navarr church wardens** in temple precincts.
-- **Private security** paid by theaters, factories, or guild halls.
-
-None of these owe the party a unified answer. Reporting Aldermere's erasure to "the Watch" might mean three different captains, none of whom share jurisdiction — and all of whom have been taught that some crimes aren't crimes.
-
----
-
-## Why the guard looks the other way
-
-Three layers stack. Agents should use **one or two** in a scene, not lecture all three.
-
-### Layer 1 — Structural (CANON + INVENTED)
-
-**CANON:** Fragmented policing. No central investigative authority.
-
-**INVENTED:** The **Ministry of Revels & Public Works** controls festival permits, amphitheater bookings, and a huge slice of "public order" staffing during revels. Minister **Corvane Dury**'s people are often **first on scene** at crowd events — and they report upward, not outward.
-
-When the party says "take us to your supervisor," the supervisor's supervisor works for a **great house**, not for truth.
-
-**Table texture:** "That's the Revels Guard, blue-and-gold trim. They don't answer to the marines." / "Wrong district. Come back when someone's paying us to care."
-
-### Layer 2 — Political (CANON + INVENTED)
-
-**CANON:** Succession paralysis. Nobody wants to be the faction that destabilizes the truce.
-
-**INVENTED:** **Minister Dury** is a **consensus appointee** — useful to multiple houses because he keeps the festival economy flowing and scandals quiet. Alvaro may have kompromat; Vorona needs parade routes clear; the Fulcrum likes his treasury diversions; Navarr tolerates him because he funds cathedral restorations. **Removing Dury without proof that implicates rivals is an act of war.**
-
-Honest officers learn: pushing a ministerial investigation is a **political suicide note**.
-
-**Table texture:** A captain lowers their voice: "You think I want my name on the report that starts the succession war?"
-
-### Layer 3 — Supernatural (INVENTED)
-
-**INVENTED:** The **Author's erasures** leave **no body**. Aldermere left ash — "a pile of ash isn't a body, and ash isn't a crime."
-
-Whistleblowers don't just lose careers; they **stop having existed** in the minds of anyone the cult can reach. Watch officers who asked too many questions about "missing persons tied to the revels" have been found as empty uniforms and grey dust in alleyways. The lesson spread.
-
-**Aldermere's public unmaking** was deliberate spectacle: a warning to every honest clerk and every tired captain that daylight no longer protects you.
-
-**Table texture:** Scene 4 stonewall from Session 1 — use it once, don't belabor. The horror is systemic, not one cartoon villain guard.
-
----
-
-## Civic institutions (INVENTED placement on CANON map)
-
-### Ministry of Revels & Public Works
-
-| Field | Detail |
-| --- | --- |
-| **Minister** | **Corvane Dury** *(ADJUSTABLE name)* |
-| **Public face** | Silver-tongued patron of festivals, opera, public works; beloved |
-| **Portfolio** | Grand Amphitheater, city revels, holiday economies, permit offices, **Revels Guard** (crowd security at major events) |
-| **Patronage** | **INVENTED:** Formally under **House Navarr** (church-facing public morality) but **funded and protected** by Fulcrum ledgers and Alvaro "advisory" contracts. Dury serves many masters. |
-| **Rot** | Embezzlement, cover-ups of disappearances, cult entanglement at the **servant** level — he made a bargain he no longer fully controls |
-| **Act role** | High rung the party **cannot touch yet**; Session 1 names him via Kell, not via arrest |
-
-**Geography — INVENTED:**
-
-- Ministry headquarters: **Gilded Ward** (administrative spine near the Amphitheater).
-- Dury's private offices overlook the **Grand Amphitheater** — he likes to watch the stage from above.
-
-### Bureau of Accounts
-
-| Field | Detail |
-| --- | --- |
-| **Known figure** | **Vesk Aldermere** — senior auditor *(ADJUSTABLE)*; **unmade Session 1** |
-| **Public face** | Dry, incorruptible civil service; the people who make the Fulcrum's paper money mean something |
-| **Portfolio** | Audit city ministries, trace treasury flows, investigate " discrepancies" |
-| **Patronage** | **INVENTED:** Technically independent but **Fulcrum-adjacent** — Lady Shirome's Trade Integrity Board relies on audited numbers. That gives auditors teeth *and* makes them enemies of anyone cooking books for the great houses. |
-| **Act role** | Aldermere's death proves the rot is lethal; her **evidence cache** is a macguffin for mid-Act sessions |
-
-**Geography — INVENTED:**
-
-- Bureau offices: **Ledger Lane**, a clerks' quarter one canal bridge from the Fulcrum. Grey stone, no banners — deliberately boring.
-
-### Grand Amphitheater
-
-| Field | Detail |
-| --- | --- |
-| **CANON tone** | Capital = theater city |
-| **INVENTED history** | Built atop **The Gilded Lantern**, a smaller playhouse (see [`Dorian and the Vanished Audience.md`](Dorian%20and%20the%20Vanished%20Audience.md)). White stone tiers encase the old wooden stage; the **stage boards and footprint are unchanged**. |
-| **Act role** | Session 1 inciting site; Dorian's private recognition beat |
-
----
-
-## District sketch (INVENTED — for scene placement)
-
-Capital is 13 miles wide; this is a **Director's shorthand**, not exhaustive canon.
-
-| District | Character | Who polices |
+| Source | What it supports | Limit |
 | --- | --- | --- |
-| **Gilded Ward** | Amphitheater, ministry offices, parade routes | Revels Guard + Navarr wardens |
-| **Ledger Lane** | Clerks, Bureau, Fulcrum adjacency | Fulcrum contract security |
-| **Canal Verge** | Markets, noodle-houses, cheap lodging (party's likely first rooms) | Mixed; weakest oversight |
-| **Artisan Rim** | Factories including **Levitating Carpet Spooling Factory** | Guild-hired guards; Rasp cart traffic |
-| **Harbor Crown** | Docks, Vorona influence | Far Mariners |
-| **Lilac Quarter** | Valetta's revenant district | House Valetta; avoid unless plot demands |
-| **University Spire** | Alvaro, Imperial University, Actian alumni | Alvaro agents, student informants |
+| **Draw Steel: Heroes**, local [The Basics — Capital](../../Rules/Chapters/The%20Basics.md#capital) | Prince died three years ago at forty-one without an heir; four noble houses and three guilds with Great House status; succession tension; institutional roles; fragmented policing; tapestries for the wealthy; city 13 miles wide | Does not supply a complete district list, police procedure manual, elected MPs, or a citizen-deputy program |
+| **Matt Colville's own answer**, [Guards in Capital, November 2020](https://www.reddit.com/r/mattcolville/comments/jrnict/guards_in_capital/) | Limited Prince's seals, stopped annual increases after the Prince died; district guards are knights; Gold Buttons on the Stays, Red Falcons on the Pellet, the Word in another district; distinct private guards and bounded authority | Older Chain-era creator explanation, not new text in Draw Steel. Use the comment by **mattcolville**, not conflicting replies beneath it |
+| **MCDM Wiki**, [The Stays](https://mcdm.fandom.com/wiki/The_Stays) | Identifies Dog-leg as poor residential, Foxes as wealthy residential; lists Shavings, Roses, Piazza and Scales; reports Fulcrum governance | **Secondary reference**, not a published gazetteer. No verified ranking of the single poorest district. Do not call all the Stays a slum |
+| **MCDM**, [The Chain, episode 8: Arrival](https://www.mcdmproductions.com/mcdm-presents-podcast/2019/03/the-chain-ep-8-arrival) | Primary episode identified by the wiki's reference; official episode listing verified through MCDM's podcast feed | The four-hour audio was not independently transcribed in this research. It is a provenance pointer, **not independent verification of each wiki district detail** |
+| **Community**, [All 57 Districts of Capital (not canon)](https://www.reddit.com/r/mattcolville/comments/ljl7wq/) | Demonstrates that a tempting detailed fan gazetteer explicitly contains substantial homebrew | **Not used as canonical geography** |
 
----
+**Unverified terms:** No supporting current rule text or creator source was found for an elected “district MP” or a universal citizen-deputy system. Session 2 keeps those dramatic functions through a **campaign-created appointed district commissioner** and **limited local civilian assistance**, not a newly asserted parliament. Likewise, the Bureau of Accounts, Ministry of Revels & Public Works and Peacekeepers' Office are campaign institutions, not organizations established by the cited Capital passage.
 
-## What "corruption in Capital" means in this campaign
+**Geographic caution:** The Chain wiki gives the Stays an older 21-mile length; current Draw Steel calls Capital 13 miles wide. Do not combine those into a precise scaled travel map. Use current published city scale and brief narrated travel. The session uses **the Dog-leg as a sourced poor district**, not a claim to have verified “the slummiest district in Capital.”
 
-**Public layer:** Graft, diverted funds, missing people tied to revels, guards who won't file reports.
+## Published Capital, at table scale
 
-**Director layer:** A **service** sold to the powerful — **unwrite your problems** — powered by cult **the Unwritten** and the **Author**. Minister Dury is a **client and shield**, not the source. The Author is the source.
+Capital stands on Rioja's eastern coast, west across the Bale Sea from Vasloria. It is Orden's greatest metropolis: theatre, opera, espionage and magic amid ordinary work, crowded streets and unequal wealth. Flying tapestries are expensive transport, not something every resident can afford. [Published source](../../Rules/Chapters/The%20Basics.md#capital).
 
-The party's Act 2 arc: gain **renown and civic standing** until they can investigate Dury without being erased, while Demona maps the psionic infrastructure and Dorian's past — **witness to the first erasure, wrongly murdered, revenant** — illuminates why the Author cares.
+### The succession
 
----
+The Prince died **three years ago, aged forty-one**, with no heir or likely successor. The cause is unresolved; rumor is not proof. Seven powers compete while fearing a succession war in the streets, each preferring another faction to start it. This—not Kell's obscure death—is the background political instability. The session's rising complaints and recruiting effort are **invented local consequences** of that published situation.
 
-## Rumor mill (Public layer — safe for sessions)
+### The seven powers
 
-Offer freely, no rolls:
+| Power | Published leader | Published domain |
+| --- | --- | --- |
+| Alvaro | Duke Prospero | Imperial University; Actian School, historically the Prince's intelligence arm |
+| Vorona | Duke Marco Vorona | Navy, blackpowder, Far Mariners, Imperial War College and its alumni network |
+| Navarr | Duke / Archbishop Orsino | Church of Saint Ysabella the Pitiless, church law and knightly patronage |
+| Valetta | Duchess Lenore | Arbitros Fiat tax collectors; revenant population after the Lilac Night |
+| Fulcrum | Lady Shirome | Assayers; Trade Integrity Board; lending/trade policy and paper money |
+| Font | Inān al-Adwiyya | Thrice-daily broadsheets and Paperfeathers |
+| Rasp | Lord Kashimir, heliox from Alloy | Transport monopoly, flying tapestries and Kites couriers |
 
-1. The prince's death and the succession — everyone has a theory, nobody has proof.
-2. Paper money makes fortunes overnight; so do the people who know which ledgers to burn.
-3. The Grand Amphitheater is cursed — actors whisper about a "bad draft" of a play that emptied a house decades ago.
-4. People who cross the Ministry of Revels "have a way of not being missed."
-5. Far Mariners are incorruptible — **mostly**. The ones who weren't are gone.
-6. Lady al-Adwiyya's Paperfeathers see everything; the broadsheets print almost nothing.
+The three guilds bought Great House status; they are not simply departments of the noble houses. Nobles welcome people earning a living, owning property and expecting justice while reserving rule for themselves. Guilds are more egalitarian but intensely wealth-driven. Individual officials can betray those ideals without every member knowing or endorsing their conduct.
 
----
+## Policing: who can actually do what?
 
-## Hooks for future sessions
+**Published:** Each Great House is expected to police its district. Vorona's Far Mariners are the nearest thing to a citywide law-enforcement organization, but are a house's marines, not neutral municipal police. This does not mean every jurisdiction must refuse them under every circumstance.
 
-- A **Fulcrum auditor** offers the party quiet help — if they can recover Aldermere's numbers without saying her name aloud.
-- A **Navarr censor** wants heresy evidence, not political scandal — different goal, overlapping target (the cult).
-- A **Vorona Far Mariner** captain was Aldermere's last ally; she's been transferred to Harbor Crown "for her own good."
-- **House Alvaro** "invites" the party to tea — they want to know what Demona felt in the Amphitheater.
+**Creator explanation, Chain era:** Colville distinguishes public district guards from chartered private security. His examples give the **Gold Buttons** authority on **the Stays**, including arrest, jails and work with courts. Their Prince's seals are limited; the annual increase stopped with his death. Existing appointments/seals can change hands. Having a seal does not necessarily make a person a guard. Private guards can use force and detain within their limited remit; they do not inherit unrestricted authority across Capital. [Colville's explanation](https://www.reddit.com/r/mattcolville/comments/jrnict/guards_in_capital/).
 
-See [`The Quiet Resistance.md`](The%20Quiet%20Resistance.md) for named NPCs and crossing triggers.
+**Campaign application:** The **Ledger Lane Peacekeepers' Office** is a complaints and investigative office in the Gold Buttons' organization on the Stays. “Peacekeeper” remains Corbin's familiar job description. This clarifies unused institutional preparation; it does not change the heroes' actual meeting with him at the Amphitheater.
+
+- Melvin investigates Vesk as a Stays resident and requests cooperation at the crime venue. He is not every district's commander.
+- **Lieutenant Hanae Petrovic** receives complaints and arranges civilian assistance.
+- **Superintendent Aurelio Montavere** controls this office's assignments and access; his refusal is not a ruling by every Great House.
+- **Citizen deputies** is a local nickname for civilians with signed work letters. They get open complaint summaries, practical introductions and permission to help with defined assignments. No Prince's seal, citywide weapon license, search warrant, universal arrest power, or immunity.
+- The eventual cancellation affects these work letters and this office. Other institutions and existing permissions remain separate.
+
+### How the Prince's death leads to civilian recruitment
+
+**Campaign interpretation built on the sources above, not a published deputy program:**
+
+1. **Death without an heir:** Three years of unresolved succession turn the seven powers' rivalry toward who will rule Capital. This is published setting, not a consequence of Kell's death.
+2. **Rivalry reaches ordinary streets:** In this campaign, arguments among supporters increasingly become fights at markets and ferry landings. A returning patrol and a shopkeeper's broken window make that unrest visible in Session 2. These incidents do not establish that the houses ordered attacks or that open war has begun.
+3. **The existing guard is stretched:** Patrols spend more time separating crowds and dealing with violence, leaving theft reports, complaints and neighborhood disputes waiting. Ignored grievances then give people more reasons to quarrel. These are concrete local consequences, not claims that policing has ceased across Capital.
+4. **Recruiting more sworn guards has a ceiling:** Colville says the annual increase in Prince's seals stopped when the Prince died. Existing vacancies can still be filled; the point is that the authorized force cannot simply expand to match the new workload.
+5. **The office hires limited civilian help:** Helpers hear complaints, mediate disputes and gather information for officers. This reduces neglected work while leaving arrests and formal enforcement with the sworn guard. Signed work letters are not newly minted seals or universal police powers.
+
+Corbin explains this connection in the initial private conversation, before the office visit; it is not optional lore gated behind the players asking about the Prince. The work exists independently of the heroes and offers a credible reason to admit them. Their access to open reports is a practical tool for doing that work, not a favor Corbin can grant at will. At the office, the returning patrol confirms what he described; Hanae handles permissions and payment without repeating the background.
+
+The staffing problem is real; the Vesk cover-up is a separate choice by the superintendent. A shortage does not explain refusing new witnesses. Let the heroes feel the contradiction between an office asking them to investigate neglected complaints and its refusal to let them help with this death.
+
+## Geography used now
+
+**Older Chain names, secondary-source confidence:** [The Stays reference](https://mcdm.fandom.com/wiki/The_Stays). Only use the compact functional descriptions; all scene-specific buildings and conditions below are invented.
+
+| Area | Reference description | Campaign location or use |
+| --- | --- | --- |
+| Dog-leg | Poor residential district | Cistern Steps water queue; repair neglect; commissioner's public office |
+| Foxes | Wealthy residential district | Bellafonte's house, fountain and basement collection |
+| Shavings | Commercial district | Ledger Lane office placement; wrong-job costume warehouse |
+| Roses | Commercial district with tanneries | Wrong-job drain inspection |
+| Piazza / Promenade | Commercial area with the Exchange and customs | Wrong-job stall dispute |
+| Scales | Fishing-related commercial area | Background; not a sixth assignment |
+
+**Ledger Lane and Cistern Steps are invented streets/neighborhoods**, not additions passed off as official named districts. The earlier Gilded Ward, Canal Verge, Artisan Rim, Harbor Crown, Lilac Quarter and University Spire labels were campaign shorthand. They are not an authoritative Capital map. Preserve any location already established in play; do not move the tavern, Amphitheater or factory just to fit new preparation. In particular, **Lilac Night names an event**, not a published district called Lilac Quarter.
+
+## The local corruption — invented, Director only
+
+### Commissioner Ottaviano Bellafonte
+
+A Fulcrum-appointed district representative overseeing repair approvals and petitions in the Dog-leg. **Campaign-created office, not a verified elected MP.** People blame him because he signs the work complete and refuses further repairs. His office is public; private business is conducted at his Foxes house. There, his collection doubles as magical security.
+
+He knowingly signs false pump inspections in return for expensive gifts. The missing repair money finances wealthy clients' fountains and sheltered carriage/tapestry waiting places as well as supplies at the factory. **Neglect has human consequences:** neighbors spend time and earnings obtaining water and organizing safe queues.
+
+Bellafonte need not have arranged Vesk's death. His culpability is concrete and sufficient: false approvals, bribes, and attempted murder when confronted.
+
+### The indirect route toward Dury
+
+**Bellafonte → broker Rudiger Fenwick → Civic Loomworks and Festooning → Comptroller Baldo Merovanni → Minister Corvane Dury.**
+
+The first three links can be established in Session 2. The latter two remain Director-only preparation. Fenwick handles gifts, invoices and signatures for the contractor; he knows its office and company officers, not the minister's private instructions. Merovanni handles grants from the **Ministry of Revels & Public Works**. This chain distributes knowledge rather than making every captured functionary name the final culprit.
+
+The Ministry is an **invented festival/public-works institution with negotiated patronage**, not a supreme government over all seven powers. Earlier specific claims that Navarr formally owns it or every event guard answers to it were optional preparation, not established canon. Dury's precise political protections can be developed through later evidence. His involvement is not yet known to the party, and he is not untouchable by narrative decree.
+
+**Civic Loomworks:** An invented contractor receiving public money. Earlier invoices paid for oil and thread-coating supplies at the Levitating Carpet Spooling Factory. A **new** order sends civilian workers to board it after damage is reported this morning. No guard post existed when the heroes arrived in Session 1. Nor does this new order establish that all workers know the cult.
+
+### Bureau of Accounts and Vesk Aldermere
+
+Campaign-created auditing institution; Vesk's occupation and murder belong to played continuity. New Session 2 evidence establishes that six days before her hearing she requested repeated complaints about public repairs recorded as finished. This is an ordinary investigative trace, not a recreated copy of her lost speech or evidence of who unmade her.
+
+### Quiet closure, not public amnesia
+
+Montavere blocks additional witness interviews and closes her case as **“unexplained disappearance.”** Corbin is dismissed after continuing to help; office access is canceled. These are **prepared Session 2 consequences**, not events already recorded.
+
+There is **no public announcement**. The public still witnessed her death; the cover-up relies on institutional refusal and attention drifting, not a compulsory memory effect. If the party publicizes evidence, that changes the opposition the attempted cover-up faces. Other officers can accept theft evidence, honor a separately funded reward, or help through their own institutions without the murder inquiry reopening automatically.
+
+## Money and institutions are not universal traps
+
+The local civilian-assistance program offers ordinary wages for ordinary work and an explicitly invented Fulcrum-funded reward for verifiable civic-fraud evidence. Full completion awards **+1 Wealth per hero**, not divided among the party. Funds are separate from Montavere's investigation budget; a canceled work letter does not cancel an earned claim. Hanae can verify evidence and arrange payment outside the closed inquiry.
+
+The Font remains an unraided, independent newsroom. No current commission, mandatory audience or patron choice is scheduled. Heroes may contact it—or any appropriate house or guild—on their own initiative. Preserve a decision to publish; do not erase it to force a quiet ending.
+
+## Preserved mysteries
+
+The Grand Amphitheater incorporates the old Gilded Lantern stage to the extent established in Session 1. Dorian's audience was erased, he was wrongly murdered afterward, and why he survived the original erasure remains unresolved. The Author's body, location, cosmology and exact role remain unknown. Demona's political career can inform practical choices without defining her disgrace.
+
+See [Narrative](../Narrative.md), [NPC directory](NPC%20and%20Faction%20Directory.md), [Dorian](Dorian%20and%20the%20Vanished%20Audience.md), and [The Author](The%20Author%20and%20the%20Unwritten.md).

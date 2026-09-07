@@ -1,8 +1,8 @@
-# Overview
+# Campaign Narrative
 
-This document should serve as the narrative record of the campaign and should be referenced often when crafting new session artifacts to make sure they are serving the correct overall purpose of driving a singular narrative.
+Separate **played history** from **prepared sessions**. A run-sheet branch or proposed revelation is not an event unless the table actually experienced it. Preserve player-owned history.
 
-# Synopses
+# Played record
 
 ## Act 1: The Delian Tomb (levels 1-3)
 
@@ -10,46 +10,62 @@ The heroes started in the town of Broadhurst and rallied to a cry for help to sa
 
 ## Act 2: Corruption in Capital
 
+### Session 1 — The Revenant's Reckoning
 
+The heroes arrived in Capital without the civic standing they earned in Broadhurst. They witnessed **Vesk Aldermere** publicly erased into ash at the Grand Amphitheater. Dorian recognized the erasure pattern and the old playhouse stage beneath the larger venue; his audience vanished while he was on stage, and bereaved people wrongly murdered him afterward. Why he alone survived the erasure remains unresolved.
 
-### Session 1: The Revenant's Reckoning
+The investigation followed the relay **Pell Quist** toward the **Levitating Carpet Spooling Factory**. During a return visit to the Amphitheater the heroes met **Detective Melvin Corbin**. They subsequently defeated **Vharos Kell** and his Unwritten cell at the factory; Kell is dead in ash. They learned about the **Author** at a high, vague level.
 
-The season's central beat is the heroes' arrival in Capital as unknowns, and their first brush with the true nature of the city's rot — a corruption that is not merely political graft but something that can erase a person from existence. This session opens in the action, hooks Dorian's buried origin, gives Demona's psionics a decisive role, and ends on a combat that names the enemy.
+**Current endpoint:** The party remains in Capital following the factory confrontation. There has been no realm crossing or respite. Keep actual Stamina, Recoveries, Victories, and any resources spent in play.
 
-#### Beat 1 — A City in Motion (cold open, exploration)
+**Confirmed knowledge boundary:** The heroes do not know Dury is involved. Kell did not name him in played Session 1; the old optional reveal was unused preparation. Discovering his involvement is a central Act 2 mystery, not an already-established lead.
 
-The heroes emerge from their modest lodging (they are nobodies here; no one has heard of Broadhurst or the Goblin Queen) to find the streets flowing one direction. Half of Capital seems to be heading toward the Grand Amphitheater — the city's largest venue, which doubles as its public forum. This is not a recurring civic ritual but a **one-off reckoning**: a city auditor named **Vesk Aldermere** (name adjustable) has publicly announced that today, before the whole city, she will lay out evidence of grave misconduct by someone in a high seat of power. The crowd's energy is electric — anticipation, dread, the sense that something irreversible is about to happen. The heroes have no stake in it yet; they're simply swept along by the tide of the city, an ideal low-pressure way to let the players gawk at Capital and establish "we are small here."
+**Record-sensitive details:** The exact chase result, what Demona sensed, any words Kell spoke about the Unwritten Dark, how the tear was closed, and which props were recovered must come from the table record. Do not assume every prepared speech, private revelation, or branch occurred.
 
-#### Beat 2 — The Snap (inciting incident, no roll)
+# Prepared, not played
 
-The heroes reach the Amphitheater as Aldermere takes the stand. She begins to name her target — and before the accusation lands, she is **snapped out of existence**: no blood, no wound, no scream. One instant she is there mid-sentence, the next she is simply gone. The crowd erupts in panic.
+## Session 2 — The Price of Protection
 
-Two things happen simultaneously and privately to two heroes:
+**Prepared, not played:** 150 minutes, one planned construct combat, zero montages, no respite or Steam import. [Run sheet](Act%202/Session%202.md).
 
-- **Dorian (Wes):** He knows this. This is *exactly* what he witnessed the night his audience vanished — the same silent, total erasure. He was **on the stage that night, not in the seats** — the audience was unmade; **he was murdered afterward** by bereaved who wrongly blamed him *(player canon)*. And worse: he recognizes the **stage itself**. This grand multi-purpose Amphitheater was, years ago, a far smaller playhouse — the very stage he performed on that night. The bones of the old venue are still here, the stage virtually unchanged beneath the grandeur built up around it. His trauma didn't just follow him to Capital; it *originated* here.
-- **Demona (Lesley):** Her psionic senses lock onto the disturbance and **pinpoint its source** in the fleeing crowd — the erasure carried a psychic signature, and the one who caused it is themselves gifted in psionics. She can feel exactly where they are and that they're now trying to slip away.
+The morning after the factory, Corbin sends an indirect invitation to a private meeting. His superintendent wants Vesk's death treated as a disappearance and the investigation stopped. Corbin suggests the office's request for civilian help as a way to ask questions and see the obstruction firsthand.
 
-#### Beat 3 — The Chase (hot start, montage test — specifics TBD)
+In the initial private conversation, Corbin explains that the Prince's death three years ago left no heir, and the contest to rule now fuels more street fights among rival supporters. Officers pulled into these disturbances cannot follow up ordinary complaints; the stopped increase in Prince's seals prevents simply expanding the sworn force. The office therefore pays civilian helpers to hear complaints, mediate disputes and gather information, freeing guards for violence and arrests. Corbin presents that genuine need as the heroes' opportunity to get inside the office. Later, a returning patrol and a shopkeeper's broken window confirm his account; Hanae explains work letters, access and payment without repeating the history. The opening gives fifteen minutes to Corbin and fifteen to the office, retaining the 150-minute total. The incidents and program are campaign inventions grounded in the published succession crisis and Colville's older explanation of guard seals. The shortage is genuine; suppressing Vesk's case remains a separate deliberate choice.
 
-Demona's read turns panic into pursuit. The heroes chase the psionic source through Capital's crowded streets and across its rooftops — a **montage test** (a chase with real stakes and a deadline, per the montage rules; success/failure limits and individual test framing to be built later). Outcomes:
+The Ledger Lane Peacekeepers' Office is prepared as a local Gold Buttons office on the Stays, not a citywide police headquarters. The Gold Buttons are supported by Colville's older creator commentary; the office and limited civilian-assistance program are campaign inventions. The heroes receive work letters, not knighthoods or universal warrants. A helpful lieutenant, Hanae Petrovic, contrasts with Superintendent Aurelio Montavere's refusal to accept further Vesk interviews.
 
-- **Total / partial success:** The heroes corner the individual in an alleyway. As they close in, Demona — straining — *barely* detects the truth: this person is **being mind-controlled**. They are not the perpetrator but a **signal relay**, a living antenna rebroadcasting a psionic signal from somewhere else. Whatever the heroes do, the connection severs and the relay collapses, but they've confirmed the real enemy is elsewhere and is orchestrating this remotely.
-- **Failure:** The heroes reach the alley too late. All that remains is a **pile of ash** — the same fate that took Aldermere and Dorian's audience. Searching the ash (or the wind scattering it) reveals a note buried beneath: *"Levitating Carpet Spooling Factory. Sundown. Come alone to receive your reward."*
+Five genuine assignments include four unrelated jobs and one routine patrol of Cistern Steps in the Dog-leg. Comparing repeated complaints, claimed repair completion and dates points toward the patrol; Corbin can help. Wrong choices have short, playable interludes without secret investigation progress. The Dog-leg is a poor residential district in the Chain reference, not verified as Capital's single poorest district.
 
-Either branch delivers the same lead — a time and place — so the session can't stall. On success the heroes learn the "reward" invitation from interrogating/reading the relay's compulsion or effects; on failure they read it off the note. The relay/ash also carries the invitation on the mind-controlled individual's person regardless, so both paths converge on the factory at sundown.
+There, residents still buy water beside a pump declared replaced. Maribel Ochoa shows their repeated complaints; stoneworker Terenio has a delivery slip connecting the same repair payment to an ornamental fountain in wealthy Foxes. Residents blame Commissioner Ottaviano Bellafonte, whose signature approves the absent work. His appointed office is invented for this campaign, not a canonical elected MP.
 
-#### Beat 4 — Aftermath & Recognition (roleplay beat)
+Open-ended access leads from Bellafonte's public office to his basement collection in Foxes. The heroes can watch deliveries, approach as visitors or restorers, enlist help, or force a confrontation. Bellafonte and broker Rudiger Fenwick exchange gifts, false approvals and invoices. These connect the diverted funds to Civic Loomworks and earlier factory supplies; today's boarding order follows the factory confrontation and does not invent earlier guards.
 
-Deliberate breathing room for the table before the finale. Dorian confronts, aloud or privately, that the thing that unmade his audience is here, is active, and is tied to this exact stage. Give the players space to react — to Dorian's revelation, to the horror of a killing that leaves nothing behind, to the choice of whether to walk into an obvious trap "alone." This is the session's emotional center and the payoff hook for Dorian's origin *without* resolving it (that resolution is deferred to later in the Act, once the heroes have stature). Let the party decide how they approach the factory and who, if anyone, they trust with what they've learned.
+When confronted or discovered, Bellafonte tries to activate armor, marble lions and clockwork attendants while fleeing with Fenwick. Initiative begins before activation. Preparation can secure evidence, change positions, disable the control or prevent the attack; neither detection nor escape is forced. One Hard encounter has a five-round emergency-charge clock and ends early if the Gilt Marshal falls or the party evacuates with evidence.
 
-#### Beat 5 — The Levitating Carpet Spooling Factory (climactic combat — specifics TBD)
+Corroborating the false completion and diverted payment earns **1 investigation Victory**; overcoming the collection and retaining usable evidence earns **2 Victories**, for **3 maximum**. A verifiable civic-fraud submission earns **+1 Wealth to each hero** from a separately funded reward, even if future work access is canceled. These rewards are prepared, not awarded; ingenuity that genuinely resolves the threat earns the same encounter reward.
 
-Cut to sundown at the derelict/working factory. The "reward" is a trap: a **cult** operating in Capital's underbelly, in service to (and channeling) an **extraplanar power** that grants the erasure ability. The encounter is a **medium-large fight** tuned for a **3rd-level Fury (Mac), Tactician (Keth), Null (Demona), and Troubadour (Dorian)** — a mix of cultist ranks/minions (giving Keth's Tactician AOE-and-order playstyle targets) and one or more extraplanar beings as the real threat. Exact roster, stat blocks, terrain, and Malice budget to be built later. The fight should end the session with the enemy faction *named or nearly named* — a calling card, a symbol, a spoken name — so Wes finally has something concrete to hate.
+The intended aftermath removes access to this office and dismisses Corbin. Vesk's case is officially closed as **“unexplained disappearance,” with no public announcement**. No public memories or privately retained evidence are erased. Captures, publication, lawful receipts and genuinely successful interventions must shape the outcome. The party has residents' trust, checkable evidence and the contractor's office as a next lead—not universal outlaw status.
 
-#### Hooks — into the Act and the Campaign
+**Director-only longer chain:** Bellafonte → Fenwick → Civic Loomworks → Baldo Merovanni → Dury. Session 2 exposes the first links only; the minister's involvement, the Author's nature and Dorian's unanswered questions remain unrevealed.
 
-- **Act 2 ("Corruption in Capital"):** The reckoning establishes that Capital's corruption is protected by something willing and able to erase whistleblowers from reality. The auditor's unfinished accusation — *who* she was about to name — becomes an ongoing thread: a powerful figure in the city is entangled with the cult/extraplanar power. The heroes' arc across the Act is to rise from nobodies to figures of real civic standing, gaining the stature needed to touch that high-seated culprit.
-- **Dorian (long-game payoff):** The Amphitheater/old-playhouse connection makes his origin *native* to Capital and to this cult's activity. His full payoff is intentionally deferred until the party has established itself; this session only proves the mystery is alive and personal.
-- **Demona / psionics thread:** Her ability to perceive and track psionic phenomena is established as plot-critical, not a combat afterthought. The "relay" concept opens a broader mystery — a psionic network the enemy uses — that her gifts are uniquely suited to unravel.
-- **The extraplanar angle (Mac / lore thread):** The extraplanar beings seed the wider cosmology (Vasloria / Orden / the Timescape) for later exploration, to be paid off naturally rather than forced.
+### Complete only after play
 
+- Corbin meeting; information shared; office obstruction witnessed:
+- Work letters accepted or declined; agreed limits:
+- Assignment choices, deductions and unrelated acquaintances:
+- Dog-leg residents helped; testimony and documents retained:
+- Demona's chosen identity/contact:
+- Private access, observations and preparation:
+- Collection disabled / fought / escaped; actual fugitives and captures:
+- Investigation Victories 0 / 1; encounter Victories 0 / 2:
+- Wealth +0 / +1 each, or earned payment pending:
+- Access cancellation, Corbin's employment and case classification:
+- Any public disclosure, prisoners' disposition and chosen next lead:
+
+## Deferred material — The Ash Ledger
+
+The [preserved outline](Act%202/Deferred%20-%20The%20Ash%20Ledger.md) offers optional future contacts: **Oria Palomar**, **Elodie Quintero**, **Sabine Corda**, and **Baldo Merovanni**. None is automatically met or revealed in this session; Merovanni remains a Director-only upstream link. The relief account, memorandum, and negotiation are possible later developments, not guaranteed history or a fixed next session.
+
+## Superseded preparation
+
+The abandoned realm visit, retained-witness explanation, embodied-Author reveal, and permanent-world choice were not played. Historical drafts are preserved outside Campaign in `Drafts/Superseded/Caldris/`. They impose no current campaign destiny. Demona's disgrace and Dorian's unanswered questions remain player-owned and unresolved.

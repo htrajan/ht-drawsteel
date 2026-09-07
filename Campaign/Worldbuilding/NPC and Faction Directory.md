@@ -1,102 +1,97 @@
 # NPC and Faction Directory
 
-> **Quick reference for session-building agents.** Check here first when populating a scene. For detail, follow the **Detail doc** link.
+> **Status matters:** PLAYED/met or dead comes from the table record. PREPARED means not yet encountered unless the Director records otherwise. Published faction leadership is setting background, not proof that a leader knows the heroes.
 >
-> **Status key:** `Active` = available in play | `Dead` = unmade / killed | `Canon` = from Draw Steel rules, not invented
+> **Current Session 2:** Corbin's warning, temporary work with his Gold Buttons office, the Dog-leg's neglected repairs, and a commissioner's animated collection. One planned combat, no patron commitment. Access cancellation and Corbin's dismissal are prepared consequences, not yet played.
 
----
+## Played Session 1 and player-owned history
 
-## Session 1 — dramatis personae
+| Name | Affiliation | What is established | Status | Reference |
+| --- | --- | --- | --- | --- |
+| **Vesk Aldermere** | Bureau of Accounts | Publicly erased into ash at the Amphitheater | Dead, S1 | [Narrative](../Narrative.md) |
+| **Pell Quist** | Relay/victim, not mastermind | Investigation led toward the factory; use actual chase outcome for what the heroes perceived | Dead, S1 | [Author](The%20Author%20and%20the%20Unwritten.md) |
+| **Vharos Kell** | The Unwritten | Obscure Curator defeated at the factory; no civic power vacancy follows | Dead in ash, S1 | [Session 1](../Act%202/Session%201.md) |
+| **Detective Melvin Corbin** | Ledger Lane Peacekeepers | Vesk's investigator; met on the return visit to the Amphitheater | Already met | [Session 2](../Act%202/Session%202.md) |
+| **Dorian Ashveil** | Party; devil-kind revenant tactician | Audience erased; wrongly murdered afterward; reason for survival unresolved | Player-owned history | [Dorian](Dorian%20and%20the%20Vanished%20Audience.md) |
+| **Demona** | Party; female devil null, former Capital politician | Her disgrace remains player-owned and unresolved | Player-owned history | [Narrative](../Narrative.md) |
 
-| Name | Tag | Allegiance | Public face | Secret / Director | Status | Detail doc |
-| --- | --- | --- | --- | --- | --- | --- |
-| **Vesk Aldermere** | INVENTED | Bureau of Accounts | Incorruptible auditor | Had proof vs Dury; daylight strategy | **Dead** (unmade S1) | [Capital](Capital%20-%20The%20City%20and%20Its%20Corruption.md) |
-| **Minister Corvane Dury** | INVENTED | Ministry of Revels & Public Works; House Navarr (nominal) | Beloved minister of festivals | Cult **client**; can't escape bargain | Active | [Capital](Capital%20-%20The%20City%20and%20Its%20Corruption.md), [Author](The%20Author%20and%20the%20Unwritten.md) |
-| **The Author / Impresario** | INVENTED | The Unwritten Dark | N/A (unseen) | Psionic void-intelligence; feeds on erasure | Active (remote) | [Author](The%20Author%20and%20the%20Unwritten.md) |
-| **Pell Quist** | INVENTED | None (victim) | Ticket clerk | **Relay** for Author signal | **Dead** (unmade S1) | [Author](The%20Author%20and%20the%20Unwritten.md) |
-| **Vharos Kell** | INVENTED | Cult **the Unwritten** | Archivist / "Curator" | Zealot; lured party for Author | **Dead** (ash S1) | [Author](The%20Author%20and%20the%20Unwritten.md) |
-| **Dorian** | PC | Party | Revenant tactician / player | Witness to audience erasure; wrongly murdered by bereaved; revenant | Active | [Dorian](Dorian%20and%20the%20Vanished%20Audience.md) |
+## Active mysteries and existing preparation
 
----
+| Name | Affiliation | Current boundary | Status | Reference |
+| --- | --- | --- | --- | --- |
+| **The Author / Impresario** | Unwritten claims and unseen presence | No confirmed identity, body, physical location, or world-making | Known only vaguely; not encountered in person | [Author](The%20Author%20and%20the%20Unwritten.md) |
+| **Minister Corvane Dury** | Ministry of Revels & Public Works | Director-only antagonist preparation; the heroes have not learned his involvement and Kell did not name him | Unrevealed in the investigation; not a known party suspect | [Capital](Capital%20-%20The%20City%20and%20Its%20Corruption.md) |
 
-## Quiet resistance
+## Session 2 — prepared contacts and opposition
 
-| Name | Tag | Allegiance | Public face | Secret / Director | Status | Detail doc |
-| --- | --- | --- | --- | --- | --- | --- |
-| **Captain Sera Marche** | INVENTED | House Vorona / Far Mariners | Incorruptible marine captain | Aldermere's ally; ash = murder | Active | [Resistance](The%20Quiet%20Resistance.md) |
-| **Inān al-Adwiyya** | CANON+INV | **The Font** | Guildmaster, broadsheets | "Morgue" of killed stories | Active | [Resistance](The%20Quiet%20Resistance.md) |
-| **Mira Tallow** | INVENTED | Paperfeathers / Font | Street seller, 15 | Gran's Lantern ticket stub; fuzz target | Active | [Resistance](The%20Quiet%20Resistance.md) |
-| **Censor-Lector Thane Voss** | INVENTED | House Navarr / Church of Saint Ysabella | Heresy hunter | Links cult corruption to 20-yr archive | Active | [Resistance](The%20Quiet%20Resistance.md) |
-| **Oria Bent** | INVENTED | Bureau of Accounts | Junior auditor | Aldermere's cipher caches; forgetting her face | Active | [Resistance](The%20Quiet%20Resistance.md) |
-| **"Ink" Kellan** | INVENTED | Imperial University (Alvaro orbit) | Margin lecturer | Knows "Unwritten Dark" term; Actian reject | Active | [Resistance](The%20Quiet%20Resistance.md) |
+All new people and incidents below remain **unplayed**. The office, appointments and jobs are invented within the sourced district-policing model.
 
----
-
-## Great houses (CANON leadership)
-
-| Name | Tag | Allegiance | Public face | Secret / campaign relevance | Status | Detail doc |
-| --- | --- | --- | --- | --- | --- | --- |
-| **Duke Prospero** | CANON | House Alvaro | Spymaster patron of University | May have files on disappearances | Active | [Capital](Capital%20-%20The%20City%20and%20Its%20Corruption.md) |
-| **Duke Marco Vorona** | CANON | House Vorona | Navy, Academy | Far Mariners = nearest to city watch | Active | [Capital](Capital%20-%20The%20City%20and%20Its%20Corruption.md) |
-| **Archbishop Orsino** | CANON | House Navarr | Church law | Dury's nominal patron; Voss's chain | Active | [Capital](Capital%20-%20The%20City%20and%20Its%20Corruption.md) |
-| **Duchess Lenore** | CANON | House Valetta | Vampire tax queen | Lilac Night; irrelevant unless plot wanders | Active | [Capital](Capital%20-%20The%20City%20and%20Its%20Corruption.md) |
-
----
-
-## Ascendant guilds (CANON leadership)
-
-| Name | Tag | Allegiance | Public face | Secret / campaign relevance | Status | Detail doc |
-| --- | --- | --- | --- | --- | --- | --- |
-| **Lady Shirome** | CANON | **The Fulcrum** | Trade, paper money | Bureau adjacency; Dury's ledger friends | Active | [Capital](Capital%20-%20The%20City%20and%20Its%20Corruption.md) |
-| **Lord Kashimir** | CANON | **The Rasp** | Flying tapestries, Kites | Artisan Rim logistics | Active | [Capital](Capital%20-%20The%20City%20and%20Its%20Corruption.md) |
-
----
-
-## Factions (no single NPC)
-
-| Faction | Tag | Role in campaign | Detail doc |
+| Name | Role | What they want or know | Boundary |
 | --- | --- | --- | --- |
-| **Cult the Unwritten** | INVENTED | Erasure service; Curators, relays, tears | [Author](The%20Author%20and%20the%20Unwritten.md) |
-| **Revels Guard** | INVENTED | Ministry crowd security; stonewalls reports | [Capital](Capital%20-%20The%20City%20and%20Its%20Corruption.md) |
-| **Far Mariners** | CANON | Vorona marines; closest citywide law | [Capital](Capital%20-%20The%20City%20and%20Its%20Corruption.md) |
-| **Paperfeathers** | CANON | Font delivery network; eyes everywhere | [Resistance](The%20Quiet%20Resistance.md) |
-| **Actian School alumni** | CANON | Spy network; may surveil party | [Capital](Capital%20-%20The%20City%20and%20Its%20Corruption.md) |
+| **Lieutenant Hanae Petrovic** | Human Gold Button; civilian-assistance coordinator | Help with open complaints; verify useful evidence and pay the agreed reward | Honest, but cannot overrule Montavere or authorize every search |
+| **Superintendent Aurelio Montavere** | Human head of Ledger Lane's local office | End Vesk interviews; later cancel work letters and dismiss Corbin | Not commander of all Capital's guards; decision subject to actual play |
+| **Maribel Ochoa** | Dwarf repairer at Cistern Steps | Distributes water; keeps repeated repair complaints; wants a functioning pump | Does not know the hidden funding chain |
+| **Terenio** | Adult human stoneworker | Delivered a fountain in Foxes; retains his unpaid delivery slip | Witness to one delivery, not the whole ministry |
+| **Commissioner Ottaviano Bellafonte** | Fulcrum-appointed Dog-leg repair representative; collector | Takes gifts for false approvals, meets Fenwick in his basement | Invented office, not a verified elected MP; knows fraud, not Vesk's killer |
+| **Rudiger Fenwick** | Broker paid by Civic Loomworks | Delivers gifts, obtains signatures, carries invoices | Knows the contractor office; not Merovanni or Dury's private role |
+| **Gilt Marshal** | Bellafonte's main security construct | Coordinates animated armor, marble lions and clockwork attendants | Non-sapient homebrew opponent; unrelated to the Author's mechanism |
 
----
+Bellafonte and Fenwick **attempt** escape. Capturing them is a real possibility; record their actual fate. The construct collection is not an assertion about M.A.C.'s nature or rights.
 
-## Locations (quick)
+The four unrelated assignment interludes use unnamed local workers. They resolve real minor problems but do not secretly reveal the conspiracy. See the [five-notice handout and answer](../Act%202/Session%202.md).
 
-| Location | Tag | Notes | Detail doc |
+### Superseded, unplayed auction contacts
+
+**Ottilie Farrow**, **Garran Belmonte**, **Anselmo Fenn**, **Beren** and **Ily** belonged to the abandoned Font/auction preparation. Preserve the editor as an optional future contact, but no paid commission, frame-up, auction, attack or abduction involving them has happened. Their prior run sheet is outside Campaign in Drafts/Superseded/Price of Protection - Auction Draft.md. Earlier patron offers and the Font raid were also unused drafts.
+
+## Optional later contacts — not additional Session 2 patrons
+
+| Name | Affiliation | Possible use | Status | Reference |
+| --- | --- | --- | --- | --- |
+| **Ragna Copperfield** | Rasp depot overseer | Possible later transport contact if the party needs one | Optional, not yet met; no S2 offer | [Capital](Capital%20-%20The%20City%20and%20Its%20Corruption.md) |
+| **Captain Beatriz de Montal** | Vorona Far Mariners | Possible later military contact with limited jurisdiction | Optional, not confirmed met; no S2 offer | [Resistance](The%20Quiet%20Resistance.md) |
+| **Councillor Sabine Corda** | Civic Appropriations Committee | Proposed former rival of Demona; possible memorandum custodian | Deferred, unplayed; no cause of Demona's disgrace established | [Ash Ledger](../Act%202/Deferred%20-%20The%20Ash%20Ledger.md) |
+| **Elodie Quintero** | Committee records clerk | Proposed former legislative clerk and access to Sabine | Deferred, unplayed | [Ash Ledger](../Act%202/Deferred%20-%20The%20Ash%20Ledger.md) |
+| **Oria Palomar** | Junior auditor | Possible records contact; no assumed familiarity | Deferred, not met | [Ash Ledger](../Act%202/Deferred%20-%20The%20Ash%20Ledger.md) |
+| **Comptroller Baldo Merovanni** | Ministry finance | Director-only link from Civic Loomworks toward Dury; future discovery | Unrevealed, unplayed | [Ash Ledger](../Act%202/Deferred%20-%20The%20Ash%20Ledger.md) |
+| **The Redactor** | Proposed Unwritten cleanup asset | Optional future threat; not in current encounter roster | Deferred, unplayed | [Ash Ledger](../Act%202/Deferred%20-%20The%20Ash%20Ledger.md) |
+| **Censor-Lector Ambrose Iverholt** | Navarr church investigator | Possible later inquiry | Optional, not confirmed met | [Resistance](The%20Quiet%20Resistance.md) |
+| **Pippa Tallow** | Font Paperfeather | Possible later witness/contact, age 15 | Optional; not used as current abduction objective | [Resistance](The%20Quiet%20Resistance.md) |
+| **“Ink” Belisario** | University / Alvaro orbit | Possible scholarly contact; no proven realm explanation | Optional, not confirmed met | [Resistance](The%20Quiet%20Resistance.md) |
+
+## Seven powers — published setting background
+
+| Power | Leader | Established institution | Current involvement |
 | --- | --- | --- | --- |
-| **Grand Amphitheater** | INV+CANON | Built over **Gilded Lantern**; Session 1 site | [Dorian](Dorian%20and%20the%20Vanished%20Audience.md) |
-| **Levitating Carpet Spooling Factory** | INVENTED | Artisan Rim; Kell's cell; blank tear | [Author](The%20Author%20and%20the%20Unwritten.md) |
-| **Ledger Lane** | INVENTED | Bureau of Accounts | [Capital](Capital%20-%20The%20City%20and%20Its%20Corruption.md) |
-| **Gilded Ward** | INVENTED | Ministry, Amphitheater | [Capital](Capital%20-%20The%20City%20and%20Its%20Corruption.md) |
-| **Canal Verge** | INVENTED | Party lodging, markets, Mira | [Capital](Capital%20-%20The%20City%20and%20Its%20Corruption.md) |
+| Alvaro | Duke Prospero | Imperial University, Actian School, espionage | No |
+| Vorona | Duke Marco Vorona | Navy, Far Mariners, military academy, blackpowder | Background only |
+| Navarr | Archbishop Orsino | Church of Saint Ysabella, church law, knightly orders | No |
+| Valetta | Duchess Lenore | Arbitros Fiat tax collectors; revenant district after the Lilac Night | No |
+| Fulcrum | Lady Shirome | Trade, lending policy, paper money | Local offices and reward funding; not proof of guild-wide guilt |
+| Font | Inān al-Adwiyya | Broadsheets, Paperfeathers, information | No scheduled audience; optional public reporting |
+| Rasp | Lord Kashimir | Transport, tapestries, Kites couriers | Background transport; no scheduled audience |
 
----
+The last three bought Great House status; none is simply subordinate to the old noble houses. Leaders stay offstage. See [Capital](Capital%20-%20The%20City%20and%20Its%20Corruption.md).
 
-## Act 1 reference (Broadhurst — not in Capital)
+## Locations and organizations
 
-| Name | Tag | Notes |
+| Name | State / use | Reference |
 | --- | --- | --- |
-| **Goblin Queen Bargnot** | INVENTED (played) | Slain Act 1; party renown source |
-| **Gilded Hand** | INVENTED (played) | Rival party; possible Capital callback later |
-| **Broadhurst** | INVENTED (played) | Vasloria town; nobody in Capital has heard of it (S1) |
+| Grand Amphitheater / Gilded Lantern | S1 erasure and Dorian's recognition | [Dorian](Dorian%20and%20the%20Vanished%20Audience.md) |
+| Levitating Carpet Spooling Factory | Played confrontation; no compulsory crossing | [Session 1](../Act%202/Session%201.md) |
+| Dog-leg / Cistern Steps | Sourced poor district; invented neighborhood, broken pump and repeated complaints | [Run sheet](../Act%202/Session%202.md) |
+| Foxes / Bellafonte's house | Sourced wealthy district; invented house and basement collection | [Run sheet](../Act%202/Session%202.md) |
+| Civic Loomworks and Festooning | Invented contractor; funding intermediary and next investigable office | [Capital](Capital%20-%20The%20City%20and%20Its%20Corruption.md) |
+| Gold Buttons | Stays district guards in Colville's older creator explanation | [Capital sources](Capital%20-%20The%20City%20and%20Its%20Corruption.md) |
+| Ledger Lane Peacekeepers' Office | Invented local Gold Buttons office, not Capital-wide police headquarters | [Capital](Capital%20-%20The%20City%20and%20Its%20Corruption.md) |
+| Bureau of Accounts / Ministry of Revels & Public Works | Campaign-created civic institutions; not asserted as published Capital lore | [Capital](Capital%20-%20The%20City%20and%20Its%20Corruption.md) |
+| Font printing annex | Unraided newsroom; optional future contact, not a current commission | [Resistance](The%20Quiet%20Resistance.md) |
+| Blue-Wax contractors | Optional prior preparation; no extra Session 2 encounter | [Ash Ledger](../Act%202/Deferred%20-%20The%20Ash%20Ledger.md) |
 
----
+## Act 1 reference
 
-## Adding new NPCs (agent rule)
+Goblin Queen Bargnot was slain; the Gilded Hand were a rival party; Broadhurst is the town where the heroes earned their earlier renown. Do not assume every person in Capital knows those deeds. See [Narrative](../Narrative.md).
 
-When creating a session NPC:
+## Updating the directory
 
-1. Add a row to this file **or** explicitly note "one-shot, no directory entry" in the session doc.
-2. Tag CANON vs INVENTED.
-3. Link one **Detail doc** — don't duplicate paragraphs here.
-4. If they join the resistance, add a **crossing trigger** in [The Quiet Resistance.md](The%20Quiet%20Resistance.md).
-
----
-
-## Adjustable names (Session 1 note)
-
-Names marked *(adjustable)* in Session 1 remain defaults in this directory until the live table renames them. Update this file if the Director adjusts at the table.
+Mark a character met or an adversary defeated only after actual play. New one-shot figures can be explicitly identified in the run sheet rather than expanded into a forced personal subplot. Superseded realm characters are preserved in Drafts/Superseded outside Campaign, not active contacts.

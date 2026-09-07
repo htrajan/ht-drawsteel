@@ -7,7 +7,7 @@
 ## Session at a Glance
 
 - **Heroes:** Level 3 — Mac (Troubadour), Keth (Fury), Demona (Null), Dorian (Tactician).
-- **Premise:** The party's first day truly *in* Capital. A one-off public reckoning turns into an impossible atrocity — a person erased from existence exactly as Dorian remembers from the night his audience vanished — and the trail leads to a cult and the extraplanar power it serves.
+- **Premise:** The party's first day truly *in* Capital. A one-off public reckoning turns into an impossible atrocity—a person erased from existence exactly as Dorian remembers from the night his audience vanished—and the trail leads to a cult serving an unseen psionic operator.
 - **Structure:** Cold-open exploration → the inciting horror (no roll) → a rooftop chase (montage test) → a roleplay breather → a climactic combat at the Levitating Carpet Spooling Factory.
 - **Two deliberate player payoffs this session** (per the pacing rule in `Soul.md`): **Dorian's origin** and **Demona's psionics**. Let everything else (titles, lore, tactical flourishes) arise naturally.
 - **Rewards:** Chase = 1 Victory (moderate montage). Combat = 2 Victories (hard encounter). Award a group title (see Wrap-Up) rather than singling out a "killing blow."
@@ -38,17 +38,19 @@
 
 ### Minister Corvane Dury — the Unnamed Accused *(adjustable)*
 
+**Director-only preparation:** The heroes did not learn this name or his involvement in played Session 1. The former optional Kell reveal did not occur. Keep this profile out of recaps and player-facing introductions; discovering his involvement belongs to the unfolding Act 2 investigation.
+
 - **Who:** Capital's Minister of Revels & Public Works, who oversees the Amphitheater and the city's festival economy. Silver-tongued, beloved by the public, rotten underneath.
 - **Role this act:** He is who Aldermere was about to name. He is entangled with the cult but is *not* the true power — he is a high, well-defended rung the heroes cannot yet touch. He does not appear in combat this session; he is the political mountain the party must gain standing to climb.
 - **Motivation:** Self-preservation and power. He made a bargain he no longer fully controls.
 
 
 
-### The Impresario — the True Antagonist (glimpsed only) *(adjustable)*
+### The Impresario — the Hidden Operator (glimpsed only) *(adjustable)*
 
-- **Who/What:** The remote psionic intelligence behind the erasures — the entity that unmade Dorian's audience years ago. It presents itself through theatrical imagery (a hollow white mask, a spiral of "un-written" text, the smell of stage-dust and cold).
-- **This session:** Never seen in the flesh. The heroes only perceive its *signature* — through Demona's psionic sense and a calling card. This is the villain Dorian's player is meant to come to hate; give it presence without exposing it.
-- **Long game:** Its power comes from beyond the ordered world — a void the cult calls **the Unwritten Dark** — seeding the wider cosmology (the Timescape / Orden / Vasloria) for later payoff.
+- **Who/What:** An unseen controlling presence associated with the cult's erasures and theatrical imagery. Its identity, nature, and physical location remain unresolved; the appearance of a psychic signal is not proof of a particular body or address.
+- **This session:** Preserve only the signal, doctrine, and imagery actually perceived at the table. No embodied source or realm is revealed in Session 2.
+- **Long game:** The cult may call what lies beyond the tear **the Unwritten Dark**. This is its claim, not a settled cosmology or required future destination.
 
 
 
@@ -64,7 +66,7 @@
 
 - **Who:** The local head of the cult **the Unwritten**, operating out of the Levitating Carpet Spooling Factory. A former archivist who came to believe existence is a "first draft" to be edited.
 - **Motivation:** He believes the Impresario will let him "revise" the world — and himself — into something perfect. He lured the heroes with the note because the Impresario is *curious* about Dorian — the **witness from the first editing** who was wrongly killed afterward and **still won't stay dead**.
-- **Pitfall / lever:** Kell is a zealot, not a mastermind; he will monologue about "the beautiful blank page" and can let slip the name of Minister Dury and the phrase "the Unwritten Dark" if pressed. He is the session's payoff for Wes: name-able, hateable, and clearly a servant of something worse.
+- **Pitfall / lever:** Kell is a zealot, not a mastermind; he speaks about “the beautiful blank page” and may call the ash's destination “the Unwritten Dark.” His cosmology is doctrine, not Director truth. The earlier option for him to name the minister was not played and is superseded.
 
 ---
 
@@ -238,7 +240,7 @@ Offer these as fiction, not a menu. Default each test to **Medium** (see the dif
 >
 > *'You came,' the thin man calls down, delighted. 'He said you would.' He presses a hand to his chest in a little bow. 'Vharos Kell, formerly of the city archives, presently the Curator of this humble revision. And you—' the smile fixes on Dorian '—you are the one who was left standing when the house was edited. The witness who wouldn't stay dead. You and your little troupe. Do you have any idea what an honor it is, to be interesting to the Author?'"*
 
-**Let Kell talk.** He can, if pressed or baited, reveal: the cult "revises" people out of existence for the **Impresario / the Author**; the auditor died because she was about to speak a name — **Minister Corvane Dury's**; and their power flows from **the Unwritten Dark**, "the blank page behind the world." Then the ambush springs.
+**Kell's doctrine, not a culprit reveal.** The party learned about the **Impresario / the Author** at a high, vague level. Preserve any actual words about the cult “revising” people or the **Unwritten Dark**, “the blank page behind the world”; his doctrine does not settle the mechanism or destination. The earlier optional disclosure of the accused minister's name did not occur. Do not include it in the Session 1 recap or infer that the heroes know who Vesk intended to accuse.
 
 ### The Map & Tactical Terrain (Miran/Keth will love this)
 
@@ -502,7 +504,7 @@ The **blank tear** at the rear keeps feeding Kell's villain actions and wisps. C
 
 ### Win / Loss / Scaling
 
-- **Victory (Kell falls or yields):** The remaining acolytes flee and the extraplanar things are pulled back through the tear as it gutters shut. **2 Victories.** Kell, dying or captured, can gasp the final beats (see Wrap-Up). If he dies, his body **crumbles to grey ash** — the same fate — underscoring what these people worship.
+- **Victory (Kell falls or yields):** The remaining acolytes fall or lose the will to fight. **2 Victories.** Kell and every defeated cultist begin to crumble into grey ash. Respect the heroes' actual treatment of the tear. If it is still open, it contracts and closes with the cell's defeat; never reopen a tear they already closed. If this reward was already granted in play, do not award it again.
 - **If the party is being overwhelmed** (a hero drops early, bad rolls): have Kell gloat and get greedy rather than finish a downed hero — the Impresario wants them *interested*, not dead. Reduce incoming pressure by pulling the Namefeeder back to the tear "to feed," buying the party a round.
 - **Scaling up (if too easy / high Victories):** Add a second **Chapel Psion** (+EV 10), or a second squad of **Unmade Wisps**, or give Kell **+1 Malice/round**.
 - **Scaling down:** Cut the **Rift-Sworn Zealot** and one Ashen Acolyte squad; run the Namefeeder at 45 Stamina.
@@ -515,9 +517,15 @@ The **blank tear** at the rear keeps feeding Kell's villain actions and wisps. C
 
 
 
-### The closing beat (read aloud, adjust to outcome)
+### The closing beat — Capital remains around them
 
-> *"As the last grey shape is pulled back into the tear and the slit of nothing seals shut, Kell is already going — coming apart at the edges, ash on the wind, still smiling. 'You can't stop a story by killing the players,' he says. 'He has so many players. And now He knows your names.' The last of him scatters. Where the tear hung, on the factory floor, someone has left a single object: a smooth white half-mask, faceless, and beneath it a playbill — yellowed, decades old — for a show at a little playhouse. The cast list has been scratched out. All but one name. Dorian's."*
+**Continuity correction to unplayed preparation:** No compelled crossing occurs. Do not replay Kell's death, duplicate rewards, or add a prop the heroes did not find simply because an older draft mentioned it. Preserve spoken dialogue and actual player choices.
+
+If the ash settling has not yet been described:
+
+> *"The last of Kell's robe folds into the dust. Somewhere above the looms, a pulley turns a few more times and stops. Beyond the broken windows, cart wheels rattle over the stones. A driver calls for someone to get out of the road."*
+
+If a white mask or playbill was already found, it remains where the heroes left it or in their possession as recorded. Do not reintroduce it as a fresh discovery. Continue into **The Price of Protection** without a respite; brief reactions and ordinary travel do not reset resources.
 
 
 
@@ -530,8 +538,8 @@ The **blank tear** at the rear keeps feeding Kell's villain actions and wisps. C
 
 ### Threads seeded (pay these off *naturally*, don't force them)
 
-- **Minister Corvane Dury** — the high, protected official Aldermere died to name. The party can't touch him yet; the **act's spine** is gaining the civic stature to do so. ("Corruption in Capital.")
-- **The Impresario / "the Author" & the Unwritten Dark** — the true antagonist and its extraplanar void, foreshadowing the wider cosmology (Timescape / Orden / Vasloria) for Nick (Mac) to eventually dig into.
+- **The unnamed official Aldermere meant to accuse** — the party does not yet know who this is. Investigating the crime, following its support network, and gaining allies drive the act. Dury's identity and involvement remain Director-only preparation, not a seeded player lead.
+- **The Impresario / "the Author" & the Unwritten Dark** — names and claims associated with the unseen presence. Its nature, physical location, and the tear's destination remain unresolved in Session 2.
 - **The relays** — Pell was made into a puppet-antenna and discarded. If the Impresario needed one relay, it has others: a chilling, expandable mechanic, and a natural well for a minor NPC to later surface as someone the party recognizes (a spot, if it happens organically, for Lesley's "side character becomes important" wish).
 - **The Watch's indifference** — the city's institutional rot, felt not lectured.
 
@@ -543,7 +551,6 @@ Award the whole party a shared bit of standing for surviving a public atrocity a
 
 ### Prep for next session
 
-- Decide the Impresario's next visible move (another erasure? a summons? a "casting call"?).
-- Decide how the party's small renown opens a door upward (a patron, a guild, a Watch reformer).
-- If the players closed the tear, note it — that choice should echo.
-
+- Continue into [Session 2 — The Price of Protection](Session%202.md): **150 minutes**, next morning at the tavern, no respite. Corbin's private invitation leads to limited civilian work with his local Gold Buttons office, five assignments, a neglected district and **one planned construct combat** in a corrupt representative's basement.
+- Record actual handling of the tear, props and character resources. Do not reopen a closed tear or convert Victories to XP.
+- Preserve played Session 1 history. New repair fraud, access permissions and future case closure are preparation, not prior events. Kell's obscure death creates no civic power vacuum. Dury is not a known suspect; other Ash Ledger material remains optional and unplayed.
