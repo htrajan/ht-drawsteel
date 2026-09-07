@@ -38,11 +38,11 @@ Five genuine assignments include four unrelated jobs and one routine patrol of C
 
 There, residents still buy water beside a pump declared replaced. Maribel Ochoa shows their repeated complaints; stoneworker Terenio has a delivery slip connecting the same repair payment to an ornamental fountain in wealthy Foxes. Residents blame Commissioner Ottaviano Bellafonte, whose signature approves the absent work. His appointed office is invented for this campaign, not a canonical elected MP.
 
-Open-ended access leads from Bellafonte's public office to his basement collection in Foxes. The heroes can watch deliveries, approach as visitors or restorers, enlist help, or force a confrontation. Bellafonte and broker Rudiger Fenwick exchange gifts, false approvals and invoices. These connect the diverted funds to Civic Loomworks and earlier factory supplies; today's boarding order follows the factory confrontation and does not invent earlier guards.
+The public office supplies a starting point, not the private address and meeting schedule. Heroes choose how to find Bellafonte's house: follow him or a delivery, enlist workers, request public property records, or make a social approach. They then establish the basement meeting and their entry. Useful preparations change positions, safeguard witnesses or obstruct escape. The invented address is 18 Copper Beech Walk, Foxes. Bellafonte and broker Rudiger Fenwick exchange gifts, false approvals and invoices in the gallery. These connect diverted funds to Civic Loomworks and earlier factory supplies; today's boarding order does not invent earlier guards.
 
-When confronted or discovered, Bellafonte tries to activate armor, marble lions and clockwork attendants while fleeing with Fenwick. Initiative begins before activation. Preparation can secure evidence, change positions, disable the control or prevent the attack; neither detection nor escape is forced. One Hard encounter has a five-round emergency-charge clock and ends early if the Gilt Marshal falls or the party evacuates with evidence.
+The construct combat is required. The Gilt Marshal is already guarding the private meeting before the heroes arrive; no activation lever, negotiation or pre-combat sabotage replaces the encounter. Capturing either conspirator remains possible. Four far-corner controls each cost an adjacent hero a maneuver and pause all non-leader members of a matching group through its next activation. The Marshal is never affected. Each group must then complete one unpaused activation before its control resets. One Hard encounter ends when the Marshal falls or its combat reserve runs out at the end of round five; retreat is a setback, not a successful bypass.
 
-Corroborating the false completion and diverted payment earns **1 investigation Victory**; overcoming the collection and retaining usable evidence earns **2 Victories**, for **3 maximum**. A verifiable civic-fraud submission earns **+1 Wealth to each hero** from a separately funded reward, even if future work access is canceled. These rewards are prepared, not awarded; ingenuity that genuinely resolves the threat earns the same encounter reward.
+Corroborating the false completion and diverted payment earns **1 investigation Victory**; overcoming the collection and retaining usable evidence earns **2 Victories**, for **3 maximum**. A verifiable civic-fraud submission earns **+1 Wealth to each hero** from a separately funded reward, even if future work access is canceled. These rewards are prepared, not awarded; preparation and control use help win the required fight rather than earning a separate bypass award.
 
 The intended aftermath removes access to this office and dismisses Corbin. Vesk's case is officially closed as **“unexplained disappearance,” with no public announcement**. No public memories or privately retained evidence are erased. Captures, publication, lawful receipts and genuinely successful interventions must shape the outcome. The party has residents' trust, checkable evidence and the contractor's office as a next lead—not universal outlaw status.
 
@@ -55,7 +55,7 @@ The intended aftermath removes access to this office and dismisses Corbin. Vesk'
 - Assignment choices, deductions and unrelated acquaintances:
 - Dog-leg residents helped; testimony and documents retained:
 - Demona's chosen identity/contact:
-- Private access, observations and preparation:
+- House-finding approach, meeting clues, entry and preparation:
 - Collection disabled / fought / escaped; actual fugitives and captures:
 - Investigation Victories 0 / 1; encounter Victories 0 / 2:
 - Wealth +0 / +1 each, or earned payment pending:

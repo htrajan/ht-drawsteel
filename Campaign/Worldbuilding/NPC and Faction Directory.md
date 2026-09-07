@@ -2,7 +2,7 @@
 
 > **Status matters:** PLAYED/met or dead comes from the table record. PREPARED means not yet encountered unless the Director records otherwise. Published faction leadership is setting background, not proof that a leader knows the heroes.
 >
-> **Current Session 2:** Corbin's warning, temporary work with his Gold Buttons office, the Dog-leg's neglected repairs, and a commissioner's animated collection. One planned combat, no patron commitment. Access cancellation and Corbin's dismissal are prepared consequences, not yet played.
+> **Current Session 2:** Corbin's warning, temporary work with his Gold Buttons office, the Dog-leg's neglected repairs, a player-led search for the commissioner's private meeting, and his animated collection. One required combat with corner controls that temporarily pause non-leader groups; no patron commitment. Access cancellation and Corbin's dismissal are prepared consequences, not yet played.
 
 ## Played Session 1 and player-owned history
 

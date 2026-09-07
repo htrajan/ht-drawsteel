@@ -77,10 +77,10 @@ def validate():
                   "sealed files", "for each of you", "Clear copies are fine",
                   "No further witness interviews", "two copies"], "Office terms and obstruction"),
         (street, ["took the old pump away", "kept the copies", "Commissioner Ottaviano Bellafonte",
-                  "still haven't been paid", "payment reference", "His address is at the bottom",
-                  "rear doors"],
-         "Residents' evidence and private-meeting leads"),
-        (collection, ["red-handled lever", "stop the Marshal", "Civic Loomworks and Festooning",
+                  "still haven't been paid", "payment reference", "His office address is at the bottom"],
+         "Residents' evidence and office lead"),
+        (collection, ["Where do you start?", "Copper Beech Walk", "rear doors",
+                      "brass handle", "stop the Marshal", "Civic Loomworks and Festooning",
                       "Replacement pump installed and tested", "same repair fund",
                       "office address", "Damage reported this morning"], "Collection discoveries"),
         (aftermath, ["permission's been withdrawn", "sign a receipt", "earned the reward",
@@ -133,12 +133,72 @@ def validate():
     for term in ["dury", "merovanni", "callout", "remittance", "copying costs",
                  "countersigning", "orphaned causality", "caldris", "cover story complete"]:
         check(term not in spoken.lower(), f"Spoken jargon/knowledge leak: {term}")
-    for phrase in ["grabbing the commissioner alone", "Once running",
-                   "before the lever is pulled", "not an unavoidable cutscene",
+    for phrase in ["already active before the heroes arrive", "combat is required",
+                   "no master activation lever", "not a completed noncombat route",
                    "Do not override a successful blockade", "at the end of round 5",
                    "two main actions at its winding crank", "end of round 2",
                    "No fugitive leaves the map", "No hidden reinforcements"]:
         check(phrase.lower() in text.lower(), f"Missing encounter rule: {phrase}")
+
+    # The house hunt has multiple independent routes and a meaningful follow-up,
+    # rather than automatically giving an address, guest list and room together.
+    hunt = collection.split("### The collection —")[0]
+    for heading in ["### The open question", "### Follow someone", "### Work the delivery route",
+                    "### Use the office access", "### Make a social approach",
+                    "### Turn discoveries into an advantage"]:
+        check(heading in hunt, f"Missing open investigation route: {heading}")
+    for phrase in ["not four compulsory stations", "not the meeting or an entry plan",
+                   "two consequential tests", "keep any discovered address",
+                   "not whether the session has one"]:
+        check(phrase in hunt, f"House-hunt scope or fail-forward rule missing: {phrase}")
+    for obsolete in ["His public appointment list names", "The house address is public; find",
+                     "Honor a convincing surrender", "A disabled lever cannot activate",
+                     "pre-combat sabotage route earns the same"]:
+        check(obsolete not in text, f"Superseded handout/bypass route remains: {obsolete}")
+
+    # All four controls have actual distant positions and fixed group mappings.
+    controls = re.findall(
+        r"^\| (Northwest|Northeast|Southwest|Southeast) control — ([^|]+?) \| ([A-T])(\d+) \| (.+?) \|$",
+        text, re.M)
+    check(len(controls) == 4, "Exactly four mapped corner controls")
+    expected = [("Northwest", "red tuning forks", "B", "2"),
+                ("Northeast", "blue swords", "S", "2"),
+                ("Southwest", "green paws", "B", "15"),
+                ("Southeast", "yellow bells", "S", "15")]
+    check([row[:4] for row in controls] == expected, "Corner positions/colors changed")
+    points = [(ord(col) - ord('A'), int(row)) for _, _, col, row, _ in controls]
+    check(all(max(abs(x - xx), abs(y - yy)) >= 13
+              for i, (x, y) in enumerate(points) for xx, yy in points[i + 1:]),
+          "Controls must be far apart, not clustered")
+    mechanism = text.split("**Corner stop mechanisms")[1].split("**The Marshal's drive:**")[0]
+    for phrase in ["maneuver, no test", "until the end of that group's next scheduled activation",
+                   "one later, unpaused activation", "The red group's Marshal takes its full turn",
+                   "including ones granted by the Marshal", "never affects the Marshal",
+                   "Minion pools remain separate", "cannot extend the same pause",
+                   "destroying a paused or recovering control does not extend or repeat"]:
+        check(phrase.lower() in mechanism.lower(), f"Incomplete corner-control rule: {phrase}")
+    check("all non-leader members" in text and "including its armor or lions" in text,
+          "Controls must pause whole non-leader groups, not only minions")
+
+    # Reference cycle: pause exactly one activation, then require one working
+    # activation. A late-round press follows the same cycle into the next round.
+    def press(state):
+        return ("paused", True) if state == "ready" else (state, False)
+
+    def activate(state):
+        if state == "paused":
+            return "recovering", False
+        return "ready", True
+
+    for next_round in (1, 2):
+        state, accepted = press("ready")
+        check(accepted and not press(state)[1], "Repeated press must not extend a pause")
+        state, nonleaders_act = activate(state)
+        check(not nonleaders_act and not press(state)[1],
+              f"Expected skipped activation and cooldown in round {next_round}")
+        state, nonleaders_act = activate(state)
+        check(nonleaders_act and press(state)[1],
+              f"Expected working activation before reuse in round {next_round + 1}")
 
     rows = re.findall(r"^\| (\d+)–(\d+) \| (\d+) \| (\d+) \| (\d+) \| (\d+) \| (\d+) \| (\d+) \|$",
                       text, re.M)
@@ -158,6 +218,10 @@ def validate():
         groups = [33, 11 + (10 if lions == 4 else 0),
                   13 + (10 if lions >= 3 else 0), 3 + (10 if lions >= 2 else 0)]
         check(sum(groups) == ev, f"Four-group allocation: {values}")
+        paused_counts = [4, 5 + int(lions == 4),
+                         5 + int(lions >= 3), 4 + int(lions >= 2)]
+        check(sum(paused_counts) == count - 1,
+              f"Control groups must cover every non-leader exactly once: {values}")
     blocks = re.findall(r"^#### (.+?) — level (\d+) (.+?), EV (\d+)", text, re.M)
     check(len(blocks) == 4 and all(int(b[1]) <= 5 for b in blocks),
           "Exactly four level-capped hostile blocks")
@@ -215,7 +279,9 @@ def validate():
     print("SESSION_2_RUNTIME_OK: 150 minutes, 50-minute fight, 10-minute buffer")
     print("ASSIGNMENTS_OK: five notices, unique supported lead, four short wrong-job branches")
     print("CONSTRUCT_BUDGETS_OK: EV 60/70/80/90, four hostile profiles, four groups, level cap 5")
-    print("OBJECTIVES_OK: interruptible activation, blockable escape, five-round clock")
+    print("HOUSE_HUNT_OK: four open approaches, earned entry advantages, fail-forward outcomes")
+    print("CORNER_CONTROLS_OK: four distant positions, full groups, leader excluded, recovery cycle")
+    print("OBJECTIVES_OK: required combat, blockable escape, five-round clock; no bypass award")
     print("CONTINUITY_OK: bounded lore, unrevealed Dury, quiet closure, prepared rewards")
     print("PLAYER_FACING_TEXT_OK: core explanations in dialogue/read-aloud; repo rule present")
     print("LOCAL_LINKS_OK; NO_STEAM_ACCESS")

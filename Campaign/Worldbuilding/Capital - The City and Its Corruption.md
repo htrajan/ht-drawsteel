@@ -89,7 +89,7 @@ The staffing problem is real; the Vesk cover-up is a separate choice by the supe
 
 ### Commissioner Ottaviano Bellafonte
 
-A Fulcrum-appointed district representative overseeing repair approvals and petitions in the Dog-leg. **Campaign-created office, not a verified elected MP.** People blame him because he signs the work complete and refuses further repairs. His office is public; private business is conducted at his Foxes house. There, his collection doubles as magical security.
+A Fulcrum-appointed district representative overseeing repair approvals and petitions in the Dog-leg. **Campaign-created office, not a verified elected MP.** People blame him because he signs the work complete and refuses further repairs. His office is public; private business is conducted at **18 Copper Beech Walk, Foxes**, an invented address. Heroes must actively locate the house and establish the meeting through surveillance, deliveries, public records or a social approach. Its already-active collection provides Session 2's required combat; four corner stops temporarily disable non-leader groups, never the Gilt Marshal. See the run sheet for timing and reset rules.
 
 He knowingly signs false pump inspections in return for expensive gifts. The missing repair money finances wealthy clients' fountains and sheltered carriage/tapestry waiting places as well as supplies at the factory. **Neglect has human consequences:** neighbors spend time and earnings obtaining water and organizing safe queues.
 
