@@ -52,7 +52,7 @@ The three guilds bought Great House status; they are not simply departments of t
 
 - Melvin investigates Vesk as a Stays resident and requests cooperation at the crime venue. He is not every district's commander.
 - **Lieutenant Hanae Petrovic** receives complaints and arranges civilian assistance.
-- **Superintendent Aurelio Montavere** controls this office's assignments and access; his refusal is not a ruling by every Great House.
+- **Superintendent Reginald Veros** controls this office's assignments and access; his refusal is not a ruling by every Great House.
 - **Citizen deputies** is a local nickname for civilians with signed work letters. They get open complaint summaries, practical introductions and permission to help with defined assignments. No Prince's seal, citywide weapon license, search warrant, universal arrest power, or immunity.
 - The eventual cancellation affects these work letters and this office. Other institutions and existing permissions remain separate.
 
@@ -111,13 +111,13 @@ Campaign-created auditing institution; Vesk's occupation and murder belong to pl
 
 ### Quiet closure, not public amnesia
 
-Montavere blocks additional witness interviews and closes her case as **“unexplained disappearance.”** Corbin is dismissed after continuing to help; office access is canceled. These are **prepared Session 2 consequences**, not events already recorded.
+Veros blocks additional witness interviews and closes her case as **“unexplained disappearance.”** Corbin is dismissed after continuing to help; office access is canceled. These are **prepared Session 2 consequences**, not events already recorded.
 
 There is **no public announcement**. The public still witnessed her death; the cover-up relies on institutional refusal and attention drifting, not a compulsory memory effect. If the party publicizes evidence, that changes the opposition the attempted cover-up faces. Other officers can accept theft evidence, honor a separately funded reward, or help through their own institutions without the murder inquiry reopening automatically.
 
 ## Money and institutions are not universal traps
 
-The local civilian-assistance program offers ordinary wages for ordinary work and an explicitly invented Fulcrum-funded reward for verifiable civic-fraud evidence. Full completion awards **+1 Wealth per hero**, not divided among the party. Funds are separate from Montavere's investigation budget; a canceled work letter does not cancel an earned claim. Hanae can verify evidence and arrange payment outside the closed inquiry.
+The local civilian-assistance program offers ordinary wages for ordinary work and an explicitly invented Fulcrum-funded reward for verifiable civic-fraud evidence. Full completion awards **+1 Wealth per hero**, not divided among the party. Funds are separate from Veros's investigation budget; a canceled work letter does not cancel an earned claim. Hanae can verify evidence and arrange payment outside the closed inquiry.
 
 The Font remains an unraided, independent newsroom. No current commission, mandatory audience or patron choice is scheduled. Heroes may contact it—or any appropriate house or guild—on their own initiative. Preserve a decision to publish; do not erase it to force a quiet ending.
 

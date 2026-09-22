@@ -42,7 +42,7 @@
 
 **Dury is not a known lead.** The papers prove diversion and a factory connection, not supernatural murder. Do not confirm guesses with knowledge an NPC lacks.
 
-**Aurelio Montavere:** Corbin's superintendent. Has forbidden the Vesk inquiry; intends to dismiss Corbin and cancel the heroes' office access when it continues. The cover-up implicates this command, not every Gold Button, the whole Fulcrum or all seven powers.
+**Reginald Veros:** Corbin's superintendent. Has forbidden the Vesk inquiry; intends to dismiss Corbin and cancel the heroes' office access when it continues. The cover-up implicates this command, not every Gold Button, the whole Fulcrum or all seven powers.
 
 ### Continuity locks
 
@@ -236,13 +236,13 @@ Play each response when they pursue it.
 
 > *“Not on that case.”*
 >
-> *The aide puts a signed instruction beside the blank statement. “No further witness interviews. All inquiries to Superintendent Montavere.”*
+> *The aide puts a signed instruction beside the blank statement. “No further witness interviews. All inquiries to Superintendent Veros.”*
 
 **If asked who gave the instruction:**
 
 > *“The superintendent signed it. You can ask him yourself.”*
 
-**Montavere opens his office door only far enough to show his face:**
+**Veros opens his office door only far enough to show his face:**
 
 > *“There's no body to examine. The case is being reviewed as a disappearance.”*
 
@@ -266,7 +266,7 @@ If they press:
 
 > *“Then you know how these offices work. What would you want him to answer in writing?”*
 
-No invented vote, old relationship, or explanation of Demona's disgrace. A strong appeal can obtain a dated receipt, not make Montavere reverse his decision. Preserve any statement or evidence the heroes retain.
+No invented vote, old relationship, or explanation of Demona's disgrace. A strong appeal can obtain a dated receipt, not make Veros reverse his decision. Preserve any statement or evidence the heroes retain.
 
 ## Scene 3 — Five pieces of paper (0:30–0:45)
 
@@ -924,7 +924,7 @@ Construct. No immunity, weakness or special movement. **With Captain:** Speed +2
 
 ### At the same door
 
-Montavere's aide has canceled their access for continuing the forbidden inquiry. This is an office order, not news dependent on either conspirator escaping. Apply it only if earlier play has not prevented it.
+Veros's aide has canceled their access for continuing the forbidden inquiry. This is an office order, not news dependent on either conspirator escaping. Apply it only if earlier play has not prevented it.
 
 > *The guard who let you in this morning checks your names, then checks a second sheet.*
 >
@@ -934,7 +934,7 @@ Montavere's aide has canceled their access for continuing the forbidden inquiry.
 
 **“Who ordered this?”**
 
-> *“Superintendent Montavere. The cancellation names your work letters. I'll show you the order, but I can't admit you.”*
+> *“Superintendent Veros. The cancellation names your work letters. I'll show you the order, but I can't admit you.”*
 
 If they declined letters earlier, substitute:
 

@@ -28,8 +28,8 @@ All new people and incidents below remain **unplayed**. The office, appointments
 
 | Name | Role | What they want or know | Boundary |
 | --- | --- | --- | --- |
-| **Lieutenant Hanae Petrovic** | Human Gold Button; civilian-assistance coordinator | Help with open complaints; verify useful evidence and pay the agreed reward | Honest, but cannot overrule Montavere or authorize every search |
-| **Superintendent Aurelio Montavere** | Human head of Ledger Lane's local office | End Vesk interviews; later cancel work letters and dismiss Corbin | Not commander of all Capital's guards; decision subject to actual play |
+| **Lieutenant Hanae Petrovic** | Human Gold Button; civilian-assistance coordinator | Help with open complaints; verify useful evidence and pay the agreed reward | Honest, but cannot overrule Veros or authorize every search |
+| **Superintendent Reginald Veros** | Human head of Ledger Lane's local office | End Vesk interviews; later cancel work letters and dismiss Corbin | Not commander of all Capital's guards; decision subject to actual play |
 | **Maribel Ochoa** | Dwarf repairer at Cistern Steps | Distributes water; keeps repeated repair complaints; wants a functioning pump | Does not know the hidden funding chain |
 | **Terenio** | Adult human stoneworker | Delivered a fountain in Foxes; retains his unpaid delivery slip | Witness to one delivery, not the whole ministry |
 | **Commissioner Ottaviano Bellafonte** | Fulcrum-appointed Dog-leg repair representative; collector | Takes gifts for false approvals, meets Fenwick in his basement | Invented office, not a verified elected MP; knows fraud, not Vesk's killer |

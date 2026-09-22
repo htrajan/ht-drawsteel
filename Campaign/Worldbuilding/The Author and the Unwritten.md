@@ -41,7 +41,7 @@ Civic Loomworks' new boarding-up order is dated the morning after the confrontat
 | Delivery slips and paid invoices | The repair fund paid for wealthy clients' improvements and factory supplies | The Author's identity, Dury's instructions or the supernatural killer |
 | Private exchange and gifts | Bellafonte knowingly accepts false approvals; Fenwick arranges the bargain | Knowledge beyond their contractor dealings |
 | New boarding order | Today's securing of the damaged factory | Guards present before the heroes' original arrival |
-| Montavere's orders, canceled access and Corbin's dismissal | A particular office is suppressing Vesk's investigation | Universal complicity across all Capital's institutions |
+| Veros's orders, canceled access and Corbin's dismissal | A particular office is suppressing Vesk's investigation | Universal complicity across all Capital's institutions |
 
 Copies and corroborated witnesses remain useful. The case's official “unexplained disappearance” classification is an attempted quiet cover-up, not a change to Vesk's actual death or the party's memories.
 
