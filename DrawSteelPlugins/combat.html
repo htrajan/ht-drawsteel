@@ -1,0 +1,10 @@
+<!doctype html>
+<html lang="en"><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Combat Director bridge</title>
+<style>body{font:16px system-ui;max-width:680px;margin:3rem auto;padding:0 1rem;background:#17202a;color:#f1e9d6;line-height:1.5}a{color:#edbd70}code{color:#edbd70}</style>
+<h1>Combat Director</h1>
+<p>The Director panel in Draw Steel sends its scored legal moves to this bridge. GPT-6 Sol at high reasoning selects a move and explains the choice. The panel rechecks legality before executing that move through Monster AI.</p>
+<p>Return to Draw Steel, select the active enemy, and open the <strong>Combat Director</strong> dock. The bridge is <span id="status">checking...</span>.</p>
+<p><a href="/">Voice RP</a></p>
+<script>fetch('/health').then(r=>r.json()).then(x=>document.getElementById('status').textContent=x.ok?'connected':'unavailable').catch(()=>document.getElementById('status').textContent='unavailable')</script>
+</html>

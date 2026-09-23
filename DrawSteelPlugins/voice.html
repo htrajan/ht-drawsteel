@@ -1,0 +1,46 @@
+<!doctype html>
+<html lang="en">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Draw Steel Voice RP</title>
+<style>
+  :root{font:16px system-ui;color:#f1e9d6;background:#17202a}body{max-width:760px;margin:2rem auto;padding:0 1rem}
+  h1{font-size:1.7rem;margin-bottom:.2rem}p{line-height:1.5;color:#b9c4cf}label{display:block;margin:1rem 0 .3rem}
+  select,input,textarea,button{font:inherit;border-radius:8px;border:1px solid #647488;padding:.7rem;box-sizing:border-box}
+  select,input,textarea{width:100%;color:#f1e9d6;background:#273442}textarea{min-height:8rem;resize:vertical}
+  button{cursor:pointer;background:#ce9f50;color:#17202a;font-weight:700;margin:.5rem .5rem .5rem 0}button:disabled{opacity:.4;cursor:default}
+  .row{display:flex;gap:.7rem}.row>*{flex:1}.hint{font-size:.9rem}#status{min-height:2rem;color:#f4ca7e}
+  #reply{white-space:pre-wrap;padding:1rem;background:#273442;border-radius:8px;min-height:3rem}
+</style>
+<h1>Voice RP</h1>
+<p>Speak as one hero. Review the transcript, then send it. The hero's line and the NPC's reply appear in Draw Steel chat.</p>
+<div class="row"><div><label for="pc">Playing as</label><select id="pc"></select></div><div><label for="npc">Speaking with</label><select id="npc"></select></div></div>
+<label for="npcName">Other NPC name</label><input id="npcName" placeholder="Use when Other NPC is selected">
+<label for="brief">NPC brief (for an NPC not listed above)</label><textarea id="brief" style="min-height:4rem" placeholder="What this NPC knows, wants, and how they speak"></textarea>
+<label for="spoken">Your line</label><textarea id="spoken" placeholder="Press Record, or type here."></textarea>
+<div><button id="record">Record</button><button id="stop" disabled>Stop</button><button id="send">Send and get reply</button></div>
+<p class="hint">Speech recognition uses your browser's microphone and may use the browser vendor's transcription service. The selected model for NPC replies is gpt-6-luna with max reasoning.</p>
+<div id="status" role="status"></div><div id="reply" aria-live="polite"></div>
+<script>
+const $=id=>document.getElementById(id);let recognition=null;
+async function refresh(){try{const r=await fetch('/api/state');const d=await r.json();if(!r.ok)throw Error(d.error);
+  $('pc').replaceChildren(...d.heroes.map(h=>new Option(h.name,h.id)));
+  $('npc').replaceChildren(...d.npcs.map(n=>new Option(n,n)),new Option('Other NPC','other'));
+  if(d.active_npc){if(!d.npcs.includes(d.active_npc))$('npc').add(new Option(d.active_npc,d.active_npc));$('npc').value=d.active_npc;$('npc').disabled=true;$('status').textContent='Active negotiation: '+d.active_npc;}
+  else $('status').textContent='RP mode: choose the NPC.';
+}catch(e){$('status').textContent='Draw Steel connection: '+e.message;}}
+$('record').onclick=()=>{const R=window.SpeechRecognition||window.webkitSpeechRecognition;if(!R){$('status').textContent='Speech recognition is unavailable in this browser. You can type your line.';return;}
+  recognition=new R();recognition.lang='en-US';recognition.interimResults=true;recognition.continuous=true;
+  recognition.onresult=e=>{$('spoken').value=[...e.results].map(x=>x[0].transcript).join(' ').trim()};
+  recognition.onerror=e=>{$('status').textContent='Microphone: '+e.error};
+  recognition.onend=()=>{$('record').disabled=false;$('stop').disabled=true};
+  recognition.start();$('record').disabled=true;$('stop').disabled=false;$('status').textContent='Listening...';};
+$('stop').onclick=()=>recognition?.stop();
+$('send').onclick=async()=>{const text=$('spoken').value.trim();if(!text){$('status').textContent='Record or type a line first.';return;}
+  $('send').disabled=true;$('status').textContent='Waiting for the NPC...';
+  try{const r=await fetch('/api/voice',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({pc_id:$('pc').value,npc:$('npc').value==='other'?$('npcName').value:$('npc').value,npc_brief:$('brief').value,text})});
+    const d=await r.json();if(!r.ok)throw Error(d.error);$('reply').textContent=d.npc+': '+d.reply;$('status').textContent='Both lines sent to Draw Steel chat.';$('spoken').value='';}
+  catch(e){$('status').textContent=e.message}finally{$('send').disabled=false;}};
+refresh();
+</script>
+</html>
