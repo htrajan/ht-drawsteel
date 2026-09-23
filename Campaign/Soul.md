@@ -55,7 +55,7 @@ Trying to pander to every player's request in a single session will come across 
 ## Encounter Building (Draw Steel reference)
 
 - **Party encounter strength (ES):** each hero = 4 + 2×level; sum for the party. (Four level-3 heroes = ES 40.) Add a "virtual hero" of ES for every 2 average Victories.
-- **Difficulty by budget:** Standard = ES to ES + one hero. Hard = above standard up to ES + three heroes (worth 2 Victories). Aim climactic/session-ending fights at **hard**.
+- **Difficulty by budget:** Standard = ES to ES + one hero. Hard = above standard up to ES + three heroes (worth 2 Victories). Use Hard when a battle genuinely carries the session's full climactic weight. A shorter objective-driven Standard encounter—or one or two shorter medium encounters—is a valid session centerpiece when that better fits the fiction and pacing; do not inflate every ending to Hard merely to manufacture a climax.
 - **Creature level cap:** no creature more than 2 levels above the heroes (3 if they have 6+ Victories). This is why level-6 book monsters (e.g., Voiceless Talkers) are off-limits for a level-3 party — reskin/downscale into custom lower-level creatures instead.
 - **Star of the show:** for a villain meant to last the whole fight, run a hard encounter and make them a Leader/Solo whose EV is ≥ 1/3 of the budget; the fight ends when they fall.
 - **Crowding rules:** ≤ 8 creatures per hero; if > 3 per hero, at least half must be minions; ≤ 6 distinct stat blocks. Minion squads exist to be scythed by AoE (serves Keth).

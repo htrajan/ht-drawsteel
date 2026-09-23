@@ -1,6 +1,6 @@
 # Act 2, Session 2 — “The Price of Protection”
 
-> **Prepared, not played.** A 150-minute continuation in Capital: Corbin's warning, a chance to work inside the law, five open assignments, a neglected district, and a collector's private meeting that becomes a construct battle. Player-facing dialogue and read-aloud are in italicized blockquotes; the assignment table is a player handout. Other text is for the Director.
+> **Played.** The heroes accepted limited work letters, followed the false Cistern Steps pump approval to Bellafonte's private collection, defeated the collection's magical security, and retained usable evidence. Demona captured Commissioner Ottaviano Bellafonte; Rudiger Fenwick escaped. Hanae left the heroes' limited deputization active. Melvin remained employed through the end of this session; Veros dismisses him off-screen during the interval in Session 3. The run sheet below is preserved as the table preparation, but this played record overrides every unplayed branch—especially Scene 7. Reward payment and exact resource totals remain whatever the table recorded; never award them twice.
 >
 > **Canon boundary:** Published Draw Steel establishes the Prince's death three years ago and fragmented Great House policing. Colville's own older explanation supplies the Gold Buttons and limited Prince's seals. The Dog-leg is identified as poor in the Chain wiki, not verified as Capital's single poorest district. The local commissioner, deputy arrangement, corruption, and encounter are campaign inventions. See [Capital: sources and implementation](../Worldbuilding/Capital%20-%20The%20City%20and%20Its%20Corruption.md).
 
@@ -921,6 +921,8 @@ Construct. No immunity, weakness or special movement. **With Captain:** Speed +2
 - **Reward independence:** Hanae can honor the separately funded civic-fraud claim without reinstating access or reopening Vesk's case. If debrief is next session, record it as earned/pending payment, not forfeited. Never “punish” a public disclosure by canceling an already-earned fee.
 
 ## Scene 7 — No longer welcome (2:15–2:20, or start next session)
+
+> **Superseded; this scene was not played.** Do not stage it retroactively. The heroes retained their work letters, and Melvin remained employed through the end of Session 2. His dismissal happens off-screen during the 24-hour interval in Session 3. The unused scene remains below only as archived preparation.
 
 ### At the same door
 

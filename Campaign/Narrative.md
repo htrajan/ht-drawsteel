@@ -22,11 +22,15 @@ The investigation followed the relay **Pell Quist** toward the **Levitating Carp
 
 **Record-sensitive details:** The exact chase result, what Demona sensed, any words Kell spoke about the Unwritten Dark, how the tear was closed, and which props were recovered must come from the table record. Do not assume every prepared speech, private revelation, or branch occurred.
 
-# Prepared, not played
+# Played record — continued
 
 ## Session 2 — The Price of Protection
 
-**Prepared, not played:** 150 minutes, one planned construct combat, zero montages, no respite or Steam import. [Run sheet](Act%202/Session%202.md).
+**Played result:** The heroes accepted limited work letters, traced the false Cistern Steps pump approval to Bellafonte's private collection, defeated its magical security, and retained usable evidence. Demona captured Bellafonte; Fenwick escaped. Hanae kept the limited work letters active. Melvin remained employed through the end of the session. His dismissal by Veros occurs off-screen during the interval in Session 3. Exact rewards and resources remain whatever the table recorded; do not infer or award them twice. [Archived run sheet](Act%202/Session%202.md).
+
+### Archived preparation
+
+The following design summary records what was prepared. It is not a second account of play; the played result above controls whenever a branch differs.
 
 The morning after the factory, Corbin sends an indirect invitation to a private meeting. His superintendent wants Vesk's death treated as a disappearance and the investigation stopped. Corbin suggests the office's request for civilian help as a way to ask questions and see the obstruction firsthand.
 
@@ -44,23 +48,20 @@ The construct combat is required. The Gilt Marshal is already guarding the priva
 
 Corroborating the false completion and diverted payment earns **1 investigation Victory**; overcoming the collection and retaining usable evidence earns **2 Victories**, for **3 maximum**. A verifiable civic-fraud submission earns **+1 Wealth to each hero** from a separately funded reward, even if future work access is canceled. These rewards are prepared, not awarded; preparation and control use help win the required fight rather than earning a separate bypass award.
 
-The intended aftermath removes access to this office and dismisses Corbin. Vesk's case is officially closed as **“unexplained disappearance,” with no public announcement**. No public memories or privately retained evidence are erased. Captures, publication, lawful receipts and genuinely successful interventions must shape the outcome. The party has residents' trust, checkable evidence and the contractor's office as a next lead—not universal outlaw status.
+The unused intended aftermath would have removed access and dismissed Corbin immediately. It did not occur. The heroes retained their work letters, and Corbin's later off-screen dismissal belongs to Session 3. No public memories or privately retained evidence were erased. The party has residents' trust, checkable evidence and the contractor's office as a next lead—not universal outlaw status.
 
 **Director-only longer chain:** Bellafonte → Fenwick → Civic Loomworks → Baldo Merovanni → Dury. Session 2 exposes the first links only; the minister's involvement, the Author's nature and Dorian's unanswered questions remain unrevealed.
 
-### Complete only after play
+### Recorded outcome
 
-- Corbin meeting; information shared; office obstruction witnessed:
-- Work letters accepted or declined; agreed limits:
-- Assignment choices, deductions and unrelated acquaintances:
-- Dog-leg residents helped; testimony and documents retained:
-- Demona's chosen identity/contact:
-- House-finding approach, meeting clues, entry and preparation:
-- Collection disabled / fought / escaped; actual fugitives and captures:
-- Investigation Victories 0 / 1; encounter Victories 0 / 2:
-- Wealth +0 / +1 each, or earned payment pending:
-- Access cancellation, Corbin's employment and case classification:
-- Any public disclosure, prisoners' disposition and chosen next lead:
+- Limited work letters accepted and retained.
+- Cistern Steps residents' complaint and the absent pump confirmed.
+- Bellafonte's false approval and private collection exposed; magical security defeated.
+- Bellafonte captured by Demona; Fenwick escaped.
+- Melvin still employed at the end of Session 2; dismissal deferred to the off-screen interval in Session 3.
+- Exact Victories, Wealth payment status, resources, retained documents and publication choices remain table-record facts not reconstructed here.
+
+# Prepared, not played
 
 ## Deferred material — The Ash Ledger
 

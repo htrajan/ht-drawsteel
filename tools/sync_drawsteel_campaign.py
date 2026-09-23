@@ -82,6 +82,15 @@ HEROES = {
     },
 }
 
+# Neutral meeting-crate positions. Table preparation can move individual heroes
+# to the gantry, barge, or street gate before initiative.
+SESSION_3_HERO_POSITIONS = {
+    "Demona": (-1, 1),
+    "Dorian Ashveil": (0, 1),
+    "Keth": (-1, 0),
+    "M.A.C: Multifunctional Android Companion": (0, 0),
+}
+
 TARGET_LEVEL = 3
 TARGET_XP = 4
 TARGET_VICTORIES = 4
@@ -93,6 +102,14 @@ CAPITAL_LAYER_ID = str(uuid.uuid5(SYNC_NAMESPACE, "map:capital-placeholder:layer
 CAPITAL_OBJECT_ID = str(uuid.uuid5(SYNC_NAMESPACE, "map:capital-placeholder:object"))
 CAPITAL_OBJECT_ASSET_ID = str(
     uuid.uuid5(SYNC_NAMESPACE, "map:capital-placeholder:object-asset")
+)
+LIFT_YARD_ART = REPO / "Campaign/Assets/Maps/third-ledger-lift-yard.png"
+LIFT_YARD_MAP_ID = str(uuid.uuid5(SYNC_NAMESPACE, "map:third-ledger-lift-yard"))
+LIFT_YARD_FLOOR_ID = str(uuid.uuid5(SYNC_NAMESPACE, "map:third-ledger-lift-yard:floor"))
+LIFT_YARD_LAYER_ID = str(uuid.uuid5(SYNC_NAMESPACE, "map:third-ledger-lift-yard:layer"))
+LIFT_YARD_OBJECT_ID = str(uuid.uuid5(SYNC_NAMESPACE, "map:third-ledger-lift-yard:object"))
+LIFT_YARD_OBJECT_ASSET_ID = str(
+    uuid.uuid5(SYNC_NAMESPACE, "map:third-ledger-lift-yard:object-asset")
 )
 TOKEN_LIBRARY_ID = str(uuid.uuid5(SYNC_NAMESPACE, "image-library:campaign-tokens"))
 MAP_LIBRARY_ID = str(uuid.uuid5(SYNC_NAMESPACE, "image-library:campaign-maps"))
@@ -324,11 +341,11 @@ def asset_for(path: Path, image_type: int, keyword: str) -> tuple[str, dict, Pat
     return asset_id, metadata, cache_path
 
 
-def map_settings() -> dict:
+def map_settings(grid_alpha: float = 0.18) -> dict:
     return {
         "globalLighting": {"r": 1, "g": 1, "b": 1, "a": 1},
         "insideLighting": {"r": 1, "g": 1, "b": 1, "a": 1},
-        "gridColor": {"r": 1, "g": 1, "b": 1, "a": 0.18},
+        "gridColor": {"r": 1, "g": 1, "b": 1, "a": grid_alpha},
         "luaSettings": {},
         "_patchDescription": "",
         "_patchSettings": {},
@@ -471,6 +488,97 @@ def capital_map_records(capital_asset_id: str, image_id: str) -> tuple[dict, dic
     return manifest, details, surface
 
 
+def lift_yard_map_records(map_asset_id: str, image_id: str) -> tuple[dict, dict, dict]:
+    """Build the calibrated 18-by-14 tactical map used by Session 3."""
+    width, height = png_dimensions(LIFT_YARD_ART)
+    if width * 14 != height * 18:
+        raise ValueError(
+            f"lift-yard art must be exactly 18:14, got {width}x{height}"
+        )
+    # Draw Steel renders map objects at 100 pixels per world unit. Scaling the
+    # full image to 1,800 by 1,400 world pixels aligns its printed grid exactly
+    # to eighteen by fourteen tactical squares.
+    scale = 1800 / width
+    component = {
+        "@class": "ObjectComponentCore",
+        "_lastScale": scale,
+        "_lastRotation": 0,
+        "locked": True,
+        "keywords": [],
+        "rotation": 0,
+        "scale": scale,
+        "pivot_x": 0.5,
+        "pivot_y": 0.5,
+        "sublayer": "Objects",
+        "sprite_invisible_to_players": False,
+        "height": 0.01,
+        "hasShadow": False,
+        "disabled": False,
+        "properties": None,
+    }
+    object_asset = {
+        "previewType": None,
+        "components": {"CORE": component},
+        "children": {},
+        "keywords": None,
+        "imageId": image_id,
+        "tint": {"r": 1, "g": 1, "b": 1, "a": 1},
+        "width": 0,
+        "height": 0,
+        "description": "Third Ledger Lift Yard",
+        "parentFolder": None,
+        "artist": "OpenAI ImageGen",
+        "ord": 0,
+        "ctime": 1785480000000,
+        "mtime": 1785480000000,
+        "hidden": False,
+    }
+    map_object = {
+        "assetid": LIFT_YARD_OBJECT_ASSET_ID,
+        "asset": object_asset,
+        "parentObj": None,
+        "pos": {"x": 0, "y": 0},
+        "zorder": 1,
+        "createTime": 178548000,
+        "components": {"CORE": component},
+        "wires": {},
+    }
+    layer = empty_floor(LIFT_YARD_FLOOR_ID, "Third Ledger Lift Yard", "Map Layer")
+    layer["objects"][LIFT_YARD_OBJECT_ID] = map_object
+    layer["map"]["dimMin"] = {"0": -9, "1": -7}
+    layer["map"]["dimMax"] = {"0": 9, "1": 7}
+    layer["mapSettings"] = map_settings(grid_alpha=0)
+    floor = empty_floor(None, "Third Ledger Lift Yard", None)
+    floor["map"]["dimMin"] = {"0": -9, "1": -7}
+    floor["map"]["dimMax"] = {"0": 9, "1": 7}
+    floor["mapSettings"] = map_settings(grid_alpha=0)
+    details = {"floors": {LIFT_YARD_LAYER_ID: layer, LIFT_YARD_FLOOR_ID: floor}}
+    manifest = {
+        "description": "Act 2 — Third Ledger Lift Yard",
+        "syncVersion": 1,
+        "parentFolder": "",
+        "ord": 2,
+        "loadingScreenImage": map_asset_id,
+        "defaultFloorId": LIFT_YARD_FLOOR_ID,
+        "dimMin": {"0": -9, "1": -7},
+        "dimMax": {"0": 9, "1": 7},
+        "groundLevel": 0,
+        "floors": {"0": LIFT_YARD_LAYER_ID, "1": LIFT_YARD_FLOOR_ID},
+        # The generated image already contains the tactical grid.
+        "mapSettings": map_settings(grid_alpha=0),
+        "teleporters": {},
+    }
+    surface = {
+        "updateid": "",
+        "valid": True,
+        "heights": {},
+        "rasters": {},
+        "effects": {},
+        "modifications": {},
+    }
+    return manifest, details, surface
+
+
 def document_folder_id(relative: Path) -> str:
     return stable_id(f"document-folder:{relative.as_posix()}")
 
@@ -596,6 +704,11 @@ def firebase_patch(game_id: str, patch: dict) -> None:
 def main() -> None:
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("--apply", action="store_true", help="apply the reported changes")
+    parser.add_argument(
+        "--stage-session3",
+        action="store_true",
+        help="place the four managed heroes at the Session 3 lift-yard meeting point",
+    )
     parser.add_argument("--game-id", default=DEFAULT_GAME_ID)
     parser.add_argument("--user-id", default=DEFAULT_USER_ID)
     args = parser.parse_args()
@@ -639,6 +752,17 @@ def main() -> None:
         desired["size"] = PLAYER_CREATURE_SIZE_INDEX
         desired["ownerId"] = "PARTY"
         desired["partyid"] = PLAYERS_PARTY_ID
+        if args.stage_session3:
+            x, y = SESSION_3_HERO_POSITIONS[name]
+            loc_info = desired.setdefault("locInfo", {})
+            target_loc = {"0": x, "1": 0, "2": y}
+            if loc_info.get("map") != LIFT_YARD_MAP_ID or loc_info.get("loc") != target_loc:
+                loc_info["map"] = LIFT_YARD_MAP_ID
+                loc_info["floor"] = None
+                loc_info["loc"] = target_loc
+                loc_info["pos"] = {"x": x, "y": y}
+                loc_info["summonLoc"] = target_loc
+                loc_info["updateid"] = int(loc_info.get("updateid") or 0) + 1
         properties = desired.get("properties", {})
         classes = properties.get("classes", {})
         primary_class = classes.get("1")
@@ -703,7 +827,15 @@ def main() -> None:
     )
     images[capital_asset_id] = capital_metadata
     cache_copies.append((CAPITAL_ART, capital_cache))
-    map_library = {capital_asset_id: {"assetid": capital_asset_id}}
+    lift_yard_asset_id, lift_yard_metadata, lift_yard_cache = asset_for(
+        LIFT_YARD_ART, 0, "third-ledger-lift-yard"
+    )
+    images[lift_yard_asset_id] = lift_yard_metadata
+    cache_copies.append((LIFT_YARD_ART, lift_yard_cache))
+    map_library = {
+        capital_asset_id: {"assetid": capital_asset_id},
+        lift_yard_asset_id: {"assetid": lift_yard_asset_id},
+    }
 
     for asset_id, metadata in images.items():
         if current.get("assets", {}).get("images", {}).get(asset_id) != metadata:
@@ -850,6 +982,34 @@ def main() -> None:
         )
         descriptions.append("UPSERT map: Capital — Campaign Placeholder")
 
+    manifest, details, surface = lift_yard_map_records(
+        lift_yard_asset_id, lift_yard_metadata["imageId"]
+    )
+    if current.get("mapManifests", {}).get(LIFT_YARD_MAP_ID) != manifest:
+        ops.extend(
+            [
+                {
+                    "type": "put",
+                    "store": "game",
+                    "path": f"/mapManifests/{LIFT_YARD_MAP_ID}",
+                    "data": manifest,
+                },
+                {
+                    "type": "put",
+                    "store": f"mapdetails:{LIFT_YARD_MAP_ID}",
+                    "path": "/",
+                    "data": details,
+                },
+                {
+                    "type": "put",
+                    "store": f"maps:{LIFT_YARD_MAP_ID}",
+                    "path": "/",
+                    "data": surface,
+                },
+            ]
+        )
+        descriptions.append("UPSERT map: Act 2 — Third Ledger Lift Yard")
+
     document_table = (
         current.get("assets", {})
         .get("objectTables", {})
@@ -982,6 +1142,7 @@ def main() -> None:
     folders_after = after.get("assets", {}).get("documentFolders", {})
     downtime_live_after = source_project_live_states(after, args.user_id)
     session_2_doc_id = stable_id("document:Act 2/Session 2.md")
+    session_3_doc_id = stable_id("document:Act 2/Session 3.md")
     checks = {
         "four managed Players present": all(
             spec["id"] in after.get("characters", {}) for spec in HEROES.values()
@@ -1072,6 +1233,20 @@ def main() -> None:
             LEGACY_MAP_IDS & set(after.get("mapManifests", {}))
         ),
         "Capital placeholder map present": CAPITAL_MAP_ID in after.get("mapManifests", {}),
+        "Session 3 lift-yard map present and calibrated": (
+            after.get("mapManifests", {}).get(LIFT_YARD_MAP_ID, {}).get("dimMin")
+            == {"0": -9, "1": -7}
+            and after.get("mapManifests", {}).get(LIFT_YARD_MAP_ID, {}).get("dimMax")
+            == {"0": 9, "1": 7}
+            and after.get("mapManifests", {})
+            .get(LIFT_YARD_MAP_ID, {})
+            .get("loadingScreenImage")
+            == lift_yard_asset_id
+        ),
+        "Session 3 map art imported": (
+            after.get("assets", {}).get("images", {}).get(lift_yard_asset_id)
+            == lift_yard_metadata
+        ),
         "all Markdown documents imported": all(
             docs_after.get(doc_id) == record
             for doc_id, record in desired_documents.items()
@@ -1079,6 +1254,21 @@ def main() -> None:
         "Session 2 Markdown imported": (
             docs_after.get(session_2_doc_id)
             == desired_documents.get(session_2_doc_id)
+        ),
+        "Session 3 Markdown imported": (
+            docs_after.get(session_3_doc_id)
+            == desired_documents.get(session_3_doc_id)
+        ),
+        "Session 3 heroes staged when requested": (
+            not args.stage_session3
+            or all(
+                after.get("characters", {})
+                .get(spec["id"], {})
+                .get("locInfo", {})
+                .get("map")
+                == LIFT_YARD_MAP_ID
+                for spec in HEROES.values()
+            )
         ),
         "Journal folders mirror repository": all(
             folders_after.get(folder_id) == record
@@ -1092,7 +1282,7 @@ def main() -> None:
     if failed:
         raise RuntimeError(f"post-sync verification failed: {', '.join(failed)}")
     print("DOWNTIME_PROGRESS_PRESERVATION_OK")
-    print("DRAW_STEEL_SESSION_2_IMPORT_OK")
+    print("DRAW_STEEL_SESSION_3_IMPORT_OK")
     print(f"APPLIED {len(ops)} Draw Steel data operations")
     print(f"BACKUP {backup_path}")
 

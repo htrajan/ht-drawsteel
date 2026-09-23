@@ -111,13 +111,13 @@ Campaign-created auditing institution; Vesk's occupation and murder belong to pl
 
 ### Quiet closure, not public amnesia
 
-Veros blocks additional witness interviews and closes her case as **“unexplained disappearance.”** Corbin is dismissed after continuing to help; office access is canceled. These are **prepared Session 2 consequences**, not events already recorded.
+Veros blocks additional witness interviews and wants her case closed as **“unexplained disappearance.”** In played Session 2, the heroes nevertheless retain their separate repair-fraud work letters through Hanae, and Corbin remains employed through the session's end. Veros dismisses Corbin off-screen during the 24-hour interval in Session 3; that dismissal does not cancel the heroes' limited deputization.
 
 There is **no public announcement**. The public still witnessed her death; the cover-up relies on institutional refusal and attention drifting, not a compulsory memory effect. If the party publicizes evidence, that changes the opposition the attempted cover-up faces. Other officers can accept theft evidence, honor a separately funded reward, or help through their own institutions without the murder inquiry reopening automatically.
 
 ## Money and institutions are not universal traps
 
-The local civilian-assistance program offers ordinary wages for ordinary work and an explicitly invented Fulcrum-funded reward for verifiable civic-fraud evidence. Full completion awards **+1 Wealth per hero**, not divided among the party. Funds are separate from Veros's investigation budget; a canceled work letter does not cancel an earned claim. Hanae can verify evidence and arrange payment outside the closed inquiry.
+The local civilian-assistance program offers ordinary wages for ordinary work and an explicitly invented Fulcrum-funded reward for verifiable civic-fraud evidence. Full completion awards **+1 Wealth per hero**, not divided among the party. Funds are separate from Veros's investigation budget; employment action against Corbin does not cancel an earned claim or the repair-fraud work letters Hanae kept active. Hanae can verify evidence and arrange payment outside the closed inquiry.
 
 The Font remains an unraided, independent newsroom. No current commission, mandatory audience or patron choice is scheduled. Heroes may contact it—or any appropriate house or guild—on their own initiative. Preserve a decision to publish; do not erase it to force a quiet ending.
 

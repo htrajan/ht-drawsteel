@@ -1,15 +1,15 @@
 # Act 2, Session 3 — “The Last Receipt”
 
-> **Prepared, not played.** A 150-minute Capital session beginning immediately after Demona catches Commissioner Ottaviano Bellafonte. The heroes break his nerve, retain their limited deputy work, use his emergency code to lure Rudiger Fenwick, and fight a paid cleanup crew at the Third Ledger Lift Yard. Player-facing dialogue and read-aloud appear in italicized blockquotes. Other text is for the Director.
+> **Prepared, not played.** A 150-minute Capital session beginning immediately after Demona catches Commissioner Ottaviano Bellafonte. The heroes negotiate for his confession and cooperation, retain their limited deputy work, use his emergency code to lure Rudiger Fenwick, and fight a paid cleanup crew at the Third Ledger Lift Yard. Player-facing dialogue and read-aloud appear in italicized blockquotes. Other text is for the Director.
 >
-> **Standalone Markdown only.** Do not run the Draw Steel synchronization script, import character data, or update app-managed state while preparing or using this document. Record actual outcomes after play.
+> **Steam app setup:** `tools/sync_drawsteel_campaign.py` imports this run sheet and the calibrated lift-yard map into the local Draw Steel campaign. Record actual outcomes after play; the prepared text is not a play record.
 
 ## At a glance
 
 - **Four heroes:** M.A.C., Keth, Demona and Dorian. Use their actual level and resources at the table.
 - **Runtime:** 135 planned minutes plus a protected 15-minute buffer.
 - **One combat:** Standard difficulty, three hostile profiles, no reinforcements, four-round cap.
-- **Zero montage tests.** The interrogation gives required information directly; the sting permits at most two consequential tests.
+- **One negotiation, zero montage tests.** Bellafonte's negotiation determines willing cooperation, not whether the required lead exists; the sting permits at most two consequential tests.
 - **Respite before the fight:** Fenwick schedules the exchange for the following night, allowing the heroes to complete the required 24-hour respite. They regain all Stamina and Recoveries; their Victories convert to XP and reset normally. Players handle any sheet changes themselves.
 - **Prepared rewards:** Up to 2 Victories after the respite—1 for overcoming the cleanup crew without losing Bellafonte's ledger, and 1 for securing Fenwick or his corroborating satchel.
 - **Knowledge boundary:** Bellafonte and Fenwick can expose Civic Loomworks and Festooning. Neither can name Baldo Merovanni, Corvane Dury, the Author's location, or the source of the erasures.
@@ -18,7 +18,7 @@
 
 | Table time | Scene | Allocation |
 | --- | --- | --- |
-| **0:00–0:25** | 1. Bellafonte breaks | Three disclosures, immediate pressure, ledger and code |
+| **0:00–0:25** | 1. Bellafonte's confession | Obtain the confession, ledger and code; negotiate for willing help at the sting |
 | **0:25–0:35** | 2. Handoff and a new partnership | Hanae takes custody; Melvin returns after his off-screen dismissal |
 | **0:35–1:00** | 3. Build the sting | Melvin's reconnaissance, respite and two preparations |
 | **1:00–1:15** | 4. The exchange | Draw Fenwick into a self-incriminating meeting |
@@ -26,7 +26,7 @@
 | **1:55–2:15** | 6. Independent proof | Evidence, Melvin's next investigation and water restored at Cistern Steps |
 | **2:15–2:30** | Buffer | Absorb play; if unused, let the heroes speak with the Cistern Steps residents |
 
-**Protect the buffer.** At minute 20, Bellafonte gives the remaining disclosures after the next decisive escalation. Once the heroes establish two preparations, cut to the exchange. Start initiative by 1:15. End the paid crew's participation at the end of round 4; do not play a fifth cleanup round.
+**Protect the buffer.** At minute 20, resolve Bellafonte's current response and release every required fact. Once the heroes establish two preparations, cut to the exchange. Start initiative by 1:15. End the paid crew's participation at the end of round 4; do not play a fifth cleanup round.
 
 ## What is really happening — Director only
 
@@ -53,10 +53,10 @@ Veros dismisses Melvin during the 24-hour interval before the sting. That conver
 ### Commissioner Ottaviano Bellafonte — captured and frightened
 
 - **Who:** Fulcrum-appointed repairs commissioner for the Dog-leg; wealthy collector; signer of false completion reports.
-- **What he wants now:** Immediate safety from pain, followed by protection from Fenwick's employers.
+- **What he wants now:** Safety from Fenwick, continued use of his title, comfortable custody and some control over what happens to him and his collection.
 - **What he knows:** Fenwick's name and habits, Civic Loomworks, warm-blue wax, his own bribes, the insurance ledger and the emergency phrase.
 - **What he does not know:** Who funds Loomworks above the contractor level, what L.R.A. means, who killed Vesk, or anything reliable about the Author.
-- **Running him:** He begins with status and denials, loses both quickly, and tries to make Fenwick sound like the sole architect. Concrete pressure works. He does not withstand physical harm out of ideological loyalty.
+- **Running him:** He is frightened but vain. A clean glass, his brushed coat, the title “Commissioner,” a chair offered instead of ordered and promises of private custody make him feel that he is negotiating rather than being processed. He eagerly believes plausible assurances, even when a hero is lying. He still tries to make Fenwick sound like the sole architect.
 - **Pitfall:** Do not make his confession the whole conspiracy. He is a corrupt coward with one useful rung of knowledge.
 
 ### Rudiger Fenwick — escaped broker
@@ -94,69 +94,144 @@ Veros dismisses Melvin during the 24-hour interval before the sting. That conver
 
 ---
 
-## Scene 1 — Bellafonte breaks (0:00–0:25)
+## Scene 1 — Bellafonte's confession (0:00–0:25)
 
 ### Open in the room
 
-**Goal:** Turn the capture into a precise next move without letting an open-ended interrogation consume the session.
+**Goal:** Obtain Bellafonte's confession, ledger and emergency code. The negotiation determines whether he willingly helps sell the sting, not whether the session receives its required lead.
 
 Use a small service room above the gallery. If Session 2 ended elsewhere on the property, preserve that physical location and use the nearest private room.
 
-> *A single lamp burns over the service room's narrow table. Bellafonte sits opposite you, his coat torn at one shoulder and pale marble dust streaked across his cheek.*
+> *A single lamp burns over the service room's narrow table. Bellafonte remains standing beside the least-damaged chair. His coat is torn at one shoulder, and pale marble dust streaks his cheek.*
 >
-> *Every scrape from the stair turns his eyes toward the door.*
+> *He looks at the cloudy water jug, then at each of you. He starts to straighten his coat, stops when he sees the torn shoulder and folds his hands over it.*
 >
-> *“Whatever you think happened downstairs,” he says, “you have mistaken a private collector for a criminal.”*
+> *“Commissioner Bellafonte,” he says, too quietly to sound like a correction. “I can explain the reports. Is there clean water? And when Lieutenant Petrovic comes, will you tell her I cooperated?”*
 
-Let the heroes decide who questions him, what evidence they show and whether they use force. Do not present the disclosures as a menu.
+A clean glass, a cloth and the use of his title cost the heroes nothing. Let them decide whether to indulge him, promise him more, lie or reject the performance. Bellafonte is frightened enough to talk; these courtesies make him steadier and more willing to help at the exchange. He has no leverage to set terms for his confession.
 
-### How the interrogation works
+### What the heroes are asking for
 
-There is no roll to obtain the three required disclosures. Each **new, credible escalation** obtains the next one. Examples include placing his signed approval beside the missing pump evidence, naming Fenwick's escape, showing that the Gilt Marshal is destroyed, promising protection he believes, threatening immediate harm, or inflicting it.
+State the complete request once it becomes clear in play: Bellafonte must give a truthful account, surrender his private ledger, send Fenwick's emergency message and, if possible, appear at the exchange.
 
-Track three boxes:
+Bellafonte is conflicted. Cooperation might keep Fenwick from killing him, but it makes him a witness against people he fears. His remaining comforts and title are the only proof he can still offer himself that he is not powerless.
 
-- [ ] **The bribes:** Bellafonte admits the false approvals and gifts.
-- [ ] **The contractor:** He names Fenwick, Civic Loomworks and the blue wax.
-- [ ] **The insurance:** He reveals the ledger, phrase and retrieval procedure.
+### Bellafonte's negotiation
 
-Physical force obtains the next disclosure automatically. Never ask for a Might or Presence test to determine whether pain works. Ask what the hero does, describe Bellafonte's observable response, give the disclosure and return to the conversation.
+- **Interest:** 2
+- **Patience:** 3
+- **Impression:** 3
 
-### Composed or Broken — the immediate consequence
+**Party feature reminders:** Dorian's **Commanding Presence** raises every present hero's effective Renown by 2 during this negotiation. If Bellafonte knows a hero and that effective Renown meets Impression 3, fame grants an edge when a Lead, Persuade or Flirt argument applies; infamy grants an edge when Brag, Interrogate or Intimidate applies. Demona's **Silver Tongue** grants an edge only on a test to discover a motivation or pitfall. M.A.C.'s **Pardon My Friend** can replace a failed Presence test made by an ally within 5 squares; M.A.C. rolls Presence with a bane. It does not trigger on a Reason, Intuition or Might test.
 
-Bellafonte begins **Composed** enough to write and repeat a simple cover story.
+#### Motivations
 
-Mark him **Broken** if either occurs:
+- **Power:** Treat him as Commissioner, offer meaningful choices and frame his testimony as something only a man in his position can provide.
+- **Greed:** Preserve non-evidence pieces of his collection, promise a private room, a proper meal, clean clothes or other material comforts.
+- **Protection:** Keep Fenwick and Loomworks from reaching him, conceal where he is held and make his cooperation the reason the heroes must keep him alive.
 
-- The heroes leave an obvious injury that Fenwick would notice at a glance.
-- They continue hurting him after he has begun giving the requested facts.
+#### Pitfall
 
-Broken Bellafonte still tells them everything. The consequence is operational, not legal:
+- **Justice:** Arguments about what he owes the Cistern Steps residents, the punishment he deserves or the virtue of confession offend him. Evidence of his guilt is useful leverage; asking him to care about fairness is not.
 
-- **Composed:** He can appear under guard at the exchange and sell the first moments of the lie.
-- **Broken:** His hands shake, he loses the thread of rehearsed sentences and Fenwick would immediately know he is controlled. Hanae removes him from the operation; a hero must pose as his courier.
+The opening shows **Power** and **Greed** through his title, coat and request for clean water. If a hero asks what Bellafonte fears, he answers directly and reveals **Protection**:
 
-When force is approaching that line, Melvin gives one plain warning:
+> *“Fenwick knows which officers take money and which doors remain unlocked. If I help you, he will find me unless someone hides me where he cannot purchase the key.”*
 
-> *Melvin watches Bellafonte struggle to hold the pen.*
->
-> *“He's talking. Push him further and he won't be able to sell the message.”*
+Do not hide the useful approaches behind expert political roleplay. Bellafonte's fears and vanities are apparent; the heroes decide whether to reassure him, flatter him, lie or press him.
 
-This warning does not stop a hero. It makes the tradeoff clear before the choice.
+### Making arguments
 
-### First disclosure — the bribes
+One hero makes each argument, though the players can plan it together. An argument needs both an offer or claim and a reason Bellafonte should believe it serves him.
 
-Bellafonte begins by minimizing:
+If an argument appeals to an unused motivation and avoids the pitfall, make a **Reason, Intuition or Presence test** using an applicable skill. Lie, Persuade, Brag, Interrogate and Read Person can all fit different approaches.
+
+- **≤11:** Bellafonte's Patience decreases by 1.
+- **12–16:** His Interest increases by 1 and his Patience decreases by 1.
+- **17+:** His Interest increases by 1; his Patience does not change.
+
+Each motivation can increase Interest only once. Reward an unusually strong, specific argument with the 17+ result without a roll.
+
+If an argument uses no motivation or pitfall:
+
+- **≤11:** Patience decreases by 1 and Interest decreases by 1.
+- **12–16:** Patience decreases by 1.
+- **17+:** Interest increases by 1 and Patience decreases by 1.
+- **Natural 19–20:** Patience does not decrease.
+
+If an argument uses **Justice**, it automatically fails; Interest and Patience each decrease by 1. Bellafonte makes the mistake clear:
+
+> *“I know what I signed. Calling me a thief will not keep Fenwick from finding me.”*
+
+### Coddling, promises and lies
+
+Bellafonte wants to believe that some privilege can survive this night. A hero can appeal to Power or Greed by sincerely offering small courtesies or by lying about private custody, excellent food, preservation of his collection or continued official respect.
+
+Resolve a plausible lie normally with the **Lie** skill. Do not expose it merely because it is a lie. Bellafonte catches it only if the roll fails to increase Interest and the promise contradicts something visible or another hero's statement. A successful lie works for this negotiation even if the heroes have no authority to fulfill it.
+
+Useful arguments include:
+
+- *“Commissioner, Fenwick has reduced you to a signature he can discard. Help us, and your account becomes the one every officer must answer.”* — **Power**
+- *“You will have a private room, your own clothes and a proper meal. The pieces unrelated to the fraud will be cataloged, not looted.”* — **Greed**, whether sincere or false
+- *“The safest place in Capital is the one Fenwick cannot identify. His need for this ledger gives us a reason to keep you hidden and alive.”* — **Protection**
+
+Threats that offer no path to safety use the harder no-motivation outcomes. Physical violence ends the negotiation and releases every required fact immediately. Bellafonte is then **Unavailable as bait**. Do not run a torture challenge or ask whether pain works.
+
+### Responses by Interest
+
+After each argument, use the response matching Bellafonte's current Interest. If his Patience reaches 0 or Interest reaches 5, this is his final response.
+
+**The facts are not bargaining chips.** At Interest 2 or higher, Bellafonte immediately gives the confession, ledger location and emergency code described below. His Interest determines how calmly and willingly he helps with the sting. Courtesy or promises can increase Interest, but he never requires concessions before giving the facts.
+
+#### Interest 5 — “Yes, and...”
+
+After giving the required facts, he writes the message and appears at the exchange without a visible guard. He also explains Fenwick's favorite authentication trick:
+
+> *“Fenwick sometimes gives a messenger a page number that does not exist. If he says ‘page twelve,’ he is testing you. The ledger has entries, not numbered pages.”*
+
+If a hero later poses as Bellafonte's courier, that hero recognizes the page-twelve trap automatically and gains an edge on the response.
+
+#### Interest 4 — “Yes.”
+
+After giving the required facts, he writes the message and agrees to appear at the exchange. He steadies himself well enough to speak to Fenwick without prompting.
+
+> *“I can tell Fenwick that I still have the book. He will believe I held it back from you.”*
+
+#### Interest 3 — “Yes, but...”
+
+He has already given the confession, ledger location and code. He writes the message and agrees to appear, though he will be visibly nervous. He does not ask for a promise or require further bargaining. Reassurance can still help him play the part.
+
+> *“You have my account and the book. I will stand where you tell me when Fenwick comes. Please keep close enough that he cannot take me.”*
+
+#### Interest 2 — “No, but...”
+
+He gives the confession, ledger and code because withholding them is now more dangerous than surrendering them. He refuses to appear at the exchange.
+
+> *“I will tell you what Fenwick did and where I hid the book. I will not stand beside you when he learns that I betrayed him.”*
+
+Bellafonte is **Unavailable as bait**, but the sting proceeds through a courier.
+
+#### Interest 1 — “No.”
+
+> *“If I name him, I will have two enemies. I cannot face Fenwick as well.”*
+
+If his Patience remains, he looks toward the stair and adds:
+
+> *“Where will Petrovic keep me? Does Fenwick have officers there too?”*
+
+#### Interest 0 — “No, and...”
+
+Bellafonte panics and stops answering. The negotiation ends. Direct pressure still obtains every fact below, but he is **Unavailable as bait**.
+
+### The information Bellafonte gives
+
+At Interest 2 or higher—or immediately when the heroes abandon negotiation for coercion—give all three disclosures through the conversation. Do not make the heroes guess three specific questions.
+
+#### The bribes
 
 > *“Fenwick brought me gifts, as collectors sometimes do, and I signed reports that the contractor had already prepared.”*
-
-If confronted with the missing pump or his signature:
-
-> *“I knew the pump wasn't there when I signed the report.”*
 >
-> *He swallows before continuing.*
->
-> *“Fenwick said the allocation had already been reassigned. If I refused, another commissioner would sign and I would be the only man in the room who had made an enemy.”*
+> *“I knew the pump wasn't there when I signed the report. Fenwick said the allocation had already been reassigned. If I refused, another commissioner would sign and I would be the only man in the room who had made an enemy.”*
 
 **“What did you receive?”**
 
@@ -166,11 +241,7 @@ If confronted with the missing pump or his signature:
 
 > *“Civic Loomworks arranged the crews. I never met the laborers.”*
 
-Bellafonte knows he signed a lie. He cannot identify every worker or prove who knew the work was false.
-
-### Second disclosure — Fenwick and Civic Loomworks
-
-When the pressure continues:
+#### Fenwick and Civic Loomworks
 
 > *“His name is Rudiger Fenwick. He handles the signatures for Civic Loomworks and Festooning.”*
 >
@@ -190,9 +261,7 @@ If the heroes name an upstream figure they already suspect:
 
 Do not confirm a correct guess through Bellafonte's fear. He lacks the information.
 
-### Third disclosure — the insurance ledger
-
-Bellafonte gives up the ledger when convinced the heroes can hurt him now or Fenwick cannot protect him:
+#### The insurance ledger
 
 > *“The book is hidden inside the narrow plinth with the green stone top in the north alcove. Press the brass leaf underneath and pull.”*
 >
@@ -230,13 +299,26 @@ The entries prove Bellafonte and Fenwick's repeated business with Civic Loomwork
 
 > *“It means that the house is unsafe and our arrangement is over.”*
 
+### Available or Unavailable as bait
+
+Bellafonte is **Available as bait** only if both conditions are true:
+
+- The negotiation ends at Interest 3 or higher.
+- He has no obvious injury and the heroes do not continue hurting him after he begins talking.
+
+Otherwise he is **Unavailable as bait**. He still writes the coded message and reveals everything, but Hanae will not put an unwilling, visibly injured or panicked witness into the yard.
+
+When violence threatens his usefulness, Melvin makes the immediate tradeoff clear:
+
+> *Melvin watches Bellafonte struggle to hold the pen.*
+>
+> *“He is giving us the book and the message. Hurt him now and Fenwick will see the trap before he reaches the crate.”*
+
 ### Hard stop
 
-At minute 20, the next decisive escalation releases every unchecked disclosure. Bellafonte can tumble through them in one frightened burst:
+At minute 20, finish the current argument and use Bellafonte's current response. At Interest 2 or higher, he releases every remaining fact. At Interest 1 or 0, immediate pressure breaks his refusal and produces the same facts, but he becomes Unavailable as bait.
 
-> *“Fenwick works for Civic Loomworks, and his instructions arrive under blue wax. The ledger is under the green plinth. Tell him that the collection is closed and I kept the last receipt. He will come himself. Please stop.”*
-
-Give the heroes a few minutes to inspect the ledger and decide whether Bellafonte remains Composed or is Broken, then bring Hanae to the house.
+Give the heroes a few minutes to inspect the ledger and record whether Bellafonte is Available or Unavailable, then bring Hanae to the house.
 
 ---
 
@@ -252,17 +334,17 @@ Hanae arrives with two ordinary Gold Buttons. They secure the entrances and take
 
 She provides a signed receipt for Bellafonte and any original evidence the heroes choose to surrender. She explicitly permits them to retain a copy.
 
-If Bellafonte is **Composed**:
+If Bellafonte is **Available as bait**:
 
 > *“If he agrees to appear, I can hold the outer cordon. One of you stays close enough to stop him running.”*
 
-If Bellafonte is **Broken**:
+If Bellafonte is **Unavailable as bait**:
 
 > *Hanae watches him try twice to sign his name.*
 >
 > *“He's done. I'm putting him somewhere Fenwick can't reach him. Use the message.”*
 
-She does not debate morality or future courtroom procedure. Her concern is that Broken Bellafonte cannot convincingly take part.
+She does not debate morality or future courtroom procedure. Her concern is whether Bellafonte can convincingly take part without giving away the trap.
 
 At the heroes' request, Hanae allows Bellafonte to write the coded note before she removes him. Keep the note with the party; custody does not prevent the sting.
 
@@ -322,7 +404,7 @@ A respite requires **24 uninterrupted hours** spent sleeping, eating, dressing w
 
 - Regain all Stamina and Recoveries.
 - Convert current Victories to XP, then reset those Victories.
-- Resolve any resulting level or option changes manually at the table; do not run an import or synchronization tool.
+- Resolve any resulting level or option changes manually at the table. The campaign import does not alter character sheets.
 
 The party can arrange the courier and tell Melvin what to watch before beginning. Melvin's public-ground surveillance does not interrupt their respite.
 
@@ -330,7 +412,7 @@ If the group declines the respite, preserve their actual resources and use the d
 
 ### Melvin's report — give this freely
 
-After the respite, Melvin spreads a hand-drawn yard plan on the table:
+Only after Fenwick's reply names the Third Ledger Lift Yard, Melvin watches that yard from public ground during the respite. When the heroes regroup, he spreads a hand-drawn plan on the table:
 
 > *“Fenwick is coming. I saw him inspect the reply before it went into the box.”*
 >
@@ -376,12 +458,14 @@ Possible preparations include:
 
 Reward other sensible preparations with equivalent positioning, a delayed enemy, secured evidence or one additional escape action. No preparation removes the combat: Fenwick's crew already has orders to extract him and recover or destroy the ledger. Preparation decides how favorable the confrontation is.
 
-### Bellafonte's condition
+### Bellafonte's availability
 
-- **Composed:** He appears at I8 under the heroes' control. Fenwick begins at K8. Bellafonte starts with 20 Stamina and takes cover when violence begins.
-- **Broken:** Bellafonte remains in Hanae's custody. A hero must carry the message and meeting prop. Unless a successful disguise preparation changes it, Fenwick begins at M10 with one enforcer adjacent.
+- **Available as bait:** He appears at I8 under the heroes' control. Fenwick begins at K8. Bellafonte starts with 20 Stamina and takes cover when violence begins.
+- **Unavailable as bait:** Bellafonte remains in Hanae's custody. A hero must carry the message and meeting prop. Unless a successful disguise preparation changes it, Fenwick begins at M10 with one enforcer adjacent.
 
 Once two preparations are settled, cut to the yard.
+
+Before reading the arrival text, have the players name and record one exact legal starting square for each hero. Apply the two setup results first; any hero not moved by a preparation begins within 2 squares of I8. Do not leave a hero at a merely relative position such as “near Bellafonte” or “beside Dorian.”
 
 ---
 
@@ -491,7 +575,7 @@ All three hostile profiles are custom scenario creatures with provisional EVs. A
 | Effective ES about 60 | 1 | 4 | 8 | 70 | 13 |
 | Effective ES about 70 | 1 | 5 | 8 | 80 | 14 |
 
-EV costs: **Vale 20; each enforcer 10; four yardhands 5**. Eight yardhands always form two squads of four. No creature exceeds level 4. At the two larger budgets, at least half the opponents are minions. Never add hidden reinforcements.
+EV costs: **Vale 20; each enforcer 10; four yardhands 5**. Eight yardhands always form two squads of four. No creature exceeds level 4. At the two larger budgets, at least half the opponents are minions. There are no hidden reinforcements.
 
 **Depleted-party adjustment:** If the heroes decline the respite and two or more begin below half Stamina or with no Recoveries, remove one enforcer before the exchange. Do not replace it with another creature. Keep the fight worth 1 Victory if completed.
 
@@ -504,6 +588,8 @@ Use three enemy groups and alternate them with hero turns:
 - **White:** Remaining enforcers and four yardhands.
 
 Bellafonte, if present, acts at the end of Blue. He takes cover and follows a directly adjacent hero's simple instruction. He does not attack.
+
+Before anyone declares a full turn, determine which side goes first. Neither side is surprised: Melvin exposed the net carrier, and Fenwick arrived alert. Roll 1d10. On 6+, the players choose which side goes first; on 1–5, the Director chooses. Thereafter the sides alternate, with the players choosing one unactivated hero on each hero turn and the Director choosing one unactivated enemy group on each enemy turn. When an enemy group activates, every creature assigned to it takes a turn. The side that went first in round 1 goes first in later rounds.
 
 ### Tactical layout — one square = 5 feet
 
@@ -531,8 +617,8 @@ Draw an **18 × 14-square yard**, columns A–R west to east and rows 1–14 nor
 **Starting positions:**
 
 - Unplaced heroes begin within 2 squares of I8. Apply earned gantry, barge or gate positions instead of returning them here.
-- **Composed Bellafonte:** I8. Fenwick K8. Vale N8.
-- **Broken Bellafonte:** Absent. The courier/meeting hero begins I8; Fenwick M10; Vale L9; one enforcer adjacent to Fenwick.
+- **Bellafonte available as bait:** I8. Fenwick K8. Vale N8.
+- **Bellafonte unavailable as bait:** Bellafonte is absent. The courier or meeting hero begins I8; Fenwick M10; Vale L9; one enforcer adjacent to Fenwick.
 - First yardhand squad: C5–F5. Second squad: O8–R8 unless a setup consequence moved it to the gantry.
 - Spread enforcers between L7, N7, P9, D7 and G10 in that order. An enforcer separated by preparation begins at A6.
 
@@ -562,6 +648,8 @@ Each marked flat is height 1 and grants cover. A creature adjacent to one spends
 Creatures in the line take 4 damage and are pushed 1 away; stability applies. The fallen flat becomes height-1 cover and difficult terrain. Each flat can be tipped once. These features carry no enemy EV.
 
 ### The barge escape — visible and contestable
+
+Preparing the barge requires two visible main actions before Fenwick can board it.
 
 Fenwick carries the key for the mooring lock. Before the barge can depart:
 
@@ -609,6 +697,7 @@ Reducing either to 0 can knock them unconscious instead of killing them. A capti
 - **Grab:** Maneuver, melee 1, one creature. Roll Might: ≤11 no effect; 12–16 grabbed after the target may make a melee free strike; 17+ grabbed. Fenwick and Bellafonte have no free strike, so tier 2 grabs them without damage. Normally target your size or smaller; Might 2+ permits a target up to a size equal to Might.
 - **Escape Grab:** Maneuver; roll Might or Agility, with a bane if smaller than the grabber: ≤11 no effect; 12–16 escape after the grabber may make a melee free strike; 17+ escape cleanly.
 - **Opportunity attacks:** An adjacent enemy willingly moving away without shifting or teleporting provokes a melee free strike. Forced movement does not.
+- **Aid Attack:** Maneuver; choose an adjacent enemy. The next ability roll an ally makes against that enemy before the start of the aiding creature's next turn gains an edge. A Grab is a test rather than an ability roll, so Aid Attack cannot improve a Grab.
 
 ### Minion rules used here
 
@@ -861,7 +950,7 @@ Bring his discoveries back as a person with observations, documents or a witness
 
 ## After play — record, do not assume
 
-- Bellafonte Composed / Broken; methods used and facts shared:
+- Bellafonte Available / Unavailable as bait; final Interest, promises, methods and facts shared:
 - Insurance ledger recovered, copied, surrendered or lost:
 - Session 2 reward paid now / already paid / still pending:
 - Melvin's dismissal learned and partnership accepted or changed:
@@ -876,4 +965,4 @@ Bring his discoveries back as a person with observations, documents or a witness
 - Evidence or prisoners delivered to Hanae; copies retained:
 - Cistern Steps pump restored; promises kept and resident conversations:
 
-Update campaign continuity only after recording these actual results. Do not run the Draw Steel synchronization script.
+Update campaign continuity only after recording these actual results. Re-run the Draw Steel campaign import after the written play record is updated.
