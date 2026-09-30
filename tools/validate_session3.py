@@ -24,13 +24,13 @@ def main() -> None:
         if not condition:
             failures.append(message)
 
-    slots = re.findall(r"^\| \*\*(\d+):(\d+)–(\d+):(\d+)\*\* \|", text, re.M)
+    slots = re.findall(r"^\| (\d+):(\d+)–(\d+):(\d+) \|", text, re.M)
     times = [
         (int(h1) * 60 + int(m1), int(h2) * 60 + int(m2))
         for h1, m1, h2, m2 in slots
     ]
     check(
-        [end - start for start, end in times] == [25, 10, 25, 15, 40, 20, 15],
+        [end - start for start, end in times] == [20, 10, 45, 10, 35, 15, 15],
         "Expected 135 planned minutes and a protected 15-minute buffer",
     )
     check(bool(times) and times[0][0] == 0 and times[-1][1] == 150,
@@ -42,37 +42,30 @@ def main() -> None:
 
     negotiation = text.split("## Scene 1 —", 1)[1].split("## Scene 2 —", 1)[0]
     for phrase in [
-        "**Interest:** 2",
-        "**Patience:** 3",
-        "**Impression:** 3",
-        "**Power:**",
-        "**Greed:**",
-        "**Protection:**",
-        "**Justice:**",
-        "Coddling, promises and lies",
-        "A successful lie works for this negotiation",
-        "Physical violence ends the negotiation",
-        "Unavailable as bait",
+        "Interest 2, Patience 3, Impression 3",
+        "**Protection**",
+        "**Power**",
+        "**Greed**",
+        "**Justice**",
+        "A successful Lie argument",
+        "Obvious injury or continued violence",
         "At minute 20",
     ]:
         check(phrase in negotiation, f"Negotiation is missing: {phrase}")
-    for interest in range(5, -1, -1):
-        check(f"Interest {interest} —" in negotiation,
-              f"Missing Interest {interest} offer")
-    check("every remaining fact" in negotiation and "same facts" in negotiation,
+    check("he still tells all" in negotiation and "undisclosed core facts" in negotiation,
           "Negotiation must fail forward to every required fact")
-    check("Interest 3 or higher" in negotiation,
+    check("Interest 3+ with no obvious injury" in negotiation,
           "Live-bait threshold must remain explicit")
 
     for phrase in [
-        "Your work letters still stand",
-        "Veros dismissed me",
-        "I am asking to work with you",
-        "Melvin's report — give this freely",
+        "Your work letters remain valid",
+        "Reginald Veros dismissed me",
+        "I want to work with you",
+        "Melvin inspects the named yard",
         "at most two",
-        "24 uninterrupted hours",
+        "24-hour uninterrupted respite",
         "Cistern Steps",
-        "You came back with water",
+        "clear water follows",
     ]:
         check(phrase in text, f"Missing continuity or closure beat: {phrase}")
     check("Reginald Veros" not in text or "Veros" in text,
@@ -117,18 +110,41 @@ def main() -> None:
         "never before the end of round 3",
         "two visible main actions",
         "Roll 1d10",
-        "name and record one exact legal starting square",
+        "exact legal starting square",
         "Aid Attack cannot improve a Grab",
     ]:
         check(phrase.lower() in text.lower(), f"Missing encounter safeguard: {phrase}")
 
-    outcome_section = text.split("### Resolve only what happened", 1)[1].split(
-        "### Player handout — the blue-wax satchel", 1
+    outcome_section = text.split("### What is in hand?", 1)[1].split(
+        "### Melvin's first independent case", 1
     )[0]
-    check(len(re.findall(r"^#### ", outcome_section, re.M)) == 4,
-          "Expected all four Fenwick/satchel outcomes")
-    check(outcome_section.lower().count("loomworks") >= 4,
-          "Every outcome must preserve a Civic Loomworks lead")
+    for outcome in [
+        "Fenwick and satchel secured",
+        "Fenwick escaped; satchel secured",
+        "Fenwick secured; satchel lost",
+        "Both lost",
+    ]:
+        check(outcome in outcome_section, f"Missing outcome: {outcome}")
+    check("south dispatch-box entrance" in outcome_section,
+          "Worst outcome must preserve an actionable Loomworks location")
+
+    def transform(message: str, shift: int) -> str:
+        return "".join(
+            chr((ord(ch) - 65 + shift) % 26 + 65)
+            if "A" <= ch <= "Z" else ch
+            for ch in message
+        )
+
+    cipher = re.search(r"^> (WKLUG .+ERRN\.)$", text, re.M)
+    check(cipher is not None, "Missing encrypted Fenwick handout")
+    if cipher:
+        check(transform(cipher.group(1), -3) ==
+              "THIRD LEDGER LIFT YARD. THIRD BELL AFTER DARK IN TWO DAYS. BRING THE BOOK.",
+              "Fenwick handout does not decode to the stated meeting")
+    check(transform("THE BOOK IS SAFE. I WILL COME.", 3) in text,
+          "Example reply is not correctly encrypted")
+    check("Have a player write the plaintext, then encode it" in text,
+          "Heroes must encrypt a message back to Fenwick")
 
     raw = MAP.read_bytes()[:24]
     check(raw[:8] == b"\x89PNG\r\n\x1a\n", "Lift-yard map is not a PNG")

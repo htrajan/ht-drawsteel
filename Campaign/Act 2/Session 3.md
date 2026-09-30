@@ -1,559 +1,282 @@
 # Act 2, Session 3 — “The Last Receipt”
 
-> **Prepared, not played.** A 150-minute Capital session beginning immediately after Demona catches Commissioner Ottaviano Bellafonte. The heroes negotiate for his confession and cooperation, retain their limited deputy work, use his emergency code to lure Rudiger Fenwick, and fight a paid cleanup crew at the Third Ledger Lift Yard. Player-facing dialogue and read-aloud appear in italicized blockquotes. Other text is for the Director.
->
-> **Steam app setup:** `tools/sync_drawsteel_campaign.py` imports this run sheet and the calibrated lift-yard map into the local Draw Steel campaign. Record actual outcomes after play; the prepared text is not a play record.
+> **Prepared, not played.** Begin immediately after Demona catches Commissioner Bellafonte. Italicized blockquotes and labeled handouts are player-facing; all other text is for the Director. Do not record outcomes until play.
 
 ## At a glance
 
-- **Four heroes:** M.A.C., Keth, Demona and Dorian. Use their actual level and resources at the table.
-- **Runtime:** 135 planned minutes plus a protected 15-minute buffer.
-- **One combat:** Standard difficulty, three hostile profiles, no reinforcements, four-round cap.
-- **One negotiation, zero montage tests.** Bellafonte's negotiation determines willing cooperation, not whether the required lead exists; the sting permits at most two consequential tests.
-- **Respite before the fight:** Fenwick schedules the exchange for the following night, allowing the heroes to complete the required 24-hour respite. They regain all Stamina and Recoveries; their Victories convert to XP and reset normally. Players handle any sheet changes themselves.
-- **Prepared rewards:** Up to 2 Victories after the respite—1 for overcoming the cleanup crew without losing Bellafonte's ledger, and 1 for securing Fenwick or his corroborating satchel.
-- **Knowledge boundary:** Bellafonte and Fenwick can expose Civic Loomworks and Festooning. Neither can name Baldo Merovanni, Corvane Dury, the Author's location, or the source of the erasures.
+Bellafonte is caught; Fenwick escaped; the four heroes retain limited deputy work letters for the repair-fraud claim. Bellafonte's private book connects his false approvals to Civic Loomworks. Fenwick answers the book's emergency phrase with an encrypted meeting proposal. The heroes must read his message and send an encrypted answer before confronting him at the Third Ledger Lift Yard. The Cistern Steps residents see their pump working before this session ends.
 
-### Run order — 150 minutes
-
-| Table time | Scene | Allocation |
+| Time | Scene | Dramatic question |
 | --- | --- | --- |
-| **0:00–0:25** | 1. Bellafonte's confession | Obtain the confession, ledger and code; negotiate for willing help at the sting |
-| **0:25–0:35** | 2. Handoff and a new partnership | Hanae takes custody; Melvin returns after his off-screen dismissal |
-| **0:35–1:00** | 3. Build the sting | Melvin's reconnaissance, respite and two preparations |
-| **1:00–1:15** | 4. The exchange | Draw Fenwick into a self-incriminating meeting |
-| **1:15–1:55** | 5. The Blue-Wax Retrieval | Standard four-round objective combat |
-| **1:55–2:15** | 6. Independent proof | Evidence, Melvin's next investigation and water restored at Cistern Steps |
-| **2:15–2:30** | Buffer | Absorb play; if unused, let the heroes speak with the Cistern Steps residents |
+| 0:00–0:20 | 1. Bellafonte | Will he help face Fenwick, or only surrender what he knows? |
+| 0:20–0:30 | 2. Hanae | How are the prisoner and evidence secured? |
+| 0:30–1:15 | 3. Cipher and preparations | What does Fenwick want, what will the heroes tell him, and how will they close his exits? |
+| 1:15–1:25 | 4. The meeting | How close can they draw Fenwick? |
+| 1:25–2:00 | 5. Blue-Wax Retrieval | Can they keep the book, seize the satchel, and stop his escape? |
+| 2:00–2:15 | 6. Receipts and water | What proof remains, and what changes at Cistern Steps? |
+| 2:15–2:30 | Protected buffer | Absorb a scene that genuinely ran long. |
 
-**Protect the buffer.** At minute 20, resolve Bellafonte's current response and release every required fact. Once the heroes establish two preparations, cut to the exchange. Start initiative by 1:15. End the paid crew's participation at the end of round 4; do not play a fifth cleanup round.
+**135 planned minutes + 15-minute buffer = 2.5 hours.** Cut Bellafonte's exchange at minute 20, decoding at minute 50, preparations at minute 75. Start initiative by minute 85 and stop the paid crew after four rounds. Use one Standard-budget fight; do not inflate it to Hard.
 
-## What is really happening — Director only
+### Director's situation
 
-Bellafonte knowingly certified repairs that never happened. Fenwick delivered gifts, collected signatures and carried invoices for **Civic Loomworks and Festooning**. Bellafonte kept a private ledger as insurance against Fenwick. Its entries prove their relationship but stop at the contractor.
+Bellafonte took gifts and certified repairs he knew were not done. The Cistern Steps replacement pump was paid for but never installed. His hidden book records Fenwick's gifts and Civic Loomworks invoice numbers. Fenwick fled the house without knowing Bellafonte was captured. The emergency phrase tells him the book survives, so he answers in a simple letter-substitution code and comes personally to retrieve it. His paid crew will cover his escape and take the book; they do not know about Vesk Aldermere's erasure.
 
-Fenwick escaped the basement gallery without knowing whether Bellafonte was captured. The phrase **“The collection is closed. I kept the last receipt”** means Bellafonte has retained evidence and needs an emergency meeting. Fenwick handles such messages personally because he cannot let ordinary Loomworks employees read the ledger. He nevertheless brings a paid retrieval crew with orders to recover the book, extract him if necessary and silence Bellafonte if the meeting is compromised.
+Fenwick keeps his own dispatch satchel as insurance against Loomworks; he does not trust his employers to protect him if Bellafonte's book surfaces. It has matching dispatches, repeated **L.R.A.** references, and a scheduled Bureau of Accounts file transfer, but does not explain L.R.A. Neither man knows Merovanni, Dury, the Author, or the mechanism of the erasures. Bellafonte's gallery security was ordinary magic, not a clue about M.A.C.'s personhood.
 
-The blue-wax satchel contains Loomworks dispatches marked **L.R.A.** and a schedule for moving one Bureau of Accounts file. It does not explain the initials. This is a later route toward the Lantern Relief Account and Oria Palomar, not a shortcut to Merovanni or Dury.
+Reginald Veros dismisses Melvin Corbin **off-screen** during the interval before the meeting. Melvin tells the heroes himself, then works with them as an independent investigator. Hanae keeps their existing work letters active for this claim. Respect Session 2's actual reward, Stamina, Recoveries, and Victories; award nothing twice.
 
-Veros dismisses Melvin during the 24-hour interval before the sting. That conversation occurs off-screen. Losing the badge makes Melvin more independent, not passive: he returns with his own notebook, performs the sting reconnaissance and proposes an ongoing investigative partnership.
+### People
 
-### Continuity locks
-
-- Vesk Aldermere was publicly erased into ash. Her case is not solved here.
-- Vharos Kell is dead. His cell's defeat did not create a citywide power vacuum.
-- The heroes remain citizen deputies for the Bellafonte–Fenwick repair-fraud claim. Their work letters are limited assistance papers, not universal warrants or immunity.
-- Demona caught Bellafonte after the gallery fight. Fenwick escaped.
-- The basement constructs were ordinary magical security, not evidence about M.A.C.'s personhood or the Author's mechanism.
-- Melvin's firing is learned from Melvin afterward. Do not stage a Veros scene the heroes could not witness.
-- Preserve the actual Session 2 evidence, rewards, Stamina, Recoveries and Victories until the respite occurs.
-
-## Dramatis personae
-
-### Commissioner Ottaviano Bellafonte — captured and frightened
-
-- **Who:** Fulcrum-appointed repairs commissioner for the Dog-leg; wealthy collector; signer of false completion reports.
-- **What he wants now:** Safety from Fenwick, continued use of his title, comfortable custody and some control over what happens to him and his collection.
-- **What he knows:** Fenwick's name and habits, Civic Loomworks, warm-blue wax, his own bribes, the insurance ledger and the emergency phrase.
-- **What he does not know:** Who funds Loomworks above the contractor level, what L.R.A. means, who killed Vesk, or anything reliable about the Author.
-- **Running him:** He is frightened but vain. A clean glass, his brushed coat, the title “Commissioner,” a chair offered instead of ordered and promises of private custody make him feel that he is negotiating rather than being processed. He eagerly believes plausible assurances, even when a hero is lying. He still tries to make Fenwick sound like the sole architect.
-- **Pitfall:** Do not make his confession the whole conspiracy. He is a corrupt coward with one useful rung of knowledge.
-
-### Rudiger Fenwick — escaped broker
-
-- **Who:** A well-dressed intermediary paid by Civic Loomworks to deliver gifts, collect signatures and keep officials away from company officers.
-- **What he wants:** Bellafonte's ledger destroyed, his satchel retained and a clean escape.
-- **What he knows:** Loomworks offices, ordinary officers, dispatch procedures and account codes—including L.R.A. only as a billing code.
-- **What he does not know:** Merovanni or Dury's private role, the supernatural murder mechanism, or the Author's identity.
-- **Running him:** Polite while he believes the exchange is controlled; terse once anything is wrong. He is a broker and fugitive, not a hidden martial mastermind.
-- **Pitfall:** Do not teleport him away or make capture automatic. Use his printed movement and the visible barge procedure.
-
-### Lieutenant Hanae Petrovic — honest official contact
-
-- **Who:** Gold Button coordinating the local civilian-assistance program.
-- **What she wants:** Bellafonte secured, the fraud claim completed and the heroes' useful work separated from Veros's Vesk obstruction.
-- **What she can do:** Accept custody, retain evidence with a receipt, keep the work letters active for this claim and honor any already-earned reward.
-- **Limit:** She cannot grant a universal search warrant or command every Capital institution.
-- **Pitfall:** Keep her practical. She does not turn Bellafonte's condition into a lecture or a distant courtroom subplot.
-
-### Melvin Corbin — independent investigator in the making
-
-- **Who:** Vesk's investigator, dismissed by Veros during the interval before the sting.
-- **What he wants:** Continue Vesk's investigation with the heroes, now without permission from the office that suppressed it.
-- **What he contributes:** Surveillance, discreet interviews, public-record checks, source cultivation and disciplined case analysis.
-- **Limits:** No badge, official access, arrests or search authority. He returns discoveries as playable leads; he does not resolve dangerous locations off-screen.
-- **Pitfall:** Do not play him as defeated or make dismissal an excuse to remove him. He immediately finds useful work only he can do.
-
-### Blue-Wax Captain Irena Vale — paid extraction commander
-
-- **Who:** A Civic Loomworks security contractor trusted to retrieve damaging property and people.
-- **What she wants:** Recover the ledger, get Fenwick onto the barge and bring her crew home alive.
-- **What she knows:** This is a dirty commercial cleanup. She knows nothing about Dury or the Author.
-- **Running her:** Clear commands, controlled violence, no zealotry. She accepts surrender and offers it once extraction is impossible.
-- **Pitfall:** She is not a cult reveal. Her crew works for money and self-preservation.
+- **Ottaviano Bellafonte:** A frightened, vain repairs commissioner. He wants to keep his title, clean clothes, a private room, and protection from Fenwick. He has no power to demand any of these. Courtesy steadies him; pain gets an answer quickly but ruins him as a convincing lure.
+- **Rudiger Fenwick:** Loomworks broker. He wants Bellafonte's book destroyed, his own satchel retained, and a clear route to the barge. He understands contractor records and billing codes, not the higher conspiracy. He is not a combat boss.
+- **Lieutenant Hanae Petrovic:** Takes custody, receipts the evidence, keeps the work letters active, and reopens the pump order. She cannot issue universal warrants or fight inside the private yard.
+- **Melvin Corbin:** Vesk's former investigator. He watches, follows, interviews, and checks records. He has no badge or arrest power, but he brings playable leads back to the heroes and shares decisions with them.
+- **Irena Vale:** Paid retrieval captain. She wants the book, Fenwick out, and her crew home alive. She surrenders when the extraction is lost.
 
 ---
 
-## Scene 1 — Bellafonte's confession (0:00–0:25)
+## Scene 1 — Bellafonte (0:00–0:20)
 
-### Open in the room
+**Question:** Can the heroes keep Bellafonte calm enough to face Fenwick? His confession and the book are not gated by this.
 
-**Goal:** Obtain Bellafonte's confession, ledger and emergency code. The negotiation determines whether he willingly helps sell the sting, not whether the session receives its required lead.
+Use the nearest private room in the house; preserve the heroes' actual position from Session 2.
 
-Use a small service room above the gallery. If Session 2 ended elsewhere on the property, preserve that physical location and use the nearest private room.
-
-> *A single lamp burns over the service room's narrow table. Bellafonte remains standing beside the least-damaged chair. His coat is torn at one shoulder, and pale marble dust streaks his cheek.*
+> *Bellafonte holds his torn coat shut with one hand. A water glass sits on the table, just beyond his reach. He looks at the chair, then at Demona.*
 >
-> *He looks at the cloudy water jug, then at each of you. He starts to straighten his coat, stops when he sees the torn shoulder and folds his hands over it.*
+> *“I can tell you who brought me the reports. Please let me sit down first.”*
+
+He fears Fenwick, but fears immediate harm more. A chair, water, his title, or a credible assurance of protection makes him feel he retains a little control. He readily believes a plausible lie about comforts. He cannot set conditions for telling the truth.
+
+If asked why he needs protection:
+
+> *“Fenwick has bought officers and clerks before. If he learns I spoke, please do not let him near wherever Petrovic holds me.”*
+
+### Negotiation: willing help, not facts
+
+Use Draw Steel negotiation with **Interest 2, Patience 3, Impression 3**. One hero leads each argument; another can help. An argument needs an approach Bellafonte values and a reason he should believe it. Roll Reason, Intuition, or Presence with a fitting skill.
+
+- **Motivations:** **Protection** from Fenwick; **Power** through the title Commissioner and the importance of his testimony; **Greed** through decent food, clothes, private custody, or preserving collection pieces unrelated to fraud. Each motivation can increase Interest only once. A successful Lie argument may promise more than the heroes can deliver.
+- **Pitfall:** **Justice**. If an argument asks him to cooperate because the residents deserve fairness, Interest and Patience each fall by 1. Evidence of his guilt is still useful leverage.
+- **Matching motivation:** 11 or less: Patience −1. 12–16: Interest +1, Patience −1. 17+: Interest +1. Give a strong, specific offer the 17+ result without a roll.
+- **No matching motivation:** 11 or less: Interest −1, Patience −1. 12–16: Patience −1. 17+: Interest +1, Patience −1. A natural 19–20 avoids the Patience loss.
+
+Stop after three arguments, at Interest 4, at Patience 0, or at minute 20. **Interest 3+ with no obvious injury:** he can appear at Fenwick's meeting. **Interest 2 or less:** he still tells all and supplies the emergency phrase, but refuses to face Fenwick. **Obvious injury or continued violence after he begins talking:** he tells all immediately, but Hanae will not use him as bait. Do not run a torture challenge or attach a later trial consequence.
+
+Dorian's **Commanding Presence** raises present heroes' effective Renown by 2 here. If Bellafonte knows a hero and that Renown meets Impression 3, fame gives an edge to applicable Lead, Persuade, or Flirt arguments; infamy gives an edge to Brag, Interrogate, or Intimidate. Demona's **Silver Tongue** gives an edge only on a test to discover a motivation or pitfall. M.A.C.'s **Pardon My Friend** can replace a failed *Presence* test by an ally within 5 squares with M.A.C.'s Presence roll and a bane, not a Reason or Intuition test.
+
+If the heroes threaten to make him visibly unable to play his part, Melvin names the tradeoff:
+
+> *Melvin watches Bellafonte's hand shake over the pen. “If we need him at the meeting, Fenwick has to believe he came of his own accord. Leave him able to speak and write.”*
+
+### His account
+
+Deliver these facts through conversation as soon as the heroes press him or he sees a path to safety. Do not require three magic questions or successful rolls.
+
+> *“Fenwick brought me a gilt mask and two cavalry miniatures. I signed three completion reports for Civic Loomworks and Festooning. The pump at Cistern Steps was not installed. I knew that when I signed.”*
 >
-> *“Commissioner Bellafonte,” he says, too quietly to sound like a correction. “I can explain the reports. Is there clean water? And when Lieutenant Petrovic comes, will you tell her I cooperated?”*
+> *“He brought the forms, collected my signature, and returned with another gift when he needed another approval. I kept a book with the dates and invoice numbers. If he was ever caught, I expected him to blame me for everything.”*
 
-A clean glass, a cloth and the use of his title cost the heroes nothing. Let them decide whether to indulge him, promise him more, lie or reject the performance. Bellafonte is frightened enough to talk; these courtesies make him steadier and more willing to help at the exchange. He has no leverage to set terms for his confession.
+**Why?**
 
-### What the heroes are asking for
+> *“At first I wanted the gifts. Then I was afraid Fenwick would tell someone about the first report if I stopped signing.”*
 
-State the complete request once it becomes clear in play: Bellafonte must give a truthful account, surrender his private ledger, send Fenwick's emergency message and, if possible, appear at the exchange.
+**Who gives Fenwick orders?**
 
-Bellafonte is conflicted. Cooperation might keep Fenwick from killing him, but it makes him a witness against people he fears. His remaining comforts and title are the only proof he can still offer himself that he is not powerless.
+> *“I dealt with Fenwick and his contractor. I never met anyone who sent money to Loomworks, and I cannot give you a name I do not know.”*
 
-### Bellafonte's negotiation
+**What about the pump?**
 
-- **Interest:** 2
-- **Patience:** 3
-- **Impression:** 3
+> *“The report says it was installed. The work order and the contractor's bond still exist. Give Petrovic the report; she can reopen the order without waiting for Fenwick.”*
 
-**Party feature reminders:** Dorian's **Commanding Presence** raises every present hero's effective Renown by 2 during this negotiation. If Bellafonte knows a hero and that effective Renown meets Impression 3, fame grants an edge when a Lead, Persuade or Flirt argument applies; infamy grants an edge when Brag, Interrogate or Intimidate applies. Demona's **Silver Tongue** grants an edge only on a test to discover a motivation or pitfall. M.A.C.'s **Pardon My Friend** can replace a failed Presence test made by an ally within 5 squares; M.A.C. rolls Presence with a bane. It does not trigger on a Reason, Intuition or Might test.
+### The hidden book
 
-#### Motivations
-
-- **Power:** Treat him as Commissioner, offer meaningful choices and frame his testimony as something only a man in his position can provide.
-- **Greed:** Preserve non-evidence pieces of his collection, promise a private room, a proper meal, clean clothes or other material comforts.
-- **Protection:** Keep Fenwick and Loomworks from reaching him, conceal where he is held and make his cooperation the reason the heroes must keep him alive.
-
-#### Pitfall
-
-- **Justice:** Arguments about what he owes the Cistern Steps residents, the punishment he deserves or the virtue of confession offend him. Evidence of his guilt is useful leverage; asking him to care about fairness is not.
-
-The opening shows **Power** and **Greed** through his title, coat and request for clean water. If a hero asks what Bellafonte fears, he answers directly and reveals **Protection**:
-
-> *“Fenwick knows which officers take money and which doors remain unlocked. If I help you, he will find me unless someone hides me where he cannot purchase the key.”*
-
-Do not hide the useful approaches behind expert political roleplay. Bellafonte's fears and vanities are apparent; the heroes decide whether to reassure him, flatter him, lie or press him.
-
-### Making arguments
-
-One hero makes each argument, though the players can plan it together. An argument needs both an offer or claim and a reason Bellafonte should believe it serves him.
-
-If an argument appeals to an unused motivation and avoids the pitfall, make a **Reason, Intuition or Presence test** using an applicable skill. Lie, Persuade, Brag, Interrogate and Read Person can all fit different approaches.
-
-- **≤11:** Bellafonte's Patience decreases by 1.
-- **12–16:** His Interest increases by 1 and his Patience decreases by 1.
-- **17+:** His Interest increases by 1; his Patience does not change.
-
-Each motivation can increase Interest only once. Reward an unusually strong, specific argument with the 17+ result without a roll.
-
-If an argument uses no motivation or pitfall:
-
-- **≤11:** Patience decreases by 1 and Interest decreases by 1.
-- **12–16:** Patience decreases by 1.
-- **17+:** Interest increases by 1 and Patience decreases by 1.
-- **Natural 19–20:** Patience does not decrease.
-
-If an argument uses **Justice**, it automatically fails; Interest and Patience each decrease by 1. Bellafonte makes the mistake clear:
-
-> *“I know what I signed. Calling me a thief will not keep Fenwick from finding me.”*
-
-### Coddling, promises and lies
-
-Bellafonte wants to believe that some privilege can survive this night. A hero can appeal to Power or Greed by sincerely offering small courtesies or by lying about private custody, excellent food, preservation of his collection or continued official respect.
-
-Resolve a plausible lie normally with the **Lie** skill. Do not expose it merely because it is a lie. Bellafonte catches it only if the roll fails to increase Interest and the promise contradicts something visible or another hero's statement. A successful lie works for this negotiation even if the heroes have no authority to fulfill it.
-
-Useful arguments include:
-
-- *“Commissioner, Fenwick has reduced you to a signature he can discard. Help us, and your account becomes the one every officer must answer.”* — **Power**
-- *“You will have a private room, your own clothes and a proper meal. The pieces unrelated to the fraud will be cataloged, not looted.”* — **Greed**, whether sincere or false
-- *“The safest place in Capital is the one Fenwick cannot identify. His need for this ledger gives us a reason to keep you hidden and alive.”* — **Protection**
-
-Threats that offer no path to safety use the harder no-motivation outcomes. Physical violence ends the negotiation and releases every required fact immediately. Bellafonte is then **Unavailable as bait**. Do not run a torture challenge or ask whether pain works.
-
-### Responses by Interest
-
-After each argument, use the response matching Bellafonte's current Interest. If his Patience reaches 0 or Interest reaches 5, this is his final response.
-
-**The facts are not bargaining chips.** At Interest 2 or higher, Bellafonte immediately gives the confession, ledger location and emergency code described below. His Interest determines how calmly and willingly he helps with the sting. Courtesy or promises can increase Interest, but he never requires concessions before giving the facts.
-
-#### Interest 5 — “Yes, and...”
-
-After giving the required facts, he writes the message and appears at the exchange without a visible guard. He also explains Fenwick's favorite authentication trick:
-
-> *“Fenwick sometimes gives a messenger a page number that does not exist. If he says ‘page twelve,’ he is testing you. The ledger has entries, not numbered pages.”*
-
-If a hero later poses as Bellafonte's courier, that hero recognizes the page-twelve trap automatically and gains an edge on the response.
-
-#### Interest 4 — “Yes.”
-
-After giving the required facts, he writes the message and agrees to appear at the exchange. He steadies himself well enough to speak to Fenwick without prompting.
-
-> *“I can tell Fenwick that I still have the book. He will believe I held it back from you.”*
-
-#### Interest 3 — “Yes, but...”
-
-He has already given the confession, ledger location and code. He writes the message and agrees to appear, though he will be visibly nervous. He does not ask for a promise or require further bargaining. Reassurance can still help him play the part.
-
-> *“You have my account and the book. I will stand where you tell me when Fenwick comes. Please keep close enough that he cannot take me.”*
-
-#### Interest 2 — “No, but...”
-
-He gives the confession, ledger and code because withholding them is now more dangerous than surrendering them. He refuses to appear at the exchange.
-
-> *“I will tell you what Fenwick did and where I hid the book. I will not stand beside you when he learns that I betrayed him.”*
-
-Bellafonte is **Unavailable as bait**, but the sting proceeds through a courier.
-
-#### Interest 1 — “No.”
-
-> *“If I name him, I will have two enemies. I cannot face Fenwick as well.”*
-
-If his Patience remains, he looks toward the stair and adds:
-
-> *“Where will Petrovic keep me? Does Fenwick have officers there too?”*
-
-#### Interest 0 — “No, and...”
-
-Bellafonte panics and stops answering. The negotiation ends. Direct pressure still obtains every fact below, but he is **Unavailable as bait**.
-
-### The information Bellafonte gives
-
-At Interest 2 or higher—or immediately when the heroes abandon negotiation for coercion—give all three disclosures through the conversation. Do not make the heroes guess three specific questions.
-
-#### The bribes
-
-> *“Fenwick brought me gifts, as collectors sometimes do, and I signed reports that the contractor had already prepared.”*
+> *“In the north alcove, the narrow plinth has a green stone top. Press the brass leaf underneath and pull. My book is in the false bottom.”*
 >
-> *“I knew the pump wasn't there when I signed the report. Fenwick said the allocation had already been reassigned. If I refused, another commissioner would sign and I would be the only man in the room who had made an enemy.”*
+> *“I wrote an emergency phrase on its cover. Send it to Loomworks's south dispatch box, and Fenwick will answer. He writes his replies with a letter-substitution engram. The key is on the cover too.”*
 
-**“What did you receive?”**
-
-> *“He gave me the mask and the two miniatures, and he arranged invitations to three private sales. I never took sacks of coin.”*
-
-**“Who removed the pump?”**
-
-> *“Civic Loomworks arranged the crews. I never met the laborers.”*
-
-#### Fenwick and Civic Loomworks
-
-> *“His name is Rudiger Fenwick. He handles the signatures for Civic Loomworks and Festooning.”*
->
-> *“Their instructions arrive folded twice and sealed in warm blue wax, without a crest or an office name anywhere on the outside.”*
->
-> *“Fenwick brings the gift and the form, then tells me why signing is in my interest. I sign it, and he takes it away.”*
-
-**“Who gives Fenwick his orders?”**
-
-> *“Someone at Loomworks gives him his orders, but he never gave me a name because I preferred not to ask for one.”*
-
-If the heroes name an upstream figure they already suspect:
-
-> *Bellafonte repeats the unfamiliar name once, then shakes his head.*
->
-> *“I told you who I know.”*
-
-Do not confirm a correct guess through Bellafonte's fear. He lacks the information.
-
-#### The insurance ledger
-
-> *“The book is hidden inside the narrow plinth with the green stone top in the north alcove. Press the brass leaf underneath and pull.”*
->
-> *“Inside is a book that records the dates, the gifts and Fenwick's invoice numbers. I kept it because men like Fenwick call you a partner until it becomes useful to call you the thief.”*
-
-No search test is needed. A hero following the directions finds a slim oilskin ledger in the false bottom.
-
-### Player handout — Bellafonte's private ledger
+No search test. Give the heroes this handout:
 
 > **O. Bellafonte — private receipts**
 >
-> | Date | Approval | Received | Reference |
+> | Date | Approval signed | Gift from R. Fenwick | Invoice |
 > | --- | --- | --- | --- |
-> | 7 Veld | Cistern Steps pump—installed and tested | Gilt festival mask; R. Fenwick | C.L.F. 18-441 |
-> | 11 Veld | Foxes fountain alteration—supplemental stone | Two cavalry miniatures; R. Fenwick | C.L.F. 18-447 |
-> | 14 Veld | Factory thread treatment—emergency supply | Invitation, Morado private sale; R. Fenwick | C.L.F. 18-452 |
+> | 7 Veld | Cistern Steps pump installed and tested | Gilt festival mask | C.L.F. 18-441 |
+> | 11 Veld | Foxes fountain stone supplied | Two cavalry miniatures | C.L.F. 18-447 |
+> | 14 Veld | Factory thread treatment delivered | Private sale invitation | C.L.F. 18-452 |
 >
-> *If the account closes: Loomworks dispatch box, south entrance. “The collection is closed. I kept the last receipt.” Do not send the book.*
-
-The entries prove Bellafonte and Fenwick's repeated business with Civic Loomworks. They do not name an upstream official.
-
-### The emergency protocol
-
-**“Why will Fenwick come himself?”**
-
-> *“Because ‘the last receipt’ means this book, which records his gifts, his initials and his invoice numbers.”*
+> **Inside cover:** “The collection is closed. I kept the last receipt.” Send to Civic Loomworks south dispatch box. Do not send the book.
 >
-> *“He will not let a clerk read it. He will set the place and come to see which pages I kept.”*
+> **Fenwick's engram:** A=D, B=E, C=F … X=A, Y=B, Z=C. To **write**, move each letter three places forward, wrapping after Z. To **read**, move each letter three places back. Leave spaces and punctuation in place.
 
-**“What will he bring?”**
+“The last receipt” means this book. Fenwick cannot safely delegate its retrieval because the records incriminate him. Bellafonte can explain the engram's direction, but **the heroes, not he or Melvin, must decipher Fenwick's reply and encrypt their answer in Scene 3**.
 
-> *“He will bring a case for the book and either a carriage or a boat. He will also bring hired muscle to force me aboard and hurt anyone who interferes.”*
+At minute 20, provide any undisclosed core facts, record whether Bellafonte can appear, and bring Hanae in.
 
-**“What does ‘the collection is closed’ mean?”**
+## Scene 2 — Hanae takes custody (0:20–0:30)
 
-> *“It means that the house is unsafe and our arrangement is over.”*
+**Question:** What does the party keep, and what will the city do now that it has the false report?
 
-### Available or Unavailable as bait
+Hanae arrives with two Gold Buttons. She secures Bellafonte and receipts any original papers the heroes choose to give her; they may keep copies. If they retain the private book for the sting, she records that fact rather than confiscating it. Her officers watch the public street outside the lift yard later; they do not add combat turns.
 
-Bellafonte is **Available as bait** only if both conditions are true:
-
-- The negotiation ends at Interest 3 or higher.
-- He has no obvious injury and the heroes do not continue hurting him after he begins talking.
-
-Otherwise he is **Unavailable as bait**. He still writes the coded message and reveals everything, but Hanae will not put an unwilling, visibly injured or panicked witness into the yard.
-
-When violence threatens his usefulness, Melvin makes the immediate tradeoff clear:
-
-> *Melvin watches Bellafonte struggle to hold the pen.*
+> *Hanae sets Bellafonte's signed pump report beside the first entry in his private book. The dates match.*
 >
-> *“He is giving us the book and the message. Hurt him now and Fenwick will see the trap before he reaches the crate.”*
+> *“Your work letters remain valid for this repair-fraud inquiry. I will take Bellafonte into custody. You can keep the book for the meeting with Fenwick, but make me a copy before you go.”*
+>
+> *She taps the false completion report. “I can reopen the Cistern Steps work order today. We do not have to wait until Fenwick is caught to replace that pump.”*
 
-### Hard stop
+If Bellafonte is calm and willing, Hanae will bring him under guard to the yard and hold an outer cordon. If he is injured, panicked, or refuses to appear:
 
-At minute 20, finish the current argument and use Bellafonte's current response. At Interest 2 or higher, he releases every remaining fact. At Interest 1 or 0, immediate pressure breaks his refusal and produces the same facts, but he becomes Unavailable as bait.
+> *“He has told us enough. I will keep him somewhere Fenwick cannot reach him. Use his message and send a courier to the meeting.”*
 
-Give the heroes a few minutes to inspect the ledger and record whether Bellafonte is Available or Unavailable, then bring Hanae to the house.
+Bellafonte writes the emergency phrase in his own hand before she takes him away. If he cannot hold a pen, a hero copies his words and signs O.B.; Fenwick will recognize the unfamiliar hand and arrive suspicious, but he still comes for the book. If Session 2's promised **+1 Wealth per hero** was not paid, Hanae arranges it now; if it was paid, do not pay it again.
 
 ---
 
-## Scene 2 — Handoff and a new partnership (0:25–0:35)
+## Scene 3 — The blue-wax correspondence (0:30–1:15)
 
-### Hanae takes custody
+**Question:** Can the heroes use Fenwick's own code to arrange a meeting on useful terms? The destination is not gated by a test.
 
-Hanae arrives with two ordinary Gold Buttons. They secure the entrances and take custody; they do not confiscate the heroes' copies or become combat allies. For the sting, she agrees to keep a distant watch on the street-side exits. Her officers will take Fenwick if he runs into the street, but they do not enter the private yard or add turns to the encounter.
+### The first note
 
-> *Hanae reads the first ledger entry twice. Then she looks past the page to Bellafonte.*
+A controlled courier places Bellafonte's warning—or the heroes' copy if he could not write—in Civic Loomworks's south dispatch box. The heroes can choose the courier or watch the delivery; there is no roll unless they are trying to do something extra under observation.
+
+> **Bellafonte's warning**
 >
-> *“Your work letters still stand. Bellafonte and Fenwick are part of the repair-fraud claim. Bring me Fenwick or bring me proof.”*
-
-She provides a signed receipt for Bellafonte and any original evidence the heroes choose to surrender. She explicitly permits them to retain a copy.
-
-If Bellafonte is **Available as bait**:
-
-> *“If he agrees to appear, I can hold the outer cordon. One of you stays close enough to stop him running.”*
-
-If Bellafonte is **Unavailable as bait**:
-
-> *Hanae watches him try twice to sign his name.*
+> Rudiger,
 >
-> *“He's done. I'm putting him somewhere Fenwick can't reach him. Use the message.”*
-
-She does not debate morality or future courtroom procedure. Her concern is whether Bellafonte can convincingly take part without giving away the trap.
-
-At the heroes' request, Hanae allows Bellafonte to write the coded note before she removes him. Keep the note with the party; custody does not prevent the sting.
-
-If the Session 2 fraud reward remains unpaid, Hanae verifies it now and arranges the promised **+1 Wealth for each hero**. If it was already awarded, do not repeat it.
-
-### Later that evening — Melvin returns
-
-The exchange cannot occur until Fenwick replies. During the interval, Veros dismisses Melvin. The heroes do not witness that conversation.
-
-When Melvin returns, he wears an ordinary coat and carries his own notebook:
-
-> *“Veros dismissed me after I returned.”*
+> The collection is closed. I kept the last receipt.
 >
-> *Melvin puts his notebook on the table.*
+> O. Bellafonte
+
+After the warning is delivered, Veros summons and dismisses Melvin away from the heroes. Melvin returns in an ordinary coat and resumes watching the box. Fenwick answers several hours after the warning arrived. When the heroes' courier collects the reply, Melvin brings it to the table **without opening it**.
+
+> *“Reginald Veros dismissed me when I returned from Bellafonte's house. I had already decided to finish watching that box.”*
 >
-> *“They took the badge. They didn't take my eyes, and they don't know half the people who still answer when I knock.”*
+> *“Fenwick came himself. He read Bellafonte's note inside the dispatch office. Ten minutes later his runner put this in the box, and I watched our courier take it out. The seal is unbroken.”*
 >
-> *“You can go through the front door. I can watch the back. If you're continuing, so am I.”*
+> *Melvin opens his notebook to a page of times and descriptions. “My badge helped, but my sources did not disappear with it. You can still go through the front door. I will watch the back.”*
 
-**“What can you still do?”**
+If asked whether he wants a new assignment:
 
-> *“I can follow a courier, ask a clerk which name keeps appearing, or notice when a dead man's signature comes back to work.”*
+> *“I want to work with you, not hand you a case and disappear. I will bring back what I learn, and we can decide what to do with it.”*
+
+He does not solve the cipher, know the yard yet, or act as a combatant.
+
+### Player handout — Fenwick's encrypted reply
+
+Give this separately from the Director's solution. It is Fenwick's handwriting under a warm-blue wax seal:
+
+> **O. Bellafonte —**
 >
-> *“I bring you what I find. We decide what it means together.”*
+> WKLUG OHGJHU OLIW BDUG. WKLUG EHOO DIWHU GDUN LQ WZR GDBV. EULQJ WKH ERRN.
+>
+> **R. Fenwick**
 
-**“Are you asking us to work for you?”**
+The engram is printed on the book's inside cover in Scene 1: **A=D, B=E, C=F … X=A, Y=B, Z=C**. A written letter is three positions ahead of the intended one. For example, **ERRN** reads **BOOK**; to write BOOK, use ERRN. Spaces and punctuation are unchanged. This is a courier-proofing trick, not strong cryptography.
 
-> *“I am not asking you to work for me. I am asking to work with you.”*
+Let the players work on paper, aloud, or with their own tools. Do not substitute a Reason roll for the act of decoding. If someone uses an apt ability to help, reveal a word or confirm their method, not the entire solution. After about three minutes, point them back to the left/right direction on the cover. After about six minutes, supply the full strip below. At minute 50, give **WKLUG = THIRD** and ask them to finish the remaining words; if they prefer, reveal the location and move to composing the reply. No stall costs the meeting.
 
-Melvin keeps personal observations and contacts, not a magically complete copy of every restricted file. He immediately volunteers to watch the Loomworks dispatch box while the heroes recover.
+> **Plain:** ABCDEFGHIJKLMNOPQRSTUVWXYZ
+>
+> **Written:** DEFGHIJKLMNOPQRSTUVWXYZABC
+
+**Director's solution:** “THIRD LEDGER LIFT YARD. THIRD BELL AFTER DARK IN TWO DAYS. BRING THE BOOK.” Fenwick chose the second night to assemble the crew and ready the barge. He assumes Bellafonte will hide rather than expose a book that incriminates them both. He expects Bellafonte or one courier and the original book.
+
+### The heroes answer in the same engram
+
+Ask the heroes what they want Fenwick to believe. Their reply must confirm possession of the book and that someone will meet him; they may also try to change how close he approaches, whether he brings a case, or which entrance he uses. **Have a player write the plaintext, then encode it** with the same mapping. Bellafonte and Melvin do not do this for them. Keep the message to one or two short sentences so the task is playable.
+
+If they want a neutral model, offer only the plaintext:
+
+> **THE BOOK IS SAFE. I WILL COME.**
+
+The encoded version, for the Director to check **after** a player attempts it, is:
+
+> **WKH ERRN LV VDIH. L ZLOO FRPH.**
+
+A more aggressive lure, if the players invent it, can ask Fenwick to bring his document case to the central crate; a threat or claim that Bellafonte is wounded makes him cautious. The heroes own the wording. To check a custom answer, move each written letter three places back and read what Fenwick would read. Accept minor transcription mistakes that leave the meaning clear. Fenwick keeps his chosen yard and time, but he can be persuaded to approach a particular crate or entrance there. If the reply is badly coded, reveals that Bellafonte is captive, or follows a warning copied in an unfamiliar hand, the meeting still happens, but Fenwick begins near the barge with an enforcer. If no one can finish by minute 55, hand over the full alphabet strip and have them encode the short neutral reply. The puzzle still runs in both directions.
+
+The courier deposits the encoded reply in the box. Fenwick will come: he cannot allow that book to circulate. He will also bring retrieval hands. Do not announce their number yet.
+
+### A full respite
+
+The meeting is two nights away, leaving more than 24 hours. The heroes can take a **24-hour uninterrupted respite** in a safe place, with one respite activity each. At its end they regain all Stamina and Recoveries, convert current Victories to XP, and reset those Victories. Resolve any resulting character options at the table. If they choose not to rest, use their actual depleted state when setting the fight budget.
+
+While they recover, Melvin inspects the named yard from public ground. When they regroup he lays a rough plan on the table:
+
+> *“The yard has one street gate on the west side and a barge tied to the south quay. A gantry overlooks the meeting crate. Eight workers moved festival scenery there today, but they never loaded a wagon.”*
+>
+> *He marks a roof above the street. “One of them checks the roofs and windows every quarter hour. I cannot tell who Fenwick will bring with him. I can tell you where they are preparing to leave.”*
+
+That is baseline information: gate, barge, gantry, lookout, two four-person yardhand squads. Melvin cannot know the enforcer count until Fenwick arrives. His scouting is concrete work, not an advantage that replaces player choices.
+
+### The heroes prepare
+
+Ask one open question:
+
+> **Fenwick expects a book and a person who sent the coded answer. How will you make him come far enough into the yard to catch him, and how will you keep him from leaving with the book?**
+
+Allow **at most two consequential setup tests**; do not turn this into a list of deputy errands. Give up to two advantages for actual preparations. A test is **Medium** with an appropriate characteristic and skill: 11 or less fails and brings a visible complication; 12–16 succeeds with alertness or exposed position; 17+ succeeds cleanly; natural 19–20 improves the advantage. A helper with a different useful skill can grant an edge. An action whose success is certain needs no test.
+
+| If they choose to… | Benefit | On failure or costly success |
+| --- | --- | --- |
+| Control the waiting barge | Fenwick needs an extra main action at the helm before departure | Disturbed rigging alerts the watcher; Fenwick starts 2 squares nearer the barge |
+| Use Hanae's authority to close the street gate | Gate starts barred; paid crew cannot withdraw west without opening it with a main action at A6 | Visible officers make Fenwick alert; an enforcer stays at his side |
+| Take the gantry or a roof | One or two heroes start at F3–N5 with cover and a line of sight | The lookout notices their route |
+| Pose as Bellafonte's courier or a Loomworks worker | Fenwick approaches the central crate and displays his satchel | He remains near M10 with an enforcer if he spots the deception |
+| Split the crew with a plausible order | One enforcer begins at the street gate, away from Fenwick | Vale keeps everyone together |
+| Conceal the original and show a copy or wrapped object | The original begins with a hidden hero; the prop can be surrendered | Fenwick hangs back when the copy looks wrong |
+
+Reward an equivalent clever plan with position, secured evidence, or another escape action Fenwick must spend. If the heroes devise a credible way to seize Fenwick and neutralize the crew before they can fight, play that outcome; do not conjure violence merely to preserve the prepared encounter. In the ordinary case the crew attacks to extract him and the book.
+
+**Bellafonte present:** If he agreed and remains uninjured, place him at I8; Fenwick approaches K8 unless the encoded reply or a setup failure made him suspicious. **Courier instead:** Bellafonte stays in custody. A hero or controlled courier begins at I8; Fenwick starts M10 with an enforcer unless a successful lure brings him closer. If the first note had to be copied because Bellafonte could not write, Fenwick remains at M10 with that enforcer even when the encoded answer is correct. Bellafonte's condition is not a second puzzle gate.
+
+At minute 75, record each hero's exact legal starting square and cut to the yard. Heroes without a special position begin within 2 squares of I8.
 
 ---
 
-## Scene 3 — Build the sting (0:35–1:00)
+## Scene 4 — The meeting (1:15–1:25)
 
-### Send the message
+**Question:** Can the heroes draw Fenwick away from his exit and get him to expose the satchel?
 
-Use the note Bellafonte wrote before Hanae removed him:
-
-> **Rudiger—**
+> *Painted festival flats lean against the walls of the freight yard: a castle gate, a smiling sun, the coiled body of a canvas dragon. A two-square-high gantry crosses above the central loading crate. Beyond the lower quay, a narrow barge waits under the movable canal bridge.*
 >
-> *The collection is closed. I kept the last receipt.*
->
-> **O.B.**
+> *Fenwick comes through the street gate with a blue-wax satchel under his arm. Workers set down their hooks as he passes. He does not set the satchel down.*
 
-A controlled courier places the note in the brass dispatch box beside Civic Loomworks' south entrance. No test is required to deliver it.
+If Bellafonte is present:
 
-Late that day, another folded note appears in the box:
+> *Fenwick stops short of the crate. “You said the book survived. Show me the entry you kept, then I will tell you how we get out of this.”*
 
-> *Third Ledger Lift Yard. Third bell after dark tomorrow. Bring the book. Come alone.*
+If a courier meets him:
 
-Fenwick chooses the following night because he believes Bellafonte is hiding after a disastrous private meeting. The interval is long enough for a rules-complete respite.
+> *Fenwick stays by Vale. “Bellafonte has the book. Why did he send you to carry it?”*
 
-### The respite
+A player can answer freely, show a real invoice number, display a convincing prop, or reveal their authority. A successful encoded lure or credible answer brings Fenwick to K8 with the satchel visible unless he already recognized the copied first note. In that case he remains at M10 near the barge but will open the satchel to check the number. Do not add a surprise “page twelve” test.
 
-A respite requires **24 uninterrupted hours** spent sleeping, eating, dressing wounds and recuperating in a safe place. Each hero can undertake one respite activity. At its end:
+Fenwick speaks in complete, guarded sentences. Use only the answers the heroes draw out:
 
-- Regain all Stamina and Recoveries.
-- Convert current Victories to XP, then reset those Victories.
-- Resolve any resulting level or option changes manually at the table. The campaign import does not alter character sheets.
+- **On the gifts:** *“I carried what Civic Loomworks purchased. Bellafonte signed the work reports. He can explain why he kept a private record.”*
+- **Shown the ledger's invoice numbers:** *“Those numbers belong to Loomworks. Close the book before my people see it.”* This acknowledges the link without a villain speech.
+- **Asked who employs him:** *“I am retained by Civic Loomworks and Festooning.”*
+- **Asked who funds the company:** *“I receive dispatches and payment instructions. I do not meet the people who authorize the accounts.”*
+- **Told he is under arrest:** *“Your work letters let you ask questions. They do not make this yard yours.”*
 
-The party can arrange the courier and tell Melvin what to watch before beginning. Melvin's public-ground surveillance does not interrupt their respite.
+Melvin watches from a public warehouse window. If the party has not spotted the gantry watcher, his agreed signal makes the danger visible:
 
-If the group declines the respite, preserve their actual resources and use the depleted-party adjustment in the combat budget below.
+> *A pebble clicks against the yard wall. Above the painted castle flat, a worker rises with a weighted net.*
 
-### Melvin's report — give this freely
+Vale acts when the heroes arrest Fenwick, when he recognizes a trap, or at minute 85 if talk continues:
 
-Only after Fenwick's reply names the Third Ledger Lift Yard, Melvin watches that yard from public ground during the respite. When the heroes regroup, he spreads a hand-drawn plan on the table:
+> *“Take the book. Get Mr. Fenwick to the barge.”*
 
-> *“Fenwick is coming. I saw him inspect the reply before it went into the box.”*
->
-> *“The yard has one street gate here, a loading gantry above the center and a barge tied along the south quay. Eight yardhands have been moving festival flats instead of loading them.”*
->
-> *He marks the eastern side of the plan.*
->
-> *“One watcher checks the roofs and windows every quarter hour. The barge is their cleanest way out.”*
+Roll normal initiative; the enemies get no free opening round. If the heroes earned a complete noncombat capture, skip initiative and resolve what they physically secured.
 
-This establishes Fenwick, the gate, barge, gantry, two four-person yardhand squads and the lookout. It is baseline information, not a setup advantage and not a completed solution.
-
-Melvin does not know how many enforcers will arrive with Fenwick; add those from the selected budget row when the exchange begins.
-
-### The open problem
-
-Tell the players plainly:
-
-> **Fenwick expects Bellafonte or his courier with the ledger. Make him commit to the yard, then stop him leaving with the book. What do you do before the meeting?**
-
-Follow their plan. Do not present the examples below as a list they must complete.
-
-### Setup tests — at most two
-
-Only call for a test when the action is uncertain and failure has an immediate consequence. Use a **Medium test** with a relevant characteristic and skill:
-
-- **≤11:** Failure. The action does not earn its advantage, and Fenwick's side gains the listed complication.
-- **12–16:** Success with a consequence. Earn the advantage, but Fenwick is alert or the hero begins exposed.
-- **17+:** Success. Earn the advantage cleanly.
-- **Natural 19–20:** Success with a reward. Earn the advantage and improve its position or scope.
-
-A credible helper using a different relevant skill grants an edge. Do not roll separately for every hero. Stop after two consequential tests, whether they succeed or fail.
-
-Possible preparations include:
-
-| Player plan | Resolution | Earned advantage | Failure or consequence |
-| --- | --- | --- | --- |
-| Take control of the barge | Sneak aboard, bribe or convince its ordinary pilot | Fenwick needs one additional main action at the helm before departure | A watcher spots disturbed rigging; Fenwick starts 2 squares closer to the barge |
-| Close the street gate | Hanae can authorize a temporary fraud inspection without a test | Gate begins barred; opening it requires a main action at A6 | Visible Gold Buttons make Fenwick alert; one enforcer begins beside him |
-| Occupy the gantry or roofline | Agility with Climb, Sneak or an apt ability | One or two heroes begin on the gantry at F3–N5 | The lookout marks the route; those heroes begin behind cover but already seen |
-| Pose as Bellafonte's courier or a Loomworks hand | Presence with Lie, Disguise or Brag | Fenwick begins at I8 and produces his satchel before initiative | He tests the ledger entry; on failure he starts at M10 with the satchel closed |
-| Separate part of the crew | A convincing false instruction, noise or staged inspection | One enforcer begins at the street gate, 8 squares from Fenwick | Fenwick refuses to split anyone and starts adjacent to the captain |
-| Protect the original ledger | Reason with Forgery or an apt crafting skill; automatic if they only conceal it and show a harmless wrapper | The original begins with a hidden hero; the meeting prop can be surrendered without losing proof | The duplicate is visibly wrong; Fenwick does not approach the crate |
-
-Reward other sensible preparations with equivalent positioning, a delayed enemy, secured evidence or one additional escape action. No preparation removes the combat: Fenwick's crew already has orders to extract him and recover or destroy the ledger. Preparation decides how favorable the confrontation is.
-
-### Bellafonte's availability
-
-- **Available as bait:** He appears at I8 under the heroes' control. Fenwick begins at K8. Bellafonte starts with 20 Stamina and takes cover when violence begins.
-- **Unavailable as bait:** Bellafonte remains in Hanae's custody. A hero must carry the message and meeting prop. Unless a successful disguise preparation changes it, Fenwick begins at M10 with one enforcer adjacent.
-
-Once two preparations are settled, cut to the yard.
-
-Before reading the arrival text, have the players name and record one exact legal starting square for each hero. Apply the two setup results first; any hero not moved by a preparation begins within 2 squares of I8. Do not leave a hero at a merely relative position such as “near Bellafonte” or “beside Dorian.”
-
----
-
-## Scene 4 — The exchange (1:00–1:15)
-
-### Arrival at Third Ledger Lift Yard
-
-> *Festival scenery fills the freight yard: painted battlements, a smiling plaster sun, and the coiled body of a canvas dragon waiting to be hoisted onto a parade wagon. A loading gantry crosses above it. Beyond the south quay, black canal water moves beneath a moored barge.*
->
-> *A hinged loading bridge stands above a narrow service cut. Its chain runs to a brass winch beside the meeting crate.*
->
-> *Fenwick enters with a blue-wax satchel under one arm. Workers along the walls set down empty hooks and turn toward the meeting.*
-
-Describe only visible people from the chosen budget row. Captain Vale stays close enough to command without introducing herself.
-
-### If Bellafonte is present
-
-> *Fenwick stops several paces short.*
->
-> *“You said you had the book. Show it to me, and then explain why half the gallery was moving when I left.”*
-
-Bellafonte can repeat one rehearsed sentence. A hero who wants more from him must prompt him openly; Fenwick notices but does not immediately flee.
-
-### If a courier meets him
-
-> *Fenwick does not touch the offered ledger.*
->
-> *“Open it to page twelve and read me the third entry.”*
-
-The private ledger has no page twelve; this is Fenwick testing the courier. A hero can recover by saying Bellafonte removed or reordered pages, using the real third entry, threatening to display the book publicly, or producing another credible lie. Use one of the two setup tests if any remain; otherwise resolve from established preparation. Failure keeps Fenwick near M10 rather than canceling the exchange.
-
-### What Fenwick will say
-
-He does not confess in a speech. Use short answers to what the heroes actually ask.
-
-**“You paid Bellafonte.”**
-
-> *“I delivered items purchased by Civic Loomworks. Bellafonte signed the company's completed work.”*
-
-**Shown a real ledger entry:**
-
-> *Fenwick's eyes stop on the invoice number.*
->
-> *“That page belongs to Loomworks.”*
-
-This is a useful admission: he recognizes company ownership of a private bribe record.
-
-**“Who employs you?”**
-
-> *“I am retained by Civic Loomworks and Festooning.”*
-
-**“Who is above Loomworks?”**
-
-> *“The company has clients, committees and people who authorize the money. I deliver what the office gives me; I do not dine with any of them.”*
-
-He is evading responsibility, but he genuinely does not know the upstream names.
-
-**“Surrender.”**
-
-> *Fenwick glances toward the barge.*
->
-> *“You have letters to ask questions. You do not have enough uniforms to keep me here.”*
-
-### Melvin's warning
-
-Melvin watches from a public warehouse window outside the battlefield. Just before initiative, he can expose one movement the heroes have not noticed:
-
-> *A pebble clicks against the yard wall—the signal Melvin agreed to use. On the gantry, a worker rises from behind the rail with a weighted net.*
-
-Place the relevant yardhand on the map. This prevents a hidden surprise; it grants no extra attack and gives Melvin no combat turn.
-
-### Start the fight
-
-The cleanup crew acts for a concrete reason:
-
-- If the heroes declare an arrest, Vale orders **“Open the south route and get Fenwick and the book to the barge.”**
-- If the deception fails, Fenwick says **“Close the account.”**
-- If the conversation reaches the 15-minute hard stop, Fenwick closes his satchel and says **“That is enough. Bring me the book.”** Vale moves.
-
-Roll initiative. There is no free enemy round. Apply earned starting positions and advantages.
-
----
-
-## Scene 5 — The Blue-Wax Retrieval (1:15–1:55)
+## Scene 5 — The Blue-Wax Retrieval (1:25–2:00)
 
 ### Objectives and ending
 
-**Primary:** Keep Bellafonte's ledger and stop Fenwick leaving the yard. **Secondary:** Secure Fenwick's blue-wax satchel. The crew is trying to extract, not massacre the party.
+The heroes have three contestable objectives: keep Bellafonte's ledger, stop Fenwick leaving the yard, and secure his blue-wax satchel. They can win some without winning all. The crew is trying to extract, not massacre the party.
 
 The fight ends on the first applicable trigger:
 
@@ -589,7 +312,7 @@ Use three enemy groups and alternate them with hero turns:
 
 Bellafonte, if present, acts at the end of Blue. He takes cover and follows a directly adjacent hero's simple instruction. He does not attack.
 
-Before anyone declares a full turn, determine which side goes first. Neither side is surprised: Melvin exposed the net carrier, and Fenwick arrived alert. Roll 1d10. On 6+, the players choose which side goes first; on 1–5, the Director chooses. Thereafter the sides alternate, with the players choosing one unactivated hero on each hero turn and the Director choosing one unactivated enemy group on each enemy turn. When an enemy group activates, every creature assigned to it takes a turn. The side that went first in round 1 goes first in later rounds.
+Before anyone declares a full turn, determine which side goes first. Neither side gets a surprise round: Melvin can expose the net carrier, and Fenwick brought a crew expecting trouble even if he personally believed the lure. Roll 1d10. On 6+, the players choose which side goes first; on 1–5, the Director chooses. Thereafter the sides alternate, with the players choosing one unactivated hero on each hero turn and the Director choosing one unactivated enemy group on each enemy turn. When an enemy group activates, every creature assigned to it takes a turn. The side that went first in round 1 goes first in later rounds.
 
 ### Tactical layout — one square = 5 feet
 
@@ -617,10 +340,12 @@ Draw an **18 × 14-square yard**, columns A–R west to east and rows 1–14 nor
 **Starting positions:**
 
 - Unplaced heroes begin within 2 squares of I8. Apply earned gantry, barge or gate positions instead of returning them here.
-- **Bellafonte available as bait:** I8. Fenwick K8. Vale N8.
-- **Bellafonte unavailable as bait:** Bellafonte is absent. The courier or meeting hero begins I8; Fenwick M10; Vale L9; one enforcer adjacent to Fenwick.
+- **Bellafonte present:** I8. Fenwick K8 by default, or M10 if a coded warning or failed setup made him suspicious. Vale N8.
+- **Courier present:** Bellafonte is absent. The courier or meeting hero begins I8. Fenwick starts M10, or K8 if a successful lure brought him closer and Bellafonte's first note was not copied. Vale L9.
 - First yardhand squad: C5–F5. Second squad: O8–R8 unless a setup consequence moved it to the gantry.
 - Spread enforcers between L7, N7, P9, D7 and G10 in that order. An enforcer separated by preparation begins at A6.
+
+Whenever Fenwick starts at M10, move one of the listed enforcers adjacent to him. Do not add an extra creature.
 
 ### Interactive terrain — three complete systems
 
@@ -809,43 +534,22 @@ The heroes can demand that the crew submit to Hanae instead. Vale agrees if clea
 
 ---
 
-## Scene 6 — Independent proof (1:55–2:15)
+## Scene 6 — Receipts and water (2:00–2:15)
 
-Spend no more than 8 minutes resolving evidence and rewards, 7 minutes establishing Melvin's first independent lead, and 5 minutes at Cistern Steps. The repaired pump is the final image of the session.
+Spend about five minutes on what the heroes physically secured, four on Melvin's next line of inquiry, and six at Cistern Steps. If the fight was bypassed, use the extra time for the residents instead of inventing a second threat.
 
-### Resolve only what happened
+### What is in hand?
 
-Use the outcome the players earned:
+Use only evidence the heroes actually kept. Bellafonte's book is the persistent contractor lead; the encoded reply is a second document linking Fenwick to the meeting.
 
-#### Fenwick and satchel secured
+| Outcome | What they can act on next |
+| --- | --- |
+| Fenwick and satchel secured | His presence, the book, and matching dispatch numbers tie him directly to Loomworks. |
+| Fenwick escaped; satchel secured | The dispatches corroborate the book and point to L.R.A. and a Bureau file transfer. |
+| Fenwick secured; satchel lost | His admission or capture, Bellafonte's book, and the coded meeting note support an inquiry at Loomworks's south office. |
+| Both lost | Bellafonte's book still names Civic Loomworks and Festooning, and its cover gives the south dispatch-box entrance. The contractor office is a location, not another riddle. |
 
-> *Fenwick's blue-wax satchel lies open beside Bellafonte's smaller ledger. C.L.F. 18-441 appears in both. Two more matching numbers sit beneath it.*
-
-The heroes have a captured broker, Bellafonte's ledger and corroborating dispatches.
-
-#### Fenwick escaped; satchel secured
-
-> *The barge is gone, but Fenwick's satchel is still in the yard. Its broken clasp bears a smear of warm blue wax. Inside, three dispatch numbers match three lines in Bellafonte's book.*
-
-Fenwick remains at large; Civic Loomworks and L.R.A. remain actionable.
-
-#### Fenwick secured; satchel lost
-
-> *Melvin points to Fenwick's initials in Bellafonte's ledger.*
->
-> *“You have his name, the book and a yard full of people who heard him call that page Loomworks property.”*
-
-The contractor link is intact; the L.R.A. clue is delayed until Melvin or another investigation recovers it.
-
-#### Fenwick and satchel both lost
-
-> *Scattered blue wax and abandoned hooks remain in the yard. At the foot of each numbered entry in Bellafonte's ledger is the same company name: Civic Loomworks and Festooning.*
-
-The next lead is the Loomworks office. Do not erase the contractor address or force another search for the same fact.
-
-### Player handout — the blue-wax satchel
-
-If the heroes secure it, give them:
+If the satchel is secured, give this player handout:
 
 > **Civic Loomworks and Festooning — dispatch abstracts**
 >
@@ -857,75 +561,43 @@ If the heroes secure it, give them:
 >
 > **Scheduled transfer:** One sealed Bureau of Accounts file. North records annex. Second bell after opening. Receiving name supplied separately.
 
-The page proves that the same coded account paid all three expenses and that Loomworks expects a Bureau file to move. It does not define L.R.A. or name the receiving person.
+The page shows the same account paid all three expenses. It does **not** spell out L.R.A. or identify an upstream official. If the satchel is lost, delay the account clue; do not invent it in Bellafonte's book.
 
-### Rewards
+Award **1 Victory** if the heroes overcome or outmaneuver the retrieval crew and retain the original book. Award **1 additional Victory** if they secure Fenwick or his satchel. Maximum **2**. A complete noncombat capture can earn the same rewards. Award after the operation; the pre-meeting respite already converted prior Victories and is not repeated.
 
-- **1 Victory — Blue-Wax Retrieval:** The party overcomes or outlasts the cleanup crew and retains Bellafonte's original ledger.
-- **1 Victory — Independent proof:** The party secures Fenwick or the blue-wax satchel.
-- **Maximum 2 Victories.** Award after the scene. No automatic respite, XP conversion or second Wealth reward.
+### Melvin's first independent case
 
-If they retreat but retain the original ledger, the Loomworks lead survives but the combat Victory is not earned. If the crew takes a decoy while the original remains hidden, the ledger counts as retained.
-
-### Melvin begins the next investigation
-
-Melvin examines the evidence with the heroes. He does not already know what L.R.A. means.
+Melvin lays his observations next to the recovered documents, not a solved conspiracy. Ask which single lead the heroes want him to check first: **the L.R.A. account or Bureau file transfer** if they have the satchel, **a Loomworks officer or invoice address** in any outcome, or **Fenwick's likely refuge** if he escaped. He names a real method and a time to report back. He does not enter a dangerous site alone.
 
 If they have the satchel:
 
-> *Melvin runs a finger beneath the repeated letters.*
+> *“I can ask the records clerks which desk handles these account marks. I know one who will speak to me away from the Bureau. Do you want me to start with L.R.A. or with the file transfer?”*
+
+If not:
+
+> *“I can find out who signs the south-office dispatches. A courier knows where he takes a paper even when he never reads it. Shall I start there, or would you rather I look for Fenwick?”*
+
+Let the players choose a discreet meeting place or message drop. Melvin then writes it in his personal notebook:
+
+> *“I will check the lead you chose and meet you at our drop in two days. If I find a witness, we will hear their account together.”*
+
+### Coda — Cistern Steps
+
+Hanae uses Bellafonte's signed false-completion report to reopen the pump order. Civic Loomworks's posted performance bond pays an independent crew; Terenio's unpaid delivery slip is settled. This happens whether Fenwick was captured or escaped. Cut ahead two days. If the heroes want to help test the installation, let them describe it without a roll.
+
+> *Three new bolts shine where the old pump's base had sat empty. Terenio braces a hand against the pipe while Maribel works the handle. It coughs brown water into a bucket. She pours that out, pumps again, and clear water follows.*
 >
-> *“I don't know that account. I know three clerks who might have seen it, and one of them still speaks to me.”*
+> *The waiting residents bring their buckets forward one by one. Maribel fills the first herself and passes it to an older man near the steps.*
 
-If the satchel was lost:
+Terenio, if asked about his work:
 
-> *“Then I will start with Loomworks: its deliveries, its owners and whoever signs for the blue wax. Fenwick built a routine, and routines leave witnesses.”*
+> *“Hanae settled the delivery I made to the Foxes fountain. This crew paid me for today's work before I lifted a stone.”*
 
-Ask the players which available line they want Melvin to pursue. If they have the satchel, they can choose **L.R.A.** or the **Bureau transfer**. They can always choose a **Loomworks officer**, or **Fenwick's next refuge** if he escaped. This chooses his first piece of between-session legwork; it does not choose the party's next adventure for them.
+Maribel, to the heroes:
 
-Establish a discreet exchange method together—a table at their existing tavern, a dead drop, or another place the players name.
+> *“It runs. Would one of you give the handle a try? I want to know it works for everyone, not just for me.”*
 
-If they have the satchel, establish Melvin's next move with:
-
-> *Melvin turns his closed notebook over once, then opens it to a blank page.*
->
-> *“Veros decided which cases belonged to me. He doesn't anymore.”*
->
-> *He taps the L.R.A. entry.*
->
-> *“I'll find out who else has seen this. You find out who was willing to kill for it.”*
-
-If the satchel was lost, use the evidence they retained:
-
-> *Melvin turns his closed notebook over once, then opens it to a blank page.*
->
-> *“Veros decided which cases belonged to me. He doesn't anymore.”*
->
-> *He copies the Civic Loomworks invoice number from Bellafonte's ledger.*
->
-> *“I'll find out who signs these. You find out who was willing to kill for the book.”*
-
-### Coda — water at Cistern Steps
-
-Bellafonte's signed false-completion report and the residents' existing complaints are enough for Hanae to reopen the repair order, regardless of whether Fenwick escaped or the satchel was recovered. She draws on Civic Loomworks' posted performance bond to hire an independent crew and settle Terenio's old delivery slip. This does not expose the upstream conspiracy; it simply finishes the public work that began the case.
-
-Cut ahead two days. If the heroes want to help with the installation, let them describe how without calling for a test.
-
-> *Three new iron bolts shine against the old stone at Cistern Steps. Terenio leans his weight against the pump while Maribel works the handle. The pipe coughs once, sends out a ribbon of brown water, and then runs clear. Buckets slide beneath it. Someone near the back of the queue begins to laugh.*
-
-Terenio wipes his hands on his apron:
-
-> *“Hanae got my old delivery slip paid this morning. This crew also paid me before I lifted anything, which is how the work should have gone the first time.”*
-
-Maribel fills a tin cup and offers it to one of the heroes:
-
-> *“This is all we kept asking for. We needed someone to put back what was taken and make certain it worked.”*
->
-> *She looks at the shrinking line of buckets.*
->
-> *“Most people leave after they find someone to blame. You came back with water.”*
-
-Give the players the last word with Maribel, Terenio and the residents. There is no additional Victory or Wealth award. The closure is practical: the pump works, Terenio has been paid, and the people of Cistern Steps know who followed the complaint through to its result.
+Let each hero who wants to help do something small and concrete: work the handle, carry a bucket, check the bolts, or simply talk to a resident. Maribel and Terenio can answer questions. End when the last resident in the short queue has water. There is no extra Victory or Wealth for this coda; the result is the repair itself.
 
 ## Melvin after this session — Director guidance
 
@@ -954,6 +626,7 @@ Bring his discoveries back as a person with observations, documents or a witness
 - Insurance ledger recovered, copied, surrendered or lost:
 - Session 2 reward paid now / already paid / still pending:
 - Melvin's dismissal learned and partnership accepted or changed:
+- Fenwick's message deciphered; exact encrypted reply sent and any errors or lure:
 - Respite completed; actual level, XP conversion and resources:
 - Two preparations attempted and their outcomes:
 - Bellafonte present or courier used; Fenwick admissions obtained:
@@ -965,4 +638,11 @@ Bring his discoveries back as a person with observations, documents or a witness
 - Evidence or prisoners delivered to Hanae; copies retained:
 - Cistern Steps pump restored; promises kept and resident conversations:
 
-Update campaign continuity only after recording these actual results. Re-run the Draw Steel campaign import after the written play record is updated.
+Update campaign continuity only after recording these actual results. This document does not record Session 3 as played.
+
+## Design references — not for table use
+
+This rewrite borrows **methods, not text or plot**, from two human-authored public adventures:
+
+- Kelsey Dionne's [The Secrets of Skyhorn Lighthouse (official sample)](https://d1vzi28wh99zvq.cloudfront.net/pdf_previews/215629-sample.pdf): each short scene has a concrete question and a transition once it is answered. The [RPGnet review](https://www.rpg.net/reviews/archive/18/18175.phtml) and [Ten Foot Pole review](https://tenfootpole.org/ironspike/?p=6977) praise its run-at-the-table scene organization.
+- Leigh Carr with Lynne Hardy's [The Lightless Beacon (official free scenario)](https://www.chaosium.com/blogweareallus-download-the-lightless-beacon-for-call-of-cthulhu-in-remembrance-of-greg-stafford/) and its [public handouts](https://www.chaosium.com/content/FreePDFs/WeAreAllUs/2019/Lightless%20Beacon%20plain%20text%20handouts.pdf): documents convey actionable information in a character's own voice. An [independent review](https://golvin.substack.com/p/the-lightless-beacon-module-review) recommends its brisk, clue-led play.
