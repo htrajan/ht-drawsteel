@@ -9,6 +9,7 @@ from pathlib import Path
 from urllib.parse import unquote
 import re
 import struct
+import session3_cipher as cipher
 
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -128,21 +129,24 @@ def main() -> None:
     check("south dispatch-box entrance" in outcome_section,
           "Worst outcome must preserve an actionable Loomworks location")
 
-    def transform(message: str, shift: int) -> str:
-        return "".join(
-            chr((ord(ch) - 65 + shift) % 26 + 65)
-            if "A" <= ch <= "Z" else ch
-            for ch in message
-        )
-
-    cipher = re.search(r"^> (WKLUG .+ERRN\.)$", text, re.M)
-    check(cipher is not None, "Missing encrypted Fenwick handout")
-    if cipher:
-        check(transform(cipher.group(1), -3) ==
-              "THIRD LEDGER LIFT YARD. THIRD BELL AFTER DARK IN TWO DAYS. BRING THE BOOK.",
-              "Fenwick handout does not decode to the stated meeting")
-    check(transform("THE BOOK IS SAFE. I WILL COME.", 3) in text,
+    check(len(set(cipher.WRITTEN)) == 26, "Cipher must be a one-to-one alphabet")
+    check(len({(ord(b)-ord(a)) % 26 for a,b in zip(cipher.PLAIN,cipher.WRITTEN)}) > 1,
+          "Cipher must not be an alphabet shift")
+    encrypted = cipher.encode(cipher.MEETING)
+    message = cipher.handout(text,"### Player handout — Fenwick's encrypted reply")
+    check(encrypted in message and cipher.decode(encrypted) == cipher.MEETING,
+          "Fenwick handout does not decode to the stated meeting")
+    for label in cipher.LABELS:
+        check(cipher.encode(label) in negotiation,"Missing coded gift label: "+label)
+    check(cipher.WRITTEN not in message and cipher.MEETING not in message,
+          "Player letter must not expose the key or solution")
+    check("A=D" not in text and "move each letter three" not in text,
+          "The old printed Caesar key remains")
+    check(cipher.encode(cipher.NEUTRAL_REPLY) in text,
           "Example reply is not correctly encrypted")
+    available=set(cipher.MEETING+"".join(cipher.LABELS))
+    check(set(cipher.NEUTRAL_REPLY) <= available,
+          "The neutral reply requires a letter with no deduction source")
     check("Have a player write the plaintext, then encode it" in text,
           "Heroes must encrypt a message back to Fenwick")
 

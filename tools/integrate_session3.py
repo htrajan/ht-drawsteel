@@ -19,6 +19,7 @@ import time
 from pathlib import Path
 
 import sync_drawsteel_campaign as sync
+import session3_cipher as cipher
 
 REPO = sync.REPO
 APP_DATA = sync.APP_DATA
@@ -246,9 +247,9 @@ def prepare(db):
     ledger = text.split("> **O. Bellafonte — private receipts**",1)[1].split("\n\n“The last receipt”",1)[0]
     ledger = "# O. Bellafonte — private receipts\n"+"\n".join(line[2:] if line.startswith("> ") else "" if line==">" else line for line in ledger.splitlines())
     handouts = {
-        "ledger": ("Evidence — Bellafonte's book and engram", ledger),
-        "cipher": ("Evidence — Fenwick's encrypted letter", "# Fenwick's letter\n\nWKLUG OHGJHU OLIW BDUG.\n\nWKLUG EHOO DIWHU GDUN LQ WZR GDBV.\n\nEULQJ WKH ERRN."),
-        "reply": ("Handout — compose the encrypted reply", "# Your answer to Fenwick\n\nWrite the message you want Fenwick to receive, then encrypt it with the same engram. Spaces and punctuation stay unchanged.\n\nPlaintext:\n\nEncrypted message:\n"),
+        "ledger": ("Evidence — Bellafonte's book and coded labels", ledger),
+        "cipher": ("Evidence — Fenwick's encrypted letter", "# Fenwick's letter\n\n"+cipher.handout(text,"### Player handout — Fenwick's encrypted reply")),
+        "reply": ("Handout — reconstruct the engram and write back", "# Your answer to Fenwick\n\n"+cipher.handout(text,"### Work out the engram")+"\n\nRecord more written/ordinary letter pairs as you find them.\n\nWrite the message you want Fenwick to receive, then encrypt it using the pairs you recovered.\n\nPlaintext:\n\nEncrypted message:\n"),
         "dispatch": ("Evidence — blue-wax satchel", "# Civic Loomworks and Festooning — dispatch abstracts\n\n| Dispatch | Charge | Routing |\n| --- | --- | --- |\n| CLF 18-441 | Dog-leg pump removal and reassignment | L.R.A. / 44-C |\n| CLF 18-447 | Foxes fountain stone and fitting | L.R.A. / 44-C |\n| CLF 18-452 | Factory oil and treated thread | L.R.A. / 44-C |\n\nScheduled transfer: One sealed Bureau of Accounts file. North records annex. Second bell after opening. Receiving name supplied separately."),
     }
     for i, (key,(title,content)) in enumerate(handouts.items(),20):
@@ -279,7 +280,7 @@ def prepare(db):
             ("Power","motivation","My testimony is important. I would appreciate being addressed as Commissioner."),
             ("Greed","motivation","A private room, clean clothes and decent food would help. I know I cannot insist on them."),
             ("Justice","pitfall","I know the residents suffered. Reminding me will not make me brave enough to face Fenwick.")]]),
-        offers=arr([{"terms":"He gives the complete confession, book location, emergency phrase and engram. "+("He will appear under guard if uninjured." if i>=3 else "He will write the note but will not face Fenwick."),"_luaTable":True} for i in range(6)]),
+        offers=arr([{"terms":"He gives the complete confession, book location, emergency phrase and old coded labels. "+("He will appear under guard if uninjured." if i>=3 else "He will write the note but will not face Fenwick."),"_luaTable":True} for i in range(6)]),
         summaries=arr([]), hidden=False, hiddenFromPlayers=True, docType="negotiation", ord=8)
     tables.setdefault("MonsterGroup",{}).setdefault("table",{})[GROUP]=typed("MonsterGroup",id=GROUP,name="Civic Loomworks retrieval crew",attacks=arr([]),traits=arr([]),maliceAbilities=arr([]),inherits={GROUP:True,"_luaTable":True},bandScope="band",description="Only printed Malice abilities. Paid professionals, not Unwritten cultists.")
     # Listing the group itself in inherits suppresses no defaults; the companion

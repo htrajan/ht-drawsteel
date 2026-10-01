@@ -66,7 +66,7 @@ S3.scenes = {
     {"6. Evidence and cistern — 2:00–2:15", "fa9da36d-36b6-51f9-a0a2-b57f392e110c"},
 }
 S3.handouts = {
-    {"Bellafonte's book / engram", "bc405cb4-a582-5011-ab41-ca78f6debca8"},
+    {"Bellafonte's book / coded labels", "bc405cb4-a582-5011-ab41-ca78f6debca8"},
     {"Encrypted letter", "6ecb4990-fa07-5e1f-bfc9-589faf6958e9"},
     {"Compose a reply", "c9e2efb9-1a42-533e-be34-79e5a4ee2111"},
     {"Satchel dispatches", "7680c219-18e9-59e4-9de9-b69a76e16ddb"},

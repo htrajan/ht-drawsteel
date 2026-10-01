@@ -27,10 +27,16 @@ class ImportTests(unittest.TestCase):
         script=docs[s3.sync.document_record(s3.SESSION,0)[0]]
         self.assertEqual(script["content"],s3.SESSION.read_text())
         self.assertTrue(all(d["hiddenFromPlayers"] for d in docs.values()))
-        cipher=docs[s3.SID("session3:document:cipher")]["content"]
-        self.assertIn("WKLUG OHGJHU OLIW BDUG",cipher)
-        self.assertNotIn("THIRD LEDGER LIFT YARD",cipher)
+        letter=docs[s3.SID("session3:document:cipher")]["content"]
+        self.assertIn(s3.cipher.encode(s3.cipher.MEETING),letter)
+        self.assertNotIn("THIRD LEDGER LIFT YARD",letter)
         self.assertNotIn("THE BOOK IS SAFE",docs[s3.SID("session3:document:reply")]["content"])
+        for key in ["ledger","cipher","reply"]:
+            content=docs[s3.SID("session3:document:"+key)]["content"]
+            self.assertNotIn(s3.cipher.WRITTEN,content)
+            self.assertNotIn("A=D",content)
+        self.assertIn("C.L.F. 18-441 — TOSN DZFV",docs[s3.SID("session3:document:ledger")]["content"])
+        self.assertIn("Record each pair",docs[s3.SID("session3:document:reply")]["content"])
 
     def test_negotiation(self):
         doc=self.writes["game::assets/objectTables"]["documents"]["table"][s3.NEGOTIATION]

@@ -93,7 +93,11 @@ Deliver these facts through conversation as soon as the heroes press him or he s
 
 > *“In the north alcove, the narrow plinth has a green stone top. Press the brass leaf underneath and pull. My book is in the false bottom.”*
 >
-> *“I wrote an emergency phrase on its cover. Send it to Loomworks's south dispatch box, and Fenwick will answer. He writes his replies with a letter-substitution engram. The key is on the cover too.”*
+> *“I wrote an emergency phrase on its cover. Send it to Loomworks's south dispatch box, and Fenwick will answer. He uses the same letter-substitution engram on his letters and gift labels. I kept two of the labels in the book.”*
+
+If asked for the key:
+
+> *“I never learned it. His runner read the letters aloud when he delivered them. I wrote down the gifts after I opened their boxes.”*
 
 No search test. Give the heroes this handout:
 
@@ -107,9 +111,13 @@ No search test. Give the heroes this handout:
 >
 > **Inside cover:** “The collection is closed. I kept the last receipt.” Send to Civic Loomworks south dispatch box. Do not send the book.
 >
-> **Fenwick's engram:** A=D, B=E, C=F … X=A, Y=B, Z=C. To **write**, move each letter three places forward, wrapping after Z. To **read**, move each letter three places back. Leave spaces and punctuation in place.
+> **Two labels tucked inside the cover:**
+>
+> C.L.F. 18-441 — TOSN DZFV
+>
+> C.L.F. 18-452 — RGOBZNH FZSH
 
-“The last receipt” means this book. Fenwick cannot safely delegate its retrieval because the records incriminate him. Bellafonte can explain the engram's direction, but **the heroes, not he or Melvin, must decipher Fenwick's reply and encrypt their answer in Scene 3**.
+“The last receipt” means this book. Fenwick cannot safely delegate its retrieval because the records incriminate him. The labels describe the gifts recorded against those invoice numbers; their wording is shorter than Bellafonte's entries. There is **no printed key**. Bellafonte can explain how the correspondence reached him, but **the heroes, not he or Melvin, must deduce the letter mappings, decipher Fenwick's reply and encrypt their answer in Scene 3**.
 
 At minute 20, provide any undisclosed core facts, record whether Bellafonte can appear, and bring Hanae in.
 
@@ -169,19 +177,45 @@ Give this separately from the Director's solution. It is Fenwick's handwriting u
 
 > **O. Bellafonte —**
 >
-> WKLUG OHGJHU OLIW BDUG. WKLUG EHOO DIWHU GDUN LQ WZR GDBV. EULQJ WKH ERRN.
+> NKOGM SHMTHG SOUN YZGM. NKOGM CHSS ZUNHG MZGV OI NWP MZYF. CGOIT NKH CPPV. LPDH ZSPIH.
 >
 > **R. Fenwick**
 
-The engram is printed on the book's inside cover in Scene 1: **A=D, B=E, C=F … X=A, Y=B, Z=C**. A written letter is three positions ahead of the intended one. For example, **ERRN** reads **BOOK**; to write BOOK, use ERRN. Spaces and punctuation are unchanged. This is a courier-proofing trick, not strong cryptography.
+### Work out the engram
 
-Let the players work on paper, aloud, or with their own tools. Do not substitute a Reason roll for the act of decoding. If someone uses an apt ability to help, reveal a word or confirm their method, not the entire solution. After about three minutes, point them back to the left/right direction on the cover. After about six minutes, supply the full strip below. At minute 50, give **WKLUG = THIRD** and ask them to finish the remaining words; if they prefer, reveal the location and move to composing the reply. No stall costs the meeting.
+Hand over the letter beside the receipts and labels. Explain only the rules, not any letter mapping:
 
-> **Plain:** ABCDEFGHIJKLMNOPQRSTUVWXYZ
+> **Working out Fenwick's engram**
 >
-> **Written:** DEFGHIJKLMNOPQRSTUVWXYZABC
+> Each written letter always stands for the same ordinary letter. Different written letters stand for different ordinary letters. Spaces and punctuation have not changed. There is no alphabet shift or arithmetic rule.
+>
+> Use the receipts, the labels and the letter to work out the replacements. Record each pair you discover. You will need those pairs to write your answer.
+>
+> Written letter: ___  Ordinary letter: ___
 
-**Director's solution:** “THIRD LEDGER LIFT YARD. THIRD BELL AFTER DARK IN TWO DAYS. BRING THE BOOK.” Fenwick chose the second night to assemble the crew and ready the barge. He assumes Bellafonte will hide rather than expose a book that incriminates them both. He expects Bellafonte or one courier and the original book.
+Let the players compare word lengths, repeated letters and plausible words. Do not substitute a Reason roll for the deduction or require frequency-analysis knowledge. Confirm a proposed word only when its replacements fit every occurrence. A useful character ability can confirm one guess or identify which documents belong together; it does not decode the page.
+
+**Director-only solution:** “THIRD LEDGER LIFT YARD. THIRD BELL AFTER DARK IN TWO DAYS. BRING THE BOOK. COME ALONE.” Fenwick chose the second night to assemble the crew and ready the barge. He assumes Bellafonte will hide rather than expose a book that incriminates them both. He expects Bellafonte or one courier and the original book. His demand to come alone does not bind the heroes.
+
+**Director-only key — ordinary → written:**
+
+```text
+Ordinary: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+Written:  ZCLMHUTKOEVSDIPRQGFNXBWAYJ
+```
+
+This is a fixed, scrambled substitution, not a Caesar shift. The two labels read **GILT MASK** and **PRIVATE SALE**. Matching them to the invoice entries establishes twelve ordinary letters: A, E, G, I, K, L, M, P, R, S, T and V. The meeting letter supplies the other nine it uses through context and cross-checking. The five unused letters—J, Q, U, X and Z—need not be solved.
+
+**One workable deduction route, not a required order:**
+
+1. The mask invoice makes **TOSN DZFV** a likely **GILT MASK**. Those replacements hold throughout the letter. The invitation invoice and the seven/four-letter pattern make **RGOBZNH FZSH** a likely **PRIVATE SALE**. Its S, A and L mappings agree with the mask label.
+2. **NKH** has become **T_E**. **CPPV** ends in K and has a repeated middle letter. Fenwick is answering a warning about a book; **THE BOOK** supplies H, B and O. Check the resulting pairs elsewhere.
+3. **NKOGM** now reads **THIR_** both times it appears. **THIRD** supplies D; the same pair completes **_ARK** and **_AYS** as **DARK** and **DAYS**. **CHSS** becomes **BELL** without another guess.
+4. The surviving gaps in **LIFT**, **AFTER**, **IN**, **TWO**, **YARD**, and **COME ALONE** yield F, N, W, Y and C. Every proposed pair must agree with the labels and repeated words.
+
+**Hints, only when needed:** After about three minutes without progress, ask, *“Which invoice number appears on both a label and a receipt?”* If they identify the gifts but stall on the letter, ask, *“What object does Fenwick expect you to bring, and which four-letter word has its middle letter repeated?”* If they need more purchase, confirm **CPPV = BOOK**, then let them propagate those pairs. A further hint can confirm **NKOGM = THIRD**. These are local footholds, not an alphabet handout.
+
+**Pacing:** By minute 50, offer the next word-level hint if needed. If the group wants to move on, confirm their partial reading and supply only the unresolved words; then have them add those letter pairs to their sheet. Record whether hints were used, but do not punish them or cancel the meeting. Keep the full key Director-only unless the players explicitly opt out of the puzzle.
 
 ### The heroes answer in the same engram
 
@@ -193,9 +227,13 @@ If they want a neutral model, offer only the plaintext:
 
 The encoded version, for the Director to check **after** a player attempts it, is:
 
-> **WKH ERRN LV VDIH. L ZLOO FRPH.**
+```text
+NKH CPPV OF FZUH. O WOSS LPDH.
+```
 
-A more aggressive lure, if the players invent it, can ask Fenwick to bring his document case to the central crate; a threat or claim that Bellafonte is wounded makes him cautious. The heroes own the wording. To check a custom answer, move each written letter three places back and read what Fenwick would read. Accept minor transcription mistakes that leave the meaning clear. Fenwick keeps his chosen yard and time, but he can be persuaded to approach a particular crate or entrance there. If the reply is badly coded, reveals that Bellafonte is captive, or follows a warning copied in an unfamiliar hand, the meeting still happens, but Fenwick begins near the barge with an enforcer. If no one can finish by minute 55, hand over the full alphabet strip and have them encode the short neutral reply. The puzzle still runs in both directions.
+A more aggressive lure, if the players invent it, can ask Fenwick to bring his document case to the central crate; a threat or claim that Bellafonte is wounded makes him cautious. The heroes own the wording. To check a custom answer, replace its written letters using the Director-only key and read what Fenwick would read. If their proposed wording needs an unsolved letter, let them rephrase it using known letters or return to their clues; do not require reconstruction of the entire alphabet. All letters in the neutral reply occur in the labels or the deciphered letter.
+
+Accept minor transcription mistakes that leave the meaning clear. Fenwick keeps his chosen yard and time, but he can be persuaded to approach a particular crate or entrance there. If the reply is badly coded, reveals that Bellafonte is captive, or follows a warning copied in an unfamiliar hand, the meeting still happens, but Fenwick begins near the barge with an enforcer. By minute 55, offer the short neutral reply in plaintext and help them look up the pairs they have already recovered; the players still perform the encryption. Do not solve it off-screen with Bellafonte or Melvin.
 
 The courier deposits the encoded reply in the box. Fenwick will come: he cannot allow that book to circulate. He will also bring retrieval hands. Do not announce their number yet.
 

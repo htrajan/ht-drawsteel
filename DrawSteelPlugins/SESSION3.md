@@ -29,6 +29,10 @@ The exact full script and six scene extracts are Director-only. Each evidence
 handout has **review** and **Share** controls. Do not share the full script or
 negotiation preparation. The encrypted letter has no solution, the reply sheet
 has no sample answer, and the satchel uses only the unexplained L.R.A. initials.
+The cipher is a scrambled substitution alphabet, not a shift with a supplied
+key. Two coded gift labels cross-reference the receipts. Players infer letter
+pairs from those clues and the message, then use their recovered pairs to write
+back. The full key and word-level hints stay in the Director-only script.
 
 ## Combat
 
