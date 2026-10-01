@@ -2,6 +2,11 @@
 
 These are **Draw Steel Steam app Code Mods**, not Codex desktop plugins.
 
+The installed Voice RP mod also provides the [Session 3 companion](SESSION3.md)
+and [native script tools](SCRIPT_TOOLS.md). The latter lets Python or shell
+scripts inspect and operate the running app without Mac-control or simulated
+input. Its local mailbox does not depend on the voice/model bridge below.
+
 - `Voice RP/Main.lua` adds an in-app launcher. The local browser page captures speech, lets the Director select one of the four heroes, and posts both the hero's line and a GPT-6 Luna (max reasoning) NPC reply to Draw Steel chat. When a negotiation is presented, the bridge selects that NPC; during free roleplay, choose the NPC in the page.
 - `Combat Director/Main.lua` adds a Director-only combat dock. It asks GPT-6 Sol (high reasoning) to choose from Monster AI's scored legal moves for the selected active enemy. **Execute suggested move** rechecks legality and invokes the chosen move through Monster AI's cast and reaction pipeline. It does not advance initiative automatically.
 
@@ -22,7 +27,7 @@ Both private Code Mods have been registered in **UNCLE HT'S DS CAMPAIGN** throug
 The Steam installation's original bundle plist is malformed on this machine. A temporary wrapper at `/tmp/DrawSteelCodexWrapper.app` launches the original binary without modifying the Steam installation. If launching through Steam fails, use:
 
 ```sh
-env SteamAppId=2902740 SteamGameId=2902740 open -a /tmp/DrawSteelCodexWrapper.app
+env SteamAppId=2902740 SteamGameId=2902740 open -a /tmp/DrawSteelCodexWrapper.app --args --gameid 3365ac8c-e59c-48ff-9ec1-6a5c334e121d
 ```
 
 The voice flow has completed a typed-transcript end-to-end test: Luna replied and both messages appeared in Draw Steel chat. The test messages were removed afterward. The microphone path has not been tested with live audio. Combat Director loads, and the suggestion endpoint has passed a model test; **auto-execution has not yet been tested in a live encounter**. Try it first in a disposable combat before relying on it during a session.
